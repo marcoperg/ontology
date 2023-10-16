@@ -1,0 +1,3 @@
+**Definition:** Given a nontrivial vector space $E$, a _projective subspace_ of $\mathbf{P}(E)$ is any subset $W$ of $\mathbf{P}(E)$ such that there is some subspace $V \neq \{0\}$  of $E$ with $W = p(V - \{0\})$ . Where $p$ is the [[Projective spaces|canonical projection]] onto the projective space of $E$
+
+We say that a family $(a_i)_{i\in I}$ of points of $\mathbf{P}(E)$  such that $a_i = p(u_i)$ for every $i\in I$.

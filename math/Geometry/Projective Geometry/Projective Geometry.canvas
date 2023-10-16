@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"060dc5241fc80543","type":"file","file":"math/Geometry/Projective Geometry/Projective spaces.md","x":-920,"y":-1820,"width":400,"height":600},
+		{"id":"7fcad89c2328ba68","type":"file","file":"math/Geometry/Projective Geometry/Projective subspaces.md","x":-200,"y":-1780,"width":400,"height":400},
+		{"id":"810765bd97dad6d1","type":"file","file":"math/Geometry/Projective Geometry/Projective maps.md","x":-200,"y":-1340,"width":400,"height":400},
+		{"id":"8d884777b298427e","type":"file","file":"math/Geometry/Projective Geometry/Perspectivity.md","x":300,"y":-1160,"width":399,"height":400},
+		{"id":"fa3dac60989cc704","type":"file","file":"math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md","x":-800,"y":-1080,"width":400,"height":400},
+		{"id":"a69cbfc769e05101","type":"file","file":"math/Geometry/Projective Geometry/Desasgue's Theorem.md","x":780,"y":-760,"width":380,"height":400}
+	],
+	"edges":[
+		{"id":"1a11fa21b44a7204","fromNode":"7fcad89c2328ba68","fromSide":"left","toNode":"060dc5241fc80543","toSide":"right"},
+		{"id":"4d5909a8508325b9","fromNode":"810765bd97dad6d1","fromSide":"left","toNode":"060dc5241fc80543","toSide":"right"},
+		{"id":"0da4c221906282f4","fromNode":"8d884777b298427e","fromSide":"left","toNode":"810765bd97dad6d1","toSide":"right"},
+		{"id":"55766c39da911750","fromNode":"fa3dac60989cc704","fromSide":"top","toNode":"060dc5241fc80543","toSide":"bottom"},
+		{"id":"17521f959576e902","fromNode":"a69cbfc769e05101","fromSide":"top","toNode":"8d884777b298427e","toSide":"bottom"}
+	]
+}

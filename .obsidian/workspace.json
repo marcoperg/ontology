@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a6f1cf1ae55d2a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc8f9d944d7dbca3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a488f85d64bbeb53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e785d756a3b6313b",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a36e17d0094eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8ca9d445c5d212",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "688942f1a07e37c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "support",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4684c059b986c9a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "e7f67dcc7c18d618",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7421b028ff47d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b78454143f292db5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a1c92c996b07b65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f622a2f6624618e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "426503cdf3dc5b02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2197adcdc519f87",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a488f85d64bbeb53",
+  "lastOpenFiles": [
+    "math/Fixed Points.md",
+    "math/Support.md",
+    "math/Algebra/Algebraic dual space.md",
+    "math/Algebra",
+    "math/Geometry/Projective Geometry/Projective Geometry.canvas",
+    "math/Statistics/Kalman Filter.md",
+    "math/Statistics/Central Limit Theorem.md",
+    "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
+    "math/Geometry/Projective Geometry/Perspectivity.md",
+    "math/Geometry/Projective Geometry/Projective maps.md",
+    "math/Geometry/Projective Geometry/Projective spaces.md",
+    "math/Geometry/Projective Geometry/Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
+    "math/Geometry/Projective Geometry/Projective subspaces.md",
+    "math/Geometry/Affine Geometry.md",
+    "math",
+    "math/Statistics/Degenerate distribution.md",
+    "2023-10-11.md",
+    "math/Geometry/Projective Geometry",
+    "math/Geometry",
+    "Untitled 2.canvas",
+    "2023-10-10.md",
+    "math/Statistics"
+  ]
+}
