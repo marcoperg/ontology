@@ -1,6 +1,6 @@
-The following lemma acts as and definition for the Projective Completion of an Affine Spae
+The following lemma acts as and definition for the Projective Completion of an Affine Space.
 
-<ins><strong>Lemma 5.8 [1]:</strong></ins>  Given a vector space $E$ and a hyperplane $H$ in $E$, the complement $E_H = \mathbf{P}(E) -\mathbf{P}(H$) of the projective hyperplane $\mathbf{P}(H)$  in the projective spae $\mathbf{P}(E)$ can be given an affine structure such that the associated vector space of $E_H$ is $H$. The affine structure on $E_H$ depends only on $H$, and under this affine structure, $E_H$ is isomorphic to an affine hyperplane in $E$.
+<ins><strong>Lemma 5.8 [1]:</strong></ins>  Given a vector space $E$ and a hyperplane $H$ in $E$, the complement $E_H = \mathbf{P}(E) -\mathbf{P}(H$) of the projective hyperplane $\mathbf{P}(H)$  in the [[Projective spaces|projective space]] $\mathbf{P}(E)$ can be given an affine structure such that the associated vector space of $E_H$ is $H$. The affine structure on $E_H$ depends only on $H$, and under this affine structure, $E_H$ is isomorphic to an affine hyperplane in $E$.
 
 $Pf:$ 
 Since $H$ is a hyperplane in $E$, there is some $v \in E - H$ such that $E = Kv \oplus H$. 
