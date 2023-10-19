@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8f9d944d7dbca3",
+        "id": "379a1a7b75d0e561",
         "type": "tabs",
         "children": [
           {
-            "id": "a488f85d64bbeb53",
+            "id": "d69086009538a8cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "support",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,28 +121,37 @@
             }
           },
           {
-            "id": "426503cdf3dc5b02",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "c2197adcdc519f87",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "c7e927f123209455",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a7463c8fa410cd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/Algebra/Group Theory/Normal Subgroups.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,27 +163,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a488f85d64bbeb53",
+  "active": "d69086009538a8cc",
   "lastOpenFiles": [
+    "math/Algebra/Group Theory/Groups.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Algebra/Group Theory/Normal Subgroups.md",
+    "math/Algebra/Algebraic dual space.md",
+    "math/Statistics/Kalman Filter.md",
+    "math/Statistics/Degenerate distribution.md",
+    "math/Statistics/Central Limit Theorem.md",
+    "math/Geometry/Projective Geometry/Projective subspaces.md",
+    "math/Geometry/Projective Geometry/Projective spaces.md",
+    "math/Geometry/Projective Geometry/Projective maps.md",
+    "math/Geometry/Projective Geometry/Projective Geometry.canvas",
+    "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
+    "math/Geometry/Projective Geometry/Perspectivity.md",
+    "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
+    "group.md",
+    "math/Algebra/Group Theory/Normal Subgroups",
+    "math/Algebra/Group Theory",
     "math/Fixed Points.md",
     "math/Support.md",
-    "math/Algebra/Algebraic dual space.md",
     "math/Algebra",
-    "math/Geometry/Projective Geometry/Projective Geometry.canvas",
-    "math/Statistics/Kalman Filter.md",
-    "math/Statistics/Central Limit Theorem.md",
-    "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
-    "math/Geometry/Projective Geometry/Perspectivity.md",
-    "math/Geometry/Projective Geometry/Projective maps.md",
-    "math/Geometry/Projective Geometry/Projective spaces.md",
     "math/Geometry/Projective Geometry/Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
-    "math/Geometry/Projective Geometry/Projective subspaces.md",
     "math/Geometry/Affine Geometry.md",
     "math",
-    "math/Statistics/Degenerate distribution.md",
     "2023-10-11.md",
     "math/Geometry/Projective Geometry",
     "math/Geometry",

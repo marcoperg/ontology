@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 45854
       }
+    },
+    {
+      "query": "path:\"math/Algebra/Group Theory\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5445183012609192,
+  "scale": 1.789408466240239,
   "close": false
 }
