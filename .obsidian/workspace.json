@@ -15,7 +15,6 @@
               "state": {
                 "file": "math/Algebra/Group Theory/Normal Subgroups.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -147,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +165,8 @@
   "active": "d69086009538a8cc",
   "lastOpenFiles": [
     "math/Algebra/Group Theory/Groups.md",
-    "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Group Theory/Normal Subgroups.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Algebraic dual space.md",
     "math/Statistics/Kalman Filter.md",
     "math/Statistics/Degenerate distribution.md",
