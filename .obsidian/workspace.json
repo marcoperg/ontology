@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "379a1a7b75d0e561",
+        "id": "504608638e2d5f04",
         "type": "tabs",
         "children": [
           {
-            "id": "d69086009538a8cc",
+            "id": "a4bdacc7d65274ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,13 +134,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/Algebra/Group Theory/Normal Subgroups.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,9 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d69086009538a8cc",
+  "active": "a4bdacc7d65274ba",
   "lastOpenFiles": [
+    "math/Geometry/Projective Geometry/Projective maps.md",
+    "math/Algebra/Group Theory/Group Isomorphisms.md",
+    "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Algebra/Group Theory/Groups.md",
+    "math/Geometry/Projective Geometry/Projective Geometry.canvas",
+    "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
+    "group.md",
     "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Algebraic dual space.md",
@@ -173,12 +171,8 @@
     "math/Statistics/Central Limit Theorem.md",
     "math/Geometry/Projective Geometry/Projective subspaces.md",
     "math/Geometry/Projective Geometry/Projective spaces.md",
-    "math/Geometry/Projective Geometry/Projective maps.md",
-    "math/Geometry/Projective Geometry/Projective Geometry.canvas",
-    "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
     "math/Geometry/Projective Geometry/Perspectivity.md",
     "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
-    "group.md",
     "math/Algebra/Group Theory/Normal Subgroups",
     "math/Algebra/Group Theory",
     "math/Fixed Points.md",
