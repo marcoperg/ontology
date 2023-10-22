@@ -11,10 +11,11 @@
             "id": "a4bdacc7d65274ba",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Algebra/Group Theory/Group Homomorphism.md",
-                "staged": false
+                "file": "math/Transfinite Induction.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Transfinite Induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Transfinite Induction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/Transfinite Induction.md"
+              }
             }
           }
         ],
@@ -157,8 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4bdacc7d65274ba",
+  "active": "c7e927f123209455",
   "lastOpenFiles": [
+    "math/Set Theory/Zorn's Lemma.md",
+    "math/Transfinite Induction.md",
+    "math/Set Theory",
     "Untitled.md",
     "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
