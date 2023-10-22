@@ -11,8 +11,11 @@
             "id": "a4bdacc7d65274ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "math/Algebra/Group Theory/Group Homomorphism.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -156,15 +159,17 @@
   },
   "active": "a4bdacc7d65274ba",
   "lastOpenFiles": [
-    "math/Geometry/Projective Geometry/Projective maps.md",
+    "Untitled.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
     "math/Algebra/Group Theory/Group Isomorphisms.md",
     "math/Algebra/Group Theory/Group Homomorphism.md",
+    "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Algebra/Group Theory/Groups.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
     "group.md",
     "math/Algebra/Group Theory/Normal Subgroups.md",
-    "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Algebraic dual space.md",
     "math/Statistics/Kalman Filter.md",
     "math/Statistics/Degenerate distribution.md",

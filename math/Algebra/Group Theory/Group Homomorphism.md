@@ -18,7 +18,7 @@ Let $\phi$ be a homomorphism from a group $G$ to a group $H$ and let $g\in G$. T
 2. $\phi(g^n) = (\phi(g))^n$, for all $n \in \mathbb{Z}$.
 3. If $|g|$ is finite, then $|\phi(g)|$ divides $|g|$.
 4. $Ker \phi$ is a subgroup of $G$.
-5. $\phi(a) = \phi(b)$ iff $aKer\phi = bKer\phi$.
+5. $\phi(a) = \phi(b)$ iff $aKer\space\phi = bKer\space\phi$.
 6. If $\phi(g) = g'$, then $\phi^{-1}(g') = \{x \in G | \phi(x)=g'\} = gKer\phi$.
 
 ## Properties of Subgroups Under Homomorphism
