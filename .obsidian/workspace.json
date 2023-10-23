@@ -11,33 +11,20 @@
             "id": "ce06629be18753c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Algebra/Ring Theory/Integral Domains.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f6f1e5549b308a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Algebra/Field Theory/Fields.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16b467ecc5bc5549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "math/Algebra/Group Theory/Groups.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "e3aeb3aa28a6e849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Ring Theory/Integral Domains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Algebra/Ring Theory/Integral Domains.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,13 +149,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/Algebra/Ring Theory/Integral Domains.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,11 +171,13 @@
   },
   "active": "ce06629be18753c6",
   "lastOpenFiles": [
-    "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Group Theory/Groups.md",
+    "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Algebra/Ring Theory/Integral Domains.md",
-    "math/Algebra/Field Theory",
+    "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Ring Theory/Rings.md",
+    "math/Algebra/Field Theory/Fields.md",
+    "math/Algebra/Field Theory",
     "math/Statistics/Degenerate distribution.md",
     "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
@@ -207,7 +192,6 @@
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
     "group.md",
-    "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Algebraic dual space.md",
     "math/Statistics/Kalman Filter.md",
     "math/Statistics/Central Limit Theorem.md",

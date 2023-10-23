@@ -1,3 +1,7 @@
+---
+aliases:
+  - quotient groups
+---
 ## Definiton
 A subgroup $H$ of a [[Groups|group]] $G$ is called a _normal_ subgroup of $G$ if
 $$
@@ -12,7 +16,7 @@ xHx^{-1} \subseteq H \quad \text{for all x in $G$}
 $$
 
 
-## Factor groups
+## Quotient groups
 Let $G$ be a group and let $H$ be a normal subgroup of $G$. The set $G/H = \{aH | a \in G\}$ is a group under the operation $(aH)(bH) = abH$.
 
 ### The $G/Z$ Theorem

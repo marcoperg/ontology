@@ -29,7 +29,7 @@ For every prime $p$, $\mathbb{Z}_p$, the ring of integres modulo p, is a field.
 The _characteristic_ of a ring $R$ is the least positive integer $n$ such that $nx = 0$ for all $x \in R$. If no such integer exists, we say that $R$ has characteristic $0$. The characteristic is denoted $char R$.
 
 ### Characteristic of a Ring with Unity
-Let $R$ be a ring with unity $1$. IF $1$ has infinite order under addition, then the characteristic of $R$ is $0$. If $1$ has order $n$ under addition, then the characteristic of $R$ is $n$.
+Let $R$ be a ring with unity $1$. If $1$ has infinite order under addition, then the characteristic of $R$ is $0$. If $1$ has order $n$ under addition, then the characteristic of $R$ is $n$.
 
-### Characteristic of an Integral DOmain
+### Characteristic of an Integral Domain
 The characteristic of an integral domain is $0$ or prime.l
