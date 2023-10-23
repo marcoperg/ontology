@@ -24,7 +24,7 @@ Let $R$ be a ring and let $I$ be an ideal of $R$. The set $\{r + I\space|\space\
 ### Prime Ideals
 A _prime ideal_ $I$ of a commutative ring $R$ is a proper ideal of $R$ such that $a, b \in R$ and $ab\in R$ imply $a \in I$ or $b\in I$.
 ### Maximal Ideals
-A _maximal ideal_ of a commutative ring $R$ is a proper ideal of $R$ such that, whenever $A$ is an ideal of $R$ and $A \subseteq B \subseteq R$, then $B = A$ or $B = R$.
+A _maximal ideal_ $A$ of a commutative ring $R$ is a proper ideal of $R$ such that, whenever $B$ is an ideal of $R$ and $A \subseteq B \subseteq R$, then $B = A$ or $B = R$.
 
 ## $R/I$ Integral Domain
 Let $R$ be a commutative ring with unity and let $I$ be an ideal of $R$. Then $R/I$ is an integral domain iff $I$ is prime.
