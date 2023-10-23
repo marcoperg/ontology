@@ -11,10 +11,11 @@
             "id": "ce06629be18753c6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Algebra/Group Theory/Groups.md",
-                "staged": false
+                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md"
+              }
             }
           }
         ],
@@ -171,9 +176,9 @@
   },
   "active": "ce06629be18753c6",
   "lastOpenFiles": [
+    "math/Algebra/Ring Theory/Integral Domains.md",
     "math/Algebra/Group Theory/Groups.md",
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
-    "math/Algebra/Ring Theory/Integral Domains.md",
     "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Algebra/Field Theory/Fields.md",
