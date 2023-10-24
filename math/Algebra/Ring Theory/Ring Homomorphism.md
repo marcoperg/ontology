@@ -1,0 +1,42 @@
+---
+aliases:
+  - homomorphism
+  - ring isomorphism
+  - isomorphism
+---
+## Definition
+A ring _homomorphism_ $\phi$ from a ring $R$ to a ring $S$ is a mapping from $R$ to $S$ that preserves the two ring operations; that is, for all $a, b \in R$,
+$$\phi(a + b) = \phi(a) + \phi(b) \quad \text{and} \quad \phi(ab) = \phi(a)\phi(b)$$
+A ring homomorphisms that is both one-to-one and onto is called a ring _isomorphism_.
+
+## Properties of Ring Homomorphism
+Let $\phi$ be a ring homomorphism from a ring $R$ to a ring $S$. Let $A$ be a subring of $R$ and let $B$ be an ideal of $S$.
+1. For any $r\in R$ and any positive integer $n$, $\phi(nr) = n\phi(r)$ and $\phi(r^n) = \phi(r)^n$.
+2. $\phi(A) = \{\phi(a) | a\in A\}$ is a subring of $S$.
+3. If $A$ is an ideal and $\phi$ is onto $S$, then $\phi(A)$ is an ideal.
+4. $\phi^{-1}(B) = \{r \in R | \phi(r) \in B\}$ is an ideal of $R$.
+5. If $R$ is commutative, then $\phi(R)$ is commutative.
+6. If $R$ has a unity $1$, $S \neq \{0\}$, and $\phi$ is onto, then $\phi(1)$ is the unity of $S$.
+7. $\phi$ is an isomorphism iff $\phi$ is onto and $Ker\space\phi = \{r\in R|\phi(r)=0\} = \{0\}$.
+8. If $\phi$ is an isomorphism from $R$ onto $S$, then $\phi^{-1}$ is an isomorphism from $S$ to $R$.
+
+## Kernels Are Ideals
+Let $\phi$ be a ring homomorphism from a ring $R$ to a ring $S$. Then $Ker\space\phi$ is an ideal of $R$.
+
+## First Isomorphism Theorem For Rings
+Let $\phi$ be a ring homomorphism from $R$ to $S$. Then the mapping from $R/Ker\space\phi$ to $\phi(R)$, given by $r + Ker\space\phi \mapsto \phi(r)$, is an isomorphism. In symbols, $R/Ker\space\phi \cong \phi(R)$.
+
+## Ideals Are Kernels
+Every ideal of a ring $R$ is the kernel of a ring homomorphism of $R$. In particular, an ideal $A$ is the kernel of the mapping $r \mapsto r + A$ from $R$ to $R/A$.
+
+## Field of Quotients
+Let $D$ be an integral domain. Then there exists a field $F$ (called the field of quotients of $D$) that contains a subring isomorphic to $D$.
+
+### Construction
+The construction of this field starting on $D$ mimics the construction of the field $\mathbb{Q}$ of rationals numbers starting from the integers $\mathbb{Z}$.
+1. Let $S=\{(a, b) |\space a,b \in D, b \neq 0\}$.
+2. Define the equivalence relation on $S$ such that $(a, b) \sim (c, d) \quad iff\quad ad=bc$.
+3. Let $F$ the set of equivalence classes $F = \{[(a, b)]_{\sim}\space|\space a,b\in D\}$. And denote $(x, y)$ by $x/y$.
+4. We define addition and multiplication on $F$ by
+$$a/b + c/d = (ad+bc)/(bd)\quad\text{and}\quad a/b \cdot c/d = (ac)/(bd)$$
+

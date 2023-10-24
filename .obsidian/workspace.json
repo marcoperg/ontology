@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
+                "file": "math/Algebra/Ring Theory/Ring Homomorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
+                "file": "math/Algebra/Ring Theory/Ring Homomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
+                "file": "math/Algebra/Ring Theory/Ring Homomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md"
+                "file": "math/Algebra/Ring Theory/Ring Homomorphism.md"
               }
             }
           }
@@ -176,9 +176,10 @@
   },
   "active": "ce06629be18753c6",
   "lastOpenFiles": [
+    "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
+    "math/Algebra/Ring Theory/Ring Homomorphism.md",
     "math/Algebra/Ring Theory/Integral Domains.md",
     "math/Algebra/Group Theory/Groups.md",
-    "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Algebra/Field Theory/Fields.md",
@@ -209,7 +210,6 @@
     "math/Fixed Points.md",
     "math/Support.md",
     "math/Algebra",
-    "math/Geometry/Projective Geometry/Untitled.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "math",
