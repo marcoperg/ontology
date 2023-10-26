@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Category Theory/Monoids.md",
+                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Category Theory/Monoids.md",
+                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Category Theory/Monoids.md",
+                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Category Theory/Monoids.md"
+                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md"
               }
             }
           },
@@ -164,11 +164,15 @@
   },
   "active": "8b776b125413c86b",
   "lastOpenFiles": [
+    "math/Algebra/Group Theory/Groups.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Logic/Combinatory Logic/Combinatory calculi.md",
+    "math/Category Theory/Monoids.md",
+    "math/Logic/Combinatory Logic",
+    "math/Logic",
     "math/Category Theory/Categories.md",
     "math/Algebra/Group Theory/Group Homomorphism.md",
-    "math/Algebra/Group Theory/Groups.md",
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
-    "math/Category Theory/Monoids.md",
     "math/Category Theory",
     "math/Algebra/Ring Theory/Factorization of Polynomials.md",
     "math/Algebra/Ring Theory/Factorization of Polynomials",
@@ -187,7 +191,6 @@
     "math/Transfinite Induction.md",
     "math/Set Theory/Zorn's Lemma.md",
     "math/Set Theory",
-    "math/Algebra/Group Theory/External Direct Products.md",
     "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
@@ -195,14 +198,11 @@
     "math/Algebra/Algebraic dual space.md",
     "math/Statistics/Kalman Filter.md",
     "math/Statistics/Central Limit Theorem.md",
-    "math/Geometry/Projective Geometry/Projective subspaces.md",
     "math/Algebra/Group Theory/Normal Subgroups",
     "math/Algebra/Group Theory",
     "math/Algebra",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "math",
-    "math/Geometry/Projective Geometry",
     "Untitled 2.canvas"
   ]
 }
