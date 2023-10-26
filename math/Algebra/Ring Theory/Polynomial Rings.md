@@ -38,7 +38,7 @@ f(x)g(x) = c_{m+n}x^{m+n}+ c_{m+n-1}x^{m+n-1}+...+c_1x+c_0
 $$
 where
 $$
-c_k = a_kb_0 + a_{k-1}b_1+...+a_1+b_{k-1}+a_0b_k
+c_k = a_kb_0 + a_{k-1}b_1+...+a_1b_{k-1}+a_0b_k
 $$
 for $k=0,...,m_n$.
 
