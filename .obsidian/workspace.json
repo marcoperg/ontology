@@ -4,27 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db153c2136e241ec",
+        "id": "c3a0c7890adbaa2b",
         "type": "tabs",
         "children": [
           {
-            "id": "ce06629be18753c6",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "math/Algebra/Ring Theory/Polynomial Rings.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "e3aeb3aa28a6e849",
+            "id": "8b776b125413c86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Group Theory/Normal Subgroups.md",
+                "file": "math/Category Theory/Monoids.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Category Theory/Monoids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Category Theory/Monoids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,23 +128,25 @@
             }
           },
           {
-            "id": "c7e927f123209455",
+            "id": "4a7463c8fa410cd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/Category Theory/Monoids.md"
+              }
+            }
+          },
+          {
+            "id": "13120696d24c1afa",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "4a7463c8fa410cd3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -169,22 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce06629be18753c6",
+  "active": "8b776b125413c86b",
   "lastOpenFiles": [
+    "math/Category Theory/Categories.md",
+    "math/Algebra/Group Theory/Group Homomorphism.md",
+    "math/Algebra/Group Theory/Groups.md",
+    "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
+    "math/Category Theory/Monoids.md",
+    "math/Category Theory",
+    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
+    "math/Algebra/Ring Theory/Factorization of Polynomials",
+    "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Ring Theory/Polynomial Rings.md",
     "math/Statistics/Bootstrapping.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Algebra/Ring Theory/Integral Domains.md",
     "math/Algebra/Field Theory/Fields.md",
-    "math/Algebra/Group Theory/Groups.md",
-    "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Ring Theory/Ring Homomorphism.md",
-    "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Algebra/Field Theory",
     "math/Statistics/Degenerate distribution.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
-    "math/Algebra/Ring Theory/Untitled",
     "math/Algebra/Ring Theory",
     "math/Algebra/Group Theory/Group Isomorphisms.md",
     "math/Transfinite Induction.md",
@@ -199,9 +196,6 @@
     "math/Statistics/Kalman Filter.md",
     "math/Statistics/Central Limit Theorem.md",
     "math/Geometry/Projective Geometry/Projective subspaces.md",
-    "math/Geometry/Projective Geometry/Projective spaces.md",
-    "math/Geometry/Projective Geometry/Perspectivity.md",
-    "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
     "math/Algebra/Group Theory/Normal Subgroups",
     "math/Algebra/Group Theory",
     "math/Algebra",
@@ -209,7 +203,6 @@
     "Untitled 1.canvas",
     "math",
     "math/Geometry/Projective Geometry",
-    "math/Geometry",
     "Untitled 2.canvas"
   ]
 }
