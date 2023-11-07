@@ -20,3 +20,9 @@ $$
 $$
 	(conjugate symmetry implies $\langle x, x\rangle$ is real).
 
+
+From here we can define the _norm_ as the real-valued function
+$$||x|| = \sqrt{\langle x, x \rangle},$$
+and a _distance function_ $d$ between two vectors $x, y$ of the vector space by
+$$d(x, y) = ||x - y|| = \sqrt{\langle x-y, x-y \rangle}.$$
+Notice this distance function makes the inner product space into an [[Metric spaces|metric space]].
