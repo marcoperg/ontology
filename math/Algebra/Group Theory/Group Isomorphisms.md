@@ -2,6 +2,7 @@
 aliases:
   - isomorphism
   - isomorphisms
+  - automorphism
 ---
 __Definition__ An _isomorphism_ $\phi$ from a [[Groups|group]] $G$ to a group $H$ is a one-to-one mapping from $G$ onto $H$ that preserver the group operation. That is
 $$\phi(ab) = \phi(a)\phi(b) \quad\quad \text{for all a,b }\in G$$
