@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a0c7890adbaa2b",
+        "id": "35c81190d1a760a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8b776b125413c86b",
+            "id": "503ef75d91cc243d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
+                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
+                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
+                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md"
+                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md"
               }
             }
           },
@@ -162,45 +163,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b776b125413c86b",
+  "active": "503ef75d91cc243d",
   "lastOpenFiles": [
-    "math/Algebra/Group Theory/Groups.md",
+    "math/Analysis/Metric spaces/Complete Metric Spaces.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Analysis/Metric spaces/Metric spaces.md",
+    "math/Analysis/Metric spaces",
+    "math/Algebra/Vector spaces/Inner product space.md",
+    "math/Analysis",
+    "math/Algebra/Vector spaces/Vector spaces.md",
+    "math/Algebra/Ring Theory/Endomorphism Ring.md",
+    "math/Statistics/Bootstrapping.md",
+    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
+    "math/Algebra/Group Theory/Group Homomorphism.md",
+    "math/Algebra/Group Theory/Group Isomorphisms.md",
+    "math/Algebra/Ring Theory/Ring Homomorphism.md",
+    "math/Algebra/Vector spaces",
+    "math/Discrete Math/Graph Theory/Graphs.md",
+    "math/Algebra/Algebraic dual space.md",
+    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
+    "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Discrete Math/Prüfer sequence.md",
+    "math/Discrete Math/Graph Theory",
+    "math/Discrete Math",
     "math/Logic/Combinatory Logic/Combinatory calculi.md",
+    "math/Algebra/Group Theory/Groups.md",
     "math/Category Theory/Monoids.md",
     "math/Logic/Combinatory Logic",
     "math/Logic",
     "math/Category Theory/Categories.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Category Theory",
-    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
     "math/Algebra/Ring Theory/Factorization of Polynomials",
     "math/Algebra/Group Theory/Normal Subgroups.md",
     "math/Algebra/Ring Theory/Polynomial Rings.md",
-    "math/Statistics/Bootstrapping.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Algebra/Ring Theory/Integral Domains.md",
-    "math/Algebra/Field Theory/Fields.md",
-    "math/Algebra/Ring Theory/Ring Homomorphism.md",
     "math/Algebra/Field Theory",
-    "math/Statistics/Degenerate distribution.md",
-    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
-    "math/Algebra/Ring Theory",
-    "math/Algebra/Group Theory/Group Isomorphisms.md",
-    "math/Transfinite Induction.md",
-    "math/Set Theory/Zorn's Lemma.md",
-    "math/Set Theory",
-    "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
-    "math/Geometry/Projective Geometry/Projective Completion of an Affine Space.md",
-    "group.md",
-    "math/Algebra/Algebraic dual space.md",
-    "math/Statistics/Kalman Filter.md",
-    "math/Statistics/Central Limit Theorem.md",
-    "math/Algebra/Group Theory/Normal Subgroups",
-    "math/Algebra/Group Theory",
-    "math/Algebra",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
