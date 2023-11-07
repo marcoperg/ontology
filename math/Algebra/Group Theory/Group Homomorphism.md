@@ -1,6 +1,7 @@
 ---
 aliases:
   - homomorphism
+  - endomorphism
 ---
 __Definition__ A _homomorphism_ $\phi$ from a group $G$ to a [[Groups|group]] $H$ is a mapping from $G$ into $H$ that preserves the group operation. That is $\phi(ab) = \phi(a)\phi(b)$ for all $a, b \in G$.
 
@@ -60,3 +61,7 @@ If $\phi$ is a homomorphism from a finite group $G$ to a group $H$, then $|\phi(
 
 ## Normal subgroups are kernels
 Every normal subgroup of a group $G$ is the kernel of a homomorphism of $G$. In particular, a normal subgroup $N$ is the kernel of the mapping $g \mapsto gN$ from $G$ to $G/N$.
+
+
+## Endomorphisms
+An homomorphism from a group $G$ to itself is called an endomorphism. If an endomorphism that is also an isomorphism is called and [[Group Isomorphisms|automorphism]].
