@@ -19,3 +19,5 @@ By combining axioms 1, 2 and 4 one can show that distance is always non-negative
 $0 = d(x, x) \leq d(x, y) + d(y, x)$
 Hence the second axioms can be weakened to
 2. $d(x, y) = 0 \iff x = y$
+
+## Related concepts
