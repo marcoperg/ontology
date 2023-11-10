@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "35c81190d1a760a9",
+        "id": "46409391f61224fb",
         "type": "tabs",
         "children": [
           {
-            "id": "503ef75d91cc243d",
+            "id": "a3590a50f359c101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md",
+                "file": "math/Algebra/Associative Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md",
+                "file": "math/Algebra/Associative Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md",
+                "file": "math/Algebra/Associative Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Algebra/Vector spaces/Hilbert Spaces.md"
+                "file": "math/Algebra/Associative Algebra.md"
               }
             }
           },
@@ -163,10 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "503ef75d91cc243d",
+  "active": "a3590a50f359c101",
   "lastOpenFiles": [
-    "math/Analysis/Metric spaces/Complete Metric Spaces.md",
+    "math/Algebra/Algebra.md",
+    "math/Algebra/Associative Algebra.md",
+    "math/Algebra/Module.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Transfinite Induction.md",
+    "math/Analysis/Metric spaces/Complete Metric Spaces.md",
     "math/Analysis/Metric spaces/Metric spaces.md",
     "math/Analysis/Metric spaces",
     "math/Algebra/Vector spaces/Inner product space.md",
@@ -196,10 +199,6 @@
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Category Theory",
     "math/Algebra/Ring Theory/Factorization of Polynomials",
-    "math/Algebra/Group Theory/Normal Subgroups.md",
-    "math/Algebra/Ring Theory/Polynomial Rings.md",
-    "math/Algebra/Ring Theory/Rings.md",
-    "math/Algebra/Ring Theory/Integral Domains.md",
     "math/Algebra/Field Theory",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled.canvas",
