@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Metric spaces/Metric spaces.md",
+                "file": "math/Algebra/Vector spaces/Tensor product.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Metric spaces/Metric spaces.md",
+                "file": "math/Algebra/Vector spaces/Tensor product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Metric spaces/Metric spaces.md",
+                "file": "math/Algebra/Vector spaces/Tensor product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Metric spaces/Metric spaces.md"
+                "file": "math/Algebra/Vector spaces/Tensor product.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -164,16 +164,17 @@
   },
   "active": "368ac38f9b0f1cac",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Algebra/Vector spaces/Tensor product.md",
+    "math/Algebra/Algebra.md",
     "math/Topology/Metric spaces/Metric spaces.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces",
     "math/Category Theory/Categories.md",
     "2023-11-10.md",
     "math/Algebra/Associative Algebra.md",
-    "math/Algebra/Algebra.md",
     "math/Algebra/Module.md",
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Transfinite Induction.md",
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
     "math/Topology/Metric spaces",
@@ -195,7 +196,6 @@
     "math/Discrete Math/Prüfer sequence.md",
     "math/Discrete Math/Graph Theory",
     "math/Discrete Math",
-    "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Logic/Combinatory Logic",
     "math/Logic",
     "math/Category Theory",
