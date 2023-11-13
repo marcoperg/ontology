@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3835647e3034a0d",
+        "id": "1ae58d491a45a06b",
         "type": "tabs",
         "children": [
           {
-            "id": "368ac38f9b0f1cac",
+            "id": "a9f6e0c1462c6941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Vector spaces/Tensor product.md",
+                "file": "math/Discrete Math/Graph Theory/Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Vector spaces/Tensor product.md",
+                "file": "math/Discrete Math/Graph Theory/Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Algebra/Vector spaces/Tensor product.md",
+                "file": "math/Discrete Math/Graph Theory/Graphs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Algebra/Vector spaces/Tensor product.md"
+                "file": "math/Discrete Math/Graph Theory/Graphs.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,10 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "368ac38f9b0f1cac",
+  "active": "a9f6e0c1462c6941",
   "lastOpenFiles": [
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Discrete Math/Graph Theory/Trees.md",
+    "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Algebra/Vector spaces/Tensor product.md",
+    "Untitled.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Algebra/Algebra.md",
     "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Topological spaces/Topological spaces.md",
@@ -188,12 +191,9 @@
     "math/Algebra/Group Theory/Group Isomorphisms.md",
     "math/Algebra/Ring Theory/Ring Homomorphism.md",
     "math/Algebra/Vector spaces",
-    "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Algebra/Algebraic dual space.md",
     "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
     "math/Algebra/Field Theory/Fields.md",
-    "math/Algebra/Group Theory/External Direct Products.md",
-    "math/Discrete Math/Prüfer sequence.md",
     "math/Discrete Math/Graph Theory",
     "math/Discrete Math",
     "math/Logic/Combinatory Logic",
