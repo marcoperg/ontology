@@ -1,3 +1,7 @@
+---
+aliases:
+  - graph
+---
 ## Definition
 A **graph** is a pair $G=(V, E)$ where
 - $V$ is a non-empty finite set of elements called vertices.
@@ -25,6 +29,8 @@ We denote by $\delta(u, v)$ the number of edges joining $u$ and $v$.
 ### Sequence of degrees or graphic succession
 Let $G$ be a graph of vertices $V = \{v_1, v_2, ..., v_n\}$. Then $d = [\delta(v_1), \delta(v_2), ..., \delta(v_n)]$ in non-increasing order is called a graphic succession of $G$.
 
+#### Characterization of a graphic succession: Havel-Hakimi Theorem.
+An integer succession $d_1, d_2, ..., d_n$ with $d_1 \ge d_2 \ge ... \ge d_n \ge 0$ is a graphic succession iff a reordering of $d_2-1, d_3 -1, ..., d_{d_1+1} -1, d_{d_1+2}, d_{d_1+3}, ..., d_n$ is also graphic.
 
 ### Properties
 - Let $G = (V, E)$ a graph, then we have
@@ -72,7 +78,7 @@ Notice that in order to create the adjacency matrix one must order the set of pa
 ### Regular graph
 A graph $G=(V, E)$ is regular of degree $k$ iff $\forall v\in V: \delta(v)=k$.
 
-## Complete graph
+### Complete graph
 The complete graph $K_n$ is the simple graph of $n$ vertices such every vertex is joined by an edge.
 Notice $|V|=n$ and so $\delta(v) = n-1$, for all $v \in V$.
 
@@ -85,3 +91,40 @@ Notice $\delta(v)=2$ for all $v \in V$.
 A graph $G$ of vertices $V = \{v_1, v_2, ..., v_n\}$ is a path graph if it has edges $E = \{ v_1v_2, v_2v_3, ..., v_{n-1}v_n\}$.
 Hence $\delta(v_1) = \delta(v_n) =1$ and $\delta(v_i) = 2$ for all $v\in V-\{v_1, v_n\}$.
 
+### Bipartite graph
+A graph $G = (V, E)$ is said to be __bipartite__ if is a simple graph such that
+$$ V = V_1 \dot{\cap}V_2$$
+and each vertex of $V_1$ is only adjacent to vertices of $V_2$. That is, $\forall v_1, v_2\in V_1 | \delta(v_1, v_2) = 0$
+
+#### Detection of a bipartite graph
+- **Strategy**: classify vertices from $G$ in two parts, checking a label.
+- **Step 1:** Chose one vertex $v$ and label it $1$. $\quad S = \{v\}$.
+- **Step 2:** Let $T$ be a set of vertices not yet labeled adjacent to a vertex of $S$.
+	- If two vertex of $T$ are adjacent end the algorithm, the graph IS NOT bipartite.
+	- Otherwise label each vertex from $T$ with the contrary label as its neighbour.
+- **Step 3:** If every vertex if labeled, the graph is bipartite. Otherwise $S = T$ and go to 2.
+
+## Subgraphs
+Let $H = (V', E')$ be a graph. H is a __subgraph__ of the graph $G = (V, E)$ if $V' \subseteq V$ and $E' \subseteq E$.
+$H = (V', E')$ is a generator subgraph of the graph $G = (V, E)$ if $H$ is a graph, $V' = V$ and $E' \subseteq E$.
+
+
+## Isomorphic graphs
+Let $G=(V, E)$ and $G'=(V', E')$ be graphs. There are said to be **isomorphic** if $\exists f:V\to V'$ such that $f$ bijective and $f$ conserves adjacency:
+$$u, v\space \text{adjacent} \iff f(u), f(v) \space\text{adjacent}$$
+
+## Connectedness, walks and paths
+### Walks
+A **walk** of length $k$ is a graph is a succession of vertex and edges of the form $v_0, e_1, v_1, ...v_{k-1}, e_k v_k$ where $e_i$ is the edge joining the vertices $v_{i-1}$ and $v_i$.
+
+### Circuits
+A **circuit** a a close walk. That is a walk where the last vertex is the same as the first.
+
+## Paths
+A **path** is walk in which no edge and vertex is repeated.
+
+### Cycle
+A cycle is a close path.
+
+### Connectiveness
+A graph $G = (V, E)$ is **connected** is for each pair of vertices $u, v \in V$ there exists a path starting on $u$ and ending at $v$.
