@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Discrete Math/Graph Theory/Graphs.md",
+                "file": "math/Topology/Topological spaces/Connectedness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Discrete Math/Graph Theory/Graphs.md",
+                "file": "math/Topology/Topological spaces/Connectedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Discrete Math/Graph Theory/Graphs.md",
+                "file": "math/Topology/Topological spaces/Connectedness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Discrete Math/Graph Theory/Graphs.md"
+                "file": "math/Topology/Topological spaces/Connectedness.md"
               }
             }
           },
@@ -146,11 +146,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,17 +164,19 @@
   },
   "active": "a9f6e0c1462c6941",
   "lastOpenFiles": [
-    "math/Discrete Math/Graph Theory/Trees.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Logic/Combinatory Logic/Combinatory calculi.md",
+    "math/Category Theory/Categories.md",
+    "math/Category Theory/Monoids.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
+    "math/Discrete Math/Graph Theory/Trees.md",
     "math/Algebra/Vector spaces/Tensor product.md",
     "Untitled.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Algebra/Algebra.md",
     "math/Topology/Metric spaces/Metric spaces.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces",
-    "math/Category Theory/Categories.md",
     "2023-11-10.md",
     "math/Algebra/Associative Algebra.md",
     "math/Algebra/Module.md",
@@ -192,8 +194,6 @@
     "math/Algebra/Ring Theory/Ring Homomorphism.md",
     "math/Algebra/Vector spaces",
     "math/Algebra/Algebraic dual space.md",
-    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
-    "math/Algebra/Field Theory/Fields.md",
     "math/Discrete Math/Graph Theory",
     "math/Discrete Math",
     "math/Logic/Combinatory Logic",
