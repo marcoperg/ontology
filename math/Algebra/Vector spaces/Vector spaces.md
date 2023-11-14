@@ -2,6 +2,7 @@
 aliases:
   - vector space
   - vector
+  - linear subspace
 ---
 ## Definition
 A **vector space** over a [[Fields|field]] $F$ is a non-empty set $V$ together with two binary operations that satisfy the next list of eight axioms.
@@ -25,3 +26,7 @@ In order to have a vector space we must have the following axioms satisfied for 
 |Distributivity of scalar multiplication with respect to field addition | $(a+b)v = av+bv$|
 
 This definition can be given equivalently stated as: $V$ forms an [[Groups|abelian group]] under addition and we have a [[Ring Homomorphism|ring homomorphism]] from the field $F$ to the [[Endomorphism Ring|endomorphisms ring]] of said group.
+
+
+## Linear Subspaces
+If $V$ is a vector space over a field $K$  and if $W$ is a subset of $V$, then $W$ is a __linear subspace__ of $V$ if under the operations of $V$, $W$ is a vector space over $K$.
