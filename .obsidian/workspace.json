@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae58d491a45a06b",
+        "id": "11105b9efe100de7",
         "type": "tabs",
         "children": [
           {
-            "id": "a9f6e0c1462c6941",
+            "id": "ad1cd887c532d54c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Connectedness.md",
+                "file": "math/Information Theory/Dual code.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Topological spaces/Connectedness.md",
+                "file": "math/Information Theory/Dual code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Topological spaces/Connectedness.md",
+                "file": "math/Information Theory/Dual code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Connectedness.md"
+                "file": "math/Information Theory/Dual code.md"
               }
             }
           },
@@ -162,10 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9f6e0c1462c6941",
+  "active": "ad1cd887c532d54c",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Information Theory/Linear  code.md",
+    "math/Information Theory/Dual code.md",
+    "math/Algebra/Vector spaces/Vector spaces.md",
+    "math/Algebra/Algebra.md",
+    "math/Information Theory",
     "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Fixed Points.md",
     "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Category Theory/Categories.md",
     "math/Category Theory/Monoids.md",
@@ -174,7 +180,6 @@
     "math/Algebra/Vector spaces/Tensor product.md",
     "Untitled.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
-    "math/Algebra/Algebra.md",
     "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Topological spaces",
     "2023-11-10.md",
@@ -185,21 +190,16 @@
     "math/Topology/Metric spaces",
     "math/Algebra/Vector spaces/Inner product space.md",
     "math/Topology",
-    "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
     "math/Statistics/Bootstrapping.md",
     "math/Algebra/Ring Theory/Factorization of Polynomials.md",
     "math/Algebra/Group Theory/Group Homomorphism.md",
-    "math/Algebra/Group Theory/Group Isomorphisms.md",
-    "math/Algebra/Ring Theory/Ring Homomorphism.md",
     "math/Algebra/Vector spaces",
-    "math/Algebra/Algebraic dual space.md",
     "math/Discrete Math/Graph Theory",
     "math/Discrete Math",
     "math/Logic/Combinatory Logic",
     "math/Logic",
     "math/Category Theory",
-    "math/Algebra/Ring Theory/Factorization of Polynomials",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
