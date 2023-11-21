@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7f4510a3e25c21f",
+        "id": "84e741b9541f47ed",
         "type": "tabs",
         "children": [
           {
-            "id": "14e1beca8564e575",
+            "id": "3326a77424833c96",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -122,23 +122,23 @@
             }
           },
           {
+            "id": "22f5ae93136aca90",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
             "id": "4a7463c8fa410cd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "13120696d24c1afa",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,13 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14e1beca8564e575",
+  "active": "22f5ae93136aca90",
   "lastOpenFiles": [
-    "math/Information Theory/Error-correcting codes/Linear  code.md",
     "math/Information Theory/Shannon's Entropy.md",
+    "math/Fixed Points.md",
+    "math/Information Theory/Error-correcting codes/Linear  code.md",
+    "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
+    "math/Algebra/Group Theory/Groups.md",
+    "math/Algebra/Ring Theory/Rings.md",
     "math/Information Theory/Error-correcting codes",
     "math/Topology/Metric spaces/Isometries.md",
-    "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Numerical Analysis/Untitled.md",
     "math/Numerical Analysis/Interpolation/Polynomial Interpolation",
@@ -173,7 +176,6 @@
     "math/Information Theory",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Fixed Points.md",
     "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Category Theory/Categories.md",
     "math/Category Theory/Monoids.md",
@@ -186,7 +188,6 @@
     "2023-11-10.md",
     "math/Algebra/Associative Algebra.md",
     "math/Algebra/Module.md",
-    "math/Transfinite Induction.md",
     "math/Topology/Metric spaces",
     "math/Topology",
     "math/Algebra/Vector spaces",
