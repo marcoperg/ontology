@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11105b9efe100de7",
+        "id": "a7f4510a3e25c21f",
         "type": "tabs",
         "children": [
           {
-            "id": "ad1cd887c532d54c",
+            "id": "14e1beca8564e575",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Information Theory/Dual code.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Information Theory/Dual code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Information Theory/Dual code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/Information Theory/Dual code.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,10 +154,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad1cd887c532d54c",
+  "active": "14e1beca8564e575",
   "lastOpenFiles": [
-    "math/Information Theory/Linear  code.md",
-    "math/Information Theory/Dual code.md",
+    "math/Information Theory/Error-correcting codes/Linear  code.md",
+    "math/Information Theory/Shannon's Entropy.md",
+    "math/Information Theory/Error-correcting codes",
+    "math/Topology/Metric spaces/Isometries.md",
+    "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
+    "math/Discrete Math/Graph Theory/Graphs.md",
+    "math/Numerical Analysis/Untitled.md",
+    "math/Numerical Analysis/Interpolation/Polynomial Interpolation",
+    "math/Numerical Analysis/Interpolation",
+    "math/Numerical Analysis",
+    "math/Set Theory/The Zermelo Fraenkel Axioms.md",
+    "math/Information Theory/Error-correcting codes/Dual code.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Algebra/Algebra.md",
     "math/Information Theory",
@@ -175,7 +177,6 @@
     "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Category Theory/Categories.md",
     "math/Category Theory/Monoids.md",
-    "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Discrete Math/Graph Theory/Trees.md",
     "math/Algebra/Vector spaces/Tensor product.md",
     "Untitled.md",
@@ -186,20 +187,10 @@
     "math/Algebra/Associative Algebra.md",
     "math/Algebra/Module.md",
     "math/Transfinite Induction.md",
-    "math/Topology/Metric spaces/Complete Metric Spaces.md",
     "math/Topology/Metric spaces",
-    "math/Algebra/Vector spaces/Inner product space.md",
     "math/Topology",
-    "math/Algebra/Ring Theory/Endomorphism Ring.md",
-    "math/Statistics/Bootstrapping.md",
-    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Algebra/Vector spaces",
     "math/Discrete Math/Graph Theory",
-    "math/Discrete Math",
-    "math/Logic/Combinatory Logic",
-    "math/Logic",
-    "math/Category Theory",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
