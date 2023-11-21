@@ -11,8 +11,12 @@
             "id": "3326a77424833c96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/Information Theory/Shannon's Entropy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -142,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +160,11 @@
   },
   "active": "22f5ae93136aca90",
   "lastOpenFiles": [
+    "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
+    "math/Support.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Information Theory/Shannon's Entropy.md",
+    "math/Information Theory/Quantum Information Theory",
     "math/Fixed Points.md",
     "math/Information Theory/Error-correcting codes/Linear  code.md",
     "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
@@ -182,16 +190,12 @@
     "math/Discrete Math/Graph Theory/Trees.md",
     "math/Algebra/Vector spaces/Tensor product.md",
     "Untitled.md",
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Topological spaces",
     "2023-11-10.md",
-    "math/Algebra/Associative Algebra.md",
-    "math/Algebra/Module.md",
     "math/Topology/Metric spaces",
     "math/Topology",
     "math/Algebra/Vector spaces",
-    "math/Discrete Math/Graph Theory",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
