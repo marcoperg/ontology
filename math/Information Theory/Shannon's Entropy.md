@@ -1,3 +1,8 @@
+---
+aliases:
+  - entropy
+  - Entropy
+---
 The **entropy** of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes. If we don't know the outcome of the variable we can use the entropy as our level of uncertainty, if we come to know it we can use it to measure the information we've gained.
 
 ## Definition
