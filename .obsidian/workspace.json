@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md"
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md"
               }
             }
           }
@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22f5ae93136aca90",
+  "active": "3326a77424833c96",
   "lastOpenFiles": [
+    "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md",
     "math/Information Theory/Shannon's Entropy.md",
     "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "math/Support.md",
@@ -171,7 +172,6 @@
     "math/Information Theory/Quantum Information Theory",
     "math/Fixed Points.md",
     "math/Information Theory/Error-correcting codes/Linear  code.md",
-    "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
     "math/Algebra/Group Theory/Groups.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Information Theory/Error-correcting codes",
