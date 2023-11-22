@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Information Theory/Shannon's Entropy.md",
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/Numerical Analysis/Interpolation/Polynomial Interpolation/Polynomial Interpolation.md"
+              }
             }
           }
         ],
@@ -160,10 +164,10 @@
   },
   "active": "22f5ae93136aca90",
   "lastOpenFiles": [
+    "math/Information Theory/Shannon's Entropy.md",
     "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "math/Support.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
-    "math/Information Theory/Shannon's Entropy.md",
     "math/Information Theory/Quantum Information Theory",
     "math/Fixed Points.md",
     "math/Information Theory/Error-correcting codes/Linear  code.md",
