@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84e741b9541f47ed",
+        "id": "8e4727f2d39cff3e",
         "type": "tabs",
         "children": [
           {
-            "id": "3326a77424833c96",
+            "id": "e0196d4b54cbfe35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
+                "file": "physics/quantum computing/mathematical background/Pauli Group.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pauli group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
+                "file": "physics/quantum computing/mathematical background/Pauli Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
+                "file": "physics/quantum computing/mathematical background/Pauli Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,12 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md"
+                "file": "physics/quantum computing/mathematical background/Pauli Group.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -163,10 +164,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3326a77424833c96",
+  "active": "e0196d4b54cbfe35",
   "lastOpenFiles": [
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/Stabilizer code.md",
+    "physics/quantum computing/mathematical background/Pauli Group.md",
+    "math/Algebra/Group Theory/Normal Subgroups.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Algebra/Group Theory/Group Homomorphism.md",
+    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
+    "math/Algebra/Group Theory/Groups.md",
+    "physics/quantum computing/mathematical background",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
+    "physics/quantum computing",
+    "physics",
     "math/Information Theory/Error-correcting codes/Linear  code.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes",
     "math/Information Theory/Error-correcting codes/Dual code.md",
@@ -180,7 +190,6 @@
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Information Theory/Quantum Information Theory",
     "math/Fixed Points.md",
-    "math/Algebra/Group Theory/Groups.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Information Theory/Error-correcting codes",
     "math/Discrete Math/Graph Theory/Graphs.md",
@@ -191,16 +200,8 @@
     "math/Set Theory/The Zermelo Fraenkel Axioms.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Algebra/Algebra.md",
-    "math/Information Theory",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Logic/Combinatory Logic/Combinatory calculi.md",
-    "math/Category Theory/Categories.md",
-    "math/Category Theory/Monoids.md",
-    "math/Discrete Math/Graph Theory/Trees.md",
-    "math/Algebra/Vector spaces/Tensor product.md",
-    "math/Topology/Topological spaces",
-    "math/Topology/Metric spaces",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
