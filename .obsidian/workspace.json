@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Information Theory/Shannon's noiseless coding theorem.md",
+                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Information Theory/Shannon's noiseless coding theorem.md",
+                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Information Theory/Shannon's noiseless coding theorem.md",
+                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Information Theory/Shannon's noiseless coding theorem.md"
+                "file": "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md"
               }
             }
           }
@@ -164,17 +165,21 @@
   },
   "active": "3326a77424833c96",
   "lastOpenFiles": [
-    "math/Information Theory/Shannon's Entropy.md",
+    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/Stabilizer code.md",
+    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
+    "math/Information Theory/Error-correcting codes/Linear  code.md",
+    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes",
+    "math/Information Theory/Error-correcting codes/Dual code.md",
+    "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "math/Information Theory/Shannon's noiseless coding theorem.md",
+    "math/Information Theory/Shannon's Entropy.md",
     "math/Topology/Metric spaces/Isometries.md",
     "math/Information Theory/Untitled",
     "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md",
-    "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "math/Support.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Information Theory/Quantum Information Theory",
     "math/Fixed Points.md",
-    "math/Information Theory/Error-correcting codes/Linear  code.md",
     "math/Algebra/Group Theory/Groups.md",
     "math/Algebra/Ring Theory/Rings.md",
     "math/Information Theory/Error-correcting codes",
@@ -184,7 +189,6 @@
     "math/Numerical Analysis/Interpolation",
     "math/Numerical Analysis",
     "math/Set Theory/The Zermelo Fraenkel Axioms.md",
-    "math/Information Theory/Error-correcting codes/Dual code.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Algebra/Algebra.md",
     "math/Information Theory",
@@ -195,11 +199,8 @@
     "math/Category Theory/Monoids.md",
     "math/Discrete Math/Graph Theory/Trees.md",
     "math/Algebra/Vector spaces/Tensor product.md",
-    "Untitled.md",
-    "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Topological spaces",
     "math/Topology/Metric spaces",
-    "math/Topology",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
