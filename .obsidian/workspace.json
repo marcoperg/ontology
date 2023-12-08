@@ -4,27 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "720e700ed9c88023",
+        "id": "3f468387648d31e5",
         "type": "tabs",
         "children": [
           {
-            "id": "716d85ae594fcc06",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "math/Algebra/Group Theory/External Direct Products.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "08b6d712a223ba40",
+            "id": "f7c464417fc98480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Geometry/Projective Geometry/Projective maps.md",
+                "file": "physics/quantum computing/Symmetries.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "physics/quantum computing/Symmetries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "physics/quantum computing/Symmetries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "physics/quantum computing/Symmetries.md"
+              }
             }
           }
         ],
@@ -170,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716d85ae594fcc06",
+  "active": "f7c464417fc98480",
   "lastOpenFiles": [
     "physics/quantum computing/Symmetries.md",
     "math/Geometry/Projective Geometry/Projective maps.md",
