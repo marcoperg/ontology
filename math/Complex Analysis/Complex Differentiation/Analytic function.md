@@ -1,3 +1,7 @@
+---
+aliases:
+  - holomorphic functions
+---
 ## Definition
 A function $f$ is _complex analytic_ on an [[Topological spaces|open set]] $D$ in the complex plane if for any $z_0 \in D$ one can write
 $$
@@ -16,6 +20,6 @@ For the definition of _real analytic_ we can just replace _complex_ for _real_ a
 
 ## Relation with holomorphic functions
 ### Definition
-Given a complex-valued $f$ of a single complex variable, it is said to be _holomorphic_ on an open set $U$ if it is _complex differentiable_ at every point of $U$. A function $f$ is holomorphic at a point $z_0$ if it is holomorphic on some neighborhood of $z_0$.
+Given a complex-valued $f$ of a single complex variable, it is said to be _holomorphic_ on an open set $U$ if it is [[Complex Derivative|complex differentiable]]at every point of $U$. A function $f$ is holomorphic at a point $z_0$ if it is holomorphic on some neighborhood of $z_0$.
 
 A function is analytic iff it is holomorphic.
