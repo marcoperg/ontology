@@ -4,16 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4727f2d39cff3e",
+        "id": "720e700ed9c88023",
         "type": "tabs",
         "children": [
           {
-            "id": "e0196d4b54cbfe35",
+            "id": "716d85ae594fcc06",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "math/Algebra/Group Theory/External Direct Products.md",
+                "staged": false
+              }
+            }
+          },
+          {
+            "id": "08b6d712a223ba40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Complex Analysis/Analytic function.md",
+                "file": "math/Geometry/Projective Geometry/Projective maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "begin{CD}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Complex Analysis/Analytic function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Complex Analysis/Analytic function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/Complex Analysis/Analytic function.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,46 +170,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0196d4b54cbfe35",
+  "active": "716d85ae594fcc06",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topological spaces.md",
+    "physics/quantum computing/Symmetries.md",
+    "math/Geometry/Projective Geometry/Projective maps.md",
+    "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
+    "math/Topology/Topological spaces/Connectedness.md",
     "math/Complex Analysis/Analytic function.md",
+    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Algebra/Group Theory/Groups.md",
+    "math/Category Theory/Categories.md",
+    "math/Category Theory/Monoids.md",
+    "math/Algebra/Vector spaces/Inner product space.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Algebra/Ring Theory/Endomorphism Ring.md",
+    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
+    "math/Algebra/Group Theory/Normal Subgroups.md",
+    "math/Algebra/Group Theory/Group Isomorphisms.md",
+    "math/Algebra/Group Theory/Group Homomorphism.md",
+    "math/Fixed Points.md",
+    "math/Algebra/Vector spaces/Vector spaces.md",
+    "math/Algebra/Group Theory/Untitled.canvas",
+    "Untitled.canvas",
+    "2023-12-05.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
     "math/Complex Analysis",
     "Untitled.md",
     "physics/quantum computing/mathematical background/Pauli Group.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/Stabilizer code.md",
-    "math/Algebra/Group Theory/Normal Subgroups.md",
-    "math/Algebra/Group Theory/External Direct Products.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
-    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
-    "math/Algebra/Group Theory/Groups.md",
     "physics/quantum computing/mathematical background",
     "physics/quantum computing",
     "physics",
     "math/Information Theory/Error-correcting codes/Linear  code.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes",
-    "math/Information Theory/Error-correcting codes/Dual code.md",
-    "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
-    "math/Information Theory/Shannon's noiseless coding theorem.md",
-    "math/Information Theory/Shannon's Entropy.md",
-    "math/Topology/Metric spaces/Isometries.md",
     "math/Information Theory/Untitled",
-    "math/Numerical Analysis/Interpolation/Polynomial Interpolation.md",
-    "math/Support.md",
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Information Theory/Quantum Information Theory",
-    "math/Fixed Points.md",
-    "math/Algebra/Ring Theory/Rings.md",
     "math/Information Theory/Error-correcting codes",
-    "math/Discrete Math/Graph Theory/Graphs.md",
-    "math/Numerical Analysis/Untitled.md",
     "math/Numerical Analysis/Interpolation/Polynomial Interpolation",
     "math/Numerical Analysis/Interpolation",
-    "math/Set Theory/The Zermelo Fraenkel Axioms.md",
-    "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

@@ -15,10 +15,10 @@ Let $f: \langle a, a' \rangle \to \langle b, b'\rangle$ be the [[Perspectivity|p
 Let $h = g \circ f.$ Since $f(d) = d$ and $g(d) = d$, we have $h(d) = d$. Thus the projectivity $h: \langle a, a' \rangle \to \langle b, b' \rangle$ is a perspectivity. Since
 
 $$
-\begin{CD}
-h(a) = g(f(a)) = g(b) = c \\
-h(a') = g(f(a')) = g(b') = c'
-\end{CD}
+\begin{align}
+h(a)  & = g(f(a)) = g(b) = c \\
+h(a')  & = g(f(a')) = g(b') = c'
+\end{align}
 $$
 
 the intersection $q$ of $\langle a, c \rangle$ and $\langle a', c' \rangle$ is the centers of the perspectivity $h$. Also note that the point $m = B \cap B'$  and its image $h(m)$ are both on the line $\langle p, r \rangle$, since $r$ is the center of $f$ and $p$ is the center of $g$. Since $h$ is a perspectivity of center $q$, the line $\langle m, h(m) \rangle$ = $\langle p, r \rangle$ passes through $q$, which proves the lemma. $\quad \square$
