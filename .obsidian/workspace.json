@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
+                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
+                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
+                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md"
+                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md"
               }
             }
           }
@@ -164,14 +165,18 @@
   },
   "active": "f7c464417fc98480",
   "lastOpenFiles": [
+    "math/Discrete Math/Graph Theory/Graphs.md",
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
+    "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
+    "math/Complex Analysis/Complex Integration",
     "math/Complex Analysis/Complex Differentiation/Analytic function.md",
     "math/Complex Analysis/Complex Differentiation/Complex Derivative.md",
-    "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "physics/quantum computing/Symmetries.md",
     "math/Complex Analysis/Complex Differentiation",
     "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
-    "math/Topology/Topological spaces/Connectedness.md",
     "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
     "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Group Theory/Groups.md",
@@ -189,11 +194,8 @@
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "2023-12-05.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
     "math/Complex Analysis",
-    "Untitled.md",
-    "physics/quantum computing/mathematical background/Pauli Group.md",
     "physics/quantum computing/mathematical background",
     "physics/quantum computing",
     "physics",
@@ -201,7 +203,6 @@
     "math/Information Theory/Untitled",
     "math/Information Theory/Quantum Information Theory",
     "math/Information Theory/Error-correcting codes",
-    "math/Numerical Analysis/Interpolation/Polynomial Interpolation",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
