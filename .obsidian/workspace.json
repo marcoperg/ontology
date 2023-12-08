@@ -13,9 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md"
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md"
               }
             }
           }
@@ -165,10 +164,12 @@
   },
   "active": "f7c464417fc98480",
   "lastOpenFiles": [
+    "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
+    "math/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
+    "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
     "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Complex Analysis/Complex Integration",
     "math/Complex Analysis/Complex Differentiation/Analytic function.md",
@@ -193,8 +194,6 @@
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
-    "2023-12-05.md",
-    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
     "math/Complex Analysis",
     "physics/quantum computing/mathematical background",
     "physics/quantum computing",
