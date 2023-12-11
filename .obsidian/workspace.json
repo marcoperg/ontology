@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f468387648d31e5",
+        "id": "7a6068001ef663a5",
         "type": "tabs",
         "children": [
           {
-            "id": "f7c464417fc98480",
+            "id": "d268da8df7b1c624",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Numerical Analysis/Polynomial Interpolation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db0c6a1909cef657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Numerical Analysis/Regression.md",
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Numerical Analysis/Regression.md",
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Numerical Analysis/Regression.md",
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,12 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Numerical Analysis/Regression.md"
+                "file": "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,19 +162,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0c6a1909cef657",
+  "active": "d268da8df7b1c624",
   "lastOpenFiles": [
+    "math/Complex Analysis/Complex Differentiation/Analytic function.md",
+    "analytic.md",
+    "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
+    "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
+    "math/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
+    "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
     "math/Numerical Analysis/Polynomial Interpolation.md",
     "math/Numerical Analysis/Regression.md",
-    "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
-    "math/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
-    "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topological spaces.md",
     "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Complex Analysis/Complex Integration",
-    "math/Complex Analysis/Complex Differentiation/Analytic function.md",
     "math/Complex Analysis/Complex Differentiation/Complex Derivative.md",
     "physics/quantum computing/Symmetries.md",
     "math/Complex Analysis/Complex Differentiation",
@@ -203,8 +192,6 @@
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
     "math/Algebra/Ring Theory/Factorization of Polynomials.md",
     "math/Algebra/Group Theory/Normal Subgroups.md",
-    "math/Algebra/Group Theory/Group Isomorphisms.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "math/Complex Analysis",

@@ -1,6 +1,7 @@
 ---
 aliases:
   - holomorphic functions
+  - analytic
 ---
 ## Definition
 A function $f$ is _complex analytic_ on an [[Topological spaces|open set]] $D$ in the complex plane if for any $z_0 \in D$ one can write
