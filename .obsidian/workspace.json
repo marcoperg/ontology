@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Complex Analysis/Infinite Series/Taylor's theorem.md",
+                "file": "math/Numerical Analysis/Non-linear equatinos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Complex Analysis/Infinite Series/Taylor's theorem.md",
+                "file": "math/Numerical Analysis/Non-linear equatinos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Complex Analysis/Infinite Series/Taylor's theorem.md",
+                "file": "math/Numerical Analysis/Non-linear equatinos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Complex Analysis/Infinite Series/Taylor's theorem.md"
+                "file": "math/Numerical Analysis/Non-linear equatinos.md"
               }
             }
           }
@@ -165,6 +166,7 @@
   "active": "21d2140e3116196e",
   "lastOpenFiles": [
     "math/Complex Analysis/Infinite Series/Sequence and series of functions.md",
+    "math/Numerical Analysis/Non-linear equatinos.md",
     "math/Complex Analysis/Infinite Series/Taylor's theorem.md",
     "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
     "math/Complex Analysis/Infinite Series",
@@ -193,7 +195,6 @@
     "math/Algebra/Group Theory/Groups.md",
     "math/Category Theory/Categories.md",
     "math/Category Theory/Monoids.md",
-    "math/Algebra/Vector spaces/Inner product space.md",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "math/Complex Analysis",
