@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Analysis/Differentiability classes.md",
+                "file": "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Analysis/Differentiability classes.md",
+                "file": "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Analysis/Differentiability classes.md",
+                "file": "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Analysis/Differentiability classes.md"
+                "file": "math/Geometry/Differential Geometry/Regular Representations of Curves.md"
               }
             }
           }
@@ -162,12 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22f5ae93136aca90",
+  "active": "f9e0be837d5babf3",
   "lastOpenFiles": [
     "math/Analysis/Differentiability classes.md",
+    "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "math/Analysis/Analytic function.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
-    "math/Geometry/Differential Geometry/Regular Representations.md",
     "math/Analysis",
     "math/Numerical Analysis/Non-linear equatinos.md",
     "math/Geometry/Differential Geometry",
