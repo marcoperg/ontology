@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a6068001ef663a5",
+        "id": "0d5a152e2c3f4d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "21d2140e3116196e",
+            "id": "f9e0be837d5babf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Numerical Analysis/Non-linear equatinos.md",
+                "file": "math/Analysis/Differentiability classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Numerical Analysis/Non-linear equatinos.md",
+                "file": "math/Analysis/Differentiability classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Numerical Analysis/Non-linear equatinos.md",
+                "file": "math/Analysis/Differentiability classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Numerical Analysis/Non-linear equatinos.md"
+                "file": "math/Analysis/Differentiability classes.md"
               }
             }
           }
@@ -163,46 +162,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21d2140e3116196e",
+  "active": "22f5ae93136aca90",
   "lastOpenFiles": [
-    "math/Complex Analysis/Infinite Series/Sequence and series of functions.md",
+    "math/Analysis/Differentiability classes.md",
+    "math/Analysis/Analytic function.md",
+    "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
+    "math/Geometry/Differential Geometry/Regular Representations.md",
+    "math/Analysis",
     "math/Numerical Analysis/Non-linear equatinos.md",
-    "math/Complex Analysis/Infinite Series/Taylor's theorem.md",
-    "math/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
-    "math/Complex Analysis/Infinite Series",
-    "math/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
+    "math/Geometry/Differential Geometry",
+    "math/Numerical Analysis/Regression.md",
+    "math/Numerical Analysis/Polynomial Interpolation.md",
+    "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
+    "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
+    "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
+    "math/Analysis/Complex Analysis/Infinite Series",
+    "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
     "math/Transfinite Induction.md",
     "physics/statistical mechanics/Untitled.md",
     "physics/statistical mechanics",
-    "math/Complex Analysis/Complex Differentiation/Analytic function.md",
     "analytic.md",
-    "math/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
-    "math/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
-    "math/Numerical Analysis/Polynomial Interpolation.md",
-    "math/Numerical Analysis/Regression.md",
+    "math/Analysis/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
+    "math/Analysis/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
-    "math/Complex Analysis/Complex Integration",
-    "math/Complex Analysis/Complex Differentiation/Complex Derivative.md",
+    "math/Analysis/Complex Analysis/Complex Integration",
+    "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
     "physics/quantum computing/Symmetries.md",
-    "math/Complex Analysis/Complex Differentiation",
+    "math/Analysis/Complex Analysis/Complex Differentiation",
     "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
     "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
     "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Group Theory/Groups.md",
-    "math/Category Theory/Categories.md",
-    "math/Category Theory/Monoids.md",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
-    "math/Complex Analysis",
+    "math/Analysis/Complex Analysis",
     "physics/quantum computing/mathematical background",
     "physics/quantum computing",
     "physics",
-    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes",
-    "math/Information Theory/Untitled",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
