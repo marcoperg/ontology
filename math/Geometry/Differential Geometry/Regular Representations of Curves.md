@@ -31,3 +31,23 @@ A regular parametric representation $\mathbf{x} = \mathbf{x}(t)$, $t\in I_t$, is
 2. $\mathbf{x}(t(\theta)) = \mathbf{x^*}(\theta)$
 
 This formes an equivalence relation. We proceed to define a **regular curve** as a equivalence class of regular parametric representation.
+
+
+## Natural representation
+
+### Arc length as a parameter
+Let $\mathbf{x} = \mathbf{x}(t)$ be a regular curve on $I#, and consider the function
+$$
+s = s(t) = \int_{t_0}^t \left| \frac{d\mathbf{x}}{dt}\ \right|\,dt
+$$
+Then $s$ is the arc segment of the curve between $t_0$ and $t$ (positive if $t_0 < t$ and negative otherwise).
+
+From the fundamental theorem of calculus it follows that $\mathbf{s} = \mathbf{s}(t)$ has a continuous non-vanishing derivative. So it constitutes an allowable change of parameter on $I$. This means that que can introduce the arc length as a parameter.
+
+### Natural representation definition
+We proceed to define a representation $\mathbf{x} = \mathbf{x}(s)$ on $I_s$ to be a _representation in terms of arc length_ or _natural representation_ if $|d\mathbf{x}/ds| = 1$. From this we get the following properties:
+
+- If $\mathbf{x} = \mathbf{x}(t)$ is a natural representation of a curve $C$, then
+	1. $| s_2 - s_1|$ is the length of the arc segment of $C$ between $\mathbf{x}(s_1)$ and $\mathbf{x}(s_2)$.
+	2. If $\mathbf{x} = \mathbf{x^*}(s^*)$ is any other natural representation of $C$, then $s = \pm s^* +$ constant.
+	3. If $\mathbf{x} = \mathbf{x^*}(s^*)$ is representation of $C$ of the same orientation as $\mathbf{x} = \mathbf{x}(s)$, then $ds/dt = |d\mathbf{x}/dt|$. Otherwise $ds/dt = -|d\mathbf{x}/dt|$.
