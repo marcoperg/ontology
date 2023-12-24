@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b55cb97c2ecc325b",
+        "id": "10e9b4c801ba3641",
         "type": "tabs",
         "children": [
           {
-            "id": "871b199fe2e6a4d3",
+            "id": "616e7fabbb1f9fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Analytic continuation.md",
+                "file": "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Analytic continuation.md",
+                "file": "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Analytic continuation.md",
+                "file": "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,12 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Analytic continuation.md"
+                "file": "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,23 +162,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "871b199fe2e6a4d3",
+  "active": "616e7fabbb1f9fc5",
   "lastOpenFiles": [
+    "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
+    "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
+    "math/Numerical Analysis/Non-linear equatinos.md",
+    "math/Algebra/Ring Theory/Endomorphism Ring.md",
+    "math/Numerical Analysis/Regression.md",
+    "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
     "math/Analysis/Analytic function.md",
     "math/Analysis/Complex Analysis/Analytic continuation.md",
     "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
-    "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
     "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "math/Analysis/Differentiability classes.md",
     "math/Numerical Analysis/Polynomial Interpolation.md",
     "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Analysis",
-    "math/Numerical Analysis/Non-linear equatinos.md",
     "math/Geometry/Differential Geometry",
-    "math/Numerical Analysis/Regression.md",
     "math/Analysis/Complex Analysis/Infinite Series",
-    "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
     "math/Transfinite Induction.md",
     "physics/statistical mechanics/Untitled.md",
     "physics/statistical mechanics",
@@ -194,8 +196,6 @@
     "math/Analysis/Complex Analysis/Complex Differentiation",
     "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
-    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
-    "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "math/Analysis/Complex Analysis",

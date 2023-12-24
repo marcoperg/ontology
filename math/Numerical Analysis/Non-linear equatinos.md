@@ -25,7 +25,7 @@ $$
 $$
 \frac{e_{n+1}}{e_n} \approx \frac{1}{2}
 $$
-	Each iterations gains .3 digits ($-log_10(0.5)$).
+	Each iterations gains .3 digits ($-log_{10}(0.5)$).
 
 
 ## Newton-Raphson method
