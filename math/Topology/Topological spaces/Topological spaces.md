@@ -40,3 +40,5 @@ A _function_ from a topological space $(X, \tau)$ to a topological space $(Y, \t
 We shall write $f: (X,\tau)\to(Y, \tau')$ to express such function or usually just $f: X \to Y$.
 
 A function $f: (X,\tau)\to(Y, \tau')$ is said to be _continuous_ at a point $x \in X$ if for each neighborhood $N$ of $f(a)$, $f^{-1}(N)$ is a neighborhood of $a$. $f$ is to be continuous if $f$ is continuous at each point of $X$.
+
+If the function $f: X \to Y$ is bijective then we called $f$ an homeomorphism.

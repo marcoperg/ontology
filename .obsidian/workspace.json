@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Residue Theorem.md",
+                "file": "math/Topology/Topological spaces/Topological spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Residue Theorem.md",
+                "file": "math/Topology/Topological spaces/Topological spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Residue Theorem.md",
+                "file": "math/Topology/Topological spaces/Topological spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Residue Theorem.md"
+                "file": "math/Topology/Topological spaces/Topological spaces.md"
               }
             }
           }
@@ -163,12 +164,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22f5ae93136aca90",
+  "active": "7b77622f5a79ba3f",
   "lastOpenFiles": [
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Analysis/Complex Analysis/Residue Theorem.md",
     "math/Analysis/Complex Analysis/Singularities.md",
     "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
     "Excalidraw/laurent-theorem.excalidraw.md",
-    "math/Analysis/Complex Analysis/Residue Theorem.md",
     "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
     "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
     "Excalidraw",
@@ -184,9 +187,7 @@
     "filosofia",
     "math/Numerical Analysis/Polynomial Interpolation.md",
     "math/Numerical Analysis/Regression.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
     "math/Topology/Topological spaces/neighborhood.excalidraw.md",
-    "math/Topology/Topological spaces/Connectedness.md",
     "math/Statistics/Central Limit Theorem.md",
     "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "math/Geometry/Projective Geometry/Projective maps.md",
