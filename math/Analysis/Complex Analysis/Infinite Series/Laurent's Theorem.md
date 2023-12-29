@@ -1,3 +1,7 @@
+---
+aliases:
+  - Laurent's series
+---
 Let $C_1$ and $C_2$ be concentric circles of radii $R_1$, and $R_2$, respectively, and center at $a$. Suppose that $f(z)$ is single-valued and [[Analytic function|analytic]] inside the annulus formed between $C_1$ and $C_2$ and in its boundary.
 
 Then we can write
@@ -21,3 +25,5 @@ $$
 a_n = \frac{1}{2\pi i}\oint_C \frac{f(z)}{z -a }\,dz
 $$
 for any concentric circle $C$ between $C_1$ and $C_2$.
+
+![[laurent-theorem.excalidraw]]
