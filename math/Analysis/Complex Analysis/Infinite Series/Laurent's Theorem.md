@@ -22,8 +22,14 @@ f(z) = \sum_{n\in \mathbb{Z}} a_n (z - a)^n
 $$
 where we can show $a_n$ to be
 $$
-a_n = \frac{1}{2\pi i}\oint_C \frac{f(z)}{z -a }\,dz
+a_n = \frac{1}{2\pi i}\oint_C \frac{f(z)}{(z - a)^{n+1}}\,dz
 $$
 for any concentric circle $C$ between $C_1$ and $C_2$.
+
+Hence, we can write $f(z)$ as
+$$
+f(z) = a_0 + a_1(z-a) + a_2 (z-a)^2 + \dots+\frac{a_{-1}}{z-a}+\frac{a_{-2}}{(z-a)^2}+\dots
+$$
+in this representation, we call the part $a_0+a_1(z-a)+a_2(z-a)^2 + \dots$ is called the _analytic part_ of the Laurent Series, and the remainder of the series, containing of inverse powers of $z-a$, is called the _principal part_.
 
 ![[laurent-theorem.excalidraw]]
