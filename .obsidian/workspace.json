@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Topological spaces.md",
+                "file": "math/Topology/Topological spaces/Basis (topology).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Topological spaces/Topological spaces.md",
+                "file": "math/Topology/Topological spaces/Basis (topology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Topological spaces/Topological spaces.md",
+                "file": "math/Topology/Topological spaces/Basis (topology).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Topological spaces.md"
+                "file": "math/Topology/Topological spaces/Basis (topology).md"
               }
             }
           }
@@ -166,8 +165,10 @@
   },
   "active": "7b77622f5a79ba3f",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Hausdorff space.md",
+    "math/Topology/Topological spaces/Connectedness.md",
     "math/Analysis/Complex Analysis/Residue Theorem.md",
     "math/Analysis/Complex Analysis/Singularities.md",
     "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
@@ -195,11 +196,9 @@
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
     "math/Analysis/Analytic function.md",
     "math/Analysis/Differentiability classes.md",
-    "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Analysis",
     "math/Geometry/Differential Geometry",
     "math/Analysis/Complex Analysis/Infinite Series",
-    "math/Transfinite Induction.md",
     "physics/statistical mechanics",
     "math/Analysis/Complex Analysis/Complex Integration",
     "math/Analysis/Complex Analysis/Complex Differentiation",
