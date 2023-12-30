@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md",
-                "mode": "source",
+                "file": "math/Topology/Manifolds.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md",
+                "file": "math/Topology/Manifolds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md",
+                "file": "math/Topology/Manifolds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md"
+                "file": "math/Topology/Manifolds.md"
               }
             }
           }
@@ -165,12 +165,13 @@
   },
   "active": "7b77622f5a79ba3f",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Manifolds.md",
     "math/Topology/Topological spaces/Compactness.md",
+    "math/Topology/Topological spaces/Connectedness.md",
     "math/Analysis/Complex Analysis/Simply and Multiply Connected Regions.md",
     "math/Numerical Analysis/Non-linear equatinos.md",
     "math/Numerical Analysis/Polynomial Interpolation.md",
-    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Topological spaces.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Analysis/Complex Analysis/Residue Theorem.md",
@@ -195,7 +196,6 @@
     "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
-    "math/Analysis/Analytic function.md",
     "math/Analysis",
     "math/Geometry/Differential Geometry",
     "math/Analysis/Complex Analysis/Infinite Series",
