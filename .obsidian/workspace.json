@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Basis (topology).md",
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Topological spaces/Basis (topology).md",
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Topological spaces/Basis (topology).md",
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Basis (topology).md"
+                "file": "math/Topology/Topological spaces/Compactness.md"
               }
             }
           }
@@ -165,10 +165,14 @@
   },
   "active": "7b77622f5a79ba3f",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Basis (topology).md",
-    "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Compactness.md",
+    "math/Analysis/Complex Analysis/Simply and Multiply Connected Regions.md",
+    "math/Numerical Analysis/Non-linear equatinos.md",
+    "math/Numerical Analysis/Polynomial Interpolation.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Analysis/Complex Analysis/Residue Theorem.md",
     "math/Analysis/Complex Analysis/Singularities.md",
     "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
@@ -178,15 +182,12 @@
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "math/Analysis/Complex Analysis/Analytic continuation.md",
-    "math/Analysis/Complex Analysis/Complex Integration/Simply and Multiply Connected Regions.md",
     "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
     "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
     "math/Analysis/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
-    "math/Numerical Analysis/Non-linear equatinos.md",
     "filosofia/Materialismo/Materialismo diatectico.md",
     "filosofia/Materialismo",
     "filosofia",
-    "math/Numerical Analysis/Polynomial Interpolation.md",
     "math/Numerical Analysis/Regression.md",
     "math/Topology/Topological spaces/neighborhood.excalidraw.md",
     "math/Statistics/Central Limit Theorem.md",
@@ -195,7 +196,6 @@
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
     "math/Analysis/Analytic function.md",
-    "math/Analysis/Differentiability classes.md",
     "math/Analysis",
     "math/Geometry/Differential Geometry",
     "math/Analysis/Complex Analysis/Infinite Series",
