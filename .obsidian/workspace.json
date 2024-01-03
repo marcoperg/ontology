@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e20fdcea0e6e86d8",
+        "id": "07442fca35e27de5",
         "type": "tabs",
         "children": [
           {
-            "id": "7b77622f5a79ba3f",
+            "id": "b56ce3500c0d21c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Manifolds.md",
-                "mode": "preview",
+                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Manifolds.md",
+                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Manifolds.md",
+                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Manifolds.md"
+                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md"
               }
             }
           }
@@ -163,10 +163,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b77622f5a79ba3f",
+  "active": "b56ce3500c0d21c8",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
+    "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Topology/Manifolds.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Analysis/Complex Analysis/Simply and Multiply Connected Regions.md",
@@ -193,9 +195,7 @@
     "math/Topology/Topological spaces/neighborhood.excalidraw.md",
     "math/Statistics/Central Limit Theorem.md",
     "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
-    "math/Geometry/Projective Geometry/Projective maps.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
-    "math/Algebra/Ring Theory/Endomorphism Ring.md",
     "math/Analysis",
     "math/Geometry/Differential Geometry",
     "math/Analysis/Complex Analysis/Infinite Series",
