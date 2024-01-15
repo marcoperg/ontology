@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
+                "file": "math/Logic/FOL/Substitution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
+                "file": "math/Logic/FOL/Substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
+                "file": "math/Logic/FOL/Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md"
+                "file": "math/Logic/FOL/Substitution.md"
               }
             }
           }
@@ -165,15 +165,21 @@
   },
   "active": "b56ce3500c0d21c8",
   "lastOpenFiles": [
+    "math/Logic/FOL",
+    "math/Logic/FOL/Resolution.md",
+    "math/Logic/FOL/Substitution.md",
+    "math/Logic/FOL.md",
+    "math/Numerical Analysis/Polynomial Interpolation.md",
+    "math/Numerical Analysis/Regression.md",
+    "math/Numerical Analysis/Non-linear equatinos.md",
+    "math/Topology/Manifolds.md",
+    "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
-    "math/Topology/Manifolds.md",
     "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Analysis/Complex Analysis/Simply and Multiply Connected Regions.md",
-    "math/Numerical Analysis/Non-linear equatinos.md",
-    "math/Numerical Analysis/Polynomial Interpolation.md",
     "math/Topology/Topological spaces/Topological spaces.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Analysis/Complex Analysis/Residue Theorem.md",
@@ -187,14 +193,8 @@
     "math/Analysis/Complex Analysis/Analytic continuation.md",
     "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
     "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Theorem.md",
-    "math/Analysis/Complex Analysis/Complex Integration/Green's Theorem in Plane.md",
-    "filosofia/Materialismo/Materialismo diatectico.md",
     "filosofia/Materialismo",
     "filosofia",
-    "math/Numerical Analysis/Regression.md",
-    "math/Topology/Topological spaces/neighborhood.excalidraw.md",
-    "math/Statistics/Central Limit Theorem.md",
-    "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Analysis",
     "math/Geometry/Differential Geometry",
