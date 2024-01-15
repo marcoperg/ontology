@@ -1,7 +1,7 @@
 {
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "math/Algebra/Group Theory",
+  "attachmentFolderPath": "attachments",
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",

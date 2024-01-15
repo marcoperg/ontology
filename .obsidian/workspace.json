@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c661f2efc7890bd",
+        "id": "ccb4029104288c5b",
         "type": "tabs",
         "children": [
           {
-            "id": "1e1d385e8651322e",
+            "id": "90f9d060ce5ddee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Logic/FOL/Unification.md",
+                "file": "math/Logic/FOL/Resolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/FOL/Unification.md",
+                "file": "math/Logic/FOL/Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Logic/FOL/Unification.md",
+                "file": "math/Logic/FOL/Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Logic/FOL/Unification.md"
+                "file": "math/Logic/FOL/Resolution.md"
               }
             }
           }
@@ -164,13 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e1d385e8651322e",
+  "active": "90f9d060ce5ddee1",
   "lastOpenFiles": [
+    "attachments/resolution.png",
+    "math/Logic/FOL/Resolution.md",
     "math/Logic/FOL/Substitution.md",
+    "attachments",
     "math/Logic/FOL/Unification.md",
     "substit.md",
     "math/Logic/FOL",
-    "math/Logic/FOL/Resolution.md",
     "math/Logic/FOL.md",
     "math/Numerical Analysis/Polynomial Interpolation.md",
     "math/Numerical Analysis/Regression.md",
@@ -194,7 +195,6 @@
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "math/Analysis/Complex Analysis/Analytic continuation.md",
-    "math/Analysis/Complex Analysis/Complex Integration/Cauchy's Integral Formulas.md",
     "filosofia/Materialismo",
     "filosofia",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
@@ -203,7 +203,6 @@
     "math/Analysis/Complex Analysis/Infinite Series",
     "physics/statistical mechanics",
     "math/Analysis/Complex Analysis/Complex Integration",
-    "math/Analysis/Complex Analysis/Complex Differentiation",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",

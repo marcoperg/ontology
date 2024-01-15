@@ -1,3 +1,8 @@
+---
+aliases:
+  - MGU
+  - unifier
+---
 ## Definition
 A [[Substitution|substitution]] $\alpha$ is a *unifier* of two atoms $A$ and $B$ if $A\alpha = B \alpha$.
 
