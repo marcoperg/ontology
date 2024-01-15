@@ -2,6 +2,7 @@
 aliases:
   - MGU resolution
   - saturation
+  - reso
 ---
 ## MGU resolution rule
 Let
