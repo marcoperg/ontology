@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
+                "file": "physics/Quantum Mechanics/Density operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
+                "file": "physics/Quantum Mechanics/Density operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
+                "file": "physics/Quantum Mechanics/Density operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md"
+                "file": "physics/Quantum Mechanics/Density operators.md"
               }
             }
           }
@@ -163,10 +163,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "cb66e9a3af03a5c5",
   "lastOpenFiles": [
-    "math/Set Theory/Zorn's Lemma.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "physics/Quantum Mechanics/Density operators.md",
+    "physics/Quantum Mechanics/Symmetries.md",
+    "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
     "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
+    "physics/Quantum Mechanics",
+    "math/Set Theory/Zorn's Lemma.md",
     "math/Information Theory/Shannon's noiseless coding theorem.md",
     "math/Information Theory/Shannon's Entropy.md",
     "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
@@ -191,10 +196,6 @@
     "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Topology/Topological spaces/Basis (topology).md",
-    "math/Topology/Topological spaces/Compactness.md",
-    "math/Topology/Topological spaces/Connectedness.md",
-    "math/Analysis/Complex Analysis/Simply and Multiply Connected Regions.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "filosofia/Materialismo",
@@ -204,7 +205,6 @@
     "math/Geometry/Differential Geometry",
     "math/Analysis/Complex Analysis/Infinite Series",
     "physics/statistical mechanics",
-    "math/Analysis/Complex Analysis/Complex Integration",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
