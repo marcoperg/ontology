@@ -11,10 +11,11 @@
             "id": "cb66e9a3af03a5c5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Logic/FOL/Skolem Normal Form.md",
-                "staged": false
+                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zermelo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md"
+              }
             }
           }
         ],
@@ -158,8 +163,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb66e9a3af03a5c5",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Set Theory/Zorn's Lemma.md",
+    "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
+    "math/Information Theory/Shannon's noiseless coding theorem.md",
+    "math/Information Theory/Shannon's Entropy.md",
+    "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
     "Untitled.md",
     "math/Logic/FOL/Skolem Normal Form.md",
@@ -185,11 +195,6 @@
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Analysis/Complex Analysis/Simply and Multiply Connected Regions.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Hausdorff space.md",
-    "math/Analysis/Complex Analysis/Residue Theorem.md",
-    "math/Analysis/Complex Analysis/Singularities.md",
-    "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
-    "Excalidraw/laurent-theorem.excalidraw.md",
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "filosofia/Materialismo",
