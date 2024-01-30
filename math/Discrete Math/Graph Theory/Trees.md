@@ -15,3 +15,29 @@ A simple graph $G=(V, E)$ is a tree iff one of the following equivalent statemen
 - $G$ is connected and $|V|=|E| -1$.
 - $G$ is acyclic and $|V|=|E| -1$.
 
+
+## Generator tree
+### Definition
+Given the graph $G = (V, E)$ a generator tree of $G$ is a subgraph $H=(V', E')$ such that $H$ is a tree and $V = V'$, i.e. $H$ contains all vertex of $G$.
+
+### Theorem
+A graph $G$ is connected iff $G$ has a generator tree.
+
+## Prüfer's coding
+### Definition
+The Prüfer's code $C$ of a tree $T$ of order $n$, labeled $\{1,2,\dots, n\}$ is a sequence of $n-2$ numbers from $\{1,2,\dots, n\}$.
+
+### Coding
+Let $T = (V, E)$, $V = \{1, 2, \dots, n\}$, $C= []$.
+1. Let $u \in V$ with $\delta(u) = 1$ and with minimum label. We add to $C$ the label of its neighbours.
+2. The vertex is deleted, $E = E - \{u\}$..
+3. If $|E| > 2$ go back to step 1.
+### Decoding
+Let $C = [a_1, a_2, \dots, a_{n-2}], a_i \in \{1, \dots, n\}$.
+1. Let $L = [1, 2, \dots, n]$, $V = \{1, \dots, n\}$ and $E = \{\}$.
+2. Repeat $n-2$ times:
+	1. Let $j = C_1$, i.e. $C$ first element, and $k = \min L$ s.t. $k \notin C$.
+	2. Add $\{j, k\}$ to $E$ and remove $j$ from $C$ and $k$ from $L$.
+3. When $L$ has two elements left and $C = \emptyset$, add an edge between the aforementioned elements.
+
+

@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1c9d2e806dcc54c4",
+        "id": "00628a6f1d6e4cc6",
         "type": "tabs",
         "children": [
           {
-            "id": "3c02496349646c62",
+            "id": "cb66e9a3af03a5c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "math/Logic/FOL/Derivations and refutations.md",
-                "mode": "source",
-                "source": false
+                "file": "math/Logic/FOL/Skolem Normal Form.md",
+                "staged": false
               }
             }
           }
@@ -69,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -86,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/FOL/Derivations and refutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Logic/FOL/Derivations and refutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "math/Logic/FOL/Derivations and refutations.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -164,11 +158,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c02496349646c62",
+  "active": "cb66e9a3af03a5c5",
   "lastOpenFiles": [
-    "attachments/derivations.png",
+    "math/Discrete Math/Graph Theory/Graphs.md",
+    "Untitled.md",
+    "math/Logic/FOL/Skolem Normal Form.md",
     "math/Logic/FOL/Derivations and refutations.md",
     "math/Logic/FOL/Resolution.md",
+    "math/Discrete Math/Graph Theory/Trees.md",
+    "attachments/derivations.png",
     "attachments/resolution.png",
     "math/Logic/FOL/Substitution.md",
     "attachments",
@@ -182,7 +180,6 @@
     "math/Topology/Manifolds.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
-    "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
@@ -193,8 +190,6 @@
     "math/Analysis/Complex Analysis/Singularities.md",
     "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
     "Excalidraw/laurent-theorem.excalidraw.md",
-    "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
-    "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "filosofia/Materialismo",
