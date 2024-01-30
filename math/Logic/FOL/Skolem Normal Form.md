@@ -1,0 +1,19 @@
+## Prenex normal form
+A formula of the predicate calculus is said to be in **prenex normal form (PNF)** if it is written as a string of quantifiers and bound variables, called the prefix, followed by a quantifier-free part, called the matrix.
+
+## Skolem Normal Form
+A formula is said to be in **Skolem Normal Form (SNF)** if it is in prenex normal form with just universal first-order qunatifiers.
+
+## Skolemization
+The process of turning a wff to its Skolem Normal Form preserves the satisfiability, but no all the models, i.e. the result is not semantically equivalent.
+
+This is enough for some use cases by means of the Validity, Completeness and Deduction Theorems:
+$$
+\{A_1, \dots, A_n\}\models B \quad\text{iff}\quad T[A_1, \dots, A_n] \vdash B\quad\text{iff}\quad \text{UNSAT}(A_1 \land\dots\land A_n \land \lnot B)
+$$
+
+The process of Skoleminaztion consists of four steps:
+1. Move all quantifiers to the header of the formula (prenex form).
+2. Eliminate free occurrences of variables (by means of existencia closure).
+3. Make the _matrix_ of the formula into _conjunctive normal form_ (a conjunction of disjunctions of literals).
+4. Remove existential quantifiers (by introducing Skolem functions).
