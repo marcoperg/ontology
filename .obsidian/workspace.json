@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md",
+                "file": "math/Information Theory/Shannon's noiseless coding theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md",
+                "file": "math/Information Theory/Shannon's noiseless coding theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md",
+                "file": "math/Information Theory/Shannon's noiseless coding theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md"
+                "file": "math/Information Theory/Shannon's noiseless coding theorem.md"
               }
             }
           }
@@ -165,15 +165,15 @@
   },
   "active": "cb66e9a3af03a5c5",
   "lastOpenFiles": [
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "math/Information Theory/Shannon's Entropy.md",
+    "math/Information Theory/Shannon's noiseless coding theorem.md",
     "physics/Quantum Mechanics/Density operators.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
     "physics/Quantum Mechanics/Symmetries.md",
     "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
     "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
     "physics/Quantum Mechanics",
     "math/Set Theory/Zorn's Lemma.md",
-    "math/Information Theory/Shannon's noiseless coding theorem.md",
-    "math/Information Theory/Shannon's Entropy.md",
     "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "math/Discrete Math/Graph Theory/Graphs.md",
     "Untitled.md",

@@ -1,7 +1,11 @@
 Shannon's noiseless coding theorem places an upper and a lower bound on the minimal possible expected length of codewords as a function of the [[Shannon's Entropy|entropy]] of the input word and of the size of the target alphabet.
 
-## Shannon's Statement
-Let $X$ be a random variable taking values in some finite alphabet $\Sigma_1$ and let $f$ be a decodable code from $\Sigma_1$ to some other finite alphabet $\Sigma_2$ where $\Sigma_2| = a$. Let $S$ denote the resulting wordlength of $f(X)$.
+
+## Source coding theorem
+Suppose $\{X_i\}$ is an i.i.d. information source with entropy rate $H(X)$. Suppose $R > H(X)$. Then there exists a reliable compression scheme of rate $R$ for the source. Conversely, if $R < H(X)$ then any compression scheme will not be reiable.
+
+## Source coding theorem for symbols codes
+Let $X$ be a random variable taking values in some finite alphabet $\Sigma_1$ and let $f$ be a decodable code from $\Sigma_1$ to some other finite alphabet $\Sigma_2$ where $|\Sigma_2| = a$. Let $S$ denote the resulting wordlength of $f(X)$.
 
 If $f$ is optimal in the sense that it has the minimal expected wordlength for $X$, then
 $$
