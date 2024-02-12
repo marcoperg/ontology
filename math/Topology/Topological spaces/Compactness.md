@@ -6,3 +6,10 @@ $$
 ## Properties
 
 - Let $(X, \tau)$ be a [[Hausdorff space]], then all compact set $A$ are closed.
+
+
+## Heine–Borel theorem
+
+The theorem states that for a subset $S$ of the Euclidean space $\mathbb{R}^n$, the following statements are equivalent:
+- $S$ is closed and bounded.
+- $S$ is compact.

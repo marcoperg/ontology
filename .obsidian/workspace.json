@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md"
+                "file": "math/Topology/Topological spaces/Compactness.md"
               }
             }
           }
@@ -164,10 +164,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb66e9a3af03a5c5",
+  "active": "688942f1a07e37c4",
   "lastOpenFiles": [
-    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
+    "math/Topology/Topological spaces/Hausdorff space.md",
+    "math/Topology/Manifolds.md",
+    "math/Topology/Topological spaces/Compactness.md",
     "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
+    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
     "math/Information Theory/Shannon's noiseless coding theorem.md",
     "math/Information Theory/Quantum Information Theory/Schumacher's noiseless channel coding theorem.md",
     "math/Information Theory/Shannon's Entropy.md",
@@ -194,9 +197,6 @@
     "math/Logic/FOL",
     "math/Logic/FOL.md",
     "math/Numerical Analysis/Polynomial Interpolation.md",
-    "math/Numerical Analysis/Regression.md",
-    "math/Numerical Analysis/Non-linear equatinos.md",
-    "math/Topology/Manifolds.md",
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "filosofia/Materialismo",
