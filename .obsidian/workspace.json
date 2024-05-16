@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8764d5127f4fd07",
+        "id": "175bc9ba172427f1",
         "type": "tabs",
         "children": [
           {
-            "id": "8002e3bfd3e9344c",
+            "id": "126ccb8005ff5458",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "telecom/End-to-end principle.md",
-                "mode": "source",
-                "source": false
+                "file": "math/Category Theory/Monoids.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecom/End-to-end principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecom/End-to-end principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "telecom/End-to-end principle.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,18 +158,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8002e3bfd3e9344c",
+  "active": "126ccb8005ff5458",
   "lastOpenFiles": [
-    "2024-04-01.md",
+    "Literature notes/pdfs/E2EvsH2H_networking.pdf",
+    "Literature notes/@10.5555_1365562.1365589.md",
     "telecom/End-to-end principle.md",
+    "Literature notes/pdfs",
+    "Literature notes",
+    "citations.bib",
+    "citatons.bib",
+    "acm_1365562.1365589.bib",
+    "math/Category Theory/Monoids.md",
+    "bib/acm_1365562.1365589.bib",
+    "bib",
+    "attachments/acm_1365562.1365589.bib",
+    "attachments/citations.json",
     "physics/Quantum Key Distribution/Trusted Node.md",
-    "telecom",
+    "2024-04-01.md",
     "philosophy/Philosohpy of Science/Lakatos.md",
     "physics/Quantum Mechanics/Symmetries.md",
-    "philosophy/Philosohpy of Science",
-    "philosophy",
     "Untitled.md",
-    "physics/Quantum Key Distribution",
     "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
     "physics/Quantum Mechanics/Density operators.md",
     "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
@@ -192,18 +195,9 @@
     "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
     "math/Information Theory/Shannon's noiseless coding theorem.md",
-    "math/Information Theory/Quantum Information Theory/Schumacher's noiseless channel coding theorem.md",
-    "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
-    "physics/Quantum Mechanics",
-    "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
     "attachments/derivations.png",
     "attachments/resolution.png",
-    "attachments",
-    "math/Logic/FOL",
-    "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
-    "filosofia/Materialismo",
-    "filosofia",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
