@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "175bc9ba172427f1",
+        "id": "44b49d05a52fe321",
         "type": "tabs",
         "children": [
           {
-            "id": "126ccb8005ff5458",
+            "id": "78139d852e56ff1c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Category Theory/Monoids.md",
-                "staged": false
+                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 421.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "physics/Quantum Key Distribution/Trusted Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "physics/Quantum Key Distribution/Trusted Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "physics/Quantum Key Distribution/Trusted Node.md"
+              }
             }
           }
         ],
@@ -158,11 +163,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "126ccb8005ff5458",
+  "active": "78139d852e56ff1c",
   "lastOpenFiles": [
+    "Excalidraw/laurent-theorem.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-16 12.05.22.excalidraw.md",
+    "Excalidraw/test-2.excalidraw",
+    "physics/Quantum Key Distribution/Trusted Node.md",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",
     "Literature notes/@10.5555_1365562.1365589.md",
+    "Literature notes/@9405393.md",
     "telecom/End-to-end principle.md",
+    "Literature notes/pdfs/qkd/TN_QKD_at_Electrical_Utility.pdf",
+    "Literature notes/pdfs/qkd",
+    "Literature notes/pdfs/Untitled.md",
     "Literature notes/pdfs",
     "Literature notes",
     "citations.bib",
@@ -170,10 +183,6 @@
     "acm_1365562.1365589.bib",
     "math/Category Theory/Monoids.md",
     "bib/acm_1365562.1365589.bib",
-    "bib",
-    "attachments/acm_1365562.1365589.bib",
-    "attachments/citations.json",
-    "physics/Quantum Key Distribution/Trusted Node.md",
     "2024-04-01.md",
     "philosophy/Philosohpy of Science/Lakatos.md",
     "physics/Quantum Mechanics/Symmetries.md",
@@ -191,10 +200,6 @@
     "math/Geometry/Projective Geometry/Projective subspaces.md",
     "math/Information Theory/Shannon's Entropy.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
-    "math/Topology/Manifolds.md",
-    "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
-    "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
-    "math/Information Theory/Shannon's noiseless coding theorem.md",
     "attachments/derivations.png",
     "attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
