@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00628a6f1d6e4cc6",
+        "id": "b8764d5127f4fd07",
         "type": "tabs",
         "children": [
           {
-            "id": "cb66e9a3af03a5c5",
+            "id": "8002e3bfd3e9344c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md",
+                "file": "telecom/End-to-end principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "math",
+                "query": "acc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md",
+                "file": "telecom/End-to-end principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md",
+                "file": "telecom/End-to-end principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness.md"
+                "file": "telecom/End-to-end principle.md"
               }
             }
           }
@@ -164,48 +163,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "688942f1a07e37c4",
+  "active": "8002e3bfd3e9344c",
   "lastOpenFiles": [
+    "2024-04-01.md",
+    "telecom/End-to-end principle.md",
+    "physics/Quantum Key Distribution/Trusted Node.md",
+    "telecom",
+    "philosophy/Philosohpy of Science/Lakatos.md",
+    "physics/Quantum Mechanics/Symmetries.md",
+    "philosophy/Philosohpy of Science",
+    "philosophy",
+    "Untitled.md",
+    "physics/Quantum Key Distribution",
+    "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
+    "physics/Quantum Mechanics/Density operators.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "math/Set Theory/Zorn's Lemma.md",
+    "math/Transfinite Induction.md",
+    "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
+    "math/Topology/Topological spaces/Compactness.md",
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
+    "math/Geometry/Projective Geometry/Projective spaces.md",
+    "math/Geometry/Projective Geometry/Projective subspaces.md",
+    "math/Information Theory/Shannon's Entropy.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Topology/Manifolds.md",
-    "math/Topology/Topological spaces/Compactness.md",
     "math/Information Theory/Quantum Information Theory/Quantum Key Distribution Protocols.md",
     "math/Information Theory/Quantum Information Theory/Quantum Error-correcting codes/CSS Code.md",
     "math/Information Theory/Shannon's noiseless coding theorem.md",
     "math/Information Theory/Quantum Information Theory/Schumacher's noiseless channel coding theorem.md",
-    "math/Information Theory/Shannon's Entropy.md",
-    "physics/Quantum Mechanics/Density operators.md",
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
-    "physics/Quantum Mechanics/Symmetries.md",
-    "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
     "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
     "physics/Quantum Mechanics",
-    "math/Set Theory/Zorn's Lemma.md",
     "math/Information Theory/Quantum Information Theory/Von Neumann's Entropy.md",
-    "math/Discrete Math/Graph Theory/Graphs.md",
-    "Untitled.md",
-    "math/Logic/FOL/Skolem Normal Form.md",
-    "math/Logic/FOL/Derivations and refutations.md",
-    "math/Logic/FOL/Resolution.md",
-    "math/Discrete Math/Graph Theory/Trees.md",
     "attachments/derivations.png",
     "attachments/resolution.png",
-    "math/Logic/FOL/Substitution.md",
     "attachments",
-    "math/Logic/FOL/Unification.md",
-    "substit.md",
     "math/Logic/FOL",
-    "math/Logic/FOL.md",
-    "math/Numerical Analysis/Polynomial Interpolation.md",
     "Excalidraw",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "filosofia/Materialismo",
     "filosofia",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
-    "math/Analysis",
-    "math/Geometry/Differential Geometry",
-    "math/Analysis/Complex Analysis/Infinite Series",
-    "physics/statistical mechanics",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
