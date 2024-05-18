@@ -15,8 +15,8 @@
   "exportFormats": [
     {
       "name": "Create Literature note",
-      "outputPathTemplate": "Literature notes/{{citekey}}.md",
-      "imageOutputPathTemplate": "attachments/{{citekey}}/",
+      "outputPathTemplate": "20 Literature notes/{{citekey}}.md",
+      "imageOutputPathTemplate": "10 attachments/{{citekey}}/",
       "imageBaseNameTemplate": "image",
       "templatePath": "templates/zotero.md",
       "cslStyle": "apa"

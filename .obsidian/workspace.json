@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce4d7bce4ceac9b3",
+        "id": "66d900cb6287c2ed",
         "type": "tabs",
         "children": [
           {
-            "id": "f40b653c3c226f07",
+            "id": "e36452d5c3cef0a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "telecom/End-to-end principle.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecom/End-to-end principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecom/End-to-end principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "telecom/End-to-end principle.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -171,30 +163,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f40b653c3c226f07",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "@10.5555_1365562.1365589.md",
-    "telecom/End-to-end principle.md",
+    "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
+    "10 attachments/Excalidraw/laurent-theorem.excalidraw.md",
     "physics/Quantum Key Distribution/Trusted Node.md",
+    "telecom/End-to-end principle.md",
+    "@10.5555_1365562.1365589.md",
     "Literature notes/@10.5555_1365562.1365589.md",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",
-    "Literature notes/evansTrustedNodeQKD2021.md",
+    "20 Literature notes/evansTrustedNodeQKD2021.md",
     "physics/Quantum Key Distribution/Trusted Node.tex",
     "physics/Quantum Key Distribution/Trusted Node.html",
     "Untitled.md",
-    "templates/zotero.md",
-    "templates",
+    "20 Literature notes/templates/zotero.md",
+    "20 Literature notes/templates",
     "Literature notes/@9405393.md",
     "evansTrustedNodeQKD2021.md",
     "math/Category Theory/Categories.md",
-    "Excalidraw/laurent-theorem.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 12.05.22.excalidraw.md",
     "Excalidraw/test-2.excalidraw",
     "Literature notes/pdfs/qkd/TN_QKD_at_Electrical_Utility.pdf",
     "Literature notes/pdfs/qkd",
     "Literature notes/pdfs/Untitled.md",
     "Literature notes/pdfs",
-    "Literature notes",
+    "20 Literature notes",
     "citations.bib",
     "math/Category Theory/Monoids.md",
     "2024-04-01.md",
@@ -208,9 +201,8 @@
     "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
-    "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
-    "attachments/derivations.png",
-    "attachments/resolution.png",
+    "10 attachments/derivations.png",
+    "10 attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
