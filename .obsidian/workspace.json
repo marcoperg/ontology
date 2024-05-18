@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44b49d05a52fe321",
+        "id": "ce4d7bce4ceac9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "78139d852e56ff1c",
+            "id": "f40b653c3c226f07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "file": "telecom/End-to-end principle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "file": "telecom/End-to-end principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "file": "telecom/End-to-end principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,16 +141,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md"
+                "file": "telecom/End-to-end principle.md"
               }
+            }
+          },
+          {
+            "id": "4405b365eca2d5b0",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,30 +171,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78139d852e56ff1c",
+  "active": "f40b653c3c226f07",
   "lastOpenFiles": [
+    "@10.5555_1365562.1365589.md",
+    "telecom/End-to-end principle.md",
+    "physics/Quantum Key Distribution/Trusted Node.md",
+    "Literature notes/@10.5555_1365562.1365589.md",
+    "Literature notes/pdfs/E2EvsH2H_networking.pdf",
+    "Literature notes/evansTrustedNodeQKD2021.md",
+    "physics/Quantum Key Distribution/Trusted Node.tex",
+    "physics/Quantum Key Distribution/Trusted Node.html",
+    "Untitled.md",
+    "templates/zotero.md",
+    "templates",
+    "Literature notes/@9405393.md",
+    "evansTrustedNodeQKD2021.md",
+    "math/Category Theory/Categories.md",
     "Excalidraw/laurent-theorem.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 12.05.22.excalidraw.md",
     "Excalidraw/test-2.excalidraw",
-    "physics/Quantum Key Distribution/Trusted Node.md",
-    "Literature notes/pdfs/E2EvsH2H_networking.pdf",
-    "Literature notes/@10.5555_1365562.1365589.md",
-    "Literature notes/@9405393.md",
-    "telecom/End-to-end principle.md",
     "Literature notes/pdfs/qkd/TN_QKD_at_Electrical_Utility.pdf",
     "Literature notes/pdfs/qkd",
     "Literature notes/pdfs/Untitled.md",
     "Literature notes/pdfs",
     "Literature notes",
     "citations.bib",
-    "citatons.bib",
-    "acm_1365562.1365589.bib",
     "math/Category Theory/Monoids.md",
-    "bib/acm_1365562.1365589.bib",
     "2024-04-01.md",
     "philosophy/Philosohpy of Science/Lakatos.md",
     "physics/Quantum Mechanics/Symmetries.md",
-    "Untitled.md",
     "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
     "physics/Quantum Mechanics/Density operators.md",
     "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
@@ -196,10 +209,6 @@
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
-    "math/Geometry/Projective Geometry/Projective spaces.md",
-    "math/Geometry/Projective Geometry/Projective subspaces.md",
-    "math/Information Theory/Shannon's Entropy.md",
-    "math/Topology/Topological spaces/Hausdorff space.md",
     "attachments/derivations.png",
     "attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
