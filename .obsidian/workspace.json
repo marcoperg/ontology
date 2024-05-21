@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Cryptography/Information Theoretic Security.md",
+                "file": "physics/Quantum Key Distribution/Trusted Node.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 282.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Cryptography/Information Theoretic Security.md",
+                "file": "physics/Quantum Key Distribution/Trusted Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Cryptography/Information Theoretic Security.md",
+                "file": "physics/Quantum Key Distribution/Trusted Node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Cryptography/Information Theoretic Security.md"
+                "file": "physics/Quantum Key Distribution/Trusted Node.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -173,9 +173,9 @@
   },
   "active": "e36452d5c3cef0a3",
   "lastOpenFiles": [
-    "math/Cryptography/Shamir's secret sharing.md",
-    "math/Cryptography/Information Theoretic Security.md",
     "physics/Quantum Key Distribution/Trusted Node.md",
+    "math/Cryptography/Information Theoretic Security.md",
+    "math/Cryptography/Shamir's secret sharing.md",
     "math/Cryptography",
     "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
     "10 attachments/Excalidraw/laurent-theorem.excalidraw.md",

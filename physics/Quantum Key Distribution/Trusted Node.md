@@ -3,7 +3,24 @@ In the current situation of Quantum Information (QI) and Quantum Computation (QC
 ## Naive hop-2-hop version
 If you can trust complete each trusted node the default protocol you may use is a hop-by-hop message transmission as depicted by [@evansTrustedNodeQKD2021]
 
+
+## Future lines of development
+
+### Reducing security assumptions
+
+In order to reduce the security assumptions of trusted nodes there are various proposed changes:
+1. One of the main ideas has been to use a **Centralised Key Management System (CKMS)**. In principle this idea secures the system against attacks to a single Trusted Node, i.e. the attackers would need to compromise one TN and the CKMS. As explained by [@jamesKeyManagementSystems2023] this fact is not that clear and this method has its opposition.
+2. **Measure Device Independent QKD (MDI-QKD)** adds the possibility of a unstrusted location at the quantum channel with the downside of requiring perfect state preparation by the two parties. This approach needs of Qubit Amplifiers and is more technically difficult, see [@zapateroLongdistanceDeviceindependentQuantum2019]. This and the next approach come from the paper [@mehicQKDNeworking].
+3. **Rely on multiple paths**: this is the most practical method today resorts to classic technology and employs multiple paths and threshold cryptographic techniques to mitigate the risk of eavesdropping.
+
+### Simplified Trusted Nodes
+In order to reduce computational overhead [@PhysRevA.91.012338] proposes a new type of trusted nodes called Simplified Trusted Nodes (STN). The improvement is done by doing the classical post-processing, .ie. information reconciliation and privacy amplification, only in the end-nodes Alice and Bob in contrast to classical TN that does it on all intermediary nodes. This in a way enforces a better approximation of the [[End-to-end principle]] of computer networking. 
+	
+There are also arguments about STNs having security advantages over more traditional TNs. Mainly, that if an adversary compromises a STN ti would only get the raw key information, lacking the later privacy amplification information that only occurs on the end-points in this paradigm. For more on this and a Finite-Key security proof of this type of QKD see [@krawec2024finite].
+
 # Other documents
 - [aribus - Towards a better approach for Quantum-Key-Distribution (QKD) Networks key management](https://securecommunications.airbus.com/en/newsroom/news/2023-04-towards-a-better-approach-for-quantum-key-distribution-qkd-networks-key)
 
-	
+### Preguntas MadQKD
+- Does MadQKD uses STN in any connection? Can it use it? Or is a manufacturing thing of the QKD modules?
+- Does MADQKD uses a Centralised Key Management System? Has it been considered?

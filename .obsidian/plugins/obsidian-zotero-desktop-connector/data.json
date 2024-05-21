@@ -18,7 +18,6 @@
       "outputPathTemplate": "20 Literature notes/{{citekey}}.md",
       "imageOutputPathTemplate": "10 attachments/{{citekey}}/",
       "imageBaseNameTemplate": "image",
-      "templatePath": "templates/zotero.md",
       "cslStyle": "apa"
     }
   ],
