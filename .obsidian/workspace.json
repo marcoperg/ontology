@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md",
+                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/Quantum Key Distribution/Trusted Node.md"
+                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,6 +173,8 @@
   },
   "active": "e36452d5c3cef0a3",
   "lastOpenFiles": [
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
     "physics/Quantum Key Distribution/Trusted Node.md",
     "math/Cryptography/Information Theoretic Security.md",
     "math/Cryptography/Shamir's secret sharing.md",
@@ -207,8 +209,6 @@
     "physics/Quantum Mechanics/Density operators.md",
     "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
     "math/Set Theory/Zorn's Lemma.md",
-    "math/Transfinite Induction.md",
-    "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
     "10 attachments/derivations.png",
     "10 attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",

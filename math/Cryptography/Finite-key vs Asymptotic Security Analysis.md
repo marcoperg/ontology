@@ -1,0 +1,5 @@
+When creating security proofs for cryptographic protocols is important to distinguish between two main type of security arguments.
+
+1. **Asymptotic** analysis checks the limit when the key size $N_k$ goes to infinity $N_k \to \infty$ and tries to get a bound on the entropy that an eavesdropper can get about the key, making it, if possible, go to zero as the key size grows. This is useful mathematically but one cannot use it as a proof for the practical case.
+
+2. On the order hand, we have **finite key** analysis where ones makes the proof parting from a practical finite key size, creating a practical bound on the entropy per key size.
