@@ -1,3 +1,7 @@
+---
+aliases:
+  - L2
+---
 $L^2$ is the [[Hilbert Spaces|Hilbert Space]] form by the square integrable functions, that is, functions  $f:\mathbb{R} \to \mathbb{C}$ such that:
 $$
 \int_{-\infty}^\infty |f(x)|^2\,dx < \infty

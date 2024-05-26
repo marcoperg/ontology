@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Functional Analysis/L2 spcae.md",
+                "file": "math/Functional Analysis/L2 space.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Functional Analysis/L2 spcae.md",
+                "file": "math/Functional Analysis/L2 space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Functional Analysis/L2 spcae.md",
+                "file": "math/Functional Analysis/L2 space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Functional Analysis/L2 spcae.md"
+                "file": "math/Functional Analysis/L2 space.md"
               }
             }
           },
@@ -171,10 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e8ca9d445c5d212",
+  "active": "e36452d5c3cef0a3",
   "lastOpenFiles": [
     "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
-    "math/Functional Analysis/L2 spcae.md",
+    "math/Functional Analysis/L2 space.md",
     "math/Functional Analysis",
     "math/Untitled.md",
     "physics/Quantum Mechanics/Symmetries.md",
