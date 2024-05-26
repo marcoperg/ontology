@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1c171df13b282697",
+        "id": "9407c4a92075d0d6",
         "type": "tabs",
         "children": [
           {
-            "id": "d526f7b4a408320f",
+            "id": "a56398e995981f85",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Topology/Metric spaces/Bounded set.md",
-                "staged": false
+                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compactness",
+                "query": "algebra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md"
+              }
             }
           },
           {
@@ -166,17 +171,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "a56398e995981f85",
   "lastOpenFiles": [
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Algebra/Vector spaces/Tensor product.md",
+    "math/Algebra/Vector spaces/Vector spaces.md",
+    "math/Algebra/Algebraic dual space.md",
+    "math/Algebra/Algebras/Associative Algebra.md",
+    "math/Algebra/Algebras/C*-algebra.md",
+    "math/Algebra/Algebras",
+    "math/Algebra/Algebras/Algebra.md",
+    "math/Functional Analysis/Spectral theorem.md",
+    "math/Functional Analysis/Riesz representation theorem.md",
     "math/Topology/Metric spaces/Bounded set.md",
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Metric spaces/Totally bounded space.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Topology/Metric spaces/Metric spaces.md",
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
-    "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
     "math/Functional Analysis/L2 space.md",
     "math/Functional Analysis",
     "math/Untitled.md",
@@ -190,22 +204,13 @@
     "physics/Quantum Key Distribution/Untitled",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Cryptography/Information Theoretic Security.md",
-    "math/Cryptography/Shamir's secret sharing.md",
     "math/Cryptography",
-    "math/Analysis/Complex Analysis/Infinite Series/Laurent's Theorem.md",
-    "10 attachments/Excalidraw/laurent-theorem.excalidraw.md",
-    "telecom/End-to-end principle.md",
-    "@10.5555_1365562.1365589.md",
-    "Literature notes/@10.5555_1365562.1365589.md",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",
-    "20 Literature notes/evansTrustedNodeQKD2021.md",
     "physics/Quantum Key Distribution/Trusted Node.tex",
     "physics/Quantum Key Distribution/Trusted Node.html",
-    "Untitled.md",
     "20 Literature notes/templates",
     "Excalidraw/test-2.excalidraw",
     "Literature notes/pdfs/qkd/TN_QKD_at_Electrical_Utility.pdf",
-    "Literature notes/pdfs/qkd",
     "10 attachments/derivations.png",
     "10 attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
