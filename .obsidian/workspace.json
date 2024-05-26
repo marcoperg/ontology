@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9407c4a92075d0d6",
+        "id": "b1a01a701614ffc7",
         "type": "tabs",
         "children": [
           {
-            "id": "a56398e995981f85",
+            "id": "bdbcf73414f0358e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,10 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a56398e995981f85",
+  "active": "bdbcf73414f0358e",
   "lastOpenFiles": [
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "philosophy/Philosohpy of Science/Lakatos.md",
+    "physics/Quantum Key Distribution/Key relay.md",
+    "Untitled.canvas",
+    "20 Literature notes/templates/zotero.md",
     "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Algebra/Vector spaces/Tensor product.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
@@ -195,15 +191,12 @@
     "math/Functional Analysis",
     "math/Untitled.md",
     "physics/Quantum Mechanics/Symmetries.md",
-    "physics/Quantum Key Distribution/Key relay.md",
-    "Pasted image 20240525204719.png",
+    "10 attachments/Pasted image 20240525204719.png",
     "physics/Quantum Key Distribution/Trusted Node.md",
-    "Pasted image 20240525204429.png",
+    "10 attachments/Pasted image 20240525204429.png",
     "physics/Quantum Mechanics/Density operators.md",
     "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
     "physics/Quantum Key Distribution/Untitled",
-    "math/Topology/Topological spaces/Connectedness.md",
-    "math/Cryptography/Information Theoretic Security.md",
     "math/Cryptography",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",
     "physics/Quantum Key Distribution/Trusted Node.tex",
@@ -216,7 +209,6 @@
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

@@ -8,31 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Statistics  ",
+      "query": "path:\"math/\"",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16731392
       }
     },
     {
-      "query": "path:Geometry  ",
+      "query": "path:physics  ",
       "color": {
         "a": 1,
-        "rgb": 45854
-      }
-    },
-    {
-      "query": "path:\"math/Algebra/Group Theory\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:\"math/Algebra/Ring Theory\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 801804
+        "rgb": 57855
       }
     }
   ],
@@ -46,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4627227909835227,
-  "close": true
+  "scale": 0.1781422798936517,
+  "close": false
 }
