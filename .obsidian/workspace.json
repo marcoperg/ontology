@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
+                "file": "math/Functional Analysis/L2 spcae.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
+                "file": "math/Functional Analysis/L2 spcae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
+                "file": "math/Functional Analysis/L2 spcae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md"
+                "file": "math/Functional Analysis/L2 spcae.md"
               }
             }
           },
@@ -171,11 +171,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e36452d5c3cef0a3",
+  "active": "9e8ca9d445c5d212",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Connectedness.md",
-    "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
+    "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
+    "math/Functional Analysis/L2 spcae.md",
+    "math/Functional Analysis",
+    "math/Untitled.md",
+    "physics/Quantum Mechanics/Symmetries.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "physics/Quantum Key Distribution/Key relay.md",
+    "Pasted image 20240525204719.png",
     "physics/Quantum Key Distribution/Trusted Node.md",
+    "Pasted image 20240525204429.png",
+    "physics/Quantum Mechanics/Density operators.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
+    "physics/Quantum Key Distribution/Untitled",
+    "math/Topology/Topological spaces/Connectedness.md",
     "math/Cryptography/Information Theoretic Security.md",
     "math/Cryptography/Shamir's secret sharing.md",
     "math/Cryptography",
@@ -199,16 +211,6 @@
     "Literature notes/pdfs/qkd/TN_QKD_at_Electrical_Utility.pdf",
     "Literature notes/pdfs/qkd",
     "Literature notes/pdfs/Untitled.md",
-    "Literature notes/pdfs",
-    "20 Literature notes",
-    "math/Category Theory/Monoids.md",
-    "2024-04-01.md",
-    "philosophy/Philosohpy of Science/Lakatos.md",
-    "physics/Quantum Mechanics/Symmetries.md",
-    "physics/Quantum Mechanics/mathematical background/Pauli Group.md",
-    "physics/Quantum Mechanics/Density operators.md",
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
-    "math/Set Theory/Zorn's Lemma.md",
     "10 attachments/derivations.png",
     "10 attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
