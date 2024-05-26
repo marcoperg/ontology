@@ -1,6 +1,7 @@
 ---
 aliases:
   - complete metric space
+  - complete
 ---
 A [[Metric spaces|metric space]] $M$ is called **complete** if every Cauchy Sequence of points in $M$ has a limit that is also in $M$.
 
