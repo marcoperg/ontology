@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+                "file": "physics/Quantum Mechanics/Density operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+                "file": "physics/Quantum Mechanics/Density operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+                "file": "physics/Quantum Mechanics/Density operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md"
+                "file": "physics/Quantum Mechanics/Density operators.md"
               }
             }
           },
@@ -173,11 +173,13 @@
   },
   "active": "5d65ea141e84d071",
   "lastOpenFiles": [
+    "physics/Quantum Mechanics/Pure vs mixed sates.md",
+    "physics/Quantum Mechanics/Density operators.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
     "physics/Quantum Key Distribution/Key relay.md",
     "physics/Quantum Key Distribution/Trusted Node.md",
-    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
     "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
-    "physics/Quantum Mechanics/Density operators.md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Fixed Points.md",
@@ -185,7 +187,6 @@
     "philosophy/Philosohpy of Science/Lakatos.md",
     "Untitled.canvas",
     "20 Literature notes/templates/zotero.md",
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Algebra/Vector spaces/Tensor product.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
@@ -200,7 +201,6 @@
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
     "math/Topology/Metric spaces/Totally bounded space.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
-    "math/Topology/Metric spaces/Metric spaces.md",
     "math/Functional Analysis",
     "10 attachments/Pasted image 20240525204719.png",
     "10 attachments/Pasted image 20240525204429.png",

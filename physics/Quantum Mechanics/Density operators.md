@@ -1,4 +1,4 @@
-The density operator language provides a convenient means for describing quantum systems whose state is not completely known. More precisely, suppose a quantum system is in one of a number of states $|\psi_i\rangle$, where $i$ is an index, with respective probabilities $p_i$. We call $\{p_i, |\psi\rangle\}$ an _ensemble of pure states_. The density operator for the system is defined by the equation
+The density operator language provides a convenient means for describing quantum systems whose state is not completely known (see [[Pure vs mixed sates|mixed state]]). More precisely, suppose a quantum system is in one of a number of states $|\psi_i\rangle$, where $i$ is an index, with respective probabilities $p_i$. We call $\{p_i, |\psi\rangle\}$ an _ensemble of pure states_. The density operator for the system is defined by the equation
 $$
 \rho := \sum_i p_i |\psi_i\rangle\langle\psi_i|.
 $$
