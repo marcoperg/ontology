@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b1a01a701614ffc7",
+        "id": "6fb68e4908c84cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "bdbcf73414f0358e",
+            "id": "5d65ea141e84d071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md"
               }
             }
           },
@@ -171,14 +171,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bdbcf73414f0358e",
+  "active": "5d65ea141e84d071",
   "lastOpenFiles": [
+    "physics/Quantum Key Distribution/Key relay.md",
+    "physics/Quantum Key Distribution/Trusted Node.md",
+    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+    "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
+    "physics/Quantum Mechanics/Density operators.md",
+    "math/Topology/Topological spaces/Compactness.md",
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Fixed Points.md",
     "README.md",
     "philosophy/Philosohpy of Science/Lakatos.md",
-    "physics/Quantum Key Distribution/Key relay.md",
     "Untitled.canvas",
     "20 Literature notes/templates/zotero.md",
-    "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
     "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Algebra/Vector spaces/Tensor product.md",
@@ -192,18 +198,12 @@
     "math/Functional Analysis/Riesz representation theorem.md",
     "math/Topology/Metric spaces/Bounded set.md",
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
-    "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Metric spaces/Totally bounded space.md",
     "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Topology/Metric spaces/Metric spaces.md",
-    "math/Functional Analysis/L2 space.md",
     "math/Functional Analysis",
-    "math/Untitled.md",
-    "physics/Quantum Mechanics/Symmetries.md",
     "10 attachments/Pasted image 20240525204719.png",
-    "physics/Quantum Key Distribution/Trusted Node.md",
     "10 attachments/Pasted image 20240525204429.png",
-    "physics/Quantum Mechanics/Density operators.md",
     "physics/Quantum Key Distribution/Untitled",
     "math/Cryptography",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",

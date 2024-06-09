@@ -9,7 +9,7 @@
   "highDPIDiagrams": true,
   "pandoc": "/opt/homebrew/bin/pandoc",
   "pdflatex": null,
-  "outputFolder": "/home/marco/Downloads",
+  "outputFolder": "/Users/meu/Downloads",
   "extraArguments": "",
   "exportFrom": "html"
 }
