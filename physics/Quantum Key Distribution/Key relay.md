@@ -12,3 +12,7 @@ Image from [@aguadomartinEnablingQuantumCryptography] page 23.
 ![[Pasted image 20240525204719.png]]
 Image from [@aguadomartinEnablingQuantumCryptography] page 26.
 
+
+## Airbus CKMS
+![[Pasted image 20240611105843.png]]
+Image from [@vyasRelaxingTrustAssumptions2024]

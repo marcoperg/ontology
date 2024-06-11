@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6fb68e4908c84cf2",
+        "id": "26e339343b69c240",
         "type": "tabs",
         "children": [
           {
-            "id": "5d65ea141e84d071",
+            "id": "4c35d30a3dbcc411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md",
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algebra",
+                "query": "ToDo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md",
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md",
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/Quantum Mechanics/Density operators.md"
+                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md"
               }
             }
           },
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,17 +171,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d65ea141e84d071",
+  "active": "4c35d30a3dbcc411",
   "lastOpenFiles": [
-    "physics/Quantum Mechanics/Pure vs mixed sates.md",
-    "physics/Quantum Mechanics/Density operators.md",
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "10 attachments/Excalidraw/Drawing 2024-06-11 12.22.10.excalidraw.md",
+    "10 attachments/derivations.png",
     "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
     "physics/Quantum Key Distribution/Key relay.md",
+    "Pasted image 20240611123149.png",
+    "Pasted image 20240611122833.png",
     "physics/Quantum Key Distribution/Trusted Node.md",
+    "Pasted image 20240611105843.png",
     "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
-    "math/Topology/Topological spaces/Compactness.md",
+    "physics/Quantum Mechanics/Density operators.md",
+    "math/Algebra/Algebras/C*-algebra.md",
+    "math/Algebra/Algebras/Associative Algebra.md",
+    "math/Algebra/Algebras/Algebra.md",
+    "math/Functional Analysis/Riesz representation theorem.md",
     "math/Topology/Topological spaces/Connectedness.md",
+    "physics/Quantum Mechanics/Pure vs mixed sates.md",
+    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
+    "math/Topology/Topological spaces/Compactness.md",
     "math/Fixed Points.md",
     "README.md",
     "philosophy/Philosohpy of Science/Lakatos.md",
@@ -191,16 +200,10 @@
     "math/Algebra/Vector spaces/Tensor product.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Algebra/Algebraic dual space.md",
-    "math/Algebra/Algebras/Associative Algebra.md",
-    "math/Algebra/Algebras/C*-algebra.md",
     "math/Algebra/Algebras",
-    "math/Algebra/Algebras/Algebra.md",
     "math/Functional Analysis/Spectral theorem.md",
-    "math/Functional Analysis/Riesz representation theorem.md",
     "math/Topology/Metric spaces/Bounded set.md",
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
-    "math/Topology/Metric spaces/Totally bounded space.md",
-    "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Functional Analysis",
     "10 attachments/Pasted image 20240525204719.png",
     "10 attachments/Pasted image 20240525204429.png",
@@ -212,7 +215,6 @@
     "20 Literature notes/templates",
     "Excalidraw/test-2.excalidraw",
     "Literature notes/pdfs/qkd/TN_QKD_at_Electrical_Utility.pdf",
-    "10 attachments/derivations.png",
     "10 attachments/resolution.png",
     "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
