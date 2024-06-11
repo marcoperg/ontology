@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26e339343b69c240",
+        "id": "dbc58e2352bb2683",
         "type": "tabs",
         "children": [
           {
-            "id": "4c35d30a3dbcc411",
+            "id": "d0b6cc94ea437c66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,16 +163,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c35d30a3dbcc411",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+    "10 attachments/Pasted image 20240611105843.png",
     "10 attachments/Excalidraw/Drawing 2024-06-11 12.22.10.excalidraw.md",
     "10 attachments/derivations.png",
-    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
     "physics/Quantum Key Distribution/Key relay.md",
-    "Pasted image 20240611123149.png",
-    "Pasted image 20240611122833.png",
+    "10 attachments/Pasted image 20240611123149.png",
+    "10 attachments/Pasted image 20240611122833.png",
     "physics/Quantum Key Distribution/Trusted Node.md",
-    "Pasted image 20240611105843.png",
     "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
     "physics/Quantum Mechanics/Density operators.md",
     "math/Algebra/Algebras/C*-algebra.md",
