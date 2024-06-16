@@ -1,4 +1,4 @@
-# Introduction (motivation)
+ # Introduction (motivation)
 
 Trusted nodes arise as a solution to two important problems in current QKD networks.
 
@@ -22,6 +22,11 @@ Every intermediate node must be able to:
 2. Receive and forward a part (or the totality) of the final key from the previous node to the end node. The classical approach is to receive the total key and relay it to the next node in the chain until it reached the end. For other alternatives, see [[#Relay protocols]]
 
 ## Components
+
+In order to conduct the operations needed to satisfy the require capabilities, a trusted node must have three components:
+- A **QKD Module**,  that is able to share key with the two adjacent nodes of the chain. This usually translate to two or more QKD devices installed in the node.
+- A **Key Forwarding Module** that is able to read the key, store it temporarily and relay it through to the end node.
+- The **Node Control** that is able to manage the process and effectuate the protocol while communicating to the rest of the chain its status. In SDN QKD Networks, this would mean speaking to the centralized controller and to both QKD and Key Forwarding Modules.
 
 ## Security Assumptions
 
