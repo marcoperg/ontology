@@ -16,3 +16,10 @@ In this version of the algorithm, we use the Advantage of an action instead of i
 This is a modified version of the A2C where multiple threads updates the asynchronously the actor model. This is for better sampling and exploration efficiency.
 
 ![[Pasted image 20240625175535.png]]
+It was introduced by [@mnihAsynchronousMethodsDeep2016]
+
+## Summary of common baseline functions
+
+![[Pasted image 20240625195724.png]]
+	Image taken from CMU CS10703 lecture slides
+
