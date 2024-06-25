@@ -1,0 +1,27 @@
+In Policy Gradient [[Reinforcement Learning|RL]] we train a model that approximates an optimal policy $\pi$, usually denoted $\pi_\theta$, where $\theta$ stands for the parameters of the model.
+
+
+The basis Policy Gradient algorithm is REINFORCE.
+
+## REINFORCE Algorithm
+
+In REINFORCE we model the policy $\pi$ as a probability distribution over actions which we parametrize by $\pi(a |s ; \theta)$. Moreover, we update the parameters $\theta$ by performing, typically approximate, gradient descent over $\mathbb{E}[R_t]$. We use the unbiased estimator $\nabla_\theta\log\pi(a_t | s; \theta)R_t$ of $\nabla_\theta\mathbb{E}[R_t]$. It is possible to reduce the variance of the estimate while keeping it unbiased by subtracting a learned function of the state $b_t(s_t)$, known as a baseline, from the return. Resulting on the following gradient $\nabla_\theta\log\pi(a_t | s; \theta)(R_t - b_t(s_t))$.
+
+The algorithm result in the following:
+```pseudo
+	\begin{algorithm}
+	\caption{Algo Caption}
+	\begin{algorithmic}
+		\Procedure{REINFORCE}{}
+			\State Initialize $\theta$
+			\State Run episodes $\{s_1, a_1, r_2, \dots, s_{T-1}, a_{T-1}, r_T\}$ following policy $\pi_\theta$.
+			\For{each episode}
+				\For{$t=1$ \To $T-1$}
+					\State $\theta \leftarrow \theta + \alpha \nabla_\theta\log\pi_\theta(s_t, a_t)R_t$
+				\EndFor
+			\EndFor
+		\EndProcedure
+	\end{algorithmic}
+	\end{algorithm}
+```
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "533496c359cda0da",
+        "id": "a6c2e21d8d3bbce4",
         "type": "tabs",
         "children": [
           {
-            "id": "d97389b9185f49cc",
+            "id": "32102aaae04ba1fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+                "file": "ml/Reinforcement Learning/Actor Critic.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "support",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 294.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+                "file": "ml/Reinforcement Learning/Actor Critic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+                "file": "ml/Reinforcement Learning/Actor Critic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md"
+                "file": "ml/Reinforcement Learning/Actor Critic.md"
               }
             }
           },
@@ -172,16 +172,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "32102aaae04ba1fa",
   "lastOpenFiles": [
+    "ml/Reinforcement Learning/Policy Gradient.md",
+    "ml/Reinforcement Learning/Actor Critic.md",
+    "ml/Reinforcement Learning/Reinforcement Learning.md",
+    "10 attachments/rl_algorithms_9_15.svg",
+    "Pasted image 20240625181210.png",
+    "Pasted image 20240625181205.png",
+    "10 attachments/Pasted image 20240625181052.png",
+    "Pasted image 20240625175531.png",
+    "10 attachments/Pasted image 20240625175535.png",
+    "10 attachments/Pasted image 20240625153307.png",
+    "ml/Reinforcement Learning",
+    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
+    "ml",
     "physics/Quantum Key Distribution/Trusted Node.md",
     "physics/Quantum Key Distribution/Key relay.md",
-    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
     "math/Support.md",
     "Seminario ML.md",
     "Seminario ML 1.md",
     "Seminario ML.txt",
-    "Untitled",
     "physics/Quantum Mechanics/Density operators.md",
     "physics/Quantum Mechanics/Pure vs mixed sates.md",
     "math/Cryptography/Notes on QSNP Deriverable 6.1.md",
@@ -192,7 +203,6 @@
     "10 attachments/Excalidraw/Drawing 2024-06-11 12.22.10.excalidraw.md",
     "10 attachments/derivations.png",
     "10 attachments/Pasted image 20240611123149.png",
-    "10 attachments/Pasted image 20240611122833.png",
     "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
     "math/Algebra/Algebras/C*-algebra.md",
     "math/Algebra/Algebras/Associative Algebra.md",
@@ -203,22 +213,14 @@
     "math/Topology/Topological spaces/Compactness.md",
     "math/Fixed Points.md",
     "README.md",
-    "philosophy/Philosohpy of Science/Lakatos.md",
     "Untitled.canvas",
-    "20 Literature notes/templates/zotero.md",
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "math/Algebra/Algebras",
     "math/Functional Analysis",
-    "10 attachments/Pasted image 20240525204719.png",
-    "10 attachments/Pasted image 20240525204429.png",
     "physics/Quantum Key Distribution/Untitled",
     "math/Cryptography",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",
     "physics/Quantum Key Distribution/Trusted Node.tex",
     "physics/Quantum Key Distribution/Trusted Node.html",
-    "20 Literature notes/templates",
-    "10 attachments/resolution.png",
-    "math/Algebra/Group Theory/512px-Laurent_series.svg.png",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled 1.canvas",

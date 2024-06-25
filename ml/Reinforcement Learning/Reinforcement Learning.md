@@ -1,0 +1,21 @@
+---
+aliases:
+  - RL
+---
+
+In reinforcement learning (RL) we are given an Environment $\mathcal{E}$ which can be in any state $s_t$ of the state space $\mathcal{S}$ and we have an Agent which can take any action $a_t$ in the action space $\mathcal{A}$. At time $t$, if the environment is at state $s_t \in \mathcal{S}$ each action $a_t\in\mathcal{A}$ has an associated reward $r_t$ (usually in $\mathbb{R}$) we wish to maximize. In order to do so, we have an action $\pi: \mathcal{S} \to \mathcal{A}$.
+
+
+![[Pasted image 20240625153307.png]]
+
+## Classical RL setting
+
+In the standard reinforcement learning setting, an agent interacts with an environment $\mathcal{E}$ over a number of discrete time steps. At each time step $t$, the agent receives a state $s_t$ and selects an action $a_t$ from some set of possible actions $\mathcal{A}$ according to its policy $\pi$, where $\pi$ is a mapping from states $s_t$ to actions $a_t$. In return, the agent receives the next state $s_{t+1}$ and receives a scalar reward $r_t$.
+
+Interesting quantities when training the models are the accumulated return $R_t = \sum_{k=0}^\infty \gamma^k r_{t+k}$ where $\gamma \in (0,1]$ is a discount factor. The goal of the agent is to maximize the expected return from its current state $s_t$. The process can stop when reaching a final state $s_T$ from which the reward is set to zero.
+
+The value of state $s_t$ under policy $\pi$ is defined as $V^\pi = \mathbb{E}[R_t | s_t=s]$ and is the expected return for following policy $\pi$ starting at state $s_t$. The action value $Q^\pi(s,a) = \mathbb{E}[R_t|s_t = s, a]$ is the expected return for selecting action $a$ in state $s$ and following policy $\pi$. And the optimal value function $Q^*(s, a) = \max_\pi Q^\pi(s,a)$ gives the maximum action value for state $s$ and action $a$ achievable by any policy.
+
+## Taxonomy from OpenAI
+
+![[rl_algorithms_9_15.svg]]
