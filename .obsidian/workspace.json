@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6c2e21d8d3bbce4",
+        "id": "ef96084cf1988bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "32102aaae04ba1fa",
+            "id": "aae8f3879f4f1b3f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "ml/Reinforcement Learning/Proximal Policy Optimization.md",
-                "mode": "source",
-                "source": false
+                "file": "GIICC/Preguntas QIA.md",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ml/Reinforcement Learning/Proximal Policy Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ml/Reinforcement Learning/Proximal Policy Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ml/Reinforcement Learning/Proximal Policy Optimization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,14 +167,28 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "32102aaae04ba1fa",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Algebra/Group Theory/Group Action.md",
+    "math/Geometry/Affine Geometry/Affine Space.md",
+    "10 attachments/Excalidraw/EntaglementMS.excalidraw.md",
+    "math/Geometry/Affine Geometry",
+    "GIICC/Entanglement Management System.md",
+    "GIICC/Preguntas QIA.md",
+    "GIICC/Comments QSNP Deliverable 6.1.md",
+    "Untitled.md",
+    "GIICC/Seminario ML.md",
+    "ml/Reinforcement Learning/Actor Critic.md",
+    "GIICC/Proposition EMS.md",
+    "GIICC/Technical Definition Trusted Nodes.md",
+    "GIICC",
+    "ml/Reinforcement Learning/Policy Gradient.md",
+    "math/Statistics/Central Limit Theorem.md",
+    "math/Discrete Math/Graph Theory/Graphs.md",
+    "ml/Reinforcement Learning/Proximal Policy Optimization.md",
     "Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
     "ml/Reinforcement Learning/Reinforcement Learning.md",
-    "ml/Reinforcement Learning/Actor Critic.md",
-    "ml/Reinforcement Learning/Policy Gradient.md",
-    "ml/Reinforcement Learning/Proximal Policy Optimization.md",
     "10 attachments/Pasted image 20240625195724.png",
     "10 attachments/rl_algorithms_9_15.svg",
     "Pasted image 20240625181210.png",
@@ -189,12 +198,10 @@
     "10 attachments/Pasted image 20240625175535.png",
     "10 attachments/Pasted image 20240625153307.png",
     "ml/Reinforcement Learning",
-    "physics/Quantum Key Distribution/Technical Definition Trusted Nodes.md",
     "ml",
     "physics/Quantum Key Distribution/Trusted Node.md",
     "physics/Quantum Key Distribution/Key relay.md",
     "math/Support.md",
-    "Seminario ML.md",
     "Seminario ML 1.md",
     "Seminario ML.txt",
     "physics/Quantum Mechanics/Density operators.md",
@@ -203,24 +210,12 @@
     "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
     "math/Cryptography/Shamir's secret sharing.md",
     "math/Cryptography/Information Theoretic Security.md",
-    "10 attachments/Pasted image 20240611105843.png",
-    "10 attachments/Excalidraw/Drawing 2024-06-11 12.22.10.excalidraw.md",
-    "physics/Quantum Mechanics/Eigenfunctions of hermitian operators.md",
-    "math/Algebra/Algebras/C*-algebra.md",
-    "math/Algebra/Algebras/Associative Algebra.md",
-    "math/Algebra/Algebras/Algebra.md",
-    "math/Functional Analysis/Riesz representation theorem.md",
-    "math/Topology/Topological spaces/Connectedness.md",
-    "physics/Quantum Mechanics/Postulates of Quantum Mechanics.md",
-    "math/Topology/Topological spaces/Compactness.md",
     "Untitled.canvas",
     "math/Algebra/Algebras",
     "math/Functional Analysis",
     "physics/Quantum Key Distribution/Untitled",
     "math/Cryptography",
     "Literature notes/pdfs/E2EvsH2H_networking.pdf",
-    "physics/Quantum Key Distribution/Trusted Node.tex",
-    "physics/Quantum Key Distribution/Trusted Node.html",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled 1.canvas",

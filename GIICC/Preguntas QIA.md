@@ -1,0 +1,5 @@
+- Toda la cadena misma ventana temporal?
+	- Según [@inestaOptimalEntanglementDistribution2023], sí.
+- Como hacer el scheduling? ¿Descentralizado o el controlador? ¿Quien decide la ventana temporal?
+- On-demand vs continuous
+- What is the Entanglement Swap model? Swap-ASAP?
