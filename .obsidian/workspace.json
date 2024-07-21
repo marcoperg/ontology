@@ -11,8 +11,12 @@
             "id": "1277e6638f3e0f97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/Geometry/Affine Geometry/Affine Space.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Geometry/Affine Geometry/Affine Space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Geometry/Affine Geometry/Affine Space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/Geometry/Affine Geometry/Affine Space.md"
+              }
             }
           },
           {
@@ -164,7 +172,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "1277e6638f3e0f97",
   "lastOpenFiles": [
     "math/Algebra/Group Theory/Group Action.md",
     "math/Geometry/Affine Geometry/Affine Space.md",
