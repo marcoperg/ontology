@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ef96084cf1988bc3",
+        "id": "33d34df4e854dde0",
         "type": "tabs",
         "children": [
           {
-            "id": "aae8f3879f4f1b3f",
+            "id": "1277e6638f3e0f97",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "GIICC/Preguntas QIA.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
