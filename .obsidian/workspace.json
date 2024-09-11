@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Logic/Metalogic/Structure.md",
+                "file": "math/Logic/Metalogic/Formal Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/Metalogic/Structure.md",
+                "file": "math/Logic/Metalogic/Formal Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Logic/Metalogic/Structure.md",
+                "file": "math/Logic/Metalogic/Formal Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Logic/Metalogic/Structure.md"
+                "file": "math/Logic/Metalogic/Formal Theory.md"
               }
             }
           },
@@ -175,8 +174,10 @@
   },
   "active": "bb6bfdb887b2e5d0",
   "lastOpenFiles": [
-    "math/Logic/Metalogic/Structure.md",
     "math/Logic/Metalogic/Logical Consequence.md",
+    "math/Functional Analysis/Riesz representation theorem.md",
+    "math/Functional Analysis/L2 space.md",
+    "math/Logic/Metalogic/Structure.md",
     "math/Logic/Metalogic/Formal Theory.md",
     "math/Logic/Metalogic",
     "math/Logic/First Order Logic/Unification.md",
@@ -205,7 +206,6 @@
     "ml/Reinforcement Learning/Proximal Policy Optimization.md",
     "Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
-    "ml/Reinforcement Learning/Reinforcement Learning.md",
     "10 attachments/Pasted image 20240625195724.png",
     "10 attachments/rl_algorithms_9_15.svg",
     "Pasted image 20240625181210.png",
@@ -216,7 +216,6 @@
     "10 attachments/Pasted image 20240625153307.png",
     "ml/Reinforcement Learning",
     "ml",
-    "physics/Quantum Key Distribution/Trusted Node.md",
     "Seminario ML.txt",
     "Untitled.canvas",
     "math/Algebra/Algebras",
