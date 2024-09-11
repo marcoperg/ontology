@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33d34df4e854dde0",
+        "id": "ca7c482484375dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "1277e6638f3e0f97",
+            "id": "bb6bfdb887b2e5d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Logic/Formal Theory.md",
+                "file": "math/Logic/Metalogic/Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/Formal Theory.md",
+                "file": "math/Logic/Metalogic/Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Logic/Formal Theory.md",
+                "file": "math/Logic/Metalogic/Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Logic/Formal Theory.md"
+                "file": "math/Logic/Metalogic/Structure.md"
               }
             }
           },
@@ -172,10 +173,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "bb6bfdb887b2e5d0",
   "lastOpenFiles": [
+    "math/Logic/Metalogic/Structure.md",
+    "math/Logic/Metalogic/Logical Consequence.md",
+    "math/Logic/Metalogic/Formal Theory.md",
+    "math/Logic/Metalogic",
     "math/Logic/First Order Logic/Unification.md",
-    "math/Logic/Formal Theory.md",
     "math/Logic/First Order Logic/Skolem Normal Form.md",
     "math/Logic/First Order Logic/Substitution.md",
     "math/Logic/First Order Logic/Derivations and refutations.md",
@@ -213,14 +217,11 @@
     "ml/Reinforcement Learning",
     "ml",
     "physics/Quantum Key Distribution/Trusted Node.md",
-    "physics/Quantum Key Distribution/Key relay.md",
-    "math/Support.md",
     "Seminario ML.txt",
     "Untitled.canvas",
     "math/Algebra/Algebras",
     "math/Functional Analysis",
     "physics/Quantum Key Distribution/Untitled",
-    "math/Cryptography",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled 1.canvas",
