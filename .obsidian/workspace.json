@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca7c482484375dbb",
+        "id": "76a6ff1874757412",
         "type": "tabs",
         "children": [
           {
-            "id": "bb6bfdb887b2e5d0",
+            "id": "7e15e654ec9b3da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Measure Theory/σ algebra.md",
+                "file": "math/Measure Theory/σ-algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Measure Theory/σ algebra.md",
+                "file": "math/Measure Theory/σ-algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Measure Theory/σ algebra.md",
+                "file": "math/Measure Theory/σ-algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Measure Theory/σ algebra.md"
+                "file": "math/Measure Theory/σ-algebra.md"
               }
             }
           },
@@ -172,10 +173,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "7e15e654ec9b3da6",
   "lastOpenFiles": [
     "math/Measure Theory/Borel Sets.md",
-    "math/Measure Theory/σ algebra.md",
+    "math/Measure Theory/σ-algebra.md",
     "math/Analysis/Differentiability classes.md",
     "math/Measure Theory",
     "math/Untitled.md",
