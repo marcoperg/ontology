@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Logic/Metalogic/Formal Theory.md",
+                "file": "math/Measure Theory/σ algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "l2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/Metalogic/Formal Theory.md",
+                "file": "math/Measure Theory/σ algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Logic/Metalogic/Formal Theory.md",
+                "file": "math/Measure Theory/σ algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Logic/Metalogic/Formal Theory.md"
+                "file": "math/Measure Theory/σ algebra.md"
               }
             }
           },
@@ -172,39 +172,40 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb6bfdb887b2e5d0",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Measure Theory/Borel Sets.md",
+    "math/Measure Theory/σ algebra.md",
+    "math/Analysis/Differentiability classes.md",
+    "math/Measure Theory",
+    "math/Untitled.md",
+    "math/Category Theory/Categories.md",
+    "math/Category Theory/Monoids.md",
+    "Uni/Smoke.md",
+    "README.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Compactness.md",
+    "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Logic/Metalogic/Logical Consequence.md",
-    "math/Functional Analysis/Riesz representation theorem.md",
+    "math/Logic/Metalogic/Formal Theory.md",
+    "GIICC/Comments QSNP Deliverable 6.1.md",
+    "GIICC/Preguntas QIA.md",
+    "GIICC/Seminario ML.md",
+    "GIICC/Technical Definition Trusted Nodes.md",
+    "10 attachments/Pasted image 20240625210804.png",
     "math/Functional Analysis/L2 space.md",
     "math/Logic/Metalogic/Structure.md",
-    "math/Logic/Metalogic/Formal Theory.md",
+    "math/Functional Analysis/Riesz representation theorem.md",
     "math/Logic/Metalogic",
     "math/Logic/First Order Logic/Unification.md",
     "math/Logic/First Order Logic/Skolem Normal Form.md",
     "math/Logic/First Order Logic/Substitution.md",
     "math/Logic/First Order Logic/Derivations and refutations.md",
-    "math/Transfinite Induction.md",
-    "Uni/Smoke.md",
-    "GIICC/Comments QSNP Deliverable 6.1.md",
     "Uni",
-    "math/Geometry/Affine Geometry/Affine Space.md",
-    "math/Algebra/Group Theory/Group Action.md",
-    "10 attachments/Excalidraw/EntaglementMS.excalidraw.md",
     "math/Geometry/Affine Geometry",
-    "GIICC/Entanglement Management System.md",
-    "GIICC/Preguntas QIA.md",
-    "Untitled.md",
-    "GIICC/Seminario ML.md",
-    "ml/Reinforcement Learning/Actor Critic.md",
-    "GIICC/Proposition EMS.md",
-    "GIICC/Technical Definition Trusted Nodes.md",
     "GIICC",
-    "ml/Reinforcement Learning/Policy Gradient.md",
-    "math/Statistics/Central Limit Theorem.md",
-    "math/Discrete Math/Graph Theory/Graphs.md",
-    "ml/Reinforcement Learning/Proximal Policy Optimization.md",
-    "Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
     "10 attachments/Pasted image 20240625195724.png",
     "10 attachments/rl_algorithms_9_15.svg",
@@ -220,7 +221,6 @@
     "Untitled.canvas",
     "math/Algebra/Algebras",
     "math/Functional Analysis",
-    "physics/Quantum Key Distribution/Untitled",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled 1.canvas",

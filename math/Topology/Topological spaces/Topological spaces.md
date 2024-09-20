@@ -21,7 +21,7 @@ The set $A$ such that its complement $A^c$ is an open set ($A^c\in \tau$) are ca
 Given a topological space $(X, \tau)$, a subset $N$ of $X$ is called a _neighborhood_ of a point $a \in X$ if $N$ contains an open set that contains $a$.
 
 ### Closure
-Let $A$ be a subset of a topological space. A point $x$ is said to be _in the coluse of $A$_ if, for each neighborhood $N$ of $x$, $N \cap A \neq \emptyset$ .
+Let $A$ be a subset of a topological space. A point $x$ is said to be _in the closure of $A$_ if, for each neighborhood $N$ of $x$, $N \cap A \neq \emptyset$ .
 
 ### Interior
 Given a subset $A$ of a topological space, a point $x$ is said to be _in the interior of $A$_ if $A$ is a neighborhood of $x$. The interior of $A$ is sometimes denoted by $Int(A)$.
