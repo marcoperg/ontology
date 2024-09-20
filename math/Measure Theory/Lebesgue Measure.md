@@ -1,0 +1,5 @@
+
+For any interval $I = [a, b]$ in the set of reals $\mathbb{R}$, let $\mathscr{l}(I) = b -a$ denote its length. For any subset $A \subset \mathbb{R}$, the Lebesgue measure $\lambda^*(E)$ is defined as
+$$
+\lambda^*(E) = \inf\left\{\sum\limits_{k=1}^\infty \mathscr{l}(I_k) : (I_k)_{k\in\mathbb{N}} \text{ is a sequence of open intervals with } E \subset \bigcup_{k=1}^\infty I_k\right\}.
+$$

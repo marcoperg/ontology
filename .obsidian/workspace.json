@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Measure Theory/Measure spaces.md",
+                "file": "math/Measure Theory/Lebesgue Measure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Measure Theory/Measure spaces.md",
+                "file": "math/Measure Theory/Lebesgue Measure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Measure Theory/Measure spaces.md",
+                "file": "math/Measure Theory/Lebesgue Measure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Measure Theory/Measure spaces.md"
+                "file": "math/Measure Theory/Lebesgue Measure.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "7e15e654ec9b3da6",
   "lastOpenFiles": [
-    "math/Measure Theory/σ-algebra.md",
     "math/Measure Theory/Measure spaces.md",
+    "math/Measure Theory/Lebesgue Measure.md",
+    "math/Measure Theory/σ-algebra.md",
     "math/Measure Theory/Borel Sets.md",
     "math/Analysis/Differentiability classes.md",
     "math/Measure Theory",
@@ -202,7 +203,6 @@
     "math/Logic/Metalogic",
     "math/Logic/First Order Logic/Unification.md",
     "math/Logic/First Order Logic/Skolem Normal Form.md",
-    "math/Logic/First Order Logic/Substitution.md",
     "Uni",
     "math/Geometry/Affine Geometry",
     "GIICC",
