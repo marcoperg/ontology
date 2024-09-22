@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8178a7c2eaa0f020",
+        "id": "9dc5a869a7e55ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "768593be9a955397",
+            "id": "e5511aea2b71abea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,10 +173,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "768593be9a955397",
+  "active": "e5511aea2b71abea",
   "lastOpenFiles": [
-    "math/Distribution Theory/Space of Test Functions.md",
     "math/Distribution Theory/Space of Distributions.md",
+    "math/Distribution Theory/Space of Test Functions.md",
     "Untitled.md",
     "math/Distribution Theory/Multi-indices.md",
     "math/Functional Analysis/Functionals.md",
