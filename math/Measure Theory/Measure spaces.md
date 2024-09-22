@@ -1,3 +1,7 @@
+---
+aliases:
+  - measure space
+---
 
 # Measurable spaces
 

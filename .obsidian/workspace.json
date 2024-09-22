@@ -11,8 +11,12 @@
             "id": "345cf190fa4ac7bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "math/Functional Analysis/Lp space.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "l2",
+                "query": "support",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Functional Analysis/Lp space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "math/Functional Analysis/Lp space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "math/Functional Analysis/Lp space.md"
+              }
             }
           },
           {
@@ -164,11 +172,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "345cf190fa4ac7bd",
   "lastOpenFiles": [
-    "math/Measure Theory/Lebesgue Measure.md",
     "math/Measure Theory/Measure spaces.md",
+    "math/Functional Analysis/Lp space.md",
+    "math/Support.md",
+    "math/Statistics/Degenerate distribution.md",
+    "math/Distribution Theory/Space of test functions.md",
+    "math/Topology/Metric spaces/Complete Metric Spaces.md",
+    "math/Distribution Theory",
+    "math/Topology/Metric spaces/Isometries.md",
+    "math/Topology/Metric spaces/Bounded set.md",
     "math/Measure Theory/σ-algebra.md",
+    "math/Measure Theory/Lebesgue Measure.md",
     "math/Measure Theory/Borel Sets.md",
     "math/Analysis/Differentiability classes.md",
     "math/Measure Theory",
@@ -186,15 +202,8 @@
     "math/Logic/Metalogic/Formal Theory.md",
     "GIICC/Comments QSNP Deliverable 6.1.md",
     "GIICC/Preguntas QIA.md",
-    "GIICC/Seminario ML.md",
-    "GIICC/Technical Definition Trusted Nodes.md",
     "10 attachments/Pasted image 20240625210804.png",
-    "math/Functional Analysis/L2 space.md",
-    "math/Logic/Metalogic/Structure.md",
-    "math/Functional Analysis/Riesz representation theorem.md",
     "math/Logic/Metalogic",
-    "math/Logic/First Order Logic/Unification.md",
-    "math/Logic/First Order Logic/Skolem Normal Form.md",
     "Uni",
     "math/Geometry/Affine Geometry",
     "GIICC",
@@ -212,7 +221,6 @@
     "Seminario ML.txt",
     "Untitled.canvas",
     "math/Algebra/Algebras",
-    "math/Functional Analysis",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled 1.canvas",
