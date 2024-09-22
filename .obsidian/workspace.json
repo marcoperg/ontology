@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f8b302e0ad33474",
+        "id": "8178a7c2eaa0f020",
         "type": "tabs",
         "children": [
           {
-            "id": "345cf190fa4ac7bd",
+            "id": "768593be9a955397",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Functional Analysis/Lp space.md",
+                "file": "math/Distribution Theory/Space of Distributions.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Functional Analysis/Lp space.md",
+                "file": "math/Distribution Theory/Space of Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Functional Analysis/Lp space.md",
+                "file": "math/Distribution Theory/Space of Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Functional Analysis/Lp space.md"
+                "file": "math/Distribution Theory/Space of Distributions.md"
               }
             }
           },
@@ -172,13 +173,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "345cf190fa4ac7bd",
+  "active": "768593be9a955397",
   "lastOpenFiles": [
-    "math/Measure Theory/Measure spaces.md",
+    "math/Distribution Theory/Space of Test Functions.md",
+    "math/Distribution Theory/Space of Distributions.md",
+    "Untitled.md",
+    "math/Distribution Theory/Multi-indices.md",
+    "math/Functional Analysis/Functionals.md",
+    "math/Algebra/Vector spaces/Topological Vector Spaces.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Functional Analysis/Lp space.md",
+    "math/Measure Theory/Measure spaces.md",
     "math/Support.md",
     "math/Statistics/Degenerate distribution.md",
-    "math/Distribution Theory/Space of test functions.md",
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
     "math/Distribution Theory",
     "math/Topology/Metric spaces/Isometries.md",
@@ -194,14 +201,8 @@
     "Uni/Smoke.md",
     "README.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Compactness.md",
-    "math/Logic/Combinatory Logic/Combinatory calculi.md",
-    "math/Logic/Metalogic/Logical Consequence.md",
-    "math/Logic/Metalogic/Formal Theory.md",
-    "GIICC/Comments QSNP Deliverable 6.1.md",
-    "GIICC/Preguntas QIA.md",
     "10 attachments/Pasted image 20240625210804.png",
     "math/Logic/Metalogic",
     "Uni",

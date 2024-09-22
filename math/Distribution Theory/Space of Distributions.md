@@ -1,0 +1,1 @@
+The space of distributions is the space of continuous linear [[Functionals|functionals]] $T: \mathcal{D}(\mathbb{R}^n)\to \mathbb{R\text{ (or } \mathbb{C}\text{)}}$ of the [[Space of Test Functions|space of Test Functions]].
