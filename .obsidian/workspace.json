@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc5a869a7e55ea2",
+        "id": "590ed3e22eec8230",
         "type": "tabs",
         "children": [
           {
-            "id": "e5511aea2b71abea",
+            "id": "cf416971026286fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Distribution Theory/Space of Distributions.md",
+                "file": "philosophy/Guillermo Fraile HF/Introducción.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Distribution Theory/Space of Distributions.md",
+                "file": "philosophy/Guillermo Fraile HF/Introducción.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Distribution Theory/Space of Distributions.md",
+                "file": "philosophy/Guillermo Fraile HF/Introducción.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Distribution Theory/Space of Distributions.md"
+                "file": "philosophy/Guillermo Fraile HF/Introducción.md"
               }
             }
           },
@@ -173,8 +172,19 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e5511aea2b71abea",
+  "active": "cf416971026286fa",
   "lastOpenFiles": [
+    "philosophy/Guillermo Fraile HF/Introducción.md",
+    "philosophy/Philosohpy of Science/Lakatos.md",
+    "philosophy/Guillermo Fraile HF",
+    "Uni/Smoke.md",
+    "ml/Reinforcement Learning/Actor Critic.md",
+    "ml/Reinforcement Learning/Policy Gradient.md",
+    "math/Measure Theory/Borel Sets.md",
+    "math/Measure Theory/Lebesgue Measure.md",
+    "math/Measure Theory/Measure spaces.md",
+    "GIICC/Seminario ML.md",
+    "GIICC/Preguntas QIA.md",
     "math/Distribution Theory/Space of Distributions.md",
     "math/Distribution Theory/Space of Test Functions.md",
     "Untitled.md",
@@ -183,7 +193,6 @@
     "math/Algebra/Vector spaces/Topological Vector Spaces.md",
     "math/Topology/Topological spaces/Basis (topology).md",
     "math/Functional Analysis/Lp space.md",
-    "math/Measure Theory/Measure spaces.md",
     "math/Support.md",
     "math/Statistics/Degenerate distribution.md",
     "math/Topology/Metric spaces/Complete Metric Spaces.md",
@@ -191,18 +200,9 @@
     "math/Topology/Metric spaces/Isometries.md",
     "math/Topology/Metric spaces/Bounded set.md",
     "math/Measure Theory/σ-algebra.md",
-    "math/Measure Theory/Lebesgue Measure.md",
-    "math/Measure Theory/Borel Sets.md",
     "math/Analysis/Differentiability classes.md",
     "math/Measure Theory",
     "math/Untitled.md",
-    "math/Category Theory/Categories.md",
-    "math/Category Theory/Monoids.md",
-    "Uni/Smoke.md",
-    "README.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Connectedness.md",
-    "math/Topology/Topological spaces/Compactness.md",
     "10 attachments/Pasted image 20240625210804.png",
     "math/Logic/Metalogic",
     "Uni",
@@ -221,7 +221,6 @@
     "ml",
     "Seminario ML.txt",
     "Untitled.canvas",
-    "math/Algebra/Algebras",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
     "Untitled 1.canvas",
