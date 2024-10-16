@@ -1,0 +1,29 @@
+# La Filosofía y las Ciencias
+## Disociación Ciencia-Filosofía
+
+Desde la concepción de la Filosofía, Filosofía y Ciencia han sido términos intercambiables. La doctrinas Aristotélicas y Tomistas las usaban de esta forma. Durante el periodo eclesiástico se empezaron a dividir hasta nuestros días.
+
+Una presentación clásica de este fenómeno es la de la Filosofía como madre de las ciencias. Este proceso de maternidad es ficticio según Guillermo Fraile.
+
+Otra forma de tratar la disolución o dualismo actual es una más gnoseología, reservando el término Ciencia para el conocimiento directo, sensitivo o racional; y Filosofía para aquel obtenido por procesos más indirectos por razón de la naturaleza transcendente del mismo.
+
+Kant crea los juicios sintéticos a posteriori como una forma de superar la antonimia entre el racionalismo cartesiano y el empirismo particular. La labor es confunde más de lo que soluciona según Guillermo Fraile.
+
+Pasamos de la división entre el racionalismo y el empirismo a la división entre el idealismo (que tiene interés por el conocimiento de la cosa en sí y el Absoluto) y el positivismo (que relega el Absoluto a la región de lo incognoscible dejándolo como objeto de la Metafísica). Dentro de esta concepción positivista de la ciencia la Filosofía se le otorga un lugar intermedio entre la Metafísica y la Ciencia, con un carácter reconciliador y una labor de coordinación entre ambas disciplinas.
+
+
+# Los problemas filosóficos
+
+Guillermo Fraile nos recalca que la Filosofía no se limita a plantear problemas que la Ciencia deba resolver, si no que son dos disciplinas identificables. Sin embargo, hace hincapié en la diversidad y magnitud de los problemas filosóficos que el intelecto humano se puede plantear. Distintas partes de la Filosofía intentan dar respuesta a distintos tipos de problemas: ontológicos (ser), físicos (naturaleza y mundo material), biológicos (seres con vida), antropológicos (actividad y naturaleza del hombre), psicológicos (alma humana), gnoseológicos (esencia y funcionamiento de nuestros medios cognoscitivos), morales...
+
+# Filosofía y filosofías
+
+Como realidad y verdad solo hay una debería de existir una única Filosofía, pero la finitud del conocimiento humano hace necesaria la existencia de diversos métodos e intentos de llegar a esta verdad única.
+
+# Sistemas filosóficos
+
+Se hace una clasificación de los distintos sistemas filosóficos según su grado de Idealismo/Realismo:
+
+1. *Sistematismo moderado:* presupone una realidad múltiple y no caótica. Nuestra capacidad intelectiva existe separada de la realidad y es capaz de acceder a esta a través de los sentidos. La ciencia es una representación intelectual de la realidad pero siempre ajustada a la realidad. La inteligencia se subordina a la realidad para intentar aproximarse a ella (aunque ambas deben de estar compenetrados en armonía). "Giro copernicano".
+2. *Sistematismo exagerado:* estás filosofías se desinteresan por la realidad. Desconfían del testimonio de los sentidos y consideran el único conocimiento real aquel derivado analíticamente de conceptos universales a priori.
+3. *Filosofías antisistemáticas:* admiten la existencia de una realidad extrasubjetiva y subrayan fuertemente la particularidad y contingencia de los seres existentes. Pero desconfían de todo tipo de conocimiento intelectivo, negando o atenuando el valor de los conceptos universales y del raciocinio, dando preferencia a la experiencia procedente de los sentidos.

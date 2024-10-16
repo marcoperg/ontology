@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/Guillermo Fraile HF/Introducción.md",
+                "file": "philosophy/UNED/Guillermo Fraile HF/Noción de Filosofía.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/Guillermo Fraile HF/Introducción.md",
+                "file": "philosophy/UNED/Guillermo Fraile HF/Noción de Filosofía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy/Guillermo Fraile HF/Introducción.md",
+                "file": "philosophy/UNED/Guillermo Fraile HF/Noción de Filosofía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/Guillermo Fraile HF/Introducción.md"
+                "file": "philosophy/UNED/Guillermo Fraile HF/Noción de Filosofía.md"
               }
             }
           },
@@ -174,10 +174,13 @@
   },
   "active": "cf416971026286fa",
   "lastOpenFiles": [
-    "philosophy/Guillermo Fraile HF/Introducción.md",
-    "philosophy/Philosohpy of Science/Lakatos.md",
-    "philosophy/Guillermo Fraile HF",
+    "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
     "Uni/Smoke.md",
+    "philosophy/UNED/Teoría del Conocimiento I",
+    "philosophy/UNED",
+    "philosophy/UNED/Guillermo Fraile HF/Noción de Filosofía.md",
+    "philosophy/Philosohpy of Science/Lakatos.md",
+    "philosophy/UNED/Guillermo Fraile HF",
     "ml/Reinforcement Learning/Actor Critic.md",
     "ml/Reinforcement Learning/Policy Gradient.md",
     "math/Measure Theory/Borel Sets.md",
@@ -202,7 +205,6 @@
     "math/Measure Theory/σ-algebra.md",
     "math/Analysis/Differentiability classes.md",
     "math/Measure Theory",
-    "math/Untitled.md",
     "10 attachments/Pasted image 20240625210804.png",
     "math/Logic/Metalogic",
     "Uni",
@@ -218,8 +220,6 @@
     "10 attachments/Pasted image 20240625175535.png",
     "10 attachments/Pasted image 20240625153307.png",
     "ml/Reinforcement Learning",
-    "ml",
-    "Seminario ML.txt",
     "Untitled.canvas",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
