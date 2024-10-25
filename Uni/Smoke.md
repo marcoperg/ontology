@@ -26,7 +26,6 @@ Apuntes en Moodle.
 
 # Geometría Diferencial
 ## Criterios
-- Varias prácticas de laboratorio
  - Dos parciales
 - Laboratorio 1 (1 oct)
 - Laboratorio 2 (5 nov)

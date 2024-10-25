@@ -43,7 +43,7 @@ Let $u_n = a_n + ib_n$, $n = 1, 2, 3, \dots$, where $a_n$ and $b_n$ are real. Th
 Every bounded monotonic (increasing or decreasing) sequence converges.
 
 ### Theorem 4
-A necessary and sufficient condition that $\{u_n\}$ is that given $\epsilon > 0$, we can find a number $N$ such that $|u_p - u_q| < \epsilon$ for all $p > N$, $q > N$.
+A necessary and sufficient condition that $\{u_n\}$ converges is that given $\epsilon > 0$, we can find a number $N$ such that $|u_p - u_q| < \epsilon$ for all $p > N$, $q > N$.
 
 ### Theorem 5
 A necessary condition that $\sum u_n$ converge is that $\lim_{n\to \infty}u_n = 0$. However, the condition is not sufficient.
