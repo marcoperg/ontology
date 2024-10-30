@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile HF/Grecia/Presocráticos/La Filosofía en Mileto.md",
+                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Filosofía en Mileto"
+              "title": "Pitágoras"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile HF/Grecia/Presocráticos/La Filosofía en Mileto.md"
+                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of La Filosofía en Mileto"
+              "title": "Outline of Pitágoras"
             }
           },
           {
@@ -177,6 +177,16 @@
           },
           {
             "id": "cc39a621bc3fc349",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b7d31457a82a6121",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -206,12 +216,15 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "philosophy/UNED/Guillermo Fraile HF/Grecia/Presocráticos/Preliminares.md",
-    "philosophy/UNED/Guillermo Fraile HF/Grecia/Presocráticos/La Filosofía en Mileto.md",
-    "philosophy/UNED/Guillermo Fraile HF/Grecia/Preliminares.md",
-    "philosophy/UNED/Guillermo Fraile HF/Grecia",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/La Filosofía en Mileto.md",
+    "philosophy/UNED/Guillermo Fraile/Introducción/Historia de la Filosofía.md",
+    "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Preliminares.md",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Preliminares.md",
+    "philosophy/UNED/Guillermo Fraile/Grecia",
     "math/Analysis/Analytic function.md",
-    "philosophy/UNED/Guillermo Fraile HF/Grecia/Presocráticos",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos",
     "math/Analysis/Complex Analysis/Complex Differentiation/Cauchy-Riemann Equations.md",
     "math/Analysis/Complex Analysis/Analytic continuation.md",
     "math/Analysis/Complex Analysis/Complex Differentiation/Complex Derivative.md",
@@ -220,16 +233,14 @@
     "math/Analysis/Complex Analysis/Residue Theorem.md",
     "math/Analysis/Complex Analysis/Infinite Series/Sequence and series of functions.md",
     "math/Analysis/Complex Analysis/Infinite Series/Taylor's theorem.md",
-    "philosophy/UNED/Guillermo Fraile HF/Introducción/Historia de la Filosofía.md",
-    "philosophy/UNED/Guillermo Fraile HF/Introducción",
+    "philosophy/UNED/Guillermo Fraile/Introducción",
     "philosophy/UNED/Guillermo Fraile HF/Untitled.md",
-    "philosophy/UNED/Guillermo Fraile HF/Introducción/Noción de Filosofía.md",
-    "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
+    "philosophy/UNED/Guillermo Fraile/Introducción/Noción de Filosofía.md",
     "Uni/Smoke.md",
     "philosophy/UNED/Teoría del Conocimiento I",
     "philosophy/UNED",
     "philosophy/Philosohpy of Science/Lakatos.md",
-    "philosophy/UNED/Guillermo Fraile HF",
+    "philosophy/UNED/Guillermo Fraile",
     "ml/Reinforcement Learning/Actor Critic.md",
     "ml/Reinforcement Learning/Policy Gradient.md",
     "math/Measure Theory/Borel Sets.md",
@@ -237,7 +248,6 @@
     "math/Measure Theory/Measure spaces.md",
     "GIICC/Seminario ML.md",
     "GIICC/Preguntas QIA.md",
-    "math/Distribution Theory/Space of Distributions.md",
     "math/Distribution Theory",
     "math/Measure Theory",
     "10 attachments/Pasted image 20240625210804.png",
