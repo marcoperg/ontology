@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md",
+                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Dinámico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitágoras"
+              "title": "Monismo Dinámico"
             }
           }
         ]
@@ -159,10 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md"
+                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Dinámico.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pitágoras"
+              "title": "Outline of Monismo Dinámico"
             }
           },
           {
@@ -187,6 +187,16 @@
           },
           {
             "id": "b7d31457a82a6121",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0fea44432d68d141",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -216,12 +226,14 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/La Filosofía en Mileto.md",
-    "philosophy/UNED/Guillermo Fraile/Introducción/Historia de la Filosofía.md",
-    "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
+    "philosophy/Philosohpy of Science/Lakatos.md",
     "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md",
     "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Preliminares.md",
     "philosophy/UNED/Guillermo Fraile/Grecia/Preliminares.md",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Dinámico.md",
+    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/La Filosofía en Mileto.md",
+    "philosophy/UNED/Guillermo Fraile/Introducción/Historia de la Filosofía.md",
+    "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
     "philosophy/UNED/Guillermo Fraile/Grecia",
     "math/Analysis/Analytic function.md",
     "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos",
@@ -239,7 +251,6 @@
     "Uni/Smoke.md",
     "philosophy/UNED/Teoría del Conocimiento I",
     "philosophy/UNED",
-    "philosophy/Philosohpy of Science/Lakatos.md",
     "philosophy/UNED/Guillermo Fraile",
     "ml/Reinforcement Learning/Actor Critic.md",
     "ml/Reinforcement Learning/Policy Gradient.md",
@@ -247,7 +258,6 @@
     "math/Measure Theory/Lebesgue Measure.md",
     "math/Measure Theory/Measure spaces.md",
     "GIICC/Seminario ML.md",
-    "GIICC/Preguntas QIA.md",
     "math/Distribution Theory",
     "math/Measure Theory",
     "10 attachments/Pasted image 20240625210804.png",
