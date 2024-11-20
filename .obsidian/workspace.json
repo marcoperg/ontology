@@ -11,13 +11,14 @@
             "id": "ecb8c1fc18039caa",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (app.json)"
+              "icon": "lucide-file",
+              "title": "3. Zenón de Elea"
             }
           }
         ]
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 3. Zenón de Elea"
             }
           },
           {
@@ -110,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3. Zenón de Elea"
             }
           },
           {
@@ -145,9 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3. Zenón de Elea"
             }
           },
           {
