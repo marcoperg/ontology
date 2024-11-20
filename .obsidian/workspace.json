@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fab0ead12d3352b6",
+        "id": "9c166a0f3a420d59",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc0c1067108d694",
+            "id": "ecb8c1fc18039caa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/app.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (app.json)"
             }
           }
         ]
@@ -196,8 +199,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "ecb8c1fc18039caa",
   "lastOpenFiles": [
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/_Index_of_4. Monismo Estático.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/_Index_of_1. Presocráticos.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/1. Jenófanes.md",
+    "2024-11-20.md",
+    "_Index_of_ontology.md",
+    "philosophy/UNED/Guillermo Fraile/to print.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/to print.md",
+    "Uni/Smoke.md",
+    "ml/Reinforcement Learning/Actor Critic.md",
+    "10 attachments/Excalidraw/laurent-theorem.excalidraw.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "Operators.md",
     "math/Algebra/Vector spaces/Topological Vector Spaces.md",
@@ -207,8 +222,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/2. Pitágoras.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/1. Jenófanes.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Information Theory/Error-correcting codes/Dual code.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/0. Preliminares.md",
@@ -217,17 +230,7 @@
     "attachments/notas LM y IA de Garrido.pdf",
     "Libros/Ángel Garrido - Lógica Matemática e IA/Bolzano y Brentano.md",
     "Libros/Ángel Garrido - Lógica Matemática e IA",
-    "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
     "Libros",
-    "math/Set Theory/Zorn's Lemma.md",
-    "math/Transfinite Induction.md",
-    "10 attachments/Excalidraw/Drawing 2024-11-18 16.25.18.excalidraw.md",
-    "math/Category Theory/Monoids.md",
-    "math/Category Theory/Categories.md",
-    "math/Discrete Math/Graph Theory/Trees.md",
-    "math/Discrete Math/Graph Theory/Graphs.md",
-    "math/Functional Analysis/Lp space.md",
-    "math/Geometry/Projective Geometry/Projective spaces.md",
     "attachments/Mi bloc.png",
     "attachments",
     "philosophy/UNED/Guillermo Fraile/1. Grecia",
