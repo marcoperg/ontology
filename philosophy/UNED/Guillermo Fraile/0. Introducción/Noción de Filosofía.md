@@ -1,3 +1,7 @@
+---
+aliases:
+  - Filosofía
+---
 # La Filosofía y las Ciencias
 ## Disociación Ciencia-Filosofía
 

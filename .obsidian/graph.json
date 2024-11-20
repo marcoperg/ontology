@@ -4,21 +4,28 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"math/\"",
       "color": {
         "a": 1,
-        "rgb": 16731392
+        "rgb": 10733311
       }
     },
     {
       "query": "path:physics  ",
       "color": {
         "a": 1,
-        "rgb": 57855
+        "rgb": 12278983
+      }
+    },
+    {
+      "query": "path:philosophy  ",
+      "color": {
+        "a": 1,
+        "rgb": 16369045
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1781422798936517,
+  "scale": 1.238669503345274,
   "close": false
 }

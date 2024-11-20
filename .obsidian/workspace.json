@@ -11,14 +11,10 @@
             "id": "3cc0c1067108d694",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Monismo Dinámico"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -93,17 +89,16 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Estático.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monismo Estático"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Estático.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Monismo Estático"
+              "title": "Outgoing links"
             }
           },
           {
@@ -204,12 +198,20 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "Operators.md",
+    "math/Algebra/Vector spaces/Topological Vector Spaces.md",
+    "philosophy/UNED/Guillermo Fraile/0. Introducción/Noción de Filosofía.md",
+    "philosophy/UNED/Guillermo Fraile/0. Introducción/Historia de la Filosofía.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/Preliminares.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/2. Pitágoras.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/0. Preliminares.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/Jenófanes.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/Parménides.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/1. Jenófanes.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
+    "math/Algebra/Vector spaces/Vector spaces.md",
+    "math/Information Theory/Error-correcting codes/Dual code.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/0. Preliminares.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático",
     "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
     "attachments/notas LM y IA de Garrido.pdf",
@@ -226,16 +228,8 @@
     "math/Discrete Math/Graph Theory/Graphs.md",
     "math/Functional Analysis/Lp space.md",
     "math/Geometry/Projective Geometry/Projective spaces.md",
-    "math/Geometry/Projective Geometry/Perspectivity.md",
-    "math/Geometry/Projective Geometry/Desasgue's Theorem.md",
-    "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "attachments/Mi bloc.png",
     "attachments",
-    "math/Geometry/Differential Geometry/Topological Manifold.md",
-    "math/Cryptography/Finite-key vs Asymptotic Security Analysis.md",
-    "math/Cryptography/Information Theoretic Security.md",
-    "math/Cryptography/Notes on QSNP Deriverable 6.1.md",
-    "math/Cryptography/Shamir's secret sharing.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos",
     "philosophy/UNED/Guillermo Fraile/0. Introducción",
