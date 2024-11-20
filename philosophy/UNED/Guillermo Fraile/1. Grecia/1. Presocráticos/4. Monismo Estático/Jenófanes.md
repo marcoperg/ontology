@@ -1,5 +1,3 @@
-# Jenófanes
-
 Parece improbable que permaneciera mucho tiempo en ninguna de las ciudades que habitó dado su carácter y profesión, y menos que llegase a fundar una escuela propiamente dicha.
 
 ## Epistemología

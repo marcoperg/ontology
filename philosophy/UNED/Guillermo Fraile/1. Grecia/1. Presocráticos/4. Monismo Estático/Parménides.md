@@ -1,0 +1,3 @@
+
+Fue discípulo del pitagórico Aminias. Probablemente perteneció a la escuela ya que aparenta concocer su doctrina. Debió también escuchar a Jenófanes, pues reocgoe y desarrolla sus enseñanzas. Escribió un poema en hexámetros del que extraemos su pensamiento.
+

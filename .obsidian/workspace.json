@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Twardowski y Lesniewski"
+              "title": "3. Monismo Dinámico"
             }
           }
         ]
@@ -148,11 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Estático.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Monismo Estático"
+              "title": "Outline"
             }
           },
           {
@@ -167,6 +165,16 @@
           },
           {
             "id": "c33be2b4e4aff3d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "bb3048222647b07d",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -194,19 +202,24 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3cc0c1067108d694",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/2. Pitágoras.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/0. Preliminares.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/Jenófanes.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/Parménides.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático",
+    "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
     "attachments/notas LM y IA de Garrido.pdf",
     "Libros/Ángel Garrido - Lógica Matemática e IA/Bolzano y Brentano.md",
-    "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
     "Libros/Ángel Garrido - Lógica Matemática e IA",
     "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
     "Libros",
     "math/Set Theory/Zorn's Lemma.md",
     "math/Transfinite Induction.md",
-    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Estático.md",
     "10 attachments/Excalidraw/Drawing 2024-11-18 16.25.18.excalidraw.md",
-    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Monismo Dinámico.md",
     "math/Category Theory/Monoids.md",
     "math/Category Theory/Categories.md",
     "math/Discrete Math/Graph Theory/Trees.md",
@@ -223,16 +236,11 @@
     "math/Cryptography/Information Theoretic Security.md",
     "math/Cryptography/Notes on QSNP Deriverable 6.1.md",
     "math/Cryptography/Shamir's secret sharing.md",
-    "philosophy/Philosohpy of Science/The method of Proofs and Refutations.md",
-    "philosophy/Philosohpy of Science/Lakatos.md",
-    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos/Pitágoras.md",
-    "philosophy/UNED/Guillermo Fraile/Grecia",
-    "philosophy/UNED/Guillermo Fraile/Grecia/Presocráticos",
-    "philosophy/UNED/Guillermo Fraile/Introducción",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos",
+    "philosophy/UNED/Guillermo Fraile/0. Introducción",
     "philosophy/UNED/Teoría del Conocimiento I",
     "philosophy/UNED",
-    "philosophy/UNED/Guillermo Fraile",
-    "math/Distribution Theory",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
     "10 attachments/Pasted image 20240625195724.png",
