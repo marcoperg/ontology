@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/5. Eclecticismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Zenón de Elea"
+              "title": "5. Eclecticismo"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md"
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/5. Eclecticismo.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Zenón de Elea"
+              "title": "Outline of 5. Eclecticismo"
             }
           },
           {
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "c33be2b4e4aff3d2",
+            "id": "5eef28dcc4559386",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
             }
           },
           {
-            "id": "bb3048222647b07d",
+            "id": "3fde8c5127ba6045",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -204,12 +204,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ecb8c1fc18039caa",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/5. Eclecticismo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/_Index_of_4. Monismo Estático.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/_Index_of_1. Presocráticos.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/1. Jenófanes.md",
     "2024-11-20.md",
     "_Index_of_ontology.md",
@@ -233,7 +234,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático",
     "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
     "attachments/notas LM y IA de Garrido.pdf",
-    "Libros/Ángel Garrido - Lógica Matemática e IA/Bolzano y Brentano.md",
     "Libros/Ángel Garrido - Lógica Matemática e IA",
     "Libros",
     "attachments/Mi bloc.png",
