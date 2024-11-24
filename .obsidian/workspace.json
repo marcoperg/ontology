@@ -11,10 +11,14 @@
             "id": "4c4282311f428fb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/6. Pluralismo heterogéneo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6. Pluralismo heterogéneo"
             }
           }
         ]
@@ -163,6 +167,16 @@
             "id": "847a96266d0e20ec",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "595f3a3b8fc2bf62",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -188,8 +202,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9e8ca9d445c5d212",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/6. Pluralismo heterogéneo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/5. Eclecticismo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
@@ -214,9 +230,7 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
     "math/Algebra/Vector spaces/Vector spaces.md",
     "math/Information Theory/Error-correcting codes/Dual code.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/0. Preliminares.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático",
-    "Libros/Ángel Garrido - Lógica Matemática e IA/Twardowski y Lesniewski.md",
     "attachments/notas LM y IA de Garrido.pdf",
     "Libros/Ángel Garrido - Lógica Matemática e IA",
     "Libros",
