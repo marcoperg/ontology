@@ -189,6 +189,16 @@
             "id": "6fc06cc82efdf25d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4f436bfe4e532a54",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -214,8 +224,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4c4282311f428fb4",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/1. Jenófanes.md",
@@ -223,7 +234,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/2. Pitágoras.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/5. Eclecticismo.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/6. Pluralismo heterogéneo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
     "philosophy/UNED/Guillermo Fraile/to print.md",
