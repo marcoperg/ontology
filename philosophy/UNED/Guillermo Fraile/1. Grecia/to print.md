@@ -3,3 +3,6 @@
 ![[3. Monismo Dinámico]]
 ![[1. Jenófanes]]
 ![[2. Parménides]]
+
+![[5. Eclecticismo]]
+![[6. Pluralismo heterogéneo]]
