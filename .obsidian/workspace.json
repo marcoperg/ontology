@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
+                "file": "philosophy/UNED/Teoría del Conocimiento I/Platón/Elementos del pensamiento platónico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.  Pluralismo homogéneo. Atomismo"
+              "title": "Elementos del pensamiento platónico"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "support",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,6 +199,16 @@
             "id": "4f436bfe4e532a54",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9abb3200cb31161b",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -226,7 +236,12 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
+    "philosophy/UNED/Teoría del Conocimiento I/Platón/Elementos del pensamiento platónico.md",
+    "philosophy/UNED/Teoría del Conocimiento I/Platón",
+    "math/Topology/Manifolds.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/1. Jenófanes.md",
@@ -249,9 +264,6 @@
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "Operators.md",
     "math/Algebra/Vector spaces/Topological Vector Spaces.md",
-    "philosophy/UNED/Guillermo Fraile/0. Introducción/Noción de Filosofía.md",
-    "philosophy/UNED/Guillermo Fraile/0. Introducción/Historia de la Filosofía.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/Preliminares.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático",
     "attachments/notas LM y IA de Garrido.pdf",
     "Libros/Ángel Garrido - Lógica Matemática e IA",
@@ -261,8 +273,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos",
     "philosophy/UNED/Guillermo Fraile/0. Introducción",
-    "philosophy/UNED/Teoría del Conocimiento I",
-    "philosophy/UNED",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
     "10 attachments/Pasted image 20240625195724.png",
