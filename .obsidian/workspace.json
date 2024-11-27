@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/La sofística/3. Representantes de la Sofística.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/1. La sofística/3. Representantes de la Sofística.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,16 +194,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3afe565435a8a889",
+  "active": "9e8ca9d445c5d212",
   "lastOpenFiles": [
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates",
     "philosophy/UNED/Teoría del Conocimiento I/Platón/Elementos del pensamiento platónico.md",
     "philosophy/UNED/Teoría del Conocimiento I/La Teoría del Conocimiento de Platón.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/La sofística/3. Representantes de la Sofística.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/La sofística/2. Caracteres generales.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/1. La sofística/3. Representantes de la Sofística.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/1. La sofística/2. Caracteres generales.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/to print.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/to print.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/La sofística/1. Causas.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/La sofística",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/1. La sofística/1. Causas.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/1. La sofística",
     "philosophy/UNED/Teoría del Conocimiento I/Platón",
     "math/Topology/Manifolds.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
@@ -224,7 +225,6 @@
     "2024-11-20.md",
     "_Index_of_ontology.md",
     "Uni/Smoke.md",
-    "ml/Reinforcement Learning/Actor Critic.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático",
     "attachments/notas LM y IA de Garrido.pdf",
     "Libros/Ángel Garrido - Lógica Matemática e IA",
