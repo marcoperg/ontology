@@ -1,0 +1,2 @@
+- **Problema de la extensión**
+- **Problema de la participación**
