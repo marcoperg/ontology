@@ -1,0 +1,5 @@
+1. Existe un desajuste turbador entre lo que el hombre es y lo que debería de ser.
+2. Existe una necesidad de una transformación de la naturaleza humana y de las situaciones sociales que libere al hombre de sus desgracias.
+3. Esa transformación no es un asunto exclusivo del individuo, sino que depende de un proceso más general en el que el esfuerzo individual ha de quedar inserto.
+4. Existe un antagonismo entre fuerzas contrarias como dinámica del proceso de liberación.
+5. El acceso cognoscitivo a la verdad de ese proceso sirve como itinerario que compete al individuo en esta empresa.
