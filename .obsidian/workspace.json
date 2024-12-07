@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/1. Escuelas de Elis y Eretria.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/2. Escuela Megárica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Escuelas de Elis y Eretria"
+              "title": "2. Escuela Megárica"
             }
           }
         ]
@@ -169,6 +169,16 @@
             "id": "76236fd1787ed067",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1de097cfdf245698",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -196,8 +206,9 @@
   },
   "active": "841f7fcbe68496fa",
   "lastOpenFiles": [
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/4. Doctrinas.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/1. Escuelas de Elis y Eretria.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/2. Escuela Megárica.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/4. Doctrinas.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/Untitled.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/3. Método.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores",
@@ -231,7 +242,6 @@
     "output/1. Grecia/1. Presocráticos/6. Pluralismo heterogéneo.md",
     "output/1. Grecia/1. Presocráticos/5. Eclecticismo.md",
     "output/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
-    "output/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
     "attachments/Mi bloc.png",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
