@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/2. Escuela Megárica.md",
+                "file": "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/Relación con la Teoría platónica de las Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Escuela Megárica"
+              "title": "Relación con la Teoría platónica de las Ideas"
             }
           }
         ]
@@ -179,6 +179,16 @@
             "id": "1de097cfdf245698",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0258003d9e589ee4",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -204,12 +214,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "841f7fcbe68496fa",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/1. Escuelas de Elis y Eretria.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/2. Escuela Megárica.md",
+    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/Relación con la Teoría platónica de las Ideas.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/1. Escuelas de Elis y Eretria.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/4. Doctrinas.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/Untitled.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/3. Método.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/2. Fuentes.md",
