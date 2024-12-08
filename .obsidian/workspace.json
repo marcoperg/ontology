@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/3. Escuela Cínica.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/4. Escuela Cirenaica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Escuela Cínica"
+              "title": "4. Escuela Cirenaica"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/3. Escuela Cínica.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/4. Escuela Cirenaica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Escuela Cínica"
+              "title": "Backlinks for 4. Escuela Cirenaica"
             }
           },
           {
@@ -207,6 +207,7 @@
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/3. Escuela Cínica.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/4. Escuela Cirenaica.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/2. Principios del conocer.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/1. Relación con la Teoría platónica de las Ideas.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/2. Escuela Megárica.md",
@@ -241,7 +242,6 @@
     "output/1. Grecia/2. Período Socrático/1. La sofística/2. Caracteres generales.md",
     "output/1. Grecia/1. Presocráticos/to print.md",
     "output/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
-    "output/1. Grecia/1. Presocráticos/6. Pluralismo heterogéneo.md",
     "attachments/Mi bloc.png",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
