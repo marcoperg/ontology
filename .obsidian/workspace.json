@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Alta Edad Media/1. San Agustín.md",
+                "file": "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Alta Edad Media/2. Escoto Eriúgena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. San Agustín"
+              "title": "2. Escoto Eriúgena"
             }
           }
         ]
@@ -166,26 +166,6 @@
             }
           },
           {
-            "id": "ec780e804d426c11",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "0da88ab1cb1a8b8c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "0adb601175943fb4",
             "type": "leaf",
             "state": {
@@ -216,8 +196,8 @@
   },
   "active": "841f7fcbe68496fa",
   "lastOpenFiles": [
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Alta Edad Media/2..md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Alta Edad Media/1. San Agustín.md",
+    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Alta Edad Media/2. Escoto Eriúgena.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/1. Relación con la Teoría platónica de las Ideas.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/3. Metafísica.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles/2. Principios del conocer.md",
