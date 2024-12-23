@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/1. La realidad.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/2. La Ciencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. La realidad"
+              "title": "2. La Ciencia"
             }
           }
         ]
@@ -166,36 +166,6 @@
             }
           },
           {
-            "id": "0adb601175943fb4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "acc52503070ba409",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "76902b57a7ed7d27",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "eafa2745f7a0c316",
             "type": "leaf",
             "state": {
@@ -224,10 +194,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "841f7fcbe68496fa",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "math/Analysis/Complex Analysis/aplicacion_T_residuos.pdf",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/2. La Ciencia.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/1. La realidad.md",
+    "math/Analysis/Complex Analysis/aplicacion_T_residuos.pdf",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/6. Pluralismo heterogéneo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/5. Eclecticismo.md",
