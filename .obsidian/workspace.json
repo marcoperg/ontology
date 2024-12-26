@@ -169,6 +169,16 @@
             "id": "b98738a11dc101cf",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "af45ef9caac1b5e2",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -196,8 +206,8 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/Untitled.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/3. Filosofía Primera.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/Untitled.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/6. Duns Scoto.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/5. Santo Tomás.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/2. Escoto Eriúgena.md",
