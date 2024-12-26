@@ -166,27 +166,7 @@
             }
           },
           {
-            "id": "eafa2745f7a0c316",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4fcf2d0ee06e3bff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8cdbcc3c17364ef5",
+            "id": "b98738a11dc101cf",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -214,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "841f7fcbe68496fa",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/Untitled.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/3. Filosofía Primera.md",
