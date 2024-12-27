@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "843b7e2b800cb481",
+        "id": "11798af97090ff5b",
         "type": "tabs",
         "children": [
           {
-            "id": "841f7fcbe68496fa",
+            "id": "df300eb527411991",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/7.  Pluralismo homogéneo. Atomismo.md"
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/3. Filosofía Primera.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7.  Pluralismo homogéneo. Atomismo"
+              "title": "Outline of 3. Filosofía Primera"
             }
           },
           {
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "b98738a11dc101cf",
+            "id": "af45ef9caac1b5e2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
             }
           },
           {
-            "id": "af45ef9caac1b5e2",
+            "id": "d4c8f23fd83e8db2",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
