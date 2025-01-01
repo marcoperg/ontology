@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/5. Ética.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/6. Política.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Ética"
+              "title": "6. Política"
             }
           }
         ]
@@ -204,12 +204,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "df300eb527411991",
   "lastOpenFiles": [
+    "attachments/notas LM y IA de Garrido.pdf",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/6. Política.md",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/3. Leibniz.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/5. Ética.md",
+    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/3. Leibniz.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/Untitled.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/2. Spinoza.md",
@@ -235,7 +237,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/5. Eclecticismo.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/2. Pitágoras.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/3. Helenismo",
@@ -251,7 +252,6 @@
     "Pasted image 20240625181210.png",
     "Pasted image 20240625181205.png",
     "10 attachments/Pasted image 20240625181052.png",
-    "Pasted image 20240625175531.png",
     "Untitled.canvas",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
