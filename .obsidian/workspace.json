@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/3. Leibniz.md",
+                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/5. Ética.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Leibniz"
+              "title": "5. Ética"
             }
           }
         ]
@@ -169,6 +169,16 @@
             "id": "64ab8abfddca0b6d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ecd36484de189419",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -194,10 +204,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "df300eb527411991",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/2. Spinoza.md",
+    "attachments/Pasted image 20250101190551.png",
+    "attachments/Pasted image 20250101190540.png",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/3. Leibniz.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/5. Ética.md",
+    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo",
+    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/Untitled.md",
+    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/2. Spinoza.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/4. Gnoseología.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/1. Descartes.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/7. Ockham.md",
@@ -221,9 +236,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/2. Pitágoras.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/1. La Filosofía en Mileto.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/0. Preliminares.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/3. Zenón de Elea.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/4. Monismo Estático/2. Parménides.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/3. Helenismo",
@@ -231,7 +243,6 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/2. Aristóteles",
     "output/to print.html",
-    "output/1. Grecia/Preliminares.html",
     "attachments/Mi bloc.png",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
@@ -241,7 +252,6 @@
     "Pasted image 20240625181205.png",
     "10 attachments/Pasted image 20240625181052.png",
     "Pasted image 20240625175531.png",
-    "10 attachments/Pasted image 20240625175535.png",
     "Untitled.canvas",
     "math/Geometry/Projective Geometry/Projective Geometry.canvas",
     "math/Algebra/Group Theory/Untitled.canvas",
