@@ -11,14 +11,13 @@
             "id": "7d65d6ad5d8f7c59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/3. Los Niveles de Conocimiento.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-pandoc-reference-list/data.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "3. Los Niveles de Conocimiento"
+              "icon": "git-pull-request",
+              "title": "Diff View (data.json)"
             }
           }
         ]
@@ -166,37 +165,7 @@
             }
           },
           {
-            "id": "bf78583d7d19bdb1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8e5d03ba7424dcc6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "fdd26d83142154ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7ce308aca6cac106",
+            "id": "f7cd2ffbcd76c779",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -226,8 +195,12 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "con.md",
+    "math/Differential Equation/Changes of variables.md",
+    "math/Differential Equation/Linear differential equation.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
+    "math/Differential Equation",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/3. Los Niveles de Conocimiento.md",
+    "con.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/2. Crítica a la Razón Pura.md",
     "10 attachments/Excalidraw/sintesis.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo/1. Francis Bacon.md",
@@ -255,15 +228,11 @@
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/4. Gnoseología.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/1. Descartes.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/Untitled.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/6. Duns Scoto.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/3. Filosofía Primera.md",
     "math/Analysis/Complex Analysis/aplicacion_T_residuos.pdf",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/3. Helenismo",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/3. Platón",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores",
     "attachments/Mi bloc.png",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
