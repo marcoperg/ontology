@@ -1,0 +1,27 @@
+---
+aliases:
+  - linear differential equation
+---
+Are equations of the form:
+$$
+\begin{align}
+y' + p(x)y &= q(x) & &\text{(multiply by some function r(x))}\\
+r(x)y' + r(x)p(x)y &= r(x)q(x) \\
+\end{align}
+$$
+We want $r(x)' = r(x)p(x)$, in order to separate variables:
+$$
+\begin{align}
+\frac{r(x)'}{r(x)} &= p(x) \\
+\int\frac{r(x)'}{r(x)}\,dx &= \int p(x) \,dx\\ \\
+r(x) = \exp\left[\int p(x) \,dx\right]
+\end{align}
+$$
+Using this integral factor:
+$$
+\begin{align}
+(r(x)y)' &= r(x)q(x) \\
+y &= \frac{1}{r(x)} \int r(x)q(x) \,dx
+\end{align}
+$$
+Where $r(x) = \exp\left[\int p(x)\,dx\right]$.

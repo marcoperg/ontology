@@ -11,13 +11,14 @@
             "id": "7d65d6ad5d8f7c59",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-pandoc-reference-list/data.json",
-                "staged": false
+                "file": "math/Differential Equation/Linear differential equation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "icon": "lucide-file",
+              "title": "Linear differential equation"
             }
           }
         ]
@@ -193,7 +194,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "7d65d6ad5d8f7c59",
   "lastOpenFiles": [
     "math/Differential Equation/Changes of variables.md",
     "math/Differential Equation/Linear differential equation.md",
