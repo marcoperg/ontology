@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Differential Equation/Linear differential equation.md",
+                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear differential equation"
+              "title": "Ideals and Quotient Rings"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/6. Política.md"
+                "file": "math/Algebra/Ring Theory/Ideals and Quotient Rings.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Política"
+              "title": "Outline of Ideals and Quotient Rings"
             }
           },
           {
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "f7cd2ffbcd76c779",
+            "id": "cabb8fa5521829d7",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -194,10 +194,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d65d6ad5d8f7c59",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "math/Differential Equation/Changes of variables.md",
+    "math/Algebra/Ring Theory/Endomorphism Ring.md",
+    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
+    "math/Algebra/Ring Theory/Rings.md",
+    "math/Algebra/Ring Theory/Ring Homomorphism.md",
+    "math/Algebra/Ring Theory/Polynomial Rings.md",
+    "math/Algebra/Ring Theory/Integral Domains.md",
+    "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Differential Equation/Linear differential equation.md",
+    "math/Differential Equation/Changes of variables.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "math/Differential Equation",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/3. Los Niveles de Conocimiento.md",
@@ -217,17 +224,10 @@
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/2. Escoto Eriúgena.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/3. San Anselmo de Canterbury.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/4. Abelardo.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/5. Santo Tomás.md",
     "attachments/notas LM y IA de Garrido.pdf",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/5. Ética.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/3. Leibniz.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/Untitled.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/2. Spinoza.md",
-    "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles/4. Gnoseología.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo/1. Descartes.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo",
     "math/Analysis/Complex Analysis/aplicacion_T_residuos.pdf",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/4. Aristóteles",
