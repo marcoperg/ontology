@@ -5,7 +5,7 @@ aliases:
 ---
 ## Definition
 
-Given a [[Topological spaces|topological space]] $(X, \tau)$, a **base** for the topology $\tau$ is a set $\mathcal{B} \subseteq \tau$ of open sets such that every open set of the topology ca be represented as the union of some subset of $\mathcal{B}$. In symbols,
+Given a [[Topological spaces|topological space]] $(X, \tau)$, a **basis** for the topology $\tau$ is a set $\mathcal{B} \subseteq \tau$ of open sets such that every open set of the topology ca be represented as the union of some subset of $\mathcal{B}$. In symbols,
 
 For all open set $O \in \tau$ exists a subset $\{A_i\}_{i\in I}$ such that $O = \bigcup_{i \in I} AI_i$.
 
@@ -14,3 +14,7 @@ Let $(X, \tau)$ be the topological space induced by the [[Metric spaces|metric s
 
 ##  Second-countable space
 A topological space $(X, \tau)$ is said to be _second countable_ if it exist a countable base.
+
+
+![[basis.pdf]]
+

@@ -11,13 +11,14 @@
             "id": "7d65d6ad5d8f7c59",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Algebra/Ring Theory/Euclidean Domains.md",
-                "staged": false
+                "file": "math/Topology/Topological spaces/Basis (topology).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Euclidean Domains)"
+              "icon": "lucide-file",
+              "title": "Basis (topology)"
             }
           }
         ]
@@ -39,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,7 +165,7 @@
             }
           },
           {
-            "id": "cabb8fa5521829d7",
+            "id": "d0bc51ab8ef0fd90",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -191,8 +193,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d65d6ad5d8f7c59",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "attachments/basis.pdf",
+    "math/Differential Equation/Changes of variables.md",
+    "math/Differential Equation/Linear differential equation.md",
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
     "math/Algebra/Ring Theory/Integral Domains.md",
     "math/Algebra/Ring Theory/Factorization of Polynomials.md",
@@ -201,8 +206,6 @@
     "math/Algebra/Ring Theory/Rings.md",
     "math/Algebra/Ring Theory/Ring Homomorphism.md",
     "math/Algebra/Ring Theory/Polynomial Rings.md",
-    "math/Differential Equation/Linear differential equation.md",
-    "math/Differential Equation/Changes of variables.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/1. Presocráticos/3. Monismo Dinámico.md",
     "math/Differential Equation",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/3. Los Niveles de Conocimiento.md",
@@ -220,7 +223,6 @@
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/7. Ockham.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/1. San Agustín.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/2. Escoto Eriúgena.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/4. Edad Media/3. San Anselmo de Canterbury.md",
     "attachments/notas LM y IA de Garrido.pdf",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
