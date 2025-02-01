@@ -1,6 +1,7 @@
 ---
 aliases:
-  - euclidena domian
+  - Euclidean domain
+  - ED
 ---
 # Definition
 
