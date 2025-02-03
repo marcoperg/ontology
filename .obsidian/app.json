@@ -82,6 +82,7 @@
     "Let",
     "Divide",
     "by",
-    "Bezout"
+    "Bezout",
+    "coprime"
   ]
 }
