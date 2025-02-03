@@ -1,3 +1,7 @@
+---
+aliases:
+  - associative algebra
+---
 ## Definition
 
 An **associative algebra** is a [[Vector spaces|vector space]] $A$ over a [[Fields|field]] $K$, together with an associative bilinear product: 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Ring Theory/Chinese Remainder Theorem.md",
+                "file": "math/Algebra/Algebras/Banach algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chinese Remainder Theorem"
+              "title": "Banach algebra"
             }
           },
           {
@@ -179,17 +179,7 @@
             }
           },
           {
-            "id": "9f84e2c6c701a4eb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "9c6dd175389930ac",
+            "id": "13f7b79da02590f6",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -217,11 +207,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "7d65d6ad5d8f7c59",
   "lastOpenFiles": [
+    "math/Algebra/Vector spaces/Banach space.md",
+    "math/Algebra/Vector spaces/Hilbert Spaces.md",
+    "math/Algebra/Algebras/Banach algebra.md",
+    "math/Algebra/Algebras/Associative algebra.md",
+    "math/Algebra/Algebras/Algebra.md",
+    "math/Algebra/Algebras/C*-algebra.md",
+    "math/Algebra/Ring Theory/Chinese Remainder Theorem.md",
     "math/Algebra/Ring Theory/Euclidean Domains.md",
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
-    "math/Algebra/Ring Theory/Chinese Remainder Theorem.md",
     "math/Algebra/Ring Theory/Principal Ideal Domains.md",
     "ml/Reinforcement Learning/Actor Critic.md",
     "math/Algebra/Ring Theory/Ring Homomorphism.md",
@@ -242,13 +238,7 @@
     "con.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/2. Crítica a la Razón Pura.md",
     "10 attachments/Excalidraw/sintesis.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo/1. Francis Bacon.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo/3. Berkeley.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/Untitled.md",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo/4. Hume.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo/2. Locke.md",
-    "Untitled.md",
     "attachments/notas LM y IA de Garrido.pdf",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
