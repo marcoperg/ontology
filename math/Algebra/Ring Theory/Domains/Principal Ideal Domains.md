@@ -1,3 +1,8 @@
+---
+aliases:
+  - principal ideal domain
+  - PID
+---
 # Definition
 
 A [[Rings|ring]] $R$ is said to be a Principal Ideal Domain (PID) if all its [[Ideals and Quotient Rings|ideals]] are principal.

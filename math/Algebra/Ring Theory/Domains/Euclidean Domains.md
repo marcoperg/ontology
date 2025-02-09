@@ -21,3 +21,8 @@ such that
 	U(A) = \left\{x\in A: \Vert x\Vert = 1\right\}
 	$$
 2. In a Euclidean domain all [[Ideals and Quotient Rings|ideals]] are principal.
+
+
+# Examples
+
+All [[Fields|fields]] are trivially Euclidean domain, let $\Vert x \Vert = 1$ for every not-null elements and $0$ otherwise, this inmediately satisfies the axioms.

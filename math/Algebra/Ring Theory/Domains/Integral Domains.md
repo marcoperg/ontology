@@ -32,4 +32,8 @@ The _characteristic_ of a ring $R$ is the least positive integer $n$ such that $
 Let $R$ be a ring with unity $1$. If $1$ has infinite order under addition, then the characteristic of $R$ is $0$. If $1$ has order $n$ under addition, then the characteristic of $R$ is $n$.
 
 ### Characteristic of an Integral Domain
-The characteristic of an integral domain is $0$ or prime.l
+The characteristic of an integral domain is $0$ or prime.
+
+# Examples
+
+All [[Unique Factorization Domains|unique factorization domains]] are, by definition, integral domains.
