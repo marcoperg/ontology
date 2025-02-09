@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/Aristóteles - Ética a Nicómaco/Amistad.md",
+                "file": "math/Algebra/Ring Theory/Domains/Integral Domains.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Amistad"
+              "title": "Outline of Integral Domains"
             }
           },
           {
@@ -200,7 +200,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d65d6ad5d8f7c59",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
     "math/Algebra/Ring Theory/Domains/Unique Factorization Domains.md",
     "math/Algebra/Ring Theory/Domains/Integral Domains.md",

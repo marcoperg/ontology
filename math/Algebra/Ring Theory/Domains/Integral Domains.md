@@ -1,6 +1,7 @@
 ---
 aliases:
   - integral domain
+  - zero-divisor
 ---
 ## Zero-Divisors
 ### Definition
@@ -22,7 +23,7 @@ Let $a, b$ and $c$ belong to an integral domain. If $a \neq 0$ and $ab = ac$, th
 A finite integral domain is a [[Fields|field]].
 
 ### Corollary
-For every prime $p$, $\mathbb{Z}_p$, the ring of integres modulo p, is a field.
+For every prime $p$, $\mathbb{Z}_p$, the ring of integers modulo p, is a field.
 
 ## Characteristic of a Ring
 ### Definition
@@ -34,6 +35,6 @@ Let $R$ be a ring with unity $1$. If $1$ has infinite order under addition, then
 ### Characteristic of an Integral Domain
 The characteristic of an integral domain is $0$ or prime.
 
-# Examples
+## Examples
 
 All [[Unique Factorization Domains|unique factorization domains]] are, by definition, integral domains.
