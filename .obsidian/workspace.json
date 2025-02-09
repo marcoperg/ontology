@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/General Product Topology.md",
+                "file": "math/Algebra/Ring Theory/Integer Rings/Euler's totient function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Product Topology"
+              "title": "Euler's totient function"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "fe789f21a7ea9944",
+            "id": "66807b093e057eec",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -202,11 +202,21 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Algebra/Ring Theory/Integer Rings",
+    "math/Algebra/Ring Theory/Endomorphism Ring.md",
+    "math/Algebra/Ring Theory/Domains/Principal Ideal Domains.md",
+    "math/Algebra/Ring Theory/Polynomial Rings",
+    "math/Algebra/Ring Theory/Domains",
+    "math/Algebra/Ring Theory/Domains/Euclidean Domains.md",
+    "math/Algebra/Ring Theory/Polynomial Rings/Factorization of Polynomials.md",
+    "math/Algebra/Ring Theory/Polynomial Rings/Polynomial Rings.md",
+    "math/Topology/Topological spaces/Subspace Topology.md",
+    "math/Topology/Topological spaces/Hausdorff space.md",
+    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Finite Product Topology.md",
     "math/Topology/Topological spaces/General Product Topology.md",
     "math/Topology/Topological spaces/Basis (topology).md",
-    "math/Topology/Topological spaces/Finite Product Topology.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Subspace Topology.md",
     "math/Topology/Topological spaces/Order Topology.md",
     "math/Topology/Topological spaces/Compactness.md",
     "ml/Reinforcement Learning/Reinforcement Learning.md",
@@ -217,19 +227,11 @@
     "Libros/Aristóteles - Ética a Nicómaco/Amistad.md",
     "math/Topology/Algebraic Topology",
     "Uni/Modelización/Dinámica de Fluidos.md",
-    "math/Algebra/Ring Theory/Integral Domains.md",
+    "math/Algebra/Ring Theory/Domains/Integral Domains.md",
     "Libros/Aristóteles - Ética a Nicómaco",
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
-    "math/Algebra/Ring Theory/Factorization of Polynomials.md",
-    "math/Algebra/Ring Theory/Euclidean Domains.md",
-    "math/Algebra/Ring Theory/Euler's totient function.md",
+    "math/Algebra/Ring Theory/Integer Rings/Euler's totient function.md",
     "math/Numerical Analysis/Non-linear equatinos.md",
-    "math/Numerical Analysis/Polynomial Interpolation.md",
-    "math/Numerical Analysis/Regression.md",
-    "math/Algebra/Algebras/C*-algebra.md",
-    "math/Algebra/Algebras/Banach algebra.md",
-    "math/Algebra/Vector spaces/Banach space.md",
-    "math/Algebra/Vector spaces/Hilbert Spaces.md",
     "Uni/Modelización",
     "attachments/basis.pdf",
     "math/Differential Equation",
@@ -238,8 +240,6 @@
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/6. Empirismo",
-    "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/5. Racionalismo",
-    "math/Analysis/Complex Analysis/aplicacion_T_residuos.pdf",
     "attachments/Mi bloc.png",
     "10 attachments/Pasted image 20240625210804.png",
     "10 attachments/Pasted image 20240625203146.png",
