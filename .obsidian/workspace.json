@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Subspace Topology.md",
+                "file": "math/Topology/Topological spaces/General Product Topology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subspace Topology"
+              "title": "General Product Topology"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "a33a711106d63720",
+            "id": "fe789f21a7ea9944",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -200,11 +200,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d65d6ad5d8f7c59",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Product Topology.md",
-    "math/Topology/Topological spaces/Subspace Topology.md",
+    "math/Topology/Topological spaces/General Product Topology.md",
     "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Finite Product Topology.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Subspace Topology.md",
+    "math/Topology/Topological spaces/Order Topology.md",
     "math/Topology/Topological spaces/Compactness.md",
     "ml/Reinforcement Learning/Reinforcement Learning.md",
     "ml/Reinforcement Learning/Proximal Policy Optimization.md",
@@ -227,9 +230,6 @@
     "math/Algebra/Algebras/Banach algebra.md",
     "math/Algebra/Vector spaces/Banach space.md",
     "math/Algebra/Vector spaces/Hilbert Spaces.md",
-    "math/Algebra/Algebras/Associative algebra.md",
-    "math/Algebra/Algebras/Algebra.md",
-    "math/Algebra/Ring Theory/Chinese Remainder Theorem.md",
     "Uni/Modelización",
     "attachments/basis.pdf",
     "math/Differential Equation",

@@ -2,6 +2,7 @@
 aliases:
   - second-countable space
   - basis
+  - subbasis
 ---
 ## Definition
 
