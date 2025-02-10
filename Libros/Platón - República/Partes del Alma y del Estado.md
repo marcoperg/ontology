@@ -1,0 +1,1 @@
+Platón identifica los tres estamentos de su república: magistrados, guardianes y ciudadanos con las tres componentes del alma: racional, fogosa y apetitiva.
