@@ -52,11 +52,20 @@ $$
 3. If the _leading coefficient_ is the identity of $R$ the $f(x)$ is said to be _monic_.
 4. $f(x) = 0$  has no degree.
 
-## $D$ an Integral Domain Implies $D[x]$ an Integral Domain
-If $D$ is an Integral Domain, then $D[x]$ is an Integral Domain.
+## Integral Domains
+For a ring $A$, $A[x]$ is an [[Integral Domains|integral domain]] iff $A$ is an integral domain.
 
-## Division Algorithm for $F[x]$
-Let $F$ be a field and let $f(x)$, $g(x) \in F[x]$ with $g(x) \neq 0$. Then there exist unique polynomials $q(x)$ and $r(x)$ in $F[x]$ such that $f(x) = g(x)q(x) + r(x)$ and either $r(x)=0$ or $deg\space r(x) < deg\space g(x)$.
+## PID
+Given a ring $A$ the following statements are equivalent:
+1. $A$ is a [[Fields|field]].
+2. $A[\,T\,]$  is an [[Euclidean Domains|Euclidean domain]].
+3. $A[\,T\,]$ is a [[Principal Ideal Domains|principal ideal domain]].
+
+## UFD
+For a ring $A$ the following statements are equivalent:
+1. $A$ is a [[Unique Factorization Domains|unique factorization domain]].
+2. $A[\,T\,]$ is an unique factorization domain.
+3. $A[\,X_1, \dots, X_n\,]$ is an unique factorization domain.
 
 ## Degree Rule
 Let $D$ be an Integral Domain and $f(x), g(x) \in D[x]$. Then 
