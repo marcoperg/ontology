@@ -31,3 +31,6 @@ X_{\alpha} && \text{otherwise }
 \right.
 $$
 That is, the open sets in the product topology are arbitrary unions (finite or infinite) of sets of the form $\prod_{\alpha\in J} U_\alpha$, where $U_\alpha$ is open in $X_\alpha$ and $U_\alpha \neq X_\alpha$ for finitely many $\alpha \in J$.
+
+
+# Metrizable

@@ -33,3 +33,7 @@ A subset $O$ of a metric space is said to _open_ if $O$ is a neighborhood of eac
 Equivalently $O$ is an open subset iff is the union of open balls.
 
 We can construct a [[Topological spaces|topological space]] from any metric space by letting the open sets of the topological space be the open sets of the metric space. In this sense every metric space is also a topological space.
+
+A topological space $(X, \tau)$ is called **metrizable** if there is a metric that induces that topology on $X$.
+
+**Theorem:** If a topological space is metrizable then it is a [[Hausdorff space]].
