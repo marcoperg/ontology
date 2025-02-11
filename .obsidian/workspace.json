@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Sequences.md",
+                "file": "math/Topology/Topological spaces/Countability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequences"
+              "title": "Countability"
             }
           }
         ]
@@ -202,13 +202,13 @@
   },
   "active": "7d65d6ad5d8f7c59",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Countability.md",
     "math/Topology/Topological spaces/Sequences.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
     "math/Topology/Topological spaces/Separation axioms",
-    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Topologies/General Product Topology.md",
     "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",

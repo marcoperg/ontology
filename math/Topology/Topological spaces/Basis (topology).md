@@ -13,8 +13,6 @@ For all open set $O \in \tau$ exists a subset $\{A_i\}_{i\in I}$ such that $O = 
 ## Example
 Let $(X, \tau)$ be the topological space induced by the [[Metric spaces|metric space]] $(X, d)$. Then, the set of open balls $\mathcal{B} = \{B_\epsilon(x)\,|\, x\in X, \epsilon >0\}$ is a basis for $\tau$.
 
-##  Second-countable space
-A topological space $(X, \tau)$ is said to be _second countable_ if it exist a countable base.
 
 
 ![[basis.pdf]]
