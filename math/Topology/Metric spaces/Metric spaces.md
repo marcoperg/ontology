@@ -1,6 +1,7 @@
 ---
 aliases:
   - metric space
+  - metrizable
 ---
 ## Definition
 A __metric space__ is an ordered pair $(M, d)$ where $M$ is a set and $d$ is a **metric** on $M$, .i.e., a function

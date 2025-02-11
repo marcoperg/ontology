@@ -33,4 +33,12 @@ $$
 That is, the open sets in the product topology are arbitrary unions (finite or infinite) of sets of the form $\prod_{\alpha\in J} U_\alpha$, where $U_\alpha$ is open in $X_\alpha$ and $U_\alpha \neq X_\alpha$ for finitely many $\alpha \in J$.
 
 
-# Metrizable
+## Metrics
+
+Let $\mathbb{R}^\omega$ be the topological space of all sequence of real numbers $(x_i)_{i\in\mathbb{N}}$ together with the product topology. Then $\mathbb{R}^\omega$ is [[Metric spaces|metrizable]] with metric
+$$
+D(x,y) = \sup\left\{\frac{\overline{d}(x_i, y_i)}{i} : i\in \mathbb{N}\right\}
+$$
+where $x = (x_i)_{i \in \mathbb{N}}, y = (y_i)_{i \in\mathbb{N}}$ and $\overline{d} (x_i, y_i) = \min\left\{\,\vert x_i - y_i\vert, 1\right\}$ is the $L_1$ distance cut at $1$.
+
+Also, any product topology over a uncountable index set is not metrizable.

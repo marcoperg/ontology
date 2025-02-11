@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Metric spaces/Metric spaces.md",
+                "file": "math/Topology/Topological spaces/General Product Topology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metric spaces"
+              "title": "General Product Topology"
             }
           }
         ]
@@ -200,11 +200,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "7d65d6ad5d8f7c59",
   "lastOpenFiles": [
+    "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Topological spaces/General Product Topology.md",
-    "math/Topology/Topological spaces/Finite Product Topology.md",
+    "math/Topology/Topological spaces/Hausdorff space.md",
+    "math/Topology/Topological spaces/Subspace Topology.md",
     "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Metric spaces/Totally bounded space.md",
+    "math/Topology/Topological spaces/Finite Product Topology.md",
     "Libros/Platón - República/Lógicas multivaluadas.md",
     "math/Algebra/Ring Theory/Polynomial Rings/Polynomial Rings.md",
     "math/Algebra/Ring Theory/Ideals and Quotient Rings.md",
@@ -227,11 +231,7 @@
     "math/Algebra/Ring Theory/Integer Rings",
     "math/Algebra/Ring Theory/Polynomial Rings",
     "math/Algebra/Ring Theory/Domains",
-    "math/Topology/Topological spaces/Subspace Topology.md",
-    "math/Topology/Topological spaces/Hausdorff space.md",
     "math/Topology/Topological spaces/Connectedness.md",
-    "math/Topology/Topological spaces/Basis (topology).md",
-    "math/Topology/Topological spaces/Order Topology.md",
     "math/Topology/Algebraic Topology",
     "Libros/Aristóteles - Ética a Nicómaco",
     "Uni/Modelización",
