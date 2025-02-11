@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
+                "file": "math/Topology/Topological spaces/Separation axioms/T1 space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hausdorff space"
+              "title": "T1 space"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "d1040a5db659eae1",
+            "id": "90636f6ac1ff4300",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -200,14 +200,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d65d6ad5d8f7c59",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Countability.md",
-    "math/Topology/Topological spaces/Connectedness.md",
-    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Separation axioms/Separation axioms.md",
+    "math/Topology/Topological spaces/Separation axioms/T1 space.md",
+    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
     "math/Topology/Topological spaces/Sequences.md",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
+    "math/Topology/Manifolds.md",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Countability.md",
+    "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Separation axioms",
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Topologies/General Product Topology.md",
@@ -228,9 +231,6 @@
     "Libros/Platón - República",
     "math/Differential Equation/Linear differential equation.md",
     "math/Differential Equation/Changes of variables.md",
-    "math/Algebra/Ring Theory/Polynomial Rings/Factorization of Polynomials.md",
-    "math/Algebra/Ring Theory/Domains/Integral Domains.md",
-    "math/Algebra/Ring Theory/Domains/Unique Factorization Domains.md",
     "math/Algebra/Ring Theory/Integer Rings",
     "math/Algebra/Ring Theory/Polynomial Rings",
     "math/Algebra/Ring Theory/Domains",
