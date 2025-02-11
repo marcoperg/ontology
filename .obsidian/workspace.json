@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Topologies/General Product Topology.md",
+                "file": "math/Topology/Topological spaces/Sequences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Product Topology"
+              "title": "Sequences"
             }
           }
         ]
@@ -200,16 +200,20 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9e8ca9d445c5d212",
+  "active": "7d65d6ad5d8f7c59",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",
-    "math/Topology/Topological spaces/Topologies/General Product Topology.md",
-    "math/Topology/Topological spaces/Topologies",
     "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Topologies/Subspace Topology.md",
-    "math/Topology/Topological spaces/Hausdorff space.md",
-    "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness.md",
+    "math/Topology/Topological spaces/Countability.md",
+    "math/Topology/Topological spaces/Sequences.md",
+    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
+    "math/Topology/Topological spaces/Separation axioms",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Topology/Topological spaces/Compactness.md",
+    "math/Topology/Topological spaces/Topologies/General Product Topology.md",
+    "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",
+    "math/Topology/Topological spaces/Topologies",
+    "math/Topology/Topological spaces/Topologies/Subspace Topology.md",
     "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Metric spaces/Totally bounded space.md",
     "Libros/Platón - República/Lógicas multivaluadas.md",
@@ -227,8 +231,6 @@
     "math/Algebra/Ring Theory/Polynomial Rings/Factorization of Polynomials.md",
     "math/Algebra/Ring Theory/Domains/Integral Domains.md",
     "math/Algebra/Ring Theory/Domains/Unique Factorization Domains.md",
-    "math/Algebra/Ring Theory/Domains/Euclidean Domains.md",
-    "math/Algebra/Ring Theory/Domains/Principal Ideal Domains.md",
     "math/Algebra/Ring Theory/Integer Rings",
     "math/Algebra/Ring Theory/Polynomial Rings",
     "math/Algebra/Ring Theory/Domains",
@@ -236,7 +238,6 @@
     "Libros/Aristóteles - Ética a Nicómaco",
     "Uni/Modelización",
     "attachments/basis.pdf",
-    "math/Differential Equation",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "attachments/Mi bloc.png",

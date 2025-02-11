@@ -18,13 +18,25 @@ The set $A$ such that its complement $A^c$ is an open set ($A^c\in \tau$) are ca
 ## Related concepts
 
 ### Neighborhood
-Given a topological space $(X, \tau)$, a subset $N$ of $X$ is called a _neighborhood_ of a point $a \in X$ if $N$ contains an open set that contains $a$.
+Given a topological space $(X, \tau)$, a subset $N$ of $X$ is called a _neighborhood_ of a point $a \in X$ if $N$ contains an open set that contains $a$. Also, often times the concept of neighborhood is defined as just any open set containing $a$.
 
 ### Closure
-Let $A$ be a subset of a topological space. A point $x$ is said to be _in the closure of $A$_ if, for each neighborhood $N$ of $x$, $N \cap A \neq \emptyset$ .
+
+Let $A \subset X$, then we defined the *closure* of $A$ as 
+$$
+Cl(A) = \overline{A} = \bigcap \left\{ C\text{ closed } : A\subset C\right\}
+$$
+i.e. $\overline{A}$ is the smallest closed subset of $X$ which contains $A$.
+For a point $x\in X$ we have $x \in \overline{A}$ iff, for each neighborhood $N$ of $x$, $N \cap A \neq \emptyset$.
 
 ### Interior
-Given a subset $A$ of a topological space, a point $x$ is said to be _in the interior of $A$_ if $A$ is a neighborhood of $x$. The interior of $A$ is sometimes denoted by $Int(A)$.
+
+Again, let $A \in X$, then the *interior* of $A$ is the set
+$$
+Int(A) = \mathring{A} = \bigcup \left\{U \text{ open } : U \subset A\right\}
+$$
+i.e. $\mathring{A}$ is the largest open subset of $X$ contained in $A$.
+A point $x \in X$ is in the interior of $A$ if $A$ is a neighborhood of $x$.
 
 ### Boundary
 Given a subset $A$ of a topological space, a point $x$ is said to be _in the boundary of $A$_ if $x$ is in both the closure of $A$ and the closure of the complement of $A$.
