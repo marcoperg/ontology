@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libros/Platón - República/La teoría de la Iluminación del Alma.md",
+                "file": "Libros/Platón - República/Deducción vs dialéctica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La teoría de la Iluminación del Alma"
+              "title": "Deducción vs dialéctica"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "ed11771dffb48169",
+            "id": "6bf5c8d6f132f7d2",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -202,8 +202,9 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "Libros/Platón - República/Lógicas multivaluadas.md",
     "Libros/Platón - República/La teoría de la Iluminación del Alma.md",
+    "Libros/Platón - República/Deducción vs dialéctica.md",
+    "Libros/Platón - República/Lógicas multivaluadas.md",
     "math/Topology/Topological spaces/Linear continuum.md",
     "math/Topology/Topological spaces/Connectedness.md",
     "math/Topology/Topological spaces/Topologies/Quotient topology.md",
@@ -229,7 +230,6 @@
     "math/Topology/Topological spaces/Topologies/Subspace Topology.md",
     "math/Topology/Metric spaces/Metric spaces.md",
     "math/Topology/Metric spaces/Totally bounded space.md",
-    "math/Algebra/Ring Theory/Polynomial Rings/Polynomial Rings.md",
     "Libros/Platón - República",
     "math/Algebra/Ring Theory/Integer Rings",
     "math/Algebra/Ring Theory/Polynomial Rings",

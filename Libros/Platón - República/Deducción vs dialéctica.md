@@ -1,0 +1,1 @@
+Platón, al final del Libro Sexto de la República establece la superioridad de la dialéctica, que permite hallar los verdaderos primeros principios, sobre la deducción, propia de la geometría, que siempre depende de ciertas premisas. Este conocimiento deducitvo, pues, se situará entre la opinión y la intelección.
