@@ -1,4 +1,5 @@
 ## Definition
+
 The objects $M$ with a distinguished object $e$, equipped with a binary operation $*$, form a _monoid_ $(M, *, e)$ iff
 1. the binary operation $*$ maps monoid-objects to monoid-objects, i.e. for any $x, y \in M$, $x*y \in M$.
 2. $*$ is associative, i.e. for any $x, y, z \in M$ we have $x * (y*z) = (x*y)*z$.

@@ -1,0 +1,23 @@
+
+# Definition
+
+Let $A$ be a [[Rings|ring]] and let $G$ be a [[math/Algebra/Group Theory/Monoids|monoid]]. The monoid ring of $G$ over $A$, denoted $A[G]$ is the set of formal sums 
+$$\sum_{g\in G} r_g g $$
+where $r_g \in A$ for each $g\in G$ and $r_g = 0$ for all but finitely many $g$, equipped with coefficient-wise addition, and multiplication in which elements of $A$ commute with elements of $G$.
+
+## Other definition
+
+Letting $A[G]$ be the set of all maps $\alpha: G \to A$ such that $\alpha(x) = 0$  for almost all (all but finitely many) $x\in G$. We define addition in $A[G]$ to be the ordinary addition of mappings into an Abelian group. If $\alpha, \beta \in A[G]$, we define their product by the rule
+$$
+(\alpha\beta)(z) = \sum_{xy = z} \alpha(x)\beta(y)
+$$
+The sum is taken over all pair $(x,y)$ with $x,y\in G$ such that $xy = z$. This sum is finite because there is only a finite number of pairs of elements $(x,y) \in G \times G$ such that $\alpha(x)\beta(x)\neq 0$. We also see that $(\alpha\beta)(t)=0$ for almost all $t$, and thus belongs to $A[G]$.
+
+
+An alternative notation that makes clearer the equivalence between definitions is the following. Let $a\in A$ and $x\in G$. We denote by $a\cdot x$ the function whose value at $x$ is $a$, and whose value at $y\neq x$ is $0$. Then an element $\alpha \in A[G]$ can be written as a sum
+$$
+\alpha = \sum_{x\in G} \alpha(x)\cdot x
+$$
+Indeed, if $\{a_x\}_{x\in G}$ is a set of elements of $A$ almost all of which are $0$, and we set
+$$\beta = \sum_{x\in G}a_x\cdot x$$
+then for any $y\in G$ we have $\beta(y) = a_y$. This also shows that a given element $\alpha$ admits a unique expression as a sum $\sum a_x\cdot x$.
