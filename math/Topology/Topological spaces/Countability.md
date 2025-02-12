@@ -12,7 +12,10 @@ We can safely assume that $U_1 \supset U_2 \supset U_3 \supset \dots$ (by $U_1 \
 Then $X$ is called first countable if it is first countable at every point.
 
 ### E.g.
-
 If $X$ is metric, then $X$ is first countable, taking $U_i = B_d(x, \frac{1}{i})$.
+
 ##  Second-countable space
 A topological space $(X, \tau)$ is said to be _second countable_ if it exists a countable [[Basis (topology)|basis]] that generates the space.
+
+
+Second-countable implies first-countable.
