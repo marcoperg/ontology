@@ -11,14 +11,10 @@
             "id": "7d65d6ad5d8f7c59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libros/Platón - República/Deducción vs dialéctica.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Deducción vs dialéctica"
+              "title": "New tab"
             }
           }
         ]
@@ -172,7 +168,7 @@
             }
           },
           {
-            "id": "6bf5c8d6f132f7d2",
+            "id": "421266c7d16fa475",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -202,8 +198,14 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "Libros/Platón - República/La teoría de la Iluminación del Alma.md",
+    "Uni/Smoke.md",
+    "Uni/Modelización/Dinámica de Fluidos.md",
+    "README.md",
+    "ml/Reinforcement Learning/Actor Critic.md",
+    "ml/Reinforcement Learning/Policy Gradient.md",
+    "ml/Reinforcement Learning/Proximal Policy Optimization.md",
     "Libros/Platón - República/Deducción vs dialéctica.md",
+    "Libros/Platón - República/La teoría de la Iluminación del Alma.md",
     "Libros/Platón - República/Lógicas multivaluadas.md",
     "math/Topology/Topological spaces/Linear continuum.md",
     "math/Topology/Topological spaces/Connectedness.md",
@@ -222,14 +224,8 @@
     "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
     "math/Topology/Topological spaces/Topological spaces.md",
     "math/Topology/Manifolds.md",
-    "math/Topology/Topological spaces/Basis (topology).md",
     "math/Topology/Topological spaces/Separation axioms",
-    "math/Topology/Topological spaces/Topologies/General Product Topology.md",
-    "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",
     "math/Topology/Topological spaces/Topologies",
-    "math/Topology/Topological spaces/Topologies/Subspace Topology.md",
-    "math/Topology/Metric spaces/Metric spaces.md",
-    "math/Topology/Metric spaces/Totally bounded space.md",
     "Libros/Platón - República",
     "math/Algebra/Ring Theory/Integer Rings",
     "math/Algebra/Ring Theory/Polynomial Rings",
