@@ -1,0 +1,30 @@
+---
+aliases:
+  - homotopy
+---
+
+Let $F_0, F_1$ be two paths in a topological space $X$ with the same initial point $p_0 = F_0(0) = F_1(0)$ and the same terminal point $p_1 = F_0(1) = F_1(1)$. $F_0$ is said to be **homotopic** to $F_1$ if there is a continuous function $H: I^2 \to X$ such that
+$$
+\begin{align}
+&H(0, t) = p_0, &0\leq t\leq 1, \\
+&H(1, t) = p_1, &0\leq t\leq 1, \\
+&H(x, 0) = F_0(x), &0\leq x\leq 1, \\
+&H(x, 1) = F_1(x), &0\leq x\leq 1, \\
+\end{align}
+$$
+The function $H$ is called a _homotopy connection $F_0$ to $F_1$.
+The interpretation of the homotopy is a continuous deformation of one path into the other.
+
+If two paths $F_0$ and $F_1$ are homotopic to each other we denote it by $F_0 \cong F_1$.
+
+The relation of being homotopic forms an equivalence relation. An equivalence set of homotopic paths is called a _homotopy class of paths_. At a point $z$ in a topological space $Z$ the collection of homotopy classes of closed paths at $z$ is denoted by $\Pi(Z, z)$. Among these homotopy classes there is the homotopy class $[e_z]$, where $e_z$ is the _constant_ path defined by $e_z(t) = z$, $0 \leq t \leq 1$.
+
+The set $\Pi(Z, z)$ forms a group under the operation of _concatenation_ of path: 
+Let $F, G: I \to Z$ be closed paths at $z \in Z$. Define $F \cdot G : I \to Z$ by
+$$
+\begin{align}
+&(F\cdot G)(t) = F(2t), &0\leq t \leq \frac{1}{2}\\
+&(F\cdot G)(t) = G(2t-1), &\frac{1}{2}\leq t \leq 1 \\
+
+\end{align}
+$$
