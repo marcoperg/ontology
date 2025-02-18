@@ -20,3 +20,8 @@ Since every subset $A$ of a topological space $X$ is itself a topological space 
 2. Let $A \subset X$ be connected and $A\subset B \subset \overline{A}$, then $B$ is connected. In particular, the closure of a connected set is connected.
 3. If $f: X\to Y$ is a continuous map and $X$ is connected, then $Y$ is connected.
 4. The [[Finite Product Topology|product space]] $\prod_{\alpha\in J} X_\alpha$ of connected spaces is connected.
+
+
+## Intermediate Value Theorem
+
+Let $f: X \to Y$ be a continuous map with $X$ connected and $Y$ ordered set equipped with the order topology. Then, if $f(a) < r < f(b)$ for $a,b\in X$, there is $c\in X$ such that $f(c) = r$.
