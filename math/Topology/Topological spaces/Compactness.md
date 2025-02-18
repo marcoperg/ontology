@@ -9,7 +9,7 @@ $$
 $$
 ## Properties
 
-- Let $(X, \tau)$ be a [[Hausdorff space]], then all compact set $A$ are closed.
+- Let $(X, \tau)$ be a [[Hausdorff space]], then all compact sets $A$ are closed.
 
 
 ## Heine–Borel theorem
