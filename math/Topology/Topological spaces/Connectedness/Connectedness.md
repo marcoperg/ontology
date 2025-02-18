@@ -4,6 +4,7 @@ aliases:
   - connected space
   - disconnected space
   - separation
+  - connected
 ---
 ## Connectedness
 

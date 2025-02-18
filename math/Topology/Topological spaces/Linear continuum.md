@@ -12,7 +12,7 @@ e.g.
 
 ## Theorem
 
-If $X$ is a linear continuum, then $X$ is connected and, also, every interval and ray is connected under the order topology.
+If $X$ is a linear continuum, then $X$ is [[Connectedness|connected]] and, also, every interval and ray is connected under the order topology.
 
 ### Corollary
 $\mathbb{R}$ is connected.
