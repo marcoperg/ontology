@@ -6,4 +6,4 @@ A topological space $X$ is said to be **path-connected** if, for each pair of po
 
 A path whose initial and terminal point coincide is called a _loop_ in $X$.
 
-Every path-connected topological space is [[Connectedness|connected]].
+Every path-connected topological space is [[Connectedness|connected]]. But the converse is not true, e.g. the orderer square $I^2_o$ is connected but not path connected.
