@@ -10,6 +10,7 @@ $$
 ## Properties
 
 - Let $(X, \tau)$ be a [[Hausdorff space]], then all compact sets $A$ are closed.
+- **Tychonoff Theorem**: the [[General Product Topology|product]] of compact spaces is compact.
 
 
 ## Other types of compactness

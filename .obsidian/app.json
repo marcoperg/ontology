@@ -85,6 +85,7 @@
     "Bezout",
     "coprime",
     "Banach",
-    "iff"
+    "iff",
+    "Tychonoff"
   ]
 }
