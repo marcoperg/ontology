@@ -24,7 +24,8 @@ $X$ compact implies $X$ limit point compact.
 
 A space $X$ is said to be **sequentially compact** if every sequence in $X$ has a convergent subsequence.
 
-$X$ metric and limit point compact implies sequentially compact.
+In a metric space compactness, limit point compactness and sequential compactness are equivalent.
+
 ## Heine–Borel theorem
 
 The theorem states that for a subset $S$ of the Euclidean space $\mathbb{R}^n$, the following statements are equivalent:
