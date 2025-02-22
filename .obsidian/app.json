@@ -87,6 +87,8 @@
     "Banach",
     "iff",
     "Tychonoff",
-    "surjective"
+    "surjective",
+    "Subextension",
+    "indeterminates"
   ]
 }
