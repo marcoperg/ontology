@@ -86,6 +86,7 @@
     "coprime",
     "Banach",
     "iff",
-    "Tychonoff"
+    "Tychonoff",
+    "surjective"
   ]
 }

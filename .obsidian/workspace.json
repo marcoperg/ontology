@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness/Compactness.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compactness"
+              "title": "Field Extensions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zorn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Compactness/Compactness.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Compactness"
+              "title": "Outline of Field Extensions"
             }
           },
           {
@@ -202,8 +202,20 @@
   },
   "active": "cc7e902ad1cd1801",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Compactness/Lebesgue Number Lemma.md",
+    "math/Algebra/Field Theory/Fields.md",
+    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+    "math/Algebra/Field Theory/Field Extensions",
+    "math/Algebra/Ring Theory/Polynomial Rings/Polynomial Rings.md",
+    "math/Algebra/Ring Theory/Endomorphism Ring.md",
+    "math/Algebra/Ring Theory/Polynomial Rings/Factorization of Polynomials.md",
+    "math/Topology/Topological spaces/Countability.md",
+    "math/Topology/Topological spaces/Separation axioms/T1 space.md",
+    "math/Topology/Topological spaces/Separation axioms/Separation axioms.md",
+    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
+    "math/Set Theory/Zorn's Lemma.md",
+    "math/Set Theory/Zermelo–Fraenkel Set Theory Axioms.md",
     "math/Topology/Topological spaces/Compactness/Compactness.md",
+    "math/Topology/Topological spaces/Compactness/Lebesgue Number Lemma.md",
     "math/Topology/Topological spaces/Compactness",
     "math/Topology/Topological spaces/Untitled.md",
     "math/Topology/Topological spaces/Connectedness/Connectedness.md",
@@ -219,17 +231,6 @@
     "math/Topology/Topological spaces/Connectedness",
     "Uni/Smoke.md",
     "Uni/Modelización/Dinámica de Fluidos.md",
-    "ml/Reinforcement Learning/Actor Critic.md",
-    "ml/Reinforcement Learning/Policy Gradient.md",
-    "ml/Reinforcement Learning/Proximal Policy Optimization.md",
-    "Libros/Platón - República/Deducción vs dialéctica.md",
-    "Libros/Platón - República/La teoría de la Iluminación del Alma.md",
-    "Libros/Platón - República/Lógicas multivaluadas.md",
-    "math/Topology/Topological spaces/Topologies/Quotient topology.md",
-    "math/Topology/Topological spaces/Countability.md",
-    "math/Topology/Topological spaces/Sequences.md",
-    "math/Topology/Metric spaces/Bounded set.md",
-    "math/Topology/Algebraic Topology/Connected sum.md",
     "math/Topology/Topological spaces/Separation axioms",
     "math/Topology/Topological spaces/Topologies",
     "Libros/Platón - República",
@@ -237,7 +238,6 @@
     "math/Algebra/Ring Theory/Polynomial Rings",
     "math/Algebra/Ring Theory/Domains",
     "math/Topology/Algebraic Topology",
-    "Libros/Aristóteles - Ética a Nicómaco",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "attachments/Mi bloc.png",
