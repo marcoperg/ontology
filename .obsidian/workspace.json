@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Field Extensions"
+              "title": "Algebraic independence"
             }
           }
         ]
@@ -200,10 +200,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "cc7e902ad1cd1801",
   "lastOpenFiles": [
-    "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+    "math/Algebra/Field Theory/Fields.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Algebra/Ring Theory/Polynomial Rings/Polynomial Rings.md",
     "math/Algebra/Ring Theory/Endomorphism Ring.md",
@@ -230,7 +231,6 @@
     "math/Topology/Topological spaces/Homotopy.md",
     "math/Topology/Topological spaces/Connectedness",
     "Uni/Smoke.md",
-    "Uni/Modelización/Dinámica de Fluidos.md",
     "math/Topology/Topological spaces/Separation axioms",
     "math/Topology/Topological spaces/Topologies",
     "Libros/Platón - República",
