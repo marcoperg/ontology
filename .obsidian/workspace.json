@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21f70a1f06948540",
+        "id": "9bd26a12f57c2662",
         "type": "tabs",
         "children": [
           {
-            "id": "7d65d6ad5d8f7c59",
+            "id": "cc7e902ad1cd1801",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "math/Topology/Topological spaces/Compactness.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Compactness)"
+              "icon": "lucide-file",
+              "title": "Compactness"
             }
           }
         ]
@@ -151,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "math/Topology/Topological spaces/Compactness.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Compactness"
             }
           },
           {
@@ -170,7 +172,7 @@
             }
           },
           {
-            "id": "4e90dc32e68871f1",
+            "id": "981ee9ea8c8eed16",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -198,8 +200,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7d65d6ad5d8f7c59",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Topology/Topological spaces/Connectedness/Connectedness.md",
     "math/Topology/Topological spaces/Connectedness/Locally-connected.md",
     "README.md",
     "con.md",
@@ -207,7 +210,6 @@
     "math/Topology/Topological spaces/Compactness.md",
     "math/Topology/Topological spaces/Connectedness/Path-connected.md",
     "math/Topology/Topological spaces/Pasting Lemma.md",
-    "math/Topology/Topological spaces/Connectedness/Connectedness.md",
     "math/Topology/Topological spaces/Connectedness/Simply-connected.md",
     "math/Topology/Topological spaces/Linear continuum.md",
     "math/Topology/Topological spaces/Homotopy.md",

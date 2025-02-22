@@ -12,6 +12,19 @@ $$
 - Let $(X, \tau)$ be a [[Hausdorff space]], then all compact sets $A$ are closed.
 
 
+## Other types of compactness
+
+### Limit point compact
+
+A space $X$ is said to be **limit point compact** if every infinite subset has a limit point.
+
+$X$ compact implies $X$ limit point compact.
+
+### Sequentially compact
+
+A space $X$ is said to be **sequentially compact** if every sequence in $X$ has a convergent subsequence.
+
+$X$ metric and limit point compact implies sequentially compact.
 ## Heine–Borel theorem
 
 The theorem states that for a subset $S$ of the Euclidean space $\mathbb{R}^n$, the following statements are equivalent:
