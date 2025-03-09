@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bd26a12f57c2662",
+        "id": "8ea1b82a799fc59e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc7e902ad1cd1801",
+            "id": "80174563b806e9b0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Connectedness/Simply-connected.md",
-                "staged": false
+                "file": "math/Topology/Topological spaces/Covering spaces.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Simply-connected)"
+              "icon": "lucide-file",
+              "title": "Covering spaces"
             }
           }
         ]
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zorn",
+                "query": "tik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -87,25 +90,6 @@
         "id": "c7421b028ff47d42",
         "type": "tabs",
         "children": [
-          {
-            "id": "b78454143f292db5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/3. Escuelas Socráticas Menores/4. Escuela Cirenaica.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 4. Escuela Cirenaica"
-            }
-          },
           {
             "id": "1a1c92c996b07b65",
             "type": "leaf",
@@ -171,7 +155,7 @@
             }
           },
           {
-            "id": "1da2e3414efb5ac1",
+            "id": "6d5c388dd43ed2a1",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -179,9 +163,28 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "609ba482b975fcb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "math/Topology/Topological spaces/Covering spaces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Covering spaces"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,9 +202,23 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cc7e902ad1cd1801",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Algebra/Group Theory/Group Homomorphism.md",
+    "math/Topology/Topological spaces/Covering spaces.md",
+    "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/2. Fuentes.md",
     "math/Topology/Topological spaces/Path homotopy.md",
+    "math/Topology/Algebraic Topology/Connected sum.md",
+    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
+    "math/Topology/Topological spaces/Compactness/Compactness.md",
+    "math/Algebra/Ring Theory/Domains/Euclidean Domains.md",
+    "math/Differential Equation/Changes of variables.md",
+    "math/Differential Equation/Linear differential equation.md",
+    "math/Topology/Topological spaces/Countability.md",
+    "math/Topology/Topological spaces/Sequences.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Topological spaces/Pasting Lemma.md",
     "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/3. Los Niveles de Conocimiento.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/2. Crítica a la Razón Pura.md",
@@ -213,20 +230,6 @@
     "math/Topology/Topological spaces/Separation axioms/T3 and regular spaces.md",
     "math/Topology/Topological spaces/Separation axioms/Separation axioms.md",
     "math/Topology/Topological spaces/Separation axioms/T1 space.md",
-    "math/Topology/Topological spaces/Sequences.md",
-    "math/Transfinite Induction.md",
-    "math/Support.md",
-    "math/Fixed Points.md",
-    "math/Topology/Manifolds.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
-    "math/Topology/Topological spaces/Pasting Lemma.md",
-    "math/Topology/Topological spaces/Countability.md",
-    "math/Topology/Topological spaces/Compactness/Compactness.md",
-    "math/Topology/Topological spaces/Compactness/Lebesgue Number Lemma.md",
-    "math/Topology/Topological spaces/Compactness/Tychonoff Theorem.md",
-    "math/Algebra/Group Theory/Group Action.md",
-    "math/Algebra/Group Theory/Groups.md",
-    "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Topology/Topological spaces/Compactness",
     "math/Topology/Topological spaces/Connectedness",
