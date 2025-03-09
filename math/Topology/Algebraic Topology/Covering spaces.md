@@ -19,6 +19,7 @@ is a homeomorphism for all $\alpha \in J$.
 
 For each $b\in B$, we call the subspace of $E$, $p^{-1}(b)$ the **fiber** of $b$. All fibers have the discrete topology.
 
+Notice this forms a [[Fiber bundle|fiber bundle]] with base space $B$, total space $E$ and projection map $p$, the fiber is a discrete space.
 
 # Lifting
 
