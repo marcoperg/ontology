@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80174563b806e9b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fiber bundle"
-            }
-          },
-          {
             "id": "b32e1665f9b0e291",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Algebraic Topology/Covering spaces.md",
+                "file": "math/Topology/Algebraic Topology/Homotopy Equivalence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covering spaces"
+              "title": "Homotopy Equivalence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
-    "collapsed": true
+    "width": 324.5
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -169,16 +153,6 @@
             }
           },
           {
-            "id": "6d5c388dd43ed2a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
-            }
-          },
-          {
             "id": "609ba482b975fcb5",
             "type": "leaf",
             "state": {
@@ -195,6 +169,16 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Covering spaces"
+            }
+          },
+          {
+            "id": "45f439005fec9f02",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
@@ -216,11 +200,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b32e1665f9b0e291",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
-    "math/Topology/Algebraic Topology/Covering spaces.md",
+    "math/Topology/Algebraic Topology/Homotopy Equivalence.md",
     "math/Topology/Algebraic Topology/Path homotopy.md",
+    "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
+    "math/Topology/Topological spaces/Topological spaces.md",
+    "math/Topology/Algebraic Topology/Covering spaces.md",
     "math/Algebra/Group Theory/Group Homomorphism.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/2. Fuentes.md",
     "math/Topology/Algebraic Topology/Connected sum.md",
@@ -232,7 +218,6 @@
     "math/Differential Equation/Linear differential equation.md",
     "math/Topology/Topological spaces/Countability.md",
     "math/Topology/Topological spaces/Sequences.md",
-    "math/Topology/Topological spaces/Topological spaces.md",
     "math/Topology/Topological spaces/Pasting Lemma.md",
     "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/3. Los Niveles de Conocimiento.md",
@@ -243,7 +228,6 @@
     "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",
     "math/Topology/Topological spaces/Separation axioms/T4 and normal spaces.md",
     "math/Topology/Topological spaces/Separation axioms/T3 and regular spaces.md",
-    "math/Topology/Topological spaces/Separation axioms/Separation axioms.md",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Topology/Topological spaces/Compactness",
     "math/Topology/Topological spaces/Connectedness",

@@ -3,6 +3,7 @@ aliases:
   - topological space
   - topology
   - neighborhood
+  - topological spaces
 ---
 ## Definition
 Let $X$ be a non-empty set and $\tau$ a collection of subsets of $X$ (i.e. $\tau \subset \mathcal{P}(X)$) such that:
