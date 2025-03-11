@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "50c7283c058a00da",
+            "id": "c8474e9f0f01d7bb",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -202,6 +202,7 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Topology/Topological spaces/top_ notes.pdf",
     "math/Topology/Topological spaces/Connectedness/Path-connected.md",
     "math/Topology/Algebraic Topology/Covering spaces.md",
     "math/Topology/Algebraic Topology/Homotopy Equivalence.md",
@@ -227,7 +228,6 @@
     "math/Topology/Topological spaces/Separation axioms/Urysohn's Lemma.md",
     "math/Topology/Topological spaces/Linear continuum.md",
     "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",
-    "math/Topology/Topological spaces/Separation axioms/T4 and normal spaces.md",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Topology/Topological spaces/Compactness",
     "math/Topology/Topological spaces/Connectedness",
