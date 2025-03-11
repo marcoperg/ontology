@@ -17,7 +17,7 @@ $$
 is a homeomorphism for all $\alpha \in J$.
 
 
-For each $b\in B$, we call the subspace of $E$, $p^{-1}(b)$ the **fiber** of $b$. All fibers have the discrete topology.
+For each $b\in B$, we call the subspace of $E$, $p^{-1}(b)$ the **fiber** of $b$. All fibers have the discrete topology. $B$ is called the base space and $(E, p)$ is the **covering space**.
 
 Notice this forms a [[Fiber bundle|fiber bundle]] with base space $B$, total space $E$ and projection map $p$, the fiber is a discrete space.
 
@@ -56,3 +56,8 @@ If $F$ is a path-homotopy, then $F$ is also a path-homotopy.
 ### Corollary
 
 Let $p: E\to B$ be a covering, $p(e_0) = b_0$. Let $f,g$ be paths in $B$ from $b_0$ to $b_1$ which are path-homotopic. And let $\tilde{f}, \tilde{g}$ be liftings to $E$ with initial point $e_0$. Then also, $\tilde{f}, \tilde{g}$ are path-homotopic with some endpoint.
+
+
+# Universal cover
+
+Let $B$ be a [[Path-connected|path-connected]] space, a simply-connected covering space of $B$ is also a covering space of every other path-connected covering space of $B$. Such a covering is unique up to isomorphism and is refer to as **universal cover**.
