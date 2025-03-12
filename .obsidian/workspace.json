@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Algebraic Topology/Covering spaces.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Description of simple algebraic extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covering spaces"
+              "title": "Description of simple algebraic extensions"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "c8474e9f0f01d7bb",
+            "id": "02ddf7ec97846d84",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -202,9 +202,15 @@
   },
   "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Minimal polynomial.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Description of simple algebraic extensions.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Separable extension.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions",
+    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+    "math/Topology/Algebraic Topology/Covering spaces.md",
     "math/Topology/Topological spaces/top_ notes.pdf",
     "math/Topology/Topological spaces/Connectedness/Path-connected.md",
-    "math/Topology/Algebraic Topology/Covering spaces.md",
     "math/Topology/Algebraic Topology/Homotopy Equivalence.md",
     "math/Topology/Algebraic Topology/Path homotopy.md",
     "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
@@ -212,8 +218,6 @@
     "math/Algebra/Group Theory/Group Homomorphism.md",
     "philosophy/UNED/Guillermo Fraile/1. Grecia/2. Período Socrático/2. Sócrates/2. Fuentes.md",
     "math/Topology/Algebraic Topology/Connected sum.md",
-    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
     "math/Topology/Topological spaces/Compactness/Compactness.md",
     "math/Algebra/Ring Theory/Domains/Euclidean Domains.md",
     "math/Differential Equation/Changes of variables.md",
@@ -226,8 +230,6 @@
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/2. Crítica a la Razón Pura.md",
     "philosophy/UNED/Diego Sanchez Meca Int. T. Conocimiento/7. Kant/Untitled.md",
     "math/Topology/Topological spaces/Separation axioms/Urysohn's Lemma.md",
-    "math/Topology/Topological spaces/Linear continuum.md",
-    "math/Topology/Topological spaces/Topologies/Finite Product Topology.md",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Topology/Topological spaces/Compactness",
     "math/Topology/Topological spaces/Connectedness",
@@ -236,8 +238,6 @@
     "Libros/Platón - República",
     "math/Algebra/Ring Theory/Integer Rings",
     "math/Algebra/Ring Theory/Polynomial Rings",
-    "math/Algebra/Ring Theory/Domains",
-    "math/Topology/Algebraic Topology",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "attachments/Mi bloc.png",
