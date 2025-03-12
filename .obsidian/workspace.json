@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Separable extension.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory/Galois group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Separable extension"
+              "title": "Galois group"
             }
           }
         ]
@@ -202,13 +202,15 @@
   },
   "active": "b32e1665f9b0e291",
   "lastOpenFiles": [
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Separable extension.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory/Galois group.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Normal extensions.md",
     "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Splitting fields.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Algebraic closure.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Description of simple algebraic extensions.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Minimal polynomial.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Separable extension.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions",
     "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
@@ -228,8 +230,6 @@
     "math/Differential Equation/Linear differential equation.md",
     "math/Topology/Topological spaces/Countability.md",
     "math/Topology/Topological spaces/Sequences.md",
-    "math/Topology/Topological spaces/Pasting Lemma.md",
-    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Topology/Topological spaces/Compactness",
     "math/Topology/Topological spaces/Connectedness",
