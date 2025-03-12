@@ -1,3 +1,7 @@
+---
+aliases:
+  - normal
+---
 # Definition
 
 Let $L/k$ be an [[Algebraic independence|algebraic extension]]. Then, $L/k$ is called **normal** if every polynomial $f\in k[x]$ with a zero in $L$ splits over $L$ into linear factors.

@@ -34,3 +34,8 @@ For every $x$ in $X$, the stabilizer subgroup of $G$ with respect to $x$ is the 
 $$
 G_x = \{g\in G: g\cdot x = x\}
 $$
+
+
+## Orbit stabilizer theorem
+
+#ToDo

@@ -1,3 +1,7 @@
+---
+aliases:
+  - separable
+---
 # Definition
 
 An [[Algebraic independence|algebraic extension]] $L/k$ is **separable** if every irreducible polynomial in $k[x]$ with a root in $L$ does not have multiple roots in its [[Splitting fields|splitting field]].
