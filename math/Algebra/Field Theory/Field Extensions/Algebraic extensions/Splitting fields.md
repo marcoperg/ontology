@@ -1,3 +1,7 @@
+---
+aliases:
+  - splitting field
+---
 
 # Definition
 
