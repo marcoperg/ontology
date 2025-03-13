@@ -3,6 +3,7 @@ aliases:
   - cover
   - fiber
   - lifting
+  - covering space
 ---
 # Definition
 
@@ -58,6 +59,3 @@ If $F$ is a path-homotopy, then $F$ is also a path-homotopy.
 Let $p: E\to B$ be a covering, $p(e_0) = b_0$. Let $f,g$ be paths in $B$ from $b_0$ to $b_1$ which are path-homotopic. And let $\tilde{f}, \tilde{g}$ be liftings to $E$ with initial point $e_0$. Then also, $\tilde{f}, \tilde{g}$ are path-homotopic with some endpoint.
 
 
-# Universal cover
-
-Let $B$ be a [[Path-connected|path-connected]] space, a simply-connected covering space of $B$ is also a covering space of every other path-connected covering space of $B$. Such a covering is unique up to isomorphism and is refer to as **universal cover**.
