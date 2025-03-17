@@ -11,10 +11,14 @@
             "id": "5a212bcc4cfe1722",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Algebraic independence"
             }
           }
         ]
@@ -129,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory/Galois extensions.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Galois extensions"
+              "title": "Outline of Algebraic independence"
             }
           },
           {
@@ -171,6 +175,16 @@
             "id": "d8424f95c1c8e711",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "802c1b4a7c564365",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -196,7 +210,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9e8ca9d445c5d212",
+  "active": "0f2415cfcd21d386",
   "lastOpenFiles": [
     "math/Algebra/algbegra_notes.pdf",
     "math/Topology/Topological spaces/top_notes.pdf",
@@ -223,12 +237,12 @@
     "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Minimal polynomial.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory/Galois extensions.md",
+    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois extensions.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Separable extension.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Normal extensions.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory/Galois group.md",
+    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois group.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Algebraic closure.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Galois Theory",
+    "math/Algebra/Field Theory/Field Extensions/Galois Theory",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions",
     "math/Algebra/Field Theory/Field Extensions",
     "math/Topology/Topological spaces/Compactness",
