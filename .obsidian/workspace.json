@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Field Theory/Field Extensions/Galois Theory/Solvability by radicals.md",
+                "file": "math/Algebra/Group Theory/Solvable group.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solvability by radicals"
+              "title": "Solvable group"
             }
           }
         ]
@@ -133,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Algebra/Field Theory/Field Extensions/Galois Theory/Solvability by radicals.md",
+                "file": "math/Algebra/Group Theory/Solvable group.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Solvability by radicals"
+              "title": "Outline of Solvable group"
             }
           },
           {
@@ -200,11 +200,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0f2415cfcd21d386",
+  "active": "5a212bcc4cfe1722",
   "lastOpenFiles": [
+    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Solvability by radicals.md",
     "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
     "math/Algebra/Field Theory/Fields.md",
-    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Solvability by radicals.md",
     "math/Algebra/Group Theory/Solvable group.md",
     "math/Algebra/Group Theory/Group Action.md",
     "math/Algebra/Group Theory/External Direct Products.md",
