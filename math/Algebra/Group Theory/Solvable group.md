@@ -1,3 +1,7 @@
+---
+aliases:
+  - solvable
+---
 # Definition
 
 A [[Groups|group]] $G$ is **solvable** if there exists a chain of subgroups
