@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Topology/Topological spaces/Topologies/Final topology.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final topology"
+              "title": "Constructible Length with Compass and Straightedge"
             }
           }
         ]
@@ -94,12 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math/Topology/Topological spaces/Topologies/Final topology.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Final topology"
+              "title": "Outgoing links from Constructible Length with Compass and Straightedge"
             }
           },
           {
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Topology/Topological spaces/Topologies/Final topology.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Final topology"
+              "title": "Outline of Constructible Length with Compass and Straightedge"
             }
           },
           {
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Topological spaces/Topologies/Final topology.md",
+                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Final topology"
+              "title": "Backlinks for Constructible Length with Compass and Straightedge"
             }
           },
           {
@@ -200,12 +200,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9abeb846378d4913",
+  "active": "af155bbb3b28ea94",
   "lastOpenFiles": [
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Minimal polynomial.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
+    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
+    "math/Topology/Topological spaces/Topologies/Final topology.md",
     "math/Algebra/algebra_notes.pdf",
     "math/Algebra/algbegra_notes.pdf",
     "math/Topology/Topological spaces/Topologies/Quotient topology.md",
-    "math/Topology/Topological spaces/Topologies/Final topology.md",
     "math/Topology/Topological spaces/top_notes.pdf",
     "math/Algebra/Field Theory/Root of unity.md",
     "tmp.md",
@@ -217,7 +221,6 @@
     "math/Topology/Algebraic Topology/Homotopy/Path homotopy.md",
     "math/Topology/Algebraic Topology/Homotopy/Homotopy Equivalence.md",
     "math/Algebra/Group Theory/External Direct Products.md",
-    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
     "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Group Theory/Group Action.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Fundamental theorem of Galois theory.md",
@@ -229,10 +232,8 @@
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Algebraic closure.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Separable extension.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Normal extensions.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
     "math/Topology/Algebraic Topology/Homology",
     "math/Topology/Algebraic Topology/Homotopy",
-    "math/Topology/Algebraic Topology/Untitled.md",
     "math/Topology/Algebraic Topology/Homotopy/Covering spaces",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions",

@@ -4,6 +4,7 @@ aliases:
   - algebraic
   - simple algebraic extension
   - algebraic extension
+  - algebraic number
 ---
 If $E/K$ is a [[Field Extensions|field extension]] and $a_1, \dots, a_n$ elements of $E$. We have a homomorphism (of evaluation)
 $$K\left[X_1, \dots, X_2 \right] \to E: f \mapsto f(a_1, \dots, a_n)$$
