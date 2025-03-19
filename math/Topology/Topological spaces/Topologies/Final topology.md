@@ -1,3 +1,7 @@
+---
+aliases:
+  - final topology
+---
 # Definition
 
 Given a set $X$ and an $I$-indexed family of [[Topological spaces|topological space]] $(Y_i, v_i)$ with associated functions
