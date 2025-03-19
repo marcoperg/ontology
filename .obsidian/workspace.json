@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "b219492e99cd46bd",
+            "id": "b1ee5b671bd9b7c2",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -200,12 +200,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "af155bbb3b28ea94",
+  "active": "9abeb846378d4913",
   "lastOpenFiles": [
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Minimal polynomial.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
-    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
+    "math/Algebra/Field Theory/Field Extensions/Field Extensions.md",
+    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Minimal polynomial.md",
     "math/Topology/Topological spaces/Topologies/Final topology.md",
     "math/Algebra/algebra_notes.pdf",
     "math/Algebra/algbegra_notes.pdf",
