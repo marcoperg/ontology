@@ -1,7 +1,12 @@
-Let $G_1, G_2, ..., G_n$ be a finte collection of [[groups]]. The _external direct product_ of $G_1, G_2, .. G_n$, is 
+---
+aliases:
+  - direct product
+  - direct sum
+---
+Let $G_1, G_2, ..., G_n$ be a finite collection of [[groups]]. The _external direct product_ of $G_1, G_2, .. G_n$, is 
 
 $$
-G_1 \oplus G_2, \oplus...\oplus G_n = \{(g_1, g_2, ..., g_n) | g_i \in G_i\}
+G_1 \oplus G_2 \oplus\dots\oplus G_n = \{\,(g_1, g_2, \dots, g_n) \,|\, g_i \in G_i\}
 $$
 
 ## Order
