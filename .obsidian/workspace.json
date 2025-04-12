@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb2d427f6c8e78b",
+        "id": "bede71b0967d7fc8",
         "type": "tabs",
         "children": [
           {
-            "id": "af155bbb3b28ea94",
+            "id": "38ed994bafbb3712",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/plugins/obsidian-pandoc-reference-list/data.json",
-                "staged": false
+                "file": "math/Algebra/Ring Theory/Graded Ring.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "icon": "lucide-file",
+              "title": "Graded Ring"
             }
           }
         ]
@@ -77,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 324.5,
+    "collapsed": true
   },
   "right": {
     "id": "e7f67dcc7c18d618",
@@ -157,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "math/Algebra/Ring Theory/Graded Ring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Graded Ring"
             }
           },
           {
@@ -198,10 +201,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9abeb846378d4913",
+  "active": "38ed994bafbb3712",
   "lastOpenFiles": [
-    "math/Algebra/Group Theory/External Direct Products.md",
+    "math/Algebra/Module.md",
     "math/Algebra/Ring Theory/Graded Ring.md",
+    "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois group.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois extensions.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Fundamental theorem of Galois theory.md",
@@ -229,7 +233,6 @@
     "math/Algebra/Group Theory/Group Action.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Untitled",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Description of simple algebraic extensions.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Topology/Algebraic Topology/Homology",
     "math/Topology/Algebraic Topology/Homotopy",
     "math/Topology/Algebraic Topology/Homotopy/Covering spaces",

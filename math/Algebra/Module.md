@@ -1,3 +1,7 @@
+---
+aliases:
+  - module
+---
 A **module** is a generalization of the notion of vector space in which the [[Fields|field]] of scalars is replaced by a [[Rings|ring]]. The concept of a _module_ also generalizes the notion of [[Groups|abelian group]], since the abelian groups are exactly the modules over the ring of integres.
 
 ## Definition
