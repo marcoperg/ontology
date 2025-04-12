@@ -1,0 +1,3 @@
+The compact-open topology is a [[Topological spaces|topology]] defined on a set of continuous maps between two topological spaces.
+
+Let $X$ and $Y$ be topological spaces, and let $C(X, Y)$ denote the set of all continuous maps between $X$ and $Y$. Given a [[Compactness|compact]] subset $K$ of $X$ and an open subset $U$ of $Y$, let $V(K, U)$ denote the set of all functions $f\in C(X,Y)$ such that $f(K)\subseteq U$. Then the collection of all such $V(K,U)$ is a [[Basis (topology)|subbase]] for the compact-open topology on $C(X<Y)$.

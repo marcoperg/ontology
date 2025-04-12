@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Ring Theory/Graded Ring.md",
+                "file": "math/Topology/Topological spaces/Topologies/Compact open topology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graded Ring"
+              "title": "Compact open topology"
             }
           }
         ]
@@ -124,23 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
+                "file": "math/Topology/Topological spaces/Topologies/Compact open topology.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Constructible Length with Compass and Straightedge"
-            }
-          },
-          {
-            "id": "9abeb846378d4913",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Compact open topology"
             }
           },
           {
@@ -159,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Ring Theory/Graded Ring.md",
+                "file": "math/Topology/Topological spaces/Topologies/Compact open topology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graded Ring"
+              "title": "Backlinks for Compact open topology"
             }
           },
           {
@@ -181,9 +171,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "1efff5ed0217b64b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,10 +201,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "38ed994bafbb3712",
+  "active": "d89ca0fb1d8f3847",
   "lastOpenFiles": [
-    "math/Algebra/Module.md",
     "math/Algebra/Ring Theory/Graded Ring.md",
+    "math/Topology/Topological spaces/Topologies/Compact open topology.md",
+    "math/Algebra/Module.md",
     "math/Algebra/Group Theory/External Direct Products.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois group.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois extensions.md",
@@ -232,7 +233,6 @@
     "math/Algebra/Field Theory/Fields.md",
     "math/Algebra/Group Theory/Group Action.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Untitled",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Description of simple algebraic extensions.md",
     "math/Topology/Algebraic Topology/Homology",
     "math/Topology/Algebraic Topology/Homotopy",
     "math/Topology/Algebraic Topology/Homotopy/Covering spaces",
