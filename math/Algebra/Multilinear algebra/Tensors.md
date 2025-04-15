@@ -1,0 +1,30 @@
+---
+aliases:
+  - tensor
+---
+Let $V$ be a [[Vector spaces|vector space]].
+
+A rank $k$ **covariant tensor on** $V$ is an element of the $k$-fold [[Tensor product|tensor product]] $V^*\otimes\cdots\otimes V^*$.
+A rank $k$ **contravariant tensor on** $V$ is an element of the $k$-fold [[Tensor product|tensor product]] $V\otimes\cdots\otimes V$.
+
+More generally, for any nonnegative integers $k$, $l$, we define the space of **mixed tensors on $V$ of type $(k,l)$ as**
+$$
+T^{(k,l)}(V) = \underbrace{V\otimes \cdots\otimes V}_{k\text{ times}}\otimes \underbrace{V^*\otimes\cdots\otimes V^*}_{k\text{ times}}.
+$$We can identify the following of those spaces
+$$
+\begin{align*}
+T^{(0,0)}(V) &= T^0(V^*) = T^0(V) = \mathbb{R}, \\
+T^{(0,1)}(V) &= T^1(V^*) = V^*, \\
+T^{(1,0)}(V) &= T^1(V) = V, \\
+T^{(0,k)}(V) &= T^k(V^*), \\
+T^{(k,0)}(V) &= T^k(V).
+\end{align*}
+$$
+
+## Alternative definition of covariant tensors
+
+Given $\omega, \eta\in V^*$, we can alternatively define $\omega\otimes\eta: V\times V\to \mathbb{R}$ by
+$$\omega\otimes\eta(v_1, v_2) = \omega(v_1)\eta(v_2).$$
+This alternative definition is made valid by the fact that there exists a canonical isomorphism
+$$V^*_1\otimes\cdots\otimes V_k^* \cong L(V_1, \dots, V_k; \mathbb{R}),$$
+where $\text{L}(V_1,\dots,V_k; W)$ stands for the space of multilinear maps between from $V_1\times\cdots\times V_k$ to $W$.
