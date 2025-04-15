@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bede71b0967d7fc8",
+        "id": "6f8942c9cc19ff57",
         "type": "tabs",
         "children": [
           {
-            "id": "38ed994bafbb3712",
+            "id": "ac7aec8e310ab32b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Geometry/Differential Geometry/Tangent Bundle.md",
+                "file": "math/Geometry/Differential Geometry/Riemannian Geometry/Tensors and Tensor Fields on Manifolds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tangent Bundle"
+              "title": "Tensors and Tensor Fields on Manifolds"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "manifold",
+                "query": "tensor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,12 +200,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "38ed994bafbb3712",
+  "active": "ac7aec8e310ab32b",
   "lastOpenFiles": [
-    "math/Geometry/Differential Geometry/Manifolds.md",
-    "math/Geometry/Differential Geometry/Tangent Bundle.md",
-    "math/Geometry/Differential Geometry/Tangent Space.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry/Sections.md",
+    "math/Geometry/Differential Geometry/Riemannian Geometry/Tensors and Tensor Fields on Manifolds.md",
+    "math/Algebra/Multilinear algebra/Tensors.md",
+    "math/Algebra/Vector spaces/Tensor product.md",
+    "math/Algebra/Multilinear algebra",
+    "math/Algebra/Untitled.md",
+    "math/Geometry/Differential Geometry/Tangent Bundle.md",
+    "math/Geometry/Differential Geometry/Manifolds.md",
+    "math/Geometry/Differential Geometry/Tangent Space.md",
     "math/Geometry/Differential Geometry/Vector Bundles.md",
     "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry",
@@ -225,10 +230,6 @@
     "math/Algebra/Ring Theory/Graded Ring.md",
     "math/Algebra/Module.md",
     "math/Algebra/Group Theory/External Direct Products.md",
-    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois group.md",
-    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois extensions.md",
-    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Fundamental theorem of Galois theory.md",
-    "math/Algebra/Algebras/Algebra.md",
     "math/Algebra/algebra_notes.pdf",
     "math/Algebra/algbegra_notes.pdf",
     "math/Topology/Topological spaces/top_notes.pdf",
@@ -237,7 +238,6 @@
     "math/Topology/Algebraic Topology/Homotopy",
     "math/Topology/Algebraic Topology/Homotopy/Covering spaces",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "attachments/Mi bloc.png",

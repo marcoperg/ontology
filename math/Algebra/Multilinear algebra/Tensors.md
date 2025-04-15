@@ -1,6 +1,7 @@
 ---
 aliases:
   - tensor
+  - tensors
 ---
 Let $V$ be a [[Vector spaces|vector space]].
 
