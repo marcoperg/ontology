@@ -11,13 +11,14 @@
             "id": "38ed994bafbb3712",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Geometry/Differential Geometry/Vector Bundles.md",
-                "staged": false
+                "file": "math/Geometry/Differential Geometry/Tangent Bundle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Vector Bundles)"
+              "icon": "lucide-file",
+              "title": "Tangent Bundle"
             }
           }
         ]
@@ -201,9 +202,9 @@
   },
   "active": "38ed994bafbb3712",
   "lastOpenFiles": [
-    "math/Geometry/Differential Geometry/Tangent Space.md",
-    "math/Geometry/Differential Geometry/Tangent Bundle.md",
     "math/Geometry/Differential Geometry/Manifolds.md",
+    "math/Geometry/Differential Geometry/Tangent Bundle.md",
+    "math/Geometry/Differential Geometry/Tangent Space.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry/Sections.md",
     "math/Geometry/Differential Geometry/Vector Bundles.md",
     "math/Topology/Topological spaces/Topologies/Fiber bundle.md",

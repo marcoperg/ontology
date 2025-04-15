@@ -5,6 +5,7 @@ aliases:
   - atlas
   - chart
   - smooth manifold
+  - smooth structure
 ---
 ## Locally Euclidean
 
