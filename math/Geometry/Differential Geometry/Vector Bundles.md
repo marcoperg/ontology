@@ -1,3 +1,7 @@
+---
+aliases:
+  - vector bundle
+---
 Let $M$ be a [[Topological spaces|topological space]]. A **(real) vector bundle of rank $\mathbf{k}$ over $\mathbf{M}$** is a topological space $E$ together with a surjective continuous map $\pi: E\to M$ satisfying the following conditions
 1. For each $p\in M$, the fiber $E_p = \pi^{-1}(p)$ over $p$ is endowed with the structure of a $k$-dimensional [[Vector spaces|vector space]].
 2. For each $p\in M$, there exists a neighborhood $U$ of $p$ in $M$ and a homeomorphism $\Phi:\pi^{-1}(U) \to U \times \mathbb{R}^k$ (called a **local trivialization of $E$ over $U$**), satisfying the following conditions:

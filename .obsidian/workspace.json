@@ -11,28 +11,13 @@
             "id": "38ed994bafbb3712",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "math/Geometry/Differential Geometry/Vector Bundles.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Vector Bundles"
-            }
-          },
-          {
-            "id": "a54f3ce32ed95a09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fiber bundle"
+              "icon": "git-pull-request",
+              "title": "Diff View (Vector Bundles)"
             }
           }
         ]
@@ -186,7 +171,7 @@
             }
           },
           {
-            "id": "f377de2fa5b72b9a",
+            "id": "529445257406f7cb",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -216,9 +201,13 @@
   },
   "active": "38ed994bafbb3712",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
-    "math/Geometry/Differential Geometry/Vector Bundles.md",
+    "math/Geometry/Differential Geometry/Tangent Space.md",
+    "math/Geometry/Differential Geometry/Tangent Bundle.md",
     "math/Geometry/Differential Geometry/Manifolds.md",
+    "math/Geometry/Differential Geometry/Riemannian Geometry/Sections.md",
+    "math/Geometry/Differential Geometry/Vector Bundles.md",
+    "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
+    "math/Geometry/Differential Geometry/Riemannian Geometry",
     "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "math/Topology/Topological spaces/Basis (topology).md",
     "math/Logic/Metalogic/Logical Consequence.md",
@@ -239,9 +228,6 @@
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois extensions.md",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Fundamental theorem of Galois theory.md",
     "math/Algebra/Algebras/Algebra.md",
-    "math/Algebra/Algebras/Associative algebra.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic extensions/Constructible Length with Compass and Straightedge.md",
-    "math/Algebra/Field Theory/Field Extensions/Algebraic independence.md",
     "math/Algebra/algebra_notes.pdf",
     "math/Algebra/algbegra_notes.pdf",
     "math/Topology/Topological spaces/top_notes.pdf",
@@ -251,7 +237,6 @@
     "math/Topology/Algebraic Topology/Homotopy/Covering spaces",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory",
     "math/Algebra/Field Theory/Field Extensions/Algebraic extensions",
-    "math/Algebra/Field Theory/Field Extensions",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "attachments/Mi bloc.png",
