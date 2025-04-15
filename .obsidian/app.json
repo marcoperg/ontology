@@ -95,6 +95,7 @@
     "liftings",
     "homotopic",
     "semilocally",
-    "subring"
+    "subring",
+    "diffeomorphism"
   ]
 }
