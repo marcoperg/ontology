@@ -11,13 +11,14 @@
             "id": "ac7aec8e310ab32b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Geometry/Differential Geometry/Riemannian Geometry/Riemannian Metric.md",
-                "staged": false
+                "file": "math/Computability/Rice Theorem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Riemannian Metric)"
+              "icon": "lucide-file",
+              "title": "Rice Theorem"
             }
           }
         ]
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Geometry/Differential Geometry/Vector Bundles.md",
+                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vector Bundles"
+              "title": "Backlinks for Combinatory calculi"
             }
           },
           {
@@ -171,7 +172,7 @@
             }
           },
           {
-            "id": "529445257406f7cb",
+            "id": "96c23d0326408c00",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -199,23 +200,26 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac7aec8e310ab32b",
+  "active": "1efff5ed0217b64b",
   "lastOpenFiles": [
+    "math/Computability",
+    "math/Logic/Combinatory Logic/Combinatory calculi.md",
+    "math/Computability/Rice Theorem.md",
+    "math/Geometry/Differential Geometry/Riemannian Geometry/Sections.md",
+    "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
+    "math/Geometry/Differential Geometry/Manifolds.md",
+    "math/Geometry/Differential Geometry/Tangent Bundle.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry/Connections.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry/Riemannian Metric.md",
-    "math/Geometry/Differential Geometry/Riemannian Geometry/Sections.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry/Tensors and Tensor Fields on Manifolds.md",
     "math/Algebra/Multilinear algebra/Tensors.md",
     "math/Algebra/Vector spaces/Tensor product.md",
     "math/Algebra/Multilinear algebra",
     "math/Algebra/Untitled.md",
-    "math/Geometry/Differential Geometry/Tangent Bundle.md",
-    "math/Geometry/Differential Geometry/Manifolds.md",
     "math/Geometry/Differential Geometry/Tangent Space.md",
     "math/Geometry/Differential Geometry/Vector Bundles.md",
     "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry",
-    "math/Geometry/Differential Geometry/Regular Representations of Curves.md",
     "math/Topology/Topological spaces/Basis (topology).md",
     "math/Logic/Metalogic/Logical Consequence.md",
     "math/Logic/Metalogic/Structure.md",
@@ -226,9 +230,6 @@
     "math/Logic/First Order Logic/Derivations and refutations.md",
     "math/Logic/First Order Logic/Resolution.md",
     "math/Topology/Topological spaces/Topologies/Compact open topology.md",
-    "math/Topology/Algebraic Topology/Homotopy/Covering spaces/Covering spaces.md",
-    "math/Topology/Topological spaces/Topologies/Final topology.md",
-    "math/Algebra/Ring Theory/Graded Ring.md",
     "math/Algebra/algebra_notes.pdf",
     "math/Algebra/algbegra_notes.pdf",
     "math/Topology/Topological spaces/top_notes.pdf",
