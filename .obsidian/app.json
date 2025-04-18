@@ -102,6 +102,8 @@
     "Minkowski",
     "posets",
     "infimum",
-    "supremum"
+    "supremum",
+    "supremums",
+    "infimums"
   ]
 }
