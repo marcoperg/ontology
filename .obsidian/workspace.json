@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Order Theory/Galois Connections.md",
+                "file": "math/Algebra/Order Theory/Partially ordered set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Galois Connections"
+              "title": "Partially ordered set"
             }
           }
         ]
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Logic/Combinatory Logic/Combinatory calculi.md",
+                "file": "math/Algebra/Order Theory/Partially ordered set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Combinatory calculi"
+              "title": "Backlinks for Partially ordered set"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           },
           {
-            "id": "7c8732908ed08fc2",
+            "id": "8ec3e3eec1c86b10",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -200,10 +200,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac7aec8e310ab32b",
+  "active": "1efff5ed0217b64b",
   "lastOpenFiles": [
-    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Fundamental theorem of Galois theory.md",
     "math/Algebra/Order Theory/Galois Connections.md",
+    "math/Algebra/Order Theory/Partially ordered set.md",
+    "math/Algebra/Field Theory/Field Extensions/Galois Theory/Fundamental theorem of Galois theory.md",
     "math/Algebra/Order Theory",
     "math/Algebra/Field Theory/Field Extensions/Galois Theory/Galois extensions.md",
     "physics/Einstein's Theory of Relativity/Special Relativity/Minkowski space.md",
@@ -234,7 +235,6 @@
     "math/Algebra/Multilinear algebra",
     "math/Algebra/Untitled.md",
     "math/Geometry/Differential Geometry/Tangent Space.md",
-    "math/Geometry/Differential Geometry/Vector Bundles.md",
     "math/Geometry/Differential Geometry/Riemannian Geometry",
     "math/Algebra/algebra_notes.pdf",
     "math/Algebra/algbegra_notes.pdf",
