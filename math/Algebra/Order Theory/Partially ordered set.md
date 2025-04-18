@@ -5,6 +5,8 @@ aliases:
   - partial order
   - supremum
   - infimum
+  - partially ordered sets
+  - posets
 ---
 A **partially ordered set** is a set $P$ together with a binary relation $\le$ satisfying the following properties
 1. reflexive: $\forall x\in P: x\le x$

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Algebra/Order Theory/Lattices.md",
+                "file": "math/Algebra/Order Theory/Partially ordered set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lattices"
+              "title": "Partially ordered set"
             }
           }
         ]
@@ -133,17 +133,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Algebra/Order Theory/Lattices.md",
+                "file": "math/Algebra/Order Theory/Partially ordered set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lattices"
+              "title": "Backlinks for Partially ordered set"
             }
           },
           {
@@ -200,7 +200,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ac7aec8e310ab32b",
+  "active": "1efff5ed0217b64b",
   "lastOpenFiles": [
     "math/Algebra/Order Theory/Galois Connections.md",
     "math/Algebra/Order Theory/Partially ordered set.md",
