@@ -1,6 +1,7 @@
 ---
 aliases:
   - category
+  - categories
 ---
 ## Definition
 A category $C$ consists of the following mathematical entities

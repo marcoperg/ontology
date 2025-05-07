@@ -28,7 +28,7 @@ _converges_ to $x \in \mathbb{R}$, then $f(x) = x$.
 
 ## Applications on logic
 
-For a formula $\phi$ in the language of Peano Arithmetic (PA), let $\ulcorner \phi \urcorner$ denote its Göldel number/
+For a formula $\phi$ in the language of Peano Arithmetic (PA), let $\ulcorner \phi \urcorner$ denote its Göldel number.
 
 **Lemma (Carnap)**
 For any formula $\phi(x)$, there is a sentence $\psi$ such that
