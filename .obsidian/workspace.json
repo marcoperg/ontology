@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Category Theory/Functor.md",
+                "file": "math/Algebra/Order Theory/Galois Connections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Functor"
+              "title": "Galois Connections"
             }
           }
         ]
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Category Theory/Functor.md",
+                "file": "math/Algebra/Order Theory/Galois Connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Functor"
+              "title": "Backlinks for Galois Connections"
             }
           },
           {
@@ -175,6 +175,16 @@
             "id": "4499bc4aa15b97f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d16489ec8a83b7ee",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -182,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,8 +210,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1efff5ed0217b64b",
+  "active": "d16489ec8a83b7ee",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250507141737.png",
+    "math/Algebra/Order Theory/Lattices.md",
+    "math/Algebra/Order Theory/Galois Connections.md",
     "math/Category Theory/Functor.md",
     "math/Category Theory/Categories.md",
     "math/Category Theory/Monoids.md",
@@ -226,9 +239,6 @@
     "math/Algebra/Algebras/Banach algebra.md",
     "math/Algebra/Algebras/C*-algebra.md",
     "math/Algebra/Field Theory/Fields.md",
-    "math/Algebra/Group Theory/External Direct Products.md",
-    "math/Algebra/Group Theory/Fundamental Theorem of Finite Abelian Groups.md",
-    "math/Algebra/Group Theory/Solvable group.md",
     "math/Algebra/Order Theory",
     "math/Algebra/Linear algebra",
     "physics/Einstein's Theory of Relativity/Special Relativity",
