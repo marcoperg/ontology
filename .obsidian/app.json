@@ -104,6 +104,8 @@
     "infimum",
     "supremum",
     "supremums",
-    "infimums"
+    "infimums",
+    "pullback",
+    "cospan"
   ]
 }
