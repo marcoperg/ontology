@@ -1,4 +1,5 @@
 ## Prenex normal form
+
 A formula of the predicate calculus is said to be in **prenex normal form (PNF)** if it is written as a string of quantifiers and bound variables, called the prefix, followed by a quantifier-free part, called the matrix.
 
 ## Skolem Normal Form

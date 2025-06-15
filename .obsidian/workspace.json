@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Discrete Math/Graph Theory/Ramsey numbers.md",
+                "file": "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ramsey numbers"
+              "title": "Urysohn's metrization lemma"
+            }
+          },
+          {
+            "id": "83a40d9bdc02f67a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "math/Topology/Topological spaces/top_notes.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "top_notes"
             }
           }
         ]
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Category Theory/Natural transformation.md",
+                "file": "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Natural transformation"
+              "title": "Backlinks for Urysohn's metrization lemma"
             }
           },
           {
@@ -172,7 +184,7 @@
             }
           },
           {
-            "id": "974a2c965f6fdfb9",
+            "id": "40324d8dfe3141f0",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -202,33 +214,36 @@
   },
   "active": "1efff5ed0217b64b",
   "lastOpenFiles": [
-    "math/Topology/Topological spaces/Topologies/Compact open topology.md",
-    "math/Discrete Math/Graph Theory/Ramsey numbers.md",
+    "math/Topology/Topological spaces/Separation axioms/Urysohn's Lemma.md",
+    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
+    "math/Topology/Topological spaces/Separation axioms/T3 and regular spaces.md",
+    "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
+    "math/Topology/Topological spaces/top_notes.pdf",
+    "math/Topology/Metric spaces/Metric spaces.md",
+    "math/Topology/Topological spaces/Separation axioms/T4 and normal spaces.md",
+    "math/Topology/Topological spaces/Separation axioms/T1 space.md",
+    "math/Algebra/algebra_notes.pdf",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Logic/Metalogic/Formal Theory.md",
+    "math/Logic/First Order Logic/Skolem Normal Form.md",
+    "math/Logic/First Order Logic/Substitution.md",
+    "math/Logic/First Order Logic/Resolution.md",
+    "math/Logic/First Order Logic/Derivations and refutations.md",
+    "math/Logic/Metalogic/Logical Consequence.md",
+    "math/Logic/Metalogic/Structure.md",
+    "math/Logic/Model theory/Categorical theory.md",
+    "math/Logic/First Order Logic/Unification.md",
+    "math/Logic/Model theory",
     "dummy.md",
+    "math/Discrete Math/Graph Theory/Ramsey numbers.md",
+    "math/Topology/Topological spaces/Topologies/Compact open topology.md",
     "math/Category Theory/Pullback.md",
     "math/Category Theory/Natural transformation.md",
     "math/Algebra/Group Theory/Group Homomorphism.md",
     "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
     "math/Category Theory/Functor.md",
     "math/Category Theory/Monoids.md",
-    "math/Category Theory/Categories.md",
-    "math/Algebra/Order Theory/Galois Connections.md",
     "attachments/Pasted image 20250507141737.png",
-    "math/Algebra/Order Theory/Lattices.md",
-    "math/Algebra/Ring Theory/Monoid Ring.md",
-    "math/Algebra/Ring Theory/Ring Homomorphism.md",
-    "math/Algebra/Ring Theory/Domains/Integral Domains.md",
-    "math/Algebra/Ring Theory/Domains/Principal Ideal Domains.md",
-    "math/Algebra/Ring Theory/Graded Ring.md",
-    "math/Algebra/Ring Theory/Endomorphism Ring.md",
-    "math/Algebra/Ring Theory/Polynomial Rings/Factorization of Polynomials.md",
-    "math/Algebra/Ring Theory/Integer Rings/Euler's totient function.md",
-    "math/Algebra/Ring Theory/Integer Rings/Chinese Remainder Theorem.md",
-    "math/Algebra/Ring Theory/Domains/Unique Factorization Domains.md",
-    "math/Algebra/Ring Theory/Domains/Euclidean Domains.md",
-    "math/Algebra/Algebras/Algebra.md",
-    "math/Algebra/Vector spaces/Banach space.md",
-    "math/Fixed Points.md",
     "math/Topology/Algebraic Topology/Complexes",
     "math/Algebra/Order Theory",
     "math/Algebra/Linear algebra",
@@ -236,9 +251,6 @@
     "physics/Einstein's Theory of Relativity",
     "math/Algebra/Lie groups",
     "math/Computability",
-    "math/Algebra/Multilinear algebra",
-    "math/Geometry/Differential Geometry/Riemannian Geometry",
-    "math/Algebra/algebra_notes.pdf",
     "attachments/Pasted image 20250101190551.png",
     "attachments/Pasted image 20250101190540.png",
     "attachments/Mi bloc.png",
