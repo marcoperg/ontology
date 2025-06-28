@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dda492a5e7d7a428",
+        "id": "6dadb7c1db72301b",
         "type": "tabs",
         "children": [
           {
-            "id": "eef20a94f97fad95",
+            "id": "351bd88b1a73fefc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "math/Logic/Metalogic/Deduction theorem.md",
-                "staged": false
+                "file": "math/Category Theory/Products and Coproducts.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Deduction theorem)"
+              "icon": "lucide-file",
+              "title": "Products and Coproducts"
             }
           }
         ]
@@ -171,7 +172,7 @@
             }
           },
           {
-            "id": "b894df9c5d390f4d",
+            "id": "eb2aa9179dfb351a",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -199,8 +200,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eef20a94f97fad95",
+  "active": "1efff5ed0217b64b",
   "lastOpenFiles": [
+    "math/Category Theory/Pullback.md",
+    "math/Category Theory/Terminal and Initial Objects.md",
+    "math/Category Theory/Products and Coproducts.md",
+    "math/Category Theory/Natural transformation.md",
+    "math/Category Theory/Monoids.md",
+    "math/Category Theory/Categories.md",
+    "math/Category Theory/Functor.md",
+    "math/Category Theory/Universal property.md",
     "math/Logic/Combinatory Logic/Combinatory calculi.md",
     "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
     "math/Logic/Metalogic/Deduction theorem.md",
@@ -221,15 +230,7 @@
     "math/Logic/First Order Logic/Derivations and refutations.md",
     "math/Logic/Metalogic/Structure.md",
     "math/Logic/Model theory/Categorical theory.md",
-    "math/Logic/First Order Logic/Unification.md",
     "math/Logic/Model theory",
-    "dummy.md",
-    "math/Discrete Math/Graph Theory/Ramsey numbers.md",
-    "math/Topology/Topological spaces/Topologies/Compact open topology.md",
-    "math/Category Theory/Pullback.md",
-    "math/Category Theory/Natural transformation.md",
-    "math/Algebra/Group Theory/Group Homomorphism.md",
-    "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
     "attachments/Pasted image 20250507141737.png",
     "math/Topology/Algebraic Topology/Complexes",
     "math/Algebra/Order Theory",

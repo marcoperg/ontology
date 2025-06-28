@@ -3,7 +3,7 @@ aliases:
   - category
   - categories
 ---
-## Definition
+# Definition
 A category $C$ consists of the following mathematical entities
 - A class $ob(C)$ whose elements are called _objects_.
 - A class $hom(C)$ whose elements are called _morphisms_ or _arrows_.
