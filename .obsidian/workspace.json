@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Category Theory/Terminal and Initial Objects.md",
+                "file": "math/Category Theory/Products and Coproducts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal and Initial Objects"
+              "title": "Products and Coproducts"
             }
           }
         ]
@@ -202,9 +202,9 @@
   },
   "active": "351bd88b1a73fefc",
   "lastOpenFiles": [
+    "math/Category Theory/Terminal and Initial Objects.md",
     "math/Category Theory/Products and Coproducts.md",
     "math/Category Theory/Pullback.md",
-    "math/Category Theory/Terminal and Initial Objects.md",
     "math/Category Theory/Natural transformation.md",
     "math/Category Theory/Monoids.md",
     "math/Category Theory/Categories.md",

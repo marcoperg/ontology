@@ -27,3 +27,23 @@ A & Q \arrow[l, "q_1"] \arrow[r, "q_2"']                  & B
 \end{document}
 ```
 The $A,B-$pairings form a category $\textbf{Pair}(A,B)$. Then a product of $A$ an $B$ is a [[Terminal and Initial Objects|terminal object]] in $\textbf{Pair}(A,B)$.
+
+
+# Coproducts
+
+Coproducts are the dual version to products, i.e. a coproduct in $\mathcal{C}$ is just a product in $\mathcal{C}^{op}$, interpreted back in $\mathcal{C}$. The definition is the following
+
+Let $A, B$ be objects in a category $\mathcal{C}$. A **coproduct** of $A$ and $B$ is an object $A+B$ together with a pair of arrows $A \xrightarrow{i_1}A+B \xleftarrow{i_2} B$ such that for every triple $A \xrightarrow{f} C \xleftarrow{g} B$ there exists a unique morphism
+$$[f,g]: A+B \to C$$
+such that the following diagram commutes
+
+
+```tikz
+\usepackage{tikz-cd}
+\begin{document}
+\begin{tikzcd}
+A \arrow[rd, "f"'] \arrow[r, "i_1"] & A+B \arrow[d, "{[f,g]}", dashed] & B \arrow[ld, "g"] \arrow[l, "i_2"] \\
+                                    & C                                &                                   
+\end{tikzcd}
+\end{document}
+```

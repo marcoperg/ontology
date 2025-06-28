@@ -107,6 +107,8 @@
     "infimums",
     "pullback",
     "cospan",
-    "metatheorem"
+    "metatheorem",
+    "Coproducts",
+    "coproduct"
   ]
 }
