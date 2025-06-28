@@ -106,6 +106,7 @@
     "supremums",
     "infimums",
     "pullback",
-    "cospan"
+    "cospan",
+    "metatheorem"
   ]
 }
