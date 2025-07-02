@@ -123,8 +123,8 @@
             "state": {
               "type": "ReferenceListView",
               "state": {},
-              "icon": "quote-glyph",
-              "title": "References"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
+                "file": "math/Category Theory/Natural transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Urysohn's metrization lemma"
+              "title": "Backlinks for Natural transformation"
             }
           },
           {
@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -172,13 +172,13 @@
             }
           },
           {
-            "id": "be467e24dfdc3cdd",
+            "id": "63067d9e83099756",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph-analysis",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
@@ -200,7 +200,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "db2bd2b9d7974c1f",
+  "active": "63067d9e83099756",
   "lastOpenFiles": [
     "math/Logic/Arithmetic theories/Löbs's derivability conditions.md",
     "math/Logic/Arithmetic theories/Robinson arithmetic.md",
