@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID: 66AA699C-8F0D-49F9-901A-7CBF9968001A
+:END:
+#+title: Solvability by radicals
+
+In this note \(k\) is a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]] of characteristic \(0\).
+
+* Definition
+A field extension \(K/k\) is called a *radical extension* if there is a chain
+\[L = L_n \subset L_{n-1} \subset \cdots \subset L_0 = k\]
+such that \(L_{i+1} = L(b_i)\) for all \(i\) with \(b_i\) a zero of \(x^n -a_i\) for some \(a_i \in L_i\).
+
+A polynomial \(f\in k[x]\) is called *solvable by radicals* if there is a radical extension \(K/k\) such that \(f\) splits over \(K\) into linear factors.
+
+Such radical extensions can be assumed to be [[id:F05053D8-D6C0-4A45-AB38-94F126D93416][Galois]], since if there is a radical extension such that \(f\) splits over it, then there is a radical Galois extension such that \(f\) splits over this.
+
+* Theorem: Galois
+Let \(k\) be a field of characteristic \(0\), and \(f\in k[x]\). Then
+\[f \text{ is solvable by radicals} \iff \text{Gal}(f) \text{ is solvable}\]
+([[id:07BCB638-C2FB-4BE7-A621-2AFAE7069010][solvable]])

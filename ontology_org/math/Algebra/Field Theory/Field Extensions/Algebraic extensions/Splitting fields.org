@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 4D7BF589-E231-44D0-98A2-D2A4BCE4E1F2
+:END:
+#+title: Splitting fields
+
+--------------
+
+aliases: - splitting field
+---
+
+* Definition
+Let \(k\) be a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]], \(f\in k[x]\) polynomial of degree \(n\). A finite extension \(L/k\) is called the *splitting field of* \(f\) *over* \(k\) if 1. \(f\) splits over \(L\) into linear factors. 2. \(f\) does not split over any intermediate field into linear factors.
+
+** Existence theorem
+The following theorem motivates the fact that such a field always exists.
+
+Let \(f\in k[x]\) irreducible. Then there is a [[id:10BDCBE5-0AB5-4839-B7F0-D047101EC245][simple algebraic extension]] \(L/k\) such that \(f\) has a root in \(L\). Moreover, \([L : k] = \partial f\).

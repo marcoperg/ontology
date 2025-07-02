@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: E219099A-C486-4883-ADB9-797BA33E7384
+:END:
+#+title: Tychonoff Theorem
+
+Given [[id:8E24A191-E911-4243-8DDA-3404B256A715][compact]] spaces \(\{X_\alpha\}_{\alpha \in J}\) its [[id:22783D02-0670-4A34-B1FA-EDD8C5139B77][product]] is compact.
+
+This theorem is equivalent to the [[id:E4068E5E-6D76-4C89-B4EC-22E84E23478F][Zorn's Lemma]].

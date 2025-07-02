@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 48FAF6F8-DD4A-49F5-89B1-DCE13AE4A2F7
+:END:
+#+title: Groups
+
+--------------
+
+aliases: - group
+---
+
+** Definiton
+Let \(G\) be a set. A /binary operation/ \(\star:G\times G \to G\) on \(G\) is a function that assigns each ordered pair of elements of \(G\).
+
+Let \(G\) be a set together with a binary operation \(\star: G \times G \to G\). For every element \(a, b \in G\) denote \(a \star b\) with \(ab\). We say that G is a /group/ under this operation if the following properties are satisfy: - /Associativity/. \((ab)c = a(bc)\) \(\forall a, b, c \in G\) - /Identity/. There is an element \(e\) (called the /identity/) in \(G\) such that \(ae = ea = a\) for all \(a\) in \(G\). - /Inverses/. Foreach element \(a\) in \(G\), there is an element \(b\) in \(G\) (called /the inverse/ of \(a\)) such that \(ab\) = \(ba\) = \(e\).

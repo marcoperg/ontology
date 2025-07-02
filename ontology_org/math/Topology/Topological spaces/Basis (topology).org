@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID: CDB04BD2-C2D2-400F-8C70-F3CFF4097980
+:END:
+#+title: Basis (topology)
+
+--------------
+
+aliases: - second-countable space - basis - subbasis
+---
+
+** Definition
+Given a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] \((X, \tau)\), a *basis* for the topology \(\tau\) is a set \(\mathcal{B} \subseteq \tau\) of open sets such that every open set of the topology ca be represented as the union of some subset of \(\mathcal{B}\). In symbols,
+
+For all open set \(O \in \tau\) exists a subset \(\{A_i\}_{i\in I}\) such that \(O = \bigcup_{i \in I} AI_i\).
+
+** Example
+Let \((X, \tau)\) be the topological space induced by the [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric space]] \((X, d)\). Then, the set of open balls \(\mathcal{B} = \{B_\epsilon(x)\,|\, x\in X, \epsilon >0\}\) is a basis for \(\tau\).
+
+![[file:basis.pdf.org][basis.pdf]]

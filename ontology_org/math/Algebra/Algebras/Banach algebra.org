@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 71E51F5E-A2E0-4CAB-B82C-ED6972592DA7
+:END:
+#+title: Banach algebra
+
+* Definition
+A Banach algebra is an [[file:Associative algebra.org][associative algebra]] \(A\) over the real or complex numbers that at the same time is also a [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach space]].

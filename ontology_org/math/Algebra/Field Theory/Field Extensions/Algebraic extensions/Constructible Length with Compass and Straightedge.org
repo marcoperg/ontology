@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID: 45E14650-A6B2-420E-B443-235E482BE231
+:END:
+#+title: Constructible Length with Compass and Straightedge
+
+Let \(L\) be a line segment in Euclidean space.
+Let the length of \(L\) be \(d\).
+Let \(L'\) be a line segment of length \(d'\) constructed from \(L\) using compass and straightedge.
+Then:
+\[d' = qd\]
+where \(q\) is an [[id:10BDCBE5-0AB5-4839-B7F0-D047101EC245][algebraic number]] whose degree (i.e. the degree of its [[id:8A9FF251-59FF-465B-8D61-D57661D3A6F0][minimal polynomial]] or of \(\mathbb{Q}(q)\)) is a power of \(2\).

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID: 7355FF4B-187E-406F-9107-F6C1C921EDFA
+:END:
+#+title: 2. Locke
+
+* Epistemología y gnoseología empiristas
+Locke sitúa a la experiencia como el fundamento de todo nuestro saber, derivándose todo de esta. La reflexión tiene como estímulo y antecedente la sensación. Todo proviene de la sensación. Pese a esta dependencia psicológica, Locke defiende a la reflexión como mejor fundada, epistemológicamente que la sensación. Considera, pues, que el saber de nuestros propios estados, como saber intuitivo, es el más seguro de todos, y en nuestros estados, del modo más perfecto e indubitable, estamos ciertos de nuestra existencia.
+
+Locke utiliza el término *idea* para referirse al objeto del entendimiento, es decir, a todo aquello que se entiende por fantasma, noción, especie o cualquier otra cosa en que puede emplearse la mente al pensar. Sin embargo, a diferencia de Platón las ideas no existen fuera de la mente, ni hay ideas innatas. Todas las ideas son, o bien, *simples* y originadas como consecuencia de la experiencia sensible, o *compuestas*, formadas de las primeras. Las simples pueden ser u originadas *por sensación*, siendo en este caso representaciones del mundo corporal, extraídas de la experiencia del sentido externo; o *por reflexión*, que son representaciones que el alma tiene de su propia actividad, y son adquiridas por la experiencia del sentido interno.
+
+Por otra parte, tenemos el concepto de *abstracción*, cuyo papel es fundamental para Locke pero en un sentido distinto al aristotélico y escolástico. Mientras para Aristóteles y Santo Tomás la abstracción servía para captar la verdadera esencia de las cosas trascendiendo las cualidades accidentales, para Locke la abstracción es una mera actividad simplificadora. Aristóteles concibe la abstracción como un proceso de eliminación de los aspectos contingentes y particulares de la realidad, mientras que Locke le asigna un papel de separación de una idea respecto de otra. En un caso vas purificando una idea hasta llegar a la esencia, mientras que en el otro procedes mediante la categorización.
+
+* Nominalismo
+Pese a su concepción puramente sensualista y, por tanto, nominalista, Locke salva la posibilidad de tener una teoría deductiva efectiva mediante la interpretación de los conceptos lógicos desde una teoría semiótica estudiando el papel de los signos lingüísticos. Distinguiendo el conocimiento demostrativo del intuitivo y del suministrado por la sensación, refiriéndose el primero a la relación de las ideas entre sí, no de las ideas con el mundo.
+
+Entonces, para Locke, la necesidad de la demostración sólo vale dentro del mundo de las representaciones, de los conceptos generales o abstractos, nunca llegan al mundo natural. Dentro de estas representaciones abstractas que Locke emancipa del mundo natural destaca el concepto de sustancia (*categoría de inherencia*). Todos los demás contenidos y relaciones sólo pueden pensarse en la medida en que se refieren a alguna sustancia. Por ello, a esta relación "conviene realidad", es decir, nos vemos constreñidos a aceptar un *sustrato real* para todos los modos dados en las diversas ideas sin que podamos predicar nada de lo que sea este sustrato mismo.
+
+Así y en conclusión, la sustancia no es más que una coexistencia de varias ideas simples a las cuales, tras habernos acostumbrado a ver juntas, suponemos un soporto, por lo demás desconocido. Es decir, la sustancia es el portador desconocido de las propiedades conocidas, cuya pertenencia nos vemos obligados a admitir:
+"Todas las ideas simples, todas las cualidades sensibles comparten el supuesto de un sustrato en el que existen y de una sustancia en al que inhieren."
+
+** Esencia nominal y esencia real
+La concepción anteriormente expuesta de sustancia es, sobre todo, en contra de la aristotélico-tomista, la cual quedaría reducida a un mero presupuesto lógico de nuestro pensamiento, puramente convencional.
+
+Locke continúa haciendo una distinción entre dos tipos de esencia, la esencia nominal, "que sería más que la idea abstracta a la que va anejo el nombre", y la esencia real, que sería la "constitución real de las sustancias, de la cual depende esa esencia nominal y todas las propiedades de esa clase o especie". La tesis de Locke es que no conocemos más que las esencias nominales de las cosas, nunca la esencia real.
+
+** El problema de la identidad personal
+Revisar Iniciación a la Teoría del Conocimiento Capítulo 7, apartado 3.2.3.

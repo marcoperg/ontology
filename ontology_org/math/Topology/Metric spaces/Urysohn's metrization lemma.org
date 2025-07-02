@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: BB1D1115-4C48-4F3C-A27C-DBA4B3E483BC
+:END:
+#+title: Urysohn's metrization lemma
+
+* Statement
+Every [[id:531B263E-9E41-40E5-BB82-26ED0CB0C377][second countable]] [[id:C5EBDB18-8574-431C-A794-07E2BAADF831][regular Hausdorff]] space is [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metrizable]].

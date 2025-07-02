@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID: 8A9FF251-59FF-465B-8D61-D57661D3A6F0
+:END:
+#+title: Minimal polynomial
+
+--------------
+
+aliases: - minimal polynomial
+---
+
+* Definition
+Let \(K/k\) be a [[id:2F01C024-2ED3-4614-BC4B-DFCF4EC04C27][field extension]], and \(a\in K\) be [[id:10BDCBE5-0AB5-4839-B7F0-D047101EC245][algebraic]] over \(k\). Let
+\[
+\begin{align}
+ev_k: k[x] &\to K \\
+f &\mapsto f(a)
+\end{align}
+\]
+As \(a\) is algebraic, the kernel of \(f\) is not \(\{0\}\). We have that \(k[x]\) is a [[id:ED8C1E6C-C25A-4AEA-A484-6323522680DF][PID]], hence \(\ker f\) is principal, so there is a unique monic polynomial \(f_a\) such that
+\[\ker(ev_a) = \langle f_a \rangle\]
+This polynomial is called the *minimal polynomial of* \(a\) over \(k\).
+
+** Proposition
+The minimal polynomial of \(a\) over \(k\) is the unique irreducible monic polynomial \(f\in k[x]\) such that \(f(a) = 0\).

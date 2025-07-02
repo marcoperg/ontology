@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: 09F57612-5D74-4AED-9E7C-9979E8832185
+:END:
+#+title: Categorical theory
+
+* Definition
+A [[id:6A524683-ABBC-4776-81DC-C61786CE4B4A][theory]] is called \(\kappa\)-categorical if it has exactly one [[id:F07AE388-8FEF-487B-99AD-302C15E7DDDD][model]] of cardinality \(\kappa\) up to isomorphim

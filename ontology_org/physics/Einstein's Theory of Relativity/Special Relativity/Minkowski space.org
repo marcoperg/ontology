@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: 9173381A-2348-4B85-8206-DE15818459E2
+:END:
+#+title: Minkowski space
+
+Minkowski spacetime, denoted by \(\mathbb{M}\), is the [[file:[Pseudo-Riemannian Manifold.org][Lorentzian manifold]] \(\mathbb{R}^4\) coordinates \((t, x, y, z)\), where we assume \(c = 1\),takes the form
+\[
+g(t, x, y, z) = \begin{pmatrix}
+-1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1
+\end{pmatrix}.
+\]

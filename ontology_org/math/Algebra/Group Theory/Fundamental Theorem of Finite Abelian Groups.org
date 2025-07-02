@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID: 8C47EFC9-3937-473A-8CEA-E08CD2EFB13C
+:END:
+#+title: Fundamental Theorem of Finite Abelian Groups
+
+*Theorem* Every finite Abelian [[id:48FAF6F8-DD4A-49F5-89B1-DCE13AE4A2F7][group]] is a [[id:554A70C8-C753-4FAF-8790-791F925E4B67][direct product]] of cyclic groups of prime-power order. Moreover, the number of terms in the product and the orders of the cyclic groups are uniquely determined by the group.
+
+I.e., let \(G\) be a finite Abelian Group then \(G\) is [[id:9CEE2BBE-9DB7-4A0B-824C-512B3FEDF01B][isomorphic]] to the direct product:
+
+\[ G \cong \mathbb{Z}_{p_1^{n_1}} \oplus \mathbb{Z}_{p_2^{n_2}} \oplus ... \oplus\mathbb{Z}_{p_k^{n_k}}\]
+where the \(p_i\) are not necessarily distinct primes and the prime-powers \(p_1^{n_1}, ..., p_k^{n_k}\) are uniquely determined by \(G\).
+
+** Corollary
+If \(m\) divides the order of a finite Abelian group \(G\), then \(G\) has a subgroup of order \(m\).
+
+** Greedy Algorithm for an Abelian Group of Order \(p^n\)
+Let \(G\) be a finite Abelian Group.
+
+1. Let \(g_1, g_2, ... g_n\) be the elements of G.
+2. Take \(a_1 = argmax(|g_1|, ..., |g_n|)\) and let \(G_1 = \langle a_1 \rangle\). Set \(i = 1\).
+3. If \(|G| = |G_i|\) stop. Otherwise set \(i = i+1\).
+4. Select an element \(a_i\) of order l.t.e. to \(p^k\) such that \(p^k \leq \frac{|G|}{|G_i|}\) and none of \(a_i, a_i^p, a_i^{p^2}, ..., a_i^{p^{k-1}}\) is in \(G_{i-1}\), and define \(G_i = G_{i-1} \times \langle a_i \rangle\).
+5. Return to step 3.

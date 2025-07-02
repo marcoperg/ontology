@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID: EA480046-7007-4E40-8DC7-727CAC93E295
+:END:
+#+title: 2. Crítica a la Razón Pura
+
+Hume llega a dos conclusiones que definen su escepticismo:
+
+1. El saber humano es, todo lo más, un saber probable. No es posible alcanzar, ni siquiera dentro de los límites de la experiencia la estabilidad y la seguridad del auténtico saber.
+2. Incluso el saber probable falta cuando el hombre se aventura en los caminos de la metafísica despreciando la experiencia.
+
+A estas dos conclusiones Kant contrapone las suyas propias que vertebran, en buena media, el programa de su filosofía crítica:
+
+1. No es cierto que carezcamos en términos absolutos de un saber cierto y fiable. Lo tenemos en las matemáticas y en la física.
+2. Por más que la metafísica sea quimérica, el esfuerzo del hombre hacia ella es real, y si es real de be ser explicado de alguna manera.
+
+* El objetivo de la Crítica
+La investigación crítica debe buscar el último móvil de la tendencia del hombre a trascender la experiencia. Pero debe, sobre todo, establecer un tribunal que delimite las pretensiones legítimas de la razón y condene las que no tienen fundamente, sobre la base de los límites intrínsecos de la razón misma como leyes inmutables. Tal tribunal es la /Crítica de la Razón Pura/.
+
+** La explicación del proceso del conocimiento
+En los juicios sintéticos que componen el conocimiento sensible, las forma a priori de la sensibilidad son el espacio y el tiempo. Constituyen las dos formas primarias y fundamentales de organización que posee el espíritu. A ellas se somete el material bruto de la sensación y, mediante su elaboración, es elevado a la posibilidad de conocimiento en la forma de percepciones sensibles. Pero, además de la sensación, también el entendimiento es origen del conocimiento. Si los sentidos reciben impresiones, el entendimiento es la facultad de conocer con el pensamiento un objeto sirviéndose de aquellas impresiones. Intuición y concepto constituyen, pues, los elementos de todo nuestro conocer, de forma que ni los conceptos sin una intuición correspondiente a ellos, ni la intuición sin conceptos pueden darnos un conocimiento.
+
+Y del mismo modo que el caos de las impresiones sensoriales, para convertirse en percepciones, debe ser organizado en virtud de las formas del espacio y del tiempo ,así estas mismas percepciones sensibles, para pasar al plano del conocer intelectual, necesitan ser configuradas por las formas del entendimiento, o sea, las categorías. Estas formas del pensar a priori son producidas espontáneamente por el entendimiento y pueden ser detectadas mediante el análisis de la facultad de conocer, que muestra cómo todas ellas se insertan en un tronco común, original, que es la unidad del yo (primero y supremo principio de síntesis). El resultado de estos dos procesos de síntesis, en el nivel de percepción y en el nivel del entendimiento, es la objetividad, que se basa en la regularidad de las formas subjetivas del pensar.
+
+![[id:ABE393C4-FC0F-4F16-BEDF-4E9208AFB466][sintesis]]
+
+* Juicios sintéticos a priori
+Tanto Hume como Leibniz, aunque desde opuestos puntos de vista, habían reconocido que la experiencia no puede conferir valor universal y necesario a los conocimientos que se derivan de ella. Todo conocimiento universal y necesario es independiente de la experiencia. Pero independiente de la experiencia no tiene por qué significar conocimiento que precede a la experiencia. Para Kant todo conocimiento empieza en la experiencia, pero puede ser que no se origine totalmente en ella, y que sea una combinación de las impresiones que proceden de la experiencia y algo que pone nuestra propia facultad de conocer, estimulada por tales impresiones. En tal caso es menester distinguir en el conocimiento entre:
+
+1. Una materia, constituida por las impresiones sensibles; y
+2. Una forma, constituida por el orden y unidad que nuestra facultad cognoscitiva da a tal materia.
+
+Es decir, Kant otorga un valor de certeza a las verdades formadas por datos empíricos. Un los datos empíricos está formado por objetos diversos presentados por la sensibilidad y elaborados en el pensamiento por síntesis a priori, o sea, por imposición a la diversidad dada de un sistema de relaciones lógicas a priori.

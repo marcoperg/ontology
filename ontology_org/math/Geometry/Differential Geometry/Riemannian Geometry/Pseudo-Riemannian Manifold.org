@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID: FA18C9A1-CAA7-4F77-BA79-CBC201F8B4AB
+:END:
+#+title: Pseudo-Riemannian Manifold
+
+--------------
+
+aliases: - pseudo-Riemannian manifold - Lorentzian manifold
+---
+
+A *pseudo-Riemannian manifold* \((M, g)\) is a [[id:58660F1E-EB64-4506-81E9-63FF79BD2E76][manifold]] \(M\) equipped with a everywhere [[id:09B650EA-B258-4702-9130-A9282B2ABD3F][non-degenerate]], smooth, symmetric metric tensor \(g\).
+
+Such a metric is called a *pseudo-Riemannian metric*. Applied to a vector field, the resulting scalar field value at any point of the manifold can be positive, negative or zero.
+
+The [[id:7746A09C-92C0-4625-A43C-A5AF98BE441C][signature]] of a pseudo-Riemannian metric is \((p, q)\), where both \(p\) and \(q\) are non-negative. The non-degeneracy condition together with continuity implies that \(p\) and \(q\) remain unchanged throughout the manifold (assuming it is connected).
+
+** Lorentzian manifold
+A *Lorentzian manifold* is an important special case of a pseudo-Riemannian manifold in which the signature of the metric is \((1, n−1)\).

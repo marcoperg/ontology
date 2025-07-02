@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 5DFA01BC-6D4E-4E49-8365-BAC3F0493A8D
+:END:
+#+title: CSS Code
+
+The CSS Codes, named after their inventros, Robert Calderbank, Peter Shor and Andrew Steane, are a special type of [[id:A49CA006-042C-422B-A3F5-7FA4E8B7C95B][stabilizer code]] constructed from classical [[file:Linear code.org][linear codes]] with some special properties.
+
+** Construction
+Let \(C_1\) and \(C_2\) be (classical) \([n, k_1]\) and \([n, k_2]\) classical [[file:Linear code.org][linear codes]] such that \(C_2 \subset C_1\) and \(C_1, C_2^\perp\) both correct up to \(t\) errors. Notice \(C_2^\perp\) stand for the [[id:5943AD73-03F3-45EE-BA00-6E174A89DE1C][dual code]] of \(C_2\). Then define \(\text{CSS}(C_1, C_2)\), the CSS code of \(C_1\) over \(C_2\) as an \([n, k_1 - k_2]\) code capable of correcting errors on \(t\) qubits as follows:
+
+Take \(x \in C_1\), i.e. a codeword for \(C_1\) Then define the quantum state \(|x + C_2\rangle\) by
+\[
+|x+C_2\rangle := \frac1{\sqrt{|C_2|}}\sum_{y\in C_2}|x+y\rangle,
+\]
+where \(+\) is bitwise addition modulo 2. Then suppose \(x'\) is an element of \(C_1\) such that \(x-x' \in C_2\). Then \(|x + C_2\rangle = |x' + C_2\rangle\), and thus the state \(|x+C_2\rangle\) depends only upon the coset \(C_1/C_2\) which \(x\) is in.
+
+So \(\text{CSS}(C_1,C_2)\) is defined as \(\{|x+C_2\rangle\space|\space x\in C_1\}\).

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 1743D768-F44C-4BCA-9288-E9FBC8C30195
+:END:
+#+title: Connections
+
+Given a [[id:58660F1E-EB64-4506-81E9-63FF79BD2E76][manifold]] \(M\). Let \(\pi: E \to M\) be a [[id:A5FA66EF-5DD4-4738-8545-29C5622498B8][vector bundle]] over \(M\), and let \(\mathcal{E}(M)\) denote the space of smooth [[id:8D22B91A-E96D-4EBE-8407-A7129FDA737C][sections]] of \(E\). A *connection* in \(E\) is a map
+\[\nabla: \Gamma(TM) \times\Gamma(E) \to \Gamma(E)\]
+written \((X, Y)\mapsto \nabla_X Y\), satisfying the properties: 1. \(\nabla_X Y\) is linear over \(C^\infty(M)\) in \(X\). 2. \(\nabla_X Y\) is linear over \(\mathbb{R}\) in \(Y\). 3. \(\nabla_X Y\) satisfies the following product rule:
+\[\nabla_X(f Y) = (Xf)Y  + f\nabla_X Y\quad \text{for }f\in C^\infty(M)\]
+
+** Linear connections
+Moreover, a connection in \(TM\), the [[id:E521E6E7-78C3-49EB-B7AF-BA3D25925312][tangent bundle]], is called a *linear (or affine)* connection, i.e. a map
+\[\nabla: \Gamma(TM)\times\Gamma(TM) \to \Gamma(TM).\]

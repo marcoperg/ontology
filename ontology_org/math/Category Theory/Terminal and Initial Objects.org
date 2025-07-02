@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 6D2FADA3-B191-4E3E-B7B9-454DFA6026B2
+:END:
+#+title: Terminal and Initial Objects
+
+--------------
+
+aliases: - terminal object - initial object
+---
+
+* Initial Objects
+An object \(I\) of a [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]] \(\mathcal{C}\) is *initial* if, for every object \(A\), there exists a unique arrow from \(I\) to \(A\).
+
+* Terminal Objects
+An object \(T\) of a [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]] \(\mathcal{C}\) is *terminal* if, for every object \(A\), there exists a unique arrow from \(A\) to \(T\).
+
+Note that initial and terminal objects are dual notions: \(T\) is terminal in \(\mathcal{C}\) iff it is initial in \(\mathcal{C}^{op}\). We sometimes write \(\mathbf{1}\) for the terminal object and \(\mathbf{0}\) for the initial one.

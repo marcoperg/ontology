@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 499A0941-882A-4C09-8872-C989709EAFB6
+:END:
+#+title: Postulates of Quantum Mechanics
+
+** Postulate 1: State space
+Associated with any isolated physical system is an [[id:E5B1D38D-297B-4867-91DA-75156F747A92][Hilbert Space]] \(\mathcal{H}\) known as the /state space/ of the system. The system is completely described by its /state vector/ \(|\psi\rangle\), which is a unit vector in the system's state space.
+
+*** Postulate 1.b: Composite system
+The state space of a composite physical system is the tensor product of the state spaces of the component physical systems. Moreover, if we have systems numbered \(1\) through \(n\), and system \(i\) is prepared in the state \(|\psi_i\rangle\), then the joint state of the total system is \(|\psi_1\rangle \otimes|\psi_2\rangle\otimes\ldots\otimes|\psi_n\rangle\).
+
+** Postulate 2: Evolution
+The evolution of a /closed/ quantum system is described by /unitary transformation/. That is, the state \(|\psi\rangle\) of the system at time \(t_1\) is related to the state \(|\psi '\rangle\) of the system at time \(t_2\) by a unitary operator \(U\) which depends only on the times \(t_1\) and \(t_2\),
+\[
+|\psi '\rangle = U|\psi\rangle.
+\]
+An equivalent statements for /continuous times/ is given by the time dependent /Schrödinger equation/:
+\[
+i\hbar \frac{d\,|\psi\rangle}{dt} = H|\psi \rangle.
+\]
+​## Postulate 3: Measurement
+
+Quantum measurements are described by a collection \(\{M_m\}\) of /measurement operators/. These are operators acting on the state space of the system being measured. The index \(m\) refers to the measurement outcomes that may occur in the experiment. If the state of the quantum system is \(|\psi\rangle\) immediately before the measurement the probability that result \(m\) occurs is given by
+\[
+p(m) = \langle\psi|M^{\dagger}_m M_m|\psi\rangle
+\]
+and the state of the system after the measurement is
+\[
+\frac{M_m|\psi\rangle}{\sqrt{\langle\psi|M^{\dagger}_m M_m|\psi\rangle}}.
+\]
+The measurement operators satisfy the /completeness equation/,
+\[
+\sum_m M^\dagger_m M_m = I
+\]
+This equation ensures that the probabilities sum up to one:
+\[
+I = \sum_m p(m) = \sum_m M^\dagger_m M_m
+\]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: DDAF3B29-1145-4092-B031-7EA581CA1101
+:END:
+#+title: Description of simple algebraic extensions
+
+* Theorem 1 (description)
+Let \(K/k\) be an [[id:2F01C024-2ED3-4614-BC4B-DFCF4EC04C27][field extension]] and \(a\in K\) [[id:10BDCBE5-0AB5-4839-B7F0-D047101EC245][algebraic]] over \(k\). Let \(f_a\) be the [[id:8A9FF251-59FF-465B-8D61-D57661D3A6F0][minimal polynomial]] of \(a\) over \(k\). Let \(m \mathrel{\mathop:}= \partial f_a\). Then, 1. \(k(a) \cong k[x] / \langle f_a\rangle\) 2. \(\left[k(a) \mathop: k \right] = m\). Moreover, \(1, a, a^1, \dots, a^{n-1}\) is a basis for \(k(a)\).
+
+** Remark
+Let \(k(a)/k\) be a [[id:10BDCBE5-0AB5-4839-B7F0-D047101EC245][simple algebraic extension]] of degree \(m\) and minimal polynomial \(f_a\) of \(a\). Then,
+\[
+k(a) = \left\{ \sum_{i=0}^{m-1} b_ia^i \mathop\vert b_i \in k\right\}.
+\]
+
+* Theorem 2
+Let \(L/k\) be a field extension, then
+\(K/k\) is finite \(\iff\) \(L/k\) is algebraic and there exists finitely many \(a_1\dots a_n \in L\) such that \(L = k(a_1, \dots, a_n)\).

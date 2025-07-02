@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID: 1A8CE77B-82C7-4EA3-A7EF-BCE2EA0780AB
+:END:
+#+title: Root of unity
+
+--------------
+
+aliases: - nth-root of unity - root of unity
+---
+
+* Definition
+Let \(n\in \mathbb{Z}_{\ge0}\). Let \(L\) be a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]].
+
+An element \(\zeta \in L\) is called a *\(n^\text{th}\)-root of unity* if \(\zeta^n=1\). And is called a *primitive \(n^\text{th}\)-root of unity* if \(\zeta^n=1\) and \(\zeta^i \neq 1\) for all \(0<i<n\).
+
+For example, \(e^{2\pi i/n}\) is a primitive n-root of unity in \(\mathbb{C}\).
+
+** Lemma
+Let \(n\in \mathbb{Z}_{>0}\), \(k\) be a field of characteristic \(0\).
+Let \(\zeta\) be a primitive nth-root of unity in an [[id:2F01C024-2ED3-4614-BC4B-DFCF4EC04C27][extension]] field of \(k\). THen \(k(\zeta)\) is a [[id:F05053D8-D6C0-4A45-AB38-94F126D93416][Galois extensions]]

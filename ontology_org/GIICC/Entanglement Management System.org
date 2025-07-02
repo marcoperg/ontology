@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: CDB116EC-385E-4831-80EA-18FFE43A2C0B
+:END:
+#+title: Entanglement Management System
+
+** Utilities
+- Request to create new link (openConnect).
+- Request for entanglement (getEntanglement).
+
+** Requirements
+Similar to a KMS, save in a dictionary information about each active link.
+About each link saves: - Age - Needs to be recomputed after each swap. Either by assuming the age of the oldest link or by re-computing the age based on the post-swap fidelity ([cite:@inestaOptimalEntanglementDistribution2023]). - Session ID
+
+![[id:C2B9FDA5-5E68-45CA-8DB4-08BA0BAB7610][EntaglementMS.excalidraw]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: F07AE388-8FEF-487B-99AD-302C15E7DDDD
+:END:
+#+title: Structure
+
+--------------
+
+aliases: - model - structure
+---
+
+A structure consists of a set along with a collection of finitary operations and relation that are defined on it.
+
+** Definition
+Formally, a *structure* can be defined as a triplet \(\mathcal{A} = (A, \sigma, I)\) consisting of - a domain \(A\), which is an arbitrary set. - a signature \(\sigma = (S, \text{ar})\), which is in addition, formed by a set \(S\) of function symbols and relation symbols along with a function \(\text{ar}: S \to \mathbb{N}_0\) that ascribes to each symbol \(s\) a natural number. - an interpretation function \(I\) that assigns functions and relations to the symbols of the signature.
+
+** In model theory
+For a given theory in model theory, a structure is called a *model* if it satisfies the defining axioms of that theory.

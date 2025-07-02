@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID: 7FE95847-AD01-48AA-B20D-C66B62B31A0A
+:END:
+#+title: Associative Algebra
+
+--------------
+
+aliases: - associative algebra
+---
+
+** Definition
+An *associative algebra* is a [[id:C31DD475-75D9-4BB9-9DD5-536453386F9D][vector space]] \(A\) over a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]] \(K\), together with an associative bilinear product:
+For all \(x, y, z \in A\), \(\alpha \in K\): 1. \((xy)z = x(yz)\) 2. \((\alpha x)y = \alpha(xy) = x(\alpha y)\) 3. \(x(y+z) = xy+xz\) 4. \((x+y)z = xz+yz\)
+
+** Examples
+- \(A = M_{n\times n}(\mathbb{C})\)
+  - \(x, y, z \in M_{n\times n}(\mathbb{C})\), 1-4 hold
+- \(\mathbb{C}[x]\)
+  - \(p(x), q(x), r(x) \in\mathbb{C}[x]\) 1-4 hold
+- 

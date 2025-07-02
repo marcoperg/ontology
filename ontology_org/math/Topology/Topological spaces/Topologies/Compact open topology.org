@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 64BDF033-13AA-4946-BBF3-E196349BAC74
+:END:
+#+title: Compact open topology
+
+The compact-open topology is a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topology]] defined on a set of continuous maps between two topological spaces.
+
+Let \(X\) and \(Y\) be topological spaces, and let \(C(X, Y)\) denote the set of all continuous maps between \(X\) and \(Y\). Given a [[id:8E24A191-E911-4243-8DDA-3404B256A715][compact]] subset \(K\) of \(X\) and an open subset \(U\) of \(Y\), let \(V(K, U)\) denote the set of all functions \(f\in C(X,Y)\) such that \(f(K)\subseteq U\). Then the collection of all such \(V(K,U)\) is a [[id:CDB04BD2-C2D2-400F-8C70-F3CFF4097980][subbase]] for the compact-open topology on \(C(X<Y)\).

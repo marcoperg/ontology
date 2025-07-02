@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: E521E6E7-78C3-49EB-B7AF-BA3D25925312
+:END:
+#+title: Tangent Bundle
+
+Given a [[id:58660F1E-EB64-4506-81E9-63FF79BD2E76][smooth manifold]] \(M\) we define the *tangent bundle*, denoted \(TM\), to be the disjoint union of the [[id:5FA0079D-EFB7-4222-B9DD-F216C918E7B6][tangent space]] at all points of \(M\):
+\[TM = \coprod_{p\in M} T_pM\]
+Elements of \(TM\) can be written as a pair \((p, v)\) with \(p\in M\) and \(v \in T_pM\). The tangent bundle comes equipped with a natural *projection map* \(\pi: TM \to M: (p, v)\mapsto p\). Since each fiber of this map is a vector space the tangent bundle is a [[id:A5FA66EF-5DD4-4738-8545-29C5622498B8][vector bundle]].
+
+Also, for any \(n\)-manifold, the tangent bundle \(TM\) has a natural [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topology]] and smooth structure that makes it into a \(2n\)-dimensional smooth manifold. With respect to this structure, the projection \(\pi:TM \to M\) is smooth.

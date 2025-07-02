@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID: 0E8BF171-237E-4E60-8AA0-15804304692E
+:END:
+#+title: Fiber bundle
+
+--------------
+
+aliases: - fiber bundle
+---
+
+A fiber bundle is a structure \((E, B, \pi, F)\) where \(E\), \(B\) and \(F\) are [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological spaces]] (\(B\) connected) and \(\pi: E \to B\) is a continuous surjection satisfying the next /local triviality/ condition:
+
+For all \(x\in B\), there is an open neighborhood \(U\subset B\) of \(x\) such that there is a homeomorphism \(\phi: \pi^{-1}(U) \to U\times F\), where \(\pi^{-1}(U)\) is given the [[id:D280DC17-60D3-4164-9C71-B7BC14D099D5][subspace topology]] and \(U\times F\) the [[id:B9061035-7120-47E0-94B8-A5678CF5B087][product topology]], such that \(\pi\) agrees with the projection onto the first factor. That is, the following diagram commutes:
+
+#+begin_src tikz
+\usepackage{tikz-cd}
+\begin{document}
+\begin{tikzcd} 
+    \pi^{-1}(U) \arrow[r, "\phi"] \arrow[d, "\pi"] 
+    & U\times F \arrow[ld, "proj_1"] \\ U
+\end{tikzcd} 
+\end{document}
+#+end_src
+
+where \(\text{proj}_1: U\times F \to U\) is the natural projection and \(\phi: \pi^{-1}(U) \to U\times F\) is a homeomorphism.
+
+The space \(B\) is called the *base space* of the bundle, \(E\) the *total space* and \(F\) the *fiber*. The map \(\pi\) is called the *projection map*.
+
+For \(p\in B\), the preimage \(\pi^{-1}(\{p\})\) is homeomorphic to \(F\) and is called the *fiber over* \(p\).

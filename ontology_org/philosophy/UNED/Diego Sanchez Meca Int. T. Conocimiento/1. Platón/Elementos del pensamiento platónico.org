@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID: 7C96F6DB-6615-4169-8788-BFBEA506BF47
+:END:
+#+title: Elementos del pensamiento platónico
+
+* La concepción parménida de la verdad
+[[id:735B23D3-AE21-47C0-BD34-40E2787DD59A][Parménides]] parte de su Ser, inmutable, uno y eterno, para explicar que la pluralidad y el movimiento non son más que una ilusión de los sentidos.
+
+En su poema sobre la /Naturaleza/ la diosa protagonista de la primera parte explica que solo existen tres caminos, el de la verdad, que el ser es y no puede no ser; el de la opinión, que el ser es, pero podría no ser; y el del error, que el no-Ser, el vacío, también es. La única forma para llegar a este camino de la verdad es siguiendo la razón, ya que los sentidos se detienen en las apariencias y pretenden convencernos de la realidad del nacer, del perecer y del cambiar de las cosas. Sin embargo, el pensamiento muestra que el no-Ser no puede ser pensado. No se puede pensar sin pensar en algo. El pensar nada no es pensar. Parménides determina, así, un criterio de validez para el conocimiento según el cual el valor de verdad del conocimiento depende de la realidad del objeto.
+
+En conclusión, para Parménides todo pensar se refiere a lo que existe. No hay pensamiento cuyo contenido no sea el ser. Y viceversa, no hay ser que no pueda ser pensado. Esta correspondencia es llevada incluso a la identificación: pensar y ser son una y la misma cosa.
+
+* La concepción sofistica de la percepción
+Cronológicamente, el punto de partida del pensamiento platónico (tal como se muestra en los primeros diálogos) lo constituye la discusión entre Sócrates y los sofistas respecto al problema de cuál es la virtud más propia del hombre.
+
+Los Sofistas defienden un *relativismo ético*, argumentando que toda norma social debe fundarse en la naturaleza, pues es esta lo único que tiene todo hombre en su fondo. Y, siguiendo el modo de pensar griego, lo único que de la naturaleza se muestra en el hombre son sus impulsos individuales. El deseo de dominar y alcanzar el éxito político es, por tanto, un buen criterio de valor para las decisiones morales.
+
+Paralelamente a este relativismo ético se formula un *relativismo gnoseológico*, como se muestra en la doctrina de la percepción de Protágoras. Según ella, la única fuente de conocimiento que tenemos es la percepción. O sea, no tenemos conocimiento alguno del ser. Los hombres solo conocen las cosas tal y como son percibidas por ellos. Protágoras defiende esta idea señalando la participación del órgano receptor (sujeto) en el acto de la percepción.
+
+Protágoras considera imposible un conocimiento verdadero de las cosas con validez general. Su estudiante Gorgias lleva al extremo está idea, arrastrándola al terreno metafísico, negando la existencia de un ser más allá del mundo de los fenómenos:
+
+#+begin_example
+"Nada existe"; "Si existiese algo no podría conocerse" y "Si el conocimiento del ser fuese posible, no podríamos comunicarlo" (Gorgias)
+#+end_example
+
+En definitiva, los Sofistas rechazan la identificación parmenída del pensar y el ser, y establecen la verdad como independiente del objeto.oEs por esta idea del sujeto como participe de toda verdad la que lleva a Protágoras a afirmar la celebre frase:
+
+#+begin_example
+"EL hombre es la medida de todas las cosas".
+#+end_example
+
+* La concepción socrática del saber
+En el mismo contexto donde los Sofistas desarrollaban su doctrina, Sócrates crea un pensamiento distinto y en polémica con ellos. Sócrates busca el saber que valga en igual medida para todos. Frente al cambio y la diversidad de las representaciones individuales se pregunta por lo permanente y por lo común que todos tienen que reconocer. Ya los filósofos anteriores habían insinuado que el pensar raciona, fuente de todo auténtico saber, es algo esencialmente distinto de la interpretación sensible. Pero mientras ellos apelaban a una razón metafísica como lógos común al hombre y a la naturaleza, Sócrates toma un camino distinto. El conocimiento que debe valer para todos no puede ser sino lo común que en todas las sucesivas representaciones se impone a los individuos. Se puede seguir el siguiente conocimiento: 1. Partimos de los casos concretos de la experiencia, 2. Detectamos en ellos aspectos iguales uniformemente repetidos, 3. Destacamos esos rasgos iguales y los reunimos en un concepto.
+Esta es la doctrina socrática de la formación de los conceptos universales.
+
+Sócrates, además, hace recaer la importancia de estos conceptos universales en sus definiciones. El objeto del hombre que desea saber debería de ser lograr una definición unitaria que exprese la íntima naturaleza del concepto y sea válido para todos los hombres.
+
+Por otra parte, Aristóteles señala a Sócrates como padre de los pensamientos inductivos. Dejando claro que la teoría socrática no es lógica, sino basada en el diálogo y en su particular mayéutica. Como señalan Jenofonte y Platón, este razonamiento inductivo todavía se halla imperfecto. Sin embargo, tiene una gran importancia histórica y un gran valor metodológico. Señalando de modo decisivo que la tarea de la ciencia reside en elevarse al concepto general mediante comparaciones de hechos particulares.

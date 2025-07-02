@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 8179B91F-F6D3-4370-A7FA-309D11C56E24
+:END:
+#+title: Sequences
+
+Let \(X\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]]. Then a sequence \(x_1, x_2,\dots\) in \(X\) is said to converge to \(x\in X\) if for every neighborhood \(U\) of \(x\) there is some \(N\in \mathbb{N}\) such that \(a_n \in U\) for all \(n>N\).
+
+Every convergent sequence has a unique limit in a [[id:14F2DB4F-672A-42CD-B683-BE90B7E3F5C9][Hausdorff space]].
+
+** Sequence lemma
+For a subset \(A\subset X\), if there is a sequence in \(A\) which converges to \(x \in X\) then \(x \in \overline{A}\).
+Conversely, if \(X\) is [[id:531B263E-9E41-40E5-BB82-26ED0CB0C377][first countable]], if \(x\in \overline{A}\) then there is a sequence in \(A\) which converges to \(x\).

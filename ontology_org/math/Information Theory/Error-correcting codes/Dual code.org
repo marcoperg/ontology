@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID: 5943AD73-03F3-45EE-BA00-6E174A89DE1C
+:END:
+#+title: Dual code
+
+The *dual code* of the [[file:Linear code.org][linear code]]
+\[
+C =\subset \mathbb{F}^n_q
+\]
+is the linear code defined by
+\[
+C^\perp = \{x \in \mathbb{F}^n_q \space|\space \langle x, c \rangle = 0, \quad \forall c \in C\}
+\]
+where \(\langle x, c\rangle\) is the scalar product.
+
+The dimension of \(C\) and its duals always add up to the length \(n\):
+\[
+dim C + dim C^\perp = n
+\]

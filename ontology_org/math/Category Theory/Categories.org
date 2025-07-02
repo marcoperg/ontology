@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID: 6B755D9E-EB8E-4673-ADD0-B4411D410D52
+:END:
+#+title: Categories
+
+--------------
+
+aliases: - category - categories
+---
+
+* Definition
+A category \(C\) consists of the following mathematical entities - A class \(ob(C)\) whose elements are called /objects/. - A class \(hom(C)\) whose elements are called /morphisms/ or /arrows/.
+
+We have the following axioms for C-objects and C-arrows:
+
+- *Sources and targets*: For each arrow \(f\), there are unique associated objects \(src(f)\) and \(tar(f)\), called respectively the /source/ and the /target/ of \(f\), not necessarily distinct.
+  The expression \(f : a \to b\), would be verbally stated as "/f/ is a morphism from /a/ to /b/".
+  The expression \(hom(a, b)\) denotes the /hom-class/ of all morphisms from /a/ to /b/.
+
+- *Composition*: For any two arrows \(f: A \to B\), \(g: B \to C\), where \(src(g) = tar(f\)), there exist an arrow \(g \circ f: A \to C\) , which we called /composite/ of \(f\) with \(g\).
+
+- *Identity arrows*: For any given object \(A\), there is an arrow \(1_A: A\to A\) called the /identity arrow/ on \(A\).
+
+- *Associativity of composition*: For any \(f: A \to B\), \(g: B \to C\), \(h: C \to D\), we have
+  \[h \circ (g \circ f) = (h \circ g) \circ f\]
+
+- *Identity arrows behave as identities*: For any \(f: A \to B\) we have \(f \circ 1_A = f = 1_B \circ f\).

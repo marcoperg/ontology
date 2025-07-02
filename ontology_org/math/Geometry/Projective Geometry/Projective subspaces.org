@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: C7F2A825-D4C8-4679-BAD3-5E722CF1EF60
+:END:
+#+title: Projective subspaces
+
+*Definition:* Given a nontrivial vector space \(E\), a /projective subspace/ of \(\mathbf{P}(E)\) is any subset \(W\) of \(\mathbf{P}(E)\) such that there is some subspace \(V \neq \{0\}\) of \(E\) with \(W = p(V - \{0\})\) . Where \(p\) is the [[id:9543A33A-0CDB-4476-87ED-87F81C2C1AE5][canonical projection]] onto the projective space of \(E\)
+
+We say that a family \((a_i)_{i\in I}\) of points of \(\mathbf{P}(E)\) such that \(a_i = p(u_i)\) for every \(i\in I\).

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: 48321F6B-3DBF-4643-8321-C982574E5E75
+:END:
+#+title: 4. Abelardo
+
+Abelardo es el primer autor medieval que afirma que incluso la verdad revelada debe ser cuestionada y analizada por la razón. No sé debe crear en algo porque Dios lo haya revelado, sino que se ha de creer que lo ha revelado porque nos convence de que eso es verdadero. Sería absurdo aceptar algo como verdad cuyo significado no se entiende.
+
+Todo lo que se es tenido por verdad se ha de resolver mediante el análisis lógico y dialéctico. Siendo en la lógica otra de las aportaciones más destacables de este autor, al traer una concepción de la lógica como filosofía del lenguaje, decisiva a la disciplina moderna.
+
+* El conceptualismo
+Abelardo critica tanto la posición realista, por llevar al panteísmo, como la nominalista, por llevar al sensualismo. Esta crítica dual a las dos principales posturas de la época lo llevará a desarrollar una nueva solución para la controversia de los universales, el conceptualismo, sosteniendo que los universales no pueden ser ni cosas ni simples palabras.
+
+Según Abelardo, los universales existen primero en Dios, como /conceptus mentis/, antes de las cosas; segundo en las cosas, como igualdad de los caracteres esenciales de los individuos; y tercero, después de las cosas, en el entendimiento humano como sus conceptos y predicaciones obtenidos por la función comparativa del pensamiento (inducción, en alguna forma de la misma). En consecuencia, los universales son /universalia ante multiplicatem, in multiplicate et post multiplicate/, competiéndoles, por tanto, un sentido /ante rem/, respecto y en el espíritu divino; /in re/; tocante a la naturaleza, y /post rem/, en lo que concierne al conocimiento humano.
+
+Así, Abelardo, destaca el carácter lógico y operativo del universal, negando así su carácter de realidad y su estatus de mero nombre. No puede ser realidad porque ninguna realidad puede predicar a otra (Aristóteles), y no puede ser un simple nombre porque incluso los nombres son también cosas, realidades por tanto que no pueden ser predicadas de otras.

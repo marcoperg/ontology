@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID: B7312592-1E02-4BAE-A723-ABA434AE5891
+:END:
+#+title: 1. La Filosofía en Mileto
+
+--------------
+
+aliases: - Tales - Aniximandro - Anaxímenes
+---
+
+* Tales
+Nace en Mileto y ejerce influencia política en su patria. Se le atribuyen viajes a Egipto, donde estudia Geometría, mide la altura de las Pirámides por su sombra y explica las crecidas del Nilo. Alcanza la fama por varios inventos de carácter práctico. Predijo un eclipse de Sol que ocurre en el medio de una batalla entre medos y lidios. Se le atribuye el teorema que lleva su nombre, el haber sido estudioso de los cielos y de medir la distancia entre navíos gracias a la suma de triángulos semejantes.
+
+Habiendo previsto una buena cosecha de aceitunas, alquiló todas las prensas de Mileto, enriqueciéndose y demostrando la utilidad de la Filosofía.
+
+Considera el agua como primer principio de donde provienen todas las cosas, además de aquello que las forma y donde se resuelven. Este concepto podría tener su origen en las cosmogonías orientales, donde se propone como origen de todo un caos acuoso primordial.
+
+Aristóteles y Diógenes Laercio le atribuyen la frase de que todas las cosas estban llenas de dioses o de "demonios".
+
+* Anaximandro
+Natural de Mileto. Es discípulo o "compañero" (εταίρος) de Tales. Es el iniciador de la Astronomía griega y amplía la visión de Tales, aspirando a una concepción general del Universo.
+
+1. /FÍSICA/.
+   Como primer principio (ἀρχή) señala el ἄπειρον (aquello que es, lo ilimitado, indefinido e indeterminado). Se trata de una materia primordial ilimitada, inmutable e incorruptible generadora de todos los seres y a la cual todos los seres retornan. Aristóteles explica el ἄπειρον como una mezcla confusa de elementos, los cuales se van separando por el movimiento.
+
+2. /BIOLOGÍA/.
+   Anaximandro explica que todos los seres vivientes salen del fango primitivo, la mezcla primigenia de Tierra y Agua. Los hombres provendrían de una especie de monstruos marinos, envueltos en un caparazón escamoso, dentro de los cuales habitaría un hombre. Cuando el Sol hubo secado una parte de las aguas, aquellos monstruos quedarían varados en tierra, donde el efecto de los rayos del sol secarían su envoltura, permitiendo a estos hombres salir.
+
+   El alma sería una substancia aeriforme proveniente del pneuma cósmico.
+
+* Anaxímenes
+También de Mileto, habría sido el εταίρος de Anaximandro. Supone un retroceso a teorías más similares a las de Tales. Concibe el Aire como principio primordial y entiende al Cosmos como un anival viviente, dotado de respiración, dentro del Pneuma infinito que lo envuelve todo.
+
+Anaxímenes introduce el dualismo de fuerzas cósmicas, ampliando la "separación" de Anaximandro con la /condensación/ y /dilatación/.
+
+Poco después de la muerte de Anaxímeneds, Mileto es arrasada por los persas, pereciendo así aquel centro que tan excelentes frutos prometia.

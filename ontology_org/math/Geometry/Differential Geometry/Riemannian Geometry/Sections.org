@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID: 8D22B91A-E96D-4EBE-8407-A7129FDA737C
+:END:
+#+title: Sections
+
+--------------
+
+aliases: - section
+---
+
+Let \(M\) be a [[id:58660F1E-EB64-4506-81E9-63FF79BD2E76][manifold]] and \(\pi: E \to M\) be a [[id:A5FA66EF-5DD4-4738-8545-29C5622498B8][vector bundle]] over \(M\). A *section* of \(E\) is map \(s: M\to E\) such that \(\pi \circ s = \text{Id}_M\), i.e. \(s(p) \in E_p\) for all \(p\in M\).
+
+The set of smooth sections of a vector bundle is an infinite-dimensional vector space under pointwise addition and multiplication by constants, whose zero element is the zero section \(\zeta\) defined by \(\zeta_p =0 \in E_p\) for all \(p \in M\). This set is sometimes denoted \(\Gamma(E)\).

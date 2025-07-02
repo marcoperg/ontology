@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: F84ED50C-D9A2-430A-B8DB-FB0ABA52676B
+:END:
+#+title: 5. Ética
+
+Aristóteles tiene una concepción de la moral primordialmente práctica. Quiere hallar un camino para alcanzar la felicidad. En la Ética a Nicómaco llega a concluir que la vida feliz es la vida teorética y contemplativa.
+
+* La virtud
+Aristóteles considera el hombre como un compuesto sustancias, integrado por dos principios distintos: cuerpo material y alma espiritual. El compuesto es sujeto de /pasiones/, de /potencias/ y de /hábitos/. Las pasiones son aquellos movimientos del apetito sensitivo que llevan consigo placer y dolor. Son la concupiscencia, la envidia, el gozo, el amor, el odio, el pesar, los celos, la compasión. Las pasiones no son ni buenas ni malas. Los vicios y las virtudes no son pasiones ni potencias, son hábitos.
+
+A diferencia de Sócrates, Aristóteles no es optimista en el sentido de identificar el vicio con el desconocimiento. La vida virtuosa será: 1. Un *hábito adquirido*. 2. Un *hábito voluntario*, que implica deliberación y elección.
+El acto voluntario, analiza Aristóteles, está formado por cinco momentos: /conocimiento/ del objeto y del fin; /voluntad/ de alcanzarlo; /deliberación/ sobre los medios adecuados para conseguirlo; /elección/ reflexiva de la acción a realizar; y /firmeza/ inquebrantable en la decisión al obrar. 3. Un *justo medio* entre dos extremos viciosos. 4. Un *hábito práctico*, no bastando con conocer especulativamente en qué consiste la virtud.
+"El arquitecto se forma construyendo casas, el músico componiendo música, el justo practicando la justifica, el sabio cultivando la sabiduría, el valiendo ejercitando el valor."
+
+![[file:Pasted image 20250101190540.png.org][Pasted image 20250101190540.png]]![[file:Pasted image 20250101190551.png.org][Pasted image 20250101190551.png]]

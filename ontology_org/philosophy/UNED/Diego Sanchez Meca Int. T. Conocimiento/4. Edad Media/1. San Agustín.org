@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID: 9CBC6341-F2AC-4E9E-94AA-43371020DA2F
+:END:
+#+title: 1. San Agustín
+
+* Refutación del escepticismo
+San Agustín centra en su obra /Contra académicos/ el objetivo de superar el obstáculo que representa el escepticismo de los académicos de la época. Como fuente de la opinión que intenta refutar coge los /Academica/ de Cicerón, donde se sostiene: 1. Que no es posible conocer con certeza verdad alguna, por lo que no podemos dar nuestro total asentimiento a nada; 2. Que en la vida moral práctica hay que guiarse por la verosimilitud o probabilidad cuyos grados había establecido Carnéades.
+
+Agustín llega a la conclusión de que tienen que existir ciertas verdades evidentes y ciertas, de orden inteligible. Su principal argumento radica en la propia sentencia de duda que establecen los escépticos. Para dudar de tu juicio tienes primero que aceptar la existencia de este juicio. Esta línea de pensamiento desemboca en una primera verdad agustiniana, existo y pienso. Agustín tiene conciencia de existir y pensar (no piensa y existe, como Descartes). El pensamiento existe a raíz de la existencia. Sé que existo, luego sé algo. Del sólo sé que no sé nada socrático al sólo sé que existo.
+
+* La iluminación como teoría noética
+San Agustín afirma lo siguiente, separándose ligeramente el innatismo platónico: 1. El pensamiento no crea, sino que descubre la verdad, por lo que la verdad es antes que el pensamiento. Esto queda claro entendiendo que las verdades agustinianas son eternas, y, por tanto, tienen que preceder a este. 2. La verdad es descubierta dentro de nosotros, y no fuera.
+
+** Niveles de conocimiento
+*** Conocimiento sensitivo
+El grado más bajo de conocimiento. La impresión de los cuerpos en los sentidos permite al alma atender a las modificaciones del cuerpo formando así imágenes de los objetos que le afecta. Es importante notar que el mundo material, inferior, no puede afectar al alma, superior y espiritual, por lo que la sensación ha de ser una actividad activa de esta y no pasiva. Cuando el juicio de la razón interpreta la imagen que forman los sentidos conforme a la realidad y al objeto se dirá que la imagen es verdadera.
+
+*** Conocimiento racional (ciencia)
+La razón es la facultad del alma que discierne, clasifica, asocia y juzga las imágenes sensitivas. Para ello dispone de unas reglas o principios verdaderos, los cuales no son conclusiones de la razón, sino verdades intelectivas. Además, San Agustín otorga una razón individual, distinta a cada individuo, teniendo como rasgo en común a todas ellas el acceso a estas verdades comunes e inmutables.
+
+Por tanto, la razón individual no crea reglas ni principios verdaderos e inmutables, la razón cambia, es un paso de un conocimiento a otro.
+
+*** Conocimiento intelectivo
+Por encima de la razón está la inteligencia o razón superior que tiene la intuición inmediata de las verdades. Así como la razón es la fuente de la ciencia de lo sensible, la inteligencia versa de las verdades inmutables y necesarias del mundo inteligible. Esta doctrina recibe el nombre de Ejemplarismo, donde se establece una desproporción ontológica entre el conocimiento de lo sensible y las Ideas.
+
+Sobre la forma de acceder a estas Ideas, Agustín tienen en cuenta el innatismo platónico substituyéndolo por su interiorismo. Agustín rechaza la preexistencia del alma, las Ideas están en nosotros, pero acepta de Platón que el alma no cree la verdad, sino que la descubre dentro de sí. Ahora bien, para Agustín la verdad está en nosotros presente en la intuición original, la luz de Dios que ilumina.
+
+** Interpretaciones de la teoría de la iluminación
+1. Interpretación ontológica. La iluminación sería una visión gnoseológica de Dios. Nuestra razón intuye inmediatamente las Ideas en la mente de Dios y así llegamos al conocimiento de una verdad necesaria, inmutable y eterna.
+2. Interpretación aristotelizante. Reduce la iluminación agustiniana al entendimiento agente de Aristóteles, desvirtuando su significado. Fue inaugurada por Santo Tomás. Este intelecto agente participa en la luz increada pero la modo que todo lo demás creado participa de la primera causa. Ahora bien, en esta postura, Dios y no el hombre desempeñaría el papel de intelecto agente.
+3. Interpretación histórica. Considera que S. Agustín quiso enseñar un cierto apriorismo epistemológico con su iluminación, intentando explicar la copia desde el modelo.
+
+Nota:
+
+Para San Buenaventura, San Agustín es el verdadero primer metafísico, al señalar al Verbo como causa eficiente, ejemplo y final del ser.

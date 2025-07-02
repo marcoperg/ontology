@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID: 1EC57BE5-BB2E-475C-94BF-0D3EFDF9DB15
+:END:
+#+title: 1. Jenófanes
+
+--------------
+
+aliases: - Jenofanes - Jenófanes
+---
+
+* Jenófanes
+Parece improbable que permaneciera mucho tiempo en ninguna de las ciudades que habitó dado su carácter y profesión, y menos que llegase a fundar una escuela propiamente dicha.
+
+** Epistemología
+En Jenófanes aparece claramente la contraposición entre verdad y apariencia, y entre certeza y opinión, que exagerará [[id:735B23D3-AE21-47C0-BD34-40E2787DD59A][Parménides]]. No hay certeza. Todo son opiniones.
+
+** Física
+Las alusiones de Jenófanes a la "Física" de los milesios deben entenderse probablemente en sentido irónico y burlesco. Admiraba a [[id:B7312592-1E02-4BAE-A723-ABA434AE5891][Tales]] por haber predicho un eclipse. Pero ridiculizaba a [[id:905F8A43-4909-491A-A666-B24CB0933E61][Pitágoras]], aludiendo a la transmigración de las almas, a la respiración cósmica y a la disgregación del ser lleno por medio del vacío.
+
+El principio de todas las cosas es la tierra, de la cual nacen y a la cual vuelven todas las cosas. Esta Tierra es ilimitada y no está rodeada por el aire (pneuma) ni por el cielo.
+
+Todas las cosas del mundo se destruyen periódicamente.
+
+** Teología
+Jenófanes también ridiculizo el antropomorfismo de Homero y Hesíodo, "que atribuyeron a los dioses todo cuanto es censurable y vergonzoso entre los hombres: hurtos, adulterios engaños recíprocos" y "muchísimas cosas ilícitas". Combate el politeísmo, proclamando la existencia de un Dios único, eterno, inmóvil, inmutable, inalterable, inteligentísimo, que está por encima de todos los dioses y que no se parece en nada a los hombres. Tampoco parece ser monoteísta, pues admite la existencia de dioses inferiores y demonios. Los antiguos interpretan esto como un monismo estricto, pero podría parecer más acertado interpretarlo a la manera de los milesios, como un principio material único del que surgen todas las cosas.
+
+** Ética
+Jenófanes proclama una vida austera. Condenando el lujo de sus contemporáneos.

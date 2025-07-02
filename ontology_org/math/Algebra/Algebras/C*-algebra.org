@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: F59825EC-285C-4BB5-ACB1-17CA0A6FFC70
+:END:
+#+title: C*-algebra
+
+** Definition

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID: 531B263E-9E41-40E5-BB82-26ED0CB0C377
+:END:
+#+title: Countability
+
+--------------
+
+aliases: - first countable - second countable
+---
+
+** First-countable space
+A [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] a is said to be /first countable/ at point \(x \in X\) if it exists a countable system of neighborhoods \(U_1, U_2, U_3, \dots\) such that given an arbitrary neighborhood \(U\) of \(x\) there is \(n\in \mathbb{N}\) such that \(U_n \subset U\).
+
+We can safely assume that \(U_1 \supset U_2 \supset U_3 \supset \dots\) (by \(U_1 \supset (U_1 \cap U_2)\supset (U_1\cap U_2 \cap U_3) \supset \dots\)). Then \(U_i \subset U\), for \(i\ge n\) is called the fundamental system of neighborhoods of \(x\).
+
+Then \(X\) is called first countable if it is first countable at every point.
+
+*** E.g.
+If \(X\) is metric, then \(X\) is first countable, taking \(U_i = B_d(x, \frac{1}{i})\).
+
+** Second-countable space
+A topological space \((X, \tau)\) is said to be /second countable/ if it exists a countable [[id:CDB04BD2-C2D2-400F-8C70-F3CFF4097980][basis]] that generates the space.
+
+Second-countable implies first-countable.

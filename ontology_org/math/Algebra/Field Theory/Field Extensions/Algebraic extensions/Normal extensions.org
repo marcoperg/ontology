@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: 12AF798B-5180-45A8-8712-670E2474F31C
+:END:
+#+title: Normal extensions
+
+--------------
+
+aliases: - normal
+---
+
+* Definition
+Let \(L/k\) be an [[id:10BDCBE5-0AB5-4839-B7F0-D047101EC245][algebraic extension]]. Then, \(L/k\) is called *normal* if every polynomial \(f\in k[x]\) with a zero in \(L\) splits over \(L\) into linear factors.
+
+** Theorem
+A finite field extension \(L/k\) is normal if and only if \(L\) is the [[id:4D7BF589-E231-44D0-98A2-D2A4BCE4E1F2][splitting field]] of a polynomial \(f \in k[x]\).

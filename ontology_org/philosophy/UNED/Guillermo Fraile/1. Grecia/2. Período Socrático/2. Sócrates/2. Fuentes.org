@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID: 76CEB7FA-CA6D-4FD5-B3E4-9A430BAD56AE
+:END:
+#+title: 2. Fuentes
+
+* Adversas
+1. Los cómicos
+   1. Aristófanes: /Las Nubes/, lo ridiculiza, caricaturizándolo como un físico jónico y un sofista.
+
+* Favorables
+** Jenofonte
+Habla de él en la /Apología/, los /Memorables/ y el /Symposion/. No perteneció al círculo socrático, pero declara intentar describirle tal como fue.
+
+Presenta un Sócrates demasiado vulgar, tosco, ordinario y utilitarista, que resulta mezquino al lado del que describe Platón. Destaca en él los rasgos que destacan los [[id:ABBE2CAB-E14B-48D0-BB46-A5D35CC15334][cínicos]]. No se interesa por las especulaciones de la Cosmología ni por altos problemas científicos, viste y vive pobremente, anda descalzo, predica una moral austera, es sincero creyente en los dioses y hasta piadoso y místico.
+
+** Platón
+Como Jenofonte, representa a Sócrates con la finalidad apologética de rehabilitar su memoria y deshacer las acusaciones que sirvieron de pretexto para condenarlo a muerte.
+
+Cabe distinguir dos Sócrates en la obra platónica: el de los primeros Diálogos de juventud, que se mueven en el círculo de las preocupaciones típicamente socráticas; y el de los Diálogos más tardíos, a partir de la teoría delas Ideas, en que pone en boca del maestro doctrinas que este probablemente nunca pensó.
+
+** Aristóteles
+No conoció personalmente a Sócrates, y habla de él sin el apasionamiento del discípulo directo. Sus veinte años en la Academia, en contacto con quienes lo conocieron y trataron, garantizan la legitimidad de su información.
+
+Aristóteles distingue entre el Sócrates histórico, al cual atribuye doctrinas de carácter exclusivamente moral, y en relación con ellas, si no el descubrimiento, por lo menos la práctica metódica de la inducción en busca del concepto universal de las definiciones; y el Sócrates más o menos idealizado de los /sokratikoi logoi/, negando expresamente que hubiese enseñado nunca la doctrina de la Ideas.

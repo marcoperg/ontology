@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID: 60475405-BFFE-4C28-B450-387B69B46AF1
+:END:
+#+title: 6. Política
+
+Aristóteles defiende que el hombre es un animal político, y que, por tanto, las agrupaciones políticas surgen de forma natural y necesaria. Los hombres naturalmente se agrupan en familias, que se agrupan en aldeas, que, a su vez, se agrupan en ciudades, la forma más perfecta de organización humana.
+
+Además, Aristóteles defiende la primacía del todo frente a las partes, el acto es siempre anterior a la potencia. Por tanto, existe una suerte de superioridad de la agrupación frente a la individual.
+
+* El bien de la polis
+La definición de /polis/ es dependiente de lo que Aristóteles considerará el bien de la comunidad política, es decir, el objeto que la organización social que denominamos ciudad tenga en cada momento. Un grupo de personas en proximidad geográfica no formarán una polis si no tienen un objetivo común, que es la causa final del movimiento y dinamismo de la asociación (característica fundamental a ojos del estagirita). Este bien será la felicidad, que es considerado el bien supremo y principal. Entonces, todas las asociaciones humanas tenderán a este bien final que actúa de motivación principal para la unión. Aun así, Aristóteles destaca el carácter social del hombre, por lo que tenderá a la asociación incluso sin ninguna necesidad de auxilio mutuo.
+
+Así la comunidad política tiene como objetivo /vivir bien/. Sin entender, claro está, esta /buena vida/ en el sentido vulgar, como vivir en abundancia y rodeado de riquezas, sino la vida conforme a la virtud.
+
+Basándonos en todo esto se concluye que el fin de la comunidad política son las buenas acciones y no la convivencia.
+
+También en relación con esto, Aristóteles sostiene, citando a Licofrón el sofista, que la ley es un convenio, en garantía de los derechos de unos y de otros, pero deja de ser capaz de hacer a los ciudadanos buenos y justos.
+
+Con esto se tiene una posible definición de ciudad, donde su género próximo es /Comunidad política de hombres libres/, y su diferencia específica /orientada a la finalidad de vivir bien/, es decir, de /vivir conforme a la virtud/.
+
+* La ley
+La vida social tiene un fundamento natural, anterior a las costumbres y a las leyes positivas. La ley positiva tiene su fundamento en la costumbre.
+
+El alcance de las leyes civiles es más bien negativo que positivo. Son una garantía contra la injusticia, pero de suyo carecen de poder efectivo para hacer justos y buenos a los ciudadanos.
+
+* Ciudadanos y esclavos
+La ciudad aristotélica era una comunidad de hombres libres. Su visión de la esclavitud era que existía por naturaleza, los esclavos eran tales por su propia naturaleza, nunca por ley civil ni por derecho de conquista en la guerra.
+
+* Formas de gobierno
+Existen, sostiene Aristóteles, 3 formas de gobierno: 1. La *monarquía*, de la que existen cinco tipos. La de los tiempos heroicos, donde el rey era sacerdote, juez y generala. La de los bárbaros, que es un poder hereditario, despótico y tiránico. La /aesymnetía/ tiranía electiva de los antiguos griegos. La monarquía espartana, donde había una especie de generalato vitalicio vinculado a una familia. Y la monarquía absoluta, en que el rey viene a representar en la ciudad unas funciones semejantes al padre de familia. 2. La *aristocracia* o gobierno de unos pocos. 3. Y la *democracia* o gobierno de muchos.
+
+El abuso del poder monárquico degenera en tiranía, que es el peor de todos. El poder aristocrático en oligarquía, y el democrático en demagogia.

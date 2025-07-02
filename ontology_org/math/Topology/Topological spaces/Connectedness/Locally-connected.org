@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 348F55A6-CB7B-4A8E-9256-15BCAE85C32E
+:END:
+#+title: Locally-connected
+
+A [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] \(X\) is *locally-(path) connected* if, for every point \(x \in X\) there is a neighborhood \(U\) of \(x\) which is (path) connected.

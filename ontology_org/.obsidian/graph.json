@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"math/\"",
+      "color": {
+        "a": 1,
+        "rgb": 10733311
+      }
+    },
+    {
+      "query": "path:physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 12278983
+      }
+    },
+    {
+      "query": "path:philosophy  ",
+      "color": {
+        "a": 1,
+        "rgb": 16369045
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 2.56894124348958,
+  "lineSizeMultiplier": 3.44940999348958,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9389153044117148,
+  "close": true
+}

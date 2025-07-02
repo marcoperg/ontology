@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID: E5B1D38D-297B-4867-91DA-75156F747A92
+:END:
+#+title: Hilbert Spaces
+
+--------------
+
+aliases: - Hilbert Space
+---
+
+** Definition
+A /Hilbert space/ is a real or complex [[id:E17584F3-6B4A-4D32-882C-80D6924A6933][inner product space]] that is also a [[id:C2C27C7B-D64E-424D-B062-37E2FE5C3CB8][complete metric space]] with respect to the distance function induced by the inner product.
+
+** Operators on Hilbert Spaces
+Operators \(A: H_1\to H_2\) are maps from one Hilbert space to another. Particularly, continuous linear operators are bounded in the sense that map [[id:F2BC27DF-E289-44A4-9344-149FEF23B888][bounded sets]] to bounded sets. The converse is also true.
+
+The space os bounded operators has a norm defined by
+\[
+||A|| = \sup\{\,||Ax|| \,\big|\, ||x|| < 1\}.
+\]
+For \(y\in H_2\), the map that sends \(x \in H_1\) to \(\langle Ax, y\rangle\) is linear and continuous, hence by the [[id:DA461FDB-FF40-4287-AFAD-D029CE9FE02A][Riesz representation theorem]] it can be represented as
+\[
+\langle x, A^*y\rangle = \langle A x, y\rangle
+\]
+for some vector \(A^* y\) in \(H_1\). This defines another bounded linear operator \(A^*: H_2 \to H_1\), the adjoint of \(A\), satisfying \(A^{**} = A\)
+
+The set \(\mathrm{B}(H)\) of all bounded linear operators on \(H\) together with addition, composition of operators and the adjoint for a [[id:F59825EC-285C-4BB5-ACB1-17CA0A6FFC70][C*-algebra]].
+
+An operator is called 'self-adjoint' or 'Hermitian' (this last usually if its represented as a matrix) is \(A^*=A\). In a sense made precise by the [[id:673807C0-53AF-4AAE-ABD2-4D870BE3F3EB][Spectral theorem]] , self-adjoint operators can be through as been real.

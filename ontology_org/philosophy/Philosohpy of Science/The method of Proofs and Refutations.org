@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 3989CEA2-7EE5-4440-9764-B12A56CC7DE9
+:END:
+#+title: The method of Proofs and Refutations
+
+​# TODO

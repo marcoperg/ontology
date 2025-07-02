@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID: E6C72A0F-0EC0-4169-ACD8-A553C2EBA727
+:END:
+#+title: 3. Representantes de la Sofística
+
+--------------
+
+aliases: - Protágoras - Gorgias
+---
+
+* Protágoras
+fl. h. 444-1
+
+Natural de Abdera, se dice que fue educado por los magos que acompañaban a Jerjes. Visitó Atenas, fue estimado por Pericles y fue condenado por /asebeía/ a muerte, aunque logro escapar.
+
+Platón lo llama "padre de la sofística" y fue el más eminente entre ellos. En Gramática se le atribuye haber iniciado el estudio científico y sistemático de la palabra, distinguiendo géneros y partes de la oración. En Retórica distinguió las partes del discurso: exordio, preámbulo, disposición, exposición, discusión, refutación y conclusión.
+
+Su fondo filosófico procede de [[id:FB1DDF16-B590-4CD4-AC75-45DB4514B19F][Heráclito]] o de los [[file:7. Pluralismo homogéneo. Atomismo.org][atomistas]] de Abdera. Está dominado por la idea del cambio incesante. Solamente podemos conocer los fenómenos que impresionan nuestros sentidos.
+
+Profesa el relativismo moral y el más absoluto agnosticismo con respecto a la existencia de Dios.
+
+* Gorgias
+Fue considerado el mejor orador entre los sofistas. Su fondo filosófico parece inspirado en Empédocles y en los eléatas, llegando hasta los límites más extremos de agnosticismo y nihilismo, negando incluso la existencia del Ser mismo.
+
+Sus máximas fueron: "Nada existe"; "Si existiese algo no podría conocerse" y "Si el conocimiento del ser fuese posible, no podríamos comunicarlo". Conservadas por Sexto Empírico.
+
+* Otros
+/TRASÍMACO/ niega la existencia de lo justo ni injusto. El bien es el poder y la es solo para los hombres que no tienen valor para incumplirla.
+
+/ANTIFÓN/ condenaba las clases sociales y sostenía que todos los hombres eran iguales y defendía la fraternidad sin distinción de naciones.
+
+/CRITIAS/ era primo de Platón y fue discípulo de Gorgias y Sócrates, considerando a este último un sofista. En su drama /Sísifo/ defendida que los dioses no eran más que una creación del hombre ingenioso para atemorizar a los hombres y obligarlos a cumplir las leyes.

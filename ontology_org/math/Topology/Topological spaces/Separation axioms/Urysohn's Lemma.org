@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 7DF5FFDA-BA80-49EB-82F9-49F6629BFF1D
+:END:
+#+title: Urysohn's Lemma
+
+Let \(X\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]]. \(X\) is [[id:A5A52835-3BD0-4B3B-B366-3FEC36B2CA9B][normal]] iff for any closed subsets \(A, B\) of \(X\), there exists a continuous map
+\[f:X \to [0,1]\]
+such that \(f(A) = \{0\}\) and \(f(B) = \{1\}\). We say that \(A\) and \(B\) can be separated by a continuous real-valued function.

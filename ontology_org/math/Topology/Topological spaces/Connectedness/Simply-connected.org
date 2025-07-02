@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID: E796F3D3-D18D-4F99-B508-34C41B691333
+:END:
+#+title: Simply-connected
+
+** Simple connectedness
+A [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] \(Z\) is said to be /simply connected/ if at each point \(z \in Z\) there is only one [[id:EA5EA1C2-B0C8-41B9-B4AE-30F98E2B5320][homotopy]] class of closed paths.

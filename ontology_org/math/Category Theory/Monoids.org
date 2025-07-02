@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 0889D89B-84A0-48C2-AFF8-4BB70C256CEF
+:END:
+#+title: Monoids
+
+** Definition
+The objects \(M\) with a distinguished object \(e\), equipped with a binary operation \(*\), form a /monoid/ \((M, *, e)\) iff 1. the binary operation \(*\) maps monoid-objects to monoid-objects, i.e. for any \(x, y \in M\), \(x*y \in M\). 2. \(*\) is associative, i.e. for any \(x, y, z \in M\) we have \(x * (y*z) = (x*y)*z\). 3. \(e \in M\), and \(e\) acts as a monoid unit or identity, i.e. for any \(x \in M\), \(x*e = e*x = x\) .
+
+** Monoid homomorphism
+Further, a /monoid homomorphism/ from \((M, e, *)\) as source to \((N, \star, d)\) as target is a function \(f\) defined over \(M\) with values among \(N\) such that: 1. for every \(x, y \in M\), \(f(x * y) = fx \star fy\), 2. \(f(e) = d\).
+
+Some monoids together with enough monoid homomorphism clearly form a [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]]. Also all monoids together with all homomorphism form the category usually denoted by \(Mon\).

@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID: BC052561-28D5-45CC-9115-E86A8B2ED448
+:END:
+#+title: Shannon's Entropy
+
+--------------
+
+aliases: - entropy - Entropy
+---
+
+The *entropy* of a random variable is the average level of "information", "surprise", or "uncertainty" inherent to the variable's possible outcomes. If we don't know the outcome of the variable we can use the entropy as our level of uncertainty, if we come to know it we can use it to measure the information we've gained.
+
+** Definition
+The Shannon's Entropy denoted \(H\) of a discrete random variable \(X\), which takes values in the alphabet \(\mathcal{X}\) is distributed according to \(p: \mathcal{X} \to [0, 1]\) such that \(p(x) := \mathbb{P}[X = x]\):
+\[
+H(X) = \mathbb{E}[I(X)] = \mathbb{E}[-\log p(X)]
+\]
+Where \(\mathbb{E}\) is the expected value operator, and \(I\) is the information content of \(I\). \(I(X)\) is itself a random variable.
+
+The entropy can explicitly be written as:
+\[
+H(X) = - \sum_{x\in X} p(x)\log_b p(x),
+\]
+where \(b\) is the base of the logarithm used. Generally, in the context of information theory, \(b\) is set to \(2\).
+
+If the case \(p(x) = 0\), we take the convention \(0\log_b(0) = 0\). Motivated by the fact
+\[\lim_{p\to 0^+} p\log (p) = 0\]
+
+** Complementary definitions
+*** Join Entropy
+The *join entropy* of a pair of random variables \(X\) and \(Y\) is defined as:
+\[
+H(X, Y) = -\sum_{x \in X,\space y \in Y} p(x, y) \log p(x, y)
+\]
+and measures the amount of uncertainty about the pair \((X, Y)\).
+
+*** Conditional Entropy
+The *entropy of \(X\) conditional of knowing \(Y\)* is defined as:
+\[
+H(X|Y) = H(X, Y) - H(Y)
+\]
+Suppose we know the value of \(Y\), so we have acquired \(H(Y)\) bits of information about the pair \((X, Y)\), the conditional probability measures the remaining uncertainty about the pair.
+
+*** Mutual information
+The *mutual information* defined as follows:
+\[
+H(X : Y) = H(X) + H(Y) - H(X, Y)
+\]
+measures the about of information \(X\) and \(Y\) have in common.
+
+** Basic properties
+1. \(H(X, Y) = H(Y, X)\), \(H(X : Y) = H(Y:X)\)
+2. \(H(Y|X) \ge 0\) and thus \(H(X:Y) \leq H(Y)\), with equality iff \(Y\) is a function of \(X\).
+3. \(H(X) \leq H(X, Y)\), with equality iff \(Y\) is a function of \(X\).
+4. *Subadditivity:* \(H(X, Y) \leq H(X) + H(Y)\) with equality iff \(X\) and \(Y\) are independent.
+5. \(H(Y|X) \leq H(Y)\) and thus \(H(X:Y) \geq 0)\), with equality iff \(X\) and \(Y\) are independet.
+6. *Strong subadditivity:* \(H(X, Y, Z) + H(Y) \leq H(X, Y) + H(Y, Z)\), with equality iff \(Z\to Y\to X\) forms a Markov Chain.
+7. *Conditioning reduces entropy:* \(H(X|Y,Z) \leq H(X|Y)\).

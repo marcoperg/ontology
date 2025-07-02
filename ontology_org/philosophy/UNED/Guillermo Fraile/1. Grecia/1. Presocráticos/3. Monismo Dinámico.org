@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID: FB1DDF16-B590-4CD4-AC75-45DB4514B19F
+:END:
+#+title: 3. Monismo Dinámico
+
+--------------
+
+aliases: - Heráclito
+---
+
+* Heráclito
+Se le conoce como el oscuro por su forma críptica de escribir. Natural de Efeso y de ascendencia noble destaca por su carácter misántropo y melancólico. Se le representaba llorando y se alejó de la vida política, pese a ser descendiente de los fundadores de su ciudad.
+
+Pese a que no escribía para el público se le reconoce como el filósofo más eminente entre los presocráticos. Formula el problema de la unidad del ser frente a la pluralidad e inestabilidad de las cosas particulares y aspira a resolverlo mediante el establecimiento de una ley universal fija que rige los acontecimientos particulares. En palabras de Jaeger, la idea fundamental de Heráclito sería el determinar el lugar del hombre en el Universo. Todo el Cosmos está animado por un Logos divino, que es participado por el hombre, y que constituye la norma suprema de conducta en su vida.
+
+** Epistemología
+Establece la distinción entre dos órdenes de conocimiento, el /sensitivo/, que solamente es fuente de opinión, y el /racional/, que es el único capaz de acercarnos a la verdad. Aplica entre principio al análisis cosmológico del mundo, los sentidos nos hacen creer que existen seres fijos y estables. Pero esto es una ilusión, ya que solo existe un ser único, en perpetuo movimiento. Por tanto, hay que desconfiar de los sentidos y confiar únicamente en la razón.
+
+De todas formas, Heráclito no cancela por completo en conocimiento derivado por los sentidos. Advierte de su imprecisión y llama a filtrarlo por la razón.
+
+** Ontología
+Carácter polémico. Se contrapone a [[id:1EC57BE5-BB2E-475C-94BF-0D3EFDF9DB15][Jenofanes]], con su concepto del Ser, y a [[id:735B23D3-AE21-47C0-BD34-40E2787DD59A][Parménides]], con su monismo inmovilista. Por una parte, acepta la unicidad de la Naturaleza y del principio primordial: "Todas las cosas son uno, esto es sabiduría", "Del uno salen todas las cosas, y de todas las cosas el uno". Pero acentúa y defiende el dinamismo iniciado por Anaximandro y [[id:B7312592-1E02-4BAE-A723-ABA434AE5891][Anaxímenes]]. Todo fluye, nada permanece. Metáfora del río.
+
+Sin embargo, Heráclito cree en la realidad de las cosas particulares, atestiguada por los sentidos. Niega la realidad fija y estable de estas entidades, y afirma un continuo hacerse y deshacerse, regido por la ley cósmica del Logos. De esta manera, *su monismo se concilia con cierto pluralismo*.
+
+** Física
+Su principio primordial será el fuego, del cual se hacen todas las cosas. Todo sale del fuego, todo es fuego y todo se descompone en fuego.
+
+1. /DOS VÍAS/. La transformación universal sigue dos vías, que en realidad son una misma. Una descendente, por contracción o condensación (vía hacia abajo) y otra ascendente, por dilatación (vía hacia arriba). Hacia abajo: fuego, aire, agua, tierra; hacia arriba: tierra, agua, aire, fuego.
+2. /LOS CONTRARIOS/. De los distintos momentos en que se encuentran las cosas en su camino ascendente o descendente se originan los contrarios. Dos fuerzas cósmicas antagónicas que rigen la génesis y destrucción periódicas de las cosas. La /Discordia/ y /Guerra/, que es disgregadora, y /Concordia/ o /Paz/, que es agregadora. Ambas dan origen a la pluralidad de las cosas.
+3. /EL LOGOS/. La causa última de todas las transformaciones del Cosmos y de la armonía universal que de ellas resulta es una Razón eterna (λόγος) que rige y gobierna todas las cosas y está presente en todas ellas. Todo muda excepto este Logos, que, a manera de ley, preside, impulsa y regula todas las mutaciones. Por otra parte, parece darse a esta Razón un carácter distinto y superior al mismo fuego primordial, ya que el fuego muta y está en perpetuo hacerse, mientras que la Razón permanece inalterada y estable. Incluso se llega a afirmar que ese Logos se puede identificar con Dios, no obstante no se llega a formular un concepto de Dios trascendente y separado del mundo. Este Logos, más que una Inteligencia personal y separada, o como una causa extrínseca y ordenada, debe entenderse como una ley necesaria inmanente al fuego, que es la sustancia única. La Necesidad y Logos son una misma cosa.
+4. /RELATIVISMO DEL BIEN Y DEL MAL/. Todo es bueno y todo es malo. "La enfermedad hace dulce la salud, el mal el bien, el hambre la hartura, el cansancio el reposo."
+5. /OPTIMISMO UNIVERSAL/. El mundo es bellísimo. Solamente puede hablarse de mal en sentido relativo. De l bien sale el mal y del mal el bien, que son simples aspectos procedentes de la transformación incesante de las cosas.
+
+** Astrología y meteorología
+De las cosas, tal como se encuentran en sus diferentes estados en la vía descendente y ascendente, se desprenden exhalaciones, unas frías, pesadas y opacas; y otras calientes, transparentes y ligeras. Estas segundas ascienden hasta llegar a la bóveda semiesférica que envuelve el Universo, cuyas paredes están perforadas por unas aberturas en las que una especie de cubetas van girando, y que, al llenarse de estas exhalaciones, van formando los astros al estas inflamarse y arder.
+
+** Antropología
+El hombre está compuesto de cuerpo y alma. El cuerpo se forma en la vía descendente y el alma en la ascendente.

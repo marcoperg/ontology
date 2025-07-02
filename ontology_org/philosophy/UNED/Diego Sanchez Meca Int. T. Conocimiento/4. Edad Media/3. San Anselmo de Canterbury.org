@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 10DF4114-FF94-4BA2-B26B-472E82B48E31
+:END:
+#+title: 3. San Anselmo de Canterbury
+
+* Credo ut intelligam (Creo para entender)
+Tanto la obra teológica como filosófica de Anselmo gravitan en torno a las pruebas que propone para demostrar la existencia de Dios. Sin embargo, el propósito de estar pruebas no es el de sustentar la fe, sino que están soportadas por ella. Hay que creer para entender, no a la inversa. Es más, para Anselmo la fe misma es la que busca comprender y tiene esa exigencia como necesidad intrínseca a su propia condición.
+
+Anselmo distingue la verdad del conocimiento, que consiste en la conformidad del conocimiento con la cosa (/rectitudo cognitionis/) y se alcanza cuando se conoce la cosa tal como es; la verdad de la voluntad (/rectitudo voluntatis/), que significa obrar bien haciendo lo que se debe hacer; y la verdad de la cosa (/rectitudo rei/), que es el criterio objetivo y fundamento de toda verdad al estar fundada en la verdad que es Dios.
+
+* El Argumento Ontológico
+En la controversia de los universales San Anselmo se sitúa como claro realista, argumentando a partir de esta postura la existencia de Dios. La posición que otorga a los conceptos universales un valor de realidad, y, por tanto, de verdad, tiene como principal y más importante corolario la existencia de una gradación del ser. Por un lado, se identifica el ser (/essentia/) con existir (/essere/, /existere/). Y por otro, se acepta el ser como susceptible de poseer grados y de ser una característica más propia de ciertas cosas que de otras. Procediendo desde esta jerarquía de seres, la existencia de Dios se sigue de asumir que está gradación tendrá un elemento máximo, al que llamaremos Dios. Como a mayor generalidad se le atribuye mayor realidad, Dios, siendo lo más general, será también lo más real.

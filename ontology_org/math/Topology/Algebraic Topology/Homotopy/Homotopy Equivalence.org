@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 23867FE4-6C8D-4906-A06C-5A849D40B5AD
+:END:
+#+title: Homotopy Equivalence
+
+* Definition
+Let \(X, Y\) be [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological spaces]]. Let \(f:X\to Y\) be continuous, \(f\) is a *homotopy equivalency* if there is a continuous map \(g:X \to Y\) such that
+\[
+\begin{align}
+g \,\circ\, f \simeq \text{id}_X \\
+f \,\circ\, g \simeq \text{id}_Y
+\end{align}
+\]
+Two spaces \(X\) and \(Y\) are homotopy equivalence (or homotopic), denoted \(X \simeq Y\) if there is a homotopy equivalence between them.
+
+** Relation with Fundamental Group
+If \(X \underset{f}{\simeq} Y\), with \(f(x_0) = y_0\), then \(\pi_1(X, x_0) \cong \pi_1(Y, y_0)\).

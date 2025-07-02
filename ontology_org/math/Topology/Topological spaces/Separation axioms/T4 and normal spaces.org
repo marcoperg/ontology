@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: A5A52835-3BD0-4B3B-B366-3FEC36B2CA9B
+:END:
+#+title: T4 and normal spaces
+
+--------------
+
+aliases: - normal - normal space
+---
+
+Let \((X, \tau)\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]]. \((X, \tau)\) is said to be a \(T_4\) if for all closed subsets \(C_1, C_2 \subset X\) there are disjoint neighborhoods of \(C_1\) and \(C_2\).
+
+A space that is \(T_4\) and [[id:6B3DF1E4-E443-4231-A062-491506342881][T1]] is called *normal*. A normal space is always [[file:T3 space.org][regular]].
+
+** Theorems
+1. Every [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric space]] is normal.
+2. Every [[id:8E24A191-E911-4243-8DDA-3404B256A715][compact]] [[id:14F2DB4F-672A-42CD-B683-BE90B7E3F5C9][Hausdorff space]] is normal.

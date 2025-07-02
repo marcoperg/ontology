@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: F05053D8-D6C0-4A45-AB38-94F126D93416
+:END:
+#+title: Galois extensions
+
+--------------
+
+aliases: - Galois extension
+---
+
+A [[id:2F01C024-2ED3-4614-BC4B-DFCF4EC04C27][field extension]] is called a *Galois extension* if it is [[id:675DEA76-DAA8-4607-BE69-FC8877AFFD7C][separable]] and [[id:12AF798B-5180-45A8-8712-670E2474F31C][normal]].
+
+** Theorem
+Let \(L/k\) be a Galois extension of degree \(n\). Then, the [[id:9D69AB6C-CC40-4C38-80D6-8A3F2BC096C1][Galois group]] \(\text{Gal}(L/k)\) is isomorphic to a subgroup of \(S_n\) which acts transitively on the set \(\{1, \dots, n\}\). In particular \(\vert\, \text{Gal}(L/k)\,\vert = [L : k]\).
+
+** Proposition
+Let \(L/k\) be a Galois extension. Let \(a, b\in L\). Then there is a \(\phi \in \text{Gal}(L/k)\) with \(\phi(a) = b\) if and only if \(a\) and \(b\) have the same [[id:8A9FF251-59FF-465B-8D61-D57661D3A6F0][minimal polynomial]].

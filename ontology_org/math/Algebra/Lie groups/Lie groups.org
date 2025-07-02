@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: C566E9CD-4A7E-4C60-AD98-5E54944C54F7
+:END:
+#+title: Lie groups
+
+--------------
+
+aliases: - Lie group
+---
+
+A *real Lie group* is a [[id:48FAF6F8-DD4A-49F5-89B1-DCE13AE4A2F7][group]] that is also a finite-dimensional [[id:58660F1E-EB64-4506-81E9-63FF79BD2E76][smooth manifold]], in which multiplication and inversion are smooth maps.
+
+Moreover, smoothness of multiplication
+\[\mu: G\times G \to G\quad \mu(x, y)=xy\]
+means that \(\mu\) is a smooth mapping of the product manifold \(G\times G\) into \(G\).

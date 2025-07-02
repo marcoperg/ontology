@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID: 6685FCEC-5551-44BF-9E23-50CD4F65DEFC
+:END:
+#+title: Lp space
+
+--------------
+
+aliases: - L2
+---
+
+* Abstract definition
+\(L^p\) can be defined as the space of measurable functions for which the \(p\)-th power is Lebesgue integrable, where functions that agree almost everywhere are identified.
+
+Formally, let \((S, \Sigma, \mu)\) be a [[id:75B6E188-5E38-40F9-85F1-EC44C3A12D0F][measure space]] and \(1 \leq p < \infty\). The space \(\mathcal{L}^p(S, \mu)\) is form by all measurable functions \(f\) from \(S\) to \(\mathbb{C}\) or \(\mathbb{R}\) whose absolute value raised to the \(p\)-th power has a finite integral:
+\[
+||f||_p : = \left(\int_S |f|^p d\mu\right)^{1/p} < \infty
+\]
+The norm can be also extended to the case \(p = \infty\).
+
+* Typical example
+\(L^2\) usually denotes the [[id:E5B1D38D-297B-4867-91DA-75156F747A92][Hilbert Space]] form by the square integrable functions, that is, functions \(f:\mathbb{R} \to \mathbb{C}\) such that:
+\[
+\int_{-\infty}^\infty |f(x)|^2\,dx < \infty
+\]
+
+Where the inner product \(\langle f,g\rangle\) for \(f, g \in L^2\) is defined as
+\[
+\langle f, g \rangle = \int_{-\infty}^\infty f(x)\overline{g(x)}dx
+\]
+For both definitions, one can consider limits \(a, b\) for integration instead of \(\infty, -\infty\).

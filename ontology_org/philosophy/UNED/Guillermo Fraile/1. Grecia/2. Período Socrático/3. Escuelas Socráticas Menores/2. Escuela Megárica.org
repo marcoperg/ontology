@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 81632E3A-35C8-4F15-919E-A6DCE52A5B38
+:END:
+#+title: 2. Escuela Megárica
+
+Fundada por Euclides, natural de Megara. Combinaba las doctrinas socráticas con las eleáticas, fusionando el Bien de Sócrates con el Ser uno e inmutable de [[id:735B23D3-AE21-47C0-BD34-40E2787DD59A][Parménides]], quizás con el propósito de buscar una base ontológica a la moral de su maestro.
+
+Combatieron las Ideas de Platón, quien, al parecer, les contestó en el /Sofista/, refutando el eleatismo. Sustituyeron el procedimiento socrático de disputa por analogías, adoptando el eleático de reducción al absurdo.

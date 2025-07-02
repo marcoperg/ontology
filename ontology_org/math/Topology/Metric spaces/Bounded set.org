@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID: F2BC27DF-E289-44A4-9344-149FEF23B888
+:END:
+#+title: Bounded set
+
+* Definition on metrics spaces
+Given a [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric space]] \((M, d)\), a subset \(S \subset M\) is bounded if exists \(r > 0\) such that for all \(s, t\in S\) we have \(d(s,t)<r\).
+
+A metric space is said to be bounded if is bounded as a subset of itself.
+
+** Interesting theorems
+- [[id:E6BC4157-C9DF-49DE-9AEF-E201E12342B5][Total boundedness]] imply boundedness.
+- A metric space is [[id:8E24A191-E911-4243-8DDA-3404B256A715][compact]] if and only if it is [[id:C2C27C7B-D64E-424D-B062-37E2FE5C3CB8][complete]] and totally bounded.
+- A subset of euclidian space \(\mathbb{R}^n\) is compact iff it is closed and bounded. This is called Heine-Borel theorem.

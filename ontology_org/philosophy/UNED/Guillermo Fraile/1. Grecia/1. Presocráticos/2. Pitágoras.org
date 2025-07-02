@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID: 905F8A43-4909-491A-A666-B24CB0933E61
+:END:
+#+title: 2. Pitágoras
+
+--------------
+
+aliases: - Pitágoras
+---
+
+* Pitágoras
+A destacar dos ideas fundamentales de Zeller: a) el sistema pitagórico, tal como lo conocemos, es obra de distintos hombres y de distintos tiempos; y b) es difícil discernir en él elementos propiamente pertenecientes a Pitágoras.
+
+En los pitagóricos vemos elementos milesios primitivos claros, entre los cuales se pueden señalar: 1. La oposición fundamental entre lo "limitado", lo "ilimitado" (απειρον) procedente de Anaximandro, que los pitagóricos acentúan contraponiendo /lo lleno/ a /lo vacío/, y el /ser/ al /no-ser/. [[id:735B23D3-AE21-47C0-BD34-40E2787DD59A][Parménides]] luego aludirá a la realidad pitagórica del /no-ser/. 2. El concepto de respiración cósmica que proviene de [[id:B7312592-1E02-4BAE-A723-ABA434AE5891][Anaxímenes]], y al que aludirá [[id:1EC57BE5-BB2E-475C-94BF-0D3EFDF9DB15][Jenófanes]]. 3. El concepto de los números como esencias de las coas, que es puramente pitagórico. 4. La creencia, en común con los órficos, en la preexistencia y transmigración de las almas. 5. La purificación, lograda por medio de prácticas ascéticas, y, además, por la ciencia y la música. 6. El planteo del problema de la conciliación entre la unidad y la pluralidad de las cosas. 7. El concepto de "Cosmos", de orden universal y de la armonía entre los contrarios, que es tal ve la doctrina más característica del pitagorismo.
+
+A su vez, los pitagóricos añaden dos notas completamente originales: 1. Haber utilizado el concepto milesio de la "respiración cósmica" para explicar la pluralidad de las cosas, que se originan por la disgregación de la unidad compacta del Cosmos esférico mediante la penetración del vacío, o del no-ser. 2. Haber derivado hacia una concepción aritmo-geométrica de la realidad, considerando los números como esencias de las cosas, dando origen al primer intento de Física matemática, mediante la reducción de la cualidad a la cantidad.
+
+* Física
+Para los pitagóricos consideran a los números como la esencia de las cosas. En palabras de Aristóteles: "Los pitagóricos conciben las cosas como números, porque conciben los números como las cosas". Los particulares a sus ojos estaban compuestos por fragmentos extensos originados por la disgregación entre el /ser/ y el /no-ser/.
+
+Combinan los principios de Anaximandro y [[id:B7312592-1E02-4BAE-A723-ABA434AE5891][Anaxímenes]]. Para ellos la realidad primordial sería el /pneuma ilimitado/, que constituye el Ser, y que, agitado por el movimiento eterno, da lugar a un Cosmos esférico, limitado, lleno y compacto y unitario.
+
+Hablan de los opuestos como origen de las cosas, lo Uno y la Pluralidad, el Ser y el No-Ser, lo Par y lo Impar, lo Limitado y lo Ilimitado. Pero pese a ser contrarios y opuestos, estos elementos antagónicos poseen una harmonía, representada numéricamente, de la que surgen todas las cosas.
+
+* Astrología
+A Pitágoras se remonta, probablemente, la concepción de un Cosmos constituido por esferas girando en torno a la Tierra, esférica e inmóvil.
+
+* Antropología
+El hombre consta de dos partes distintas, el cuerpo, compuesto por elementos materiales; y el alma, de procedencia celeste. Las almas son una especie de partículas desprendidas del pneuma infinito y que vagan por la atmósfera hasta que se encarnan en los cuerpos. Esta alma actúa como principio motor y tiene un carácter refrigerador. Tiene también gran importancia la idea de la purificación, si estas almas viven bien volverán al estado primitivo celestial tras su muerte. De aquí sale las múltiples anécdotas de Pitágoras, decía recordar sus vidas previas y hasta haber reconocido en el ladrido de un perro la voz de un antiguo amigo.
+
+* Ética
+De nuevo, tiene gran predominancia en su actividad moral la idea de la purificación de las almas. Introduciendo muchas características del orfismo alrededor de esta idea. Su mayor contribución es añadir la Ciencia y la Música a la lista de actividades purificadoras. Distinguiendo entre tres posibles tipos de vidas, la /utilitaria/, propia del vulgo, que solo se preocupa de los intereses materiales; la /ética/ y la /teorética/, propia del filósofo, consagrados a la purificación y salvación del alma.

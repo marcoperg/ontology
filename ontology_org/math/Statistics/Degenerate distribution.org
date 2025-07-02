@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 345DD932-1472-4CAF-80F6-7C70810C2A17
+:END:
+#+title: Degenerate distribution
+
+By its wikipedia def.:
+
+A degenerate distribution, is a probability distribution in a space with *[[id:DEAD4589-177E-4A11-B483-D2849B267A98][Support]]* only on a manifold of lower dimension.

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID: EBF663AC-9E40-4D8F-82AB-F55F1A69682D
+:END:
+#+title: Path-connected
+
+--------------
+
+aliases: - path-connected
+---
+
+** Path
+Let \(X\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]]. A continuous function \(f: [0, 1] \to X\) is called a *path* in \(X\). The path \(f\) is said to /connect/ the point \(f(0)\) to the point \(f(1)\). If \(f\) is a path, \(f([0,1])\) is called a /curve/ in \(X\).
+
+** Path-connectedness definition
+A topological space \(X\) is said to be *path-connected* if, for each pair of point \(x, v \in X\), there is a path \(f\) connecting \(u\) to \(v\).
+
+A path whose initial and terminal point coincide is called a /loop/ in \(X\).
+
+Every path-connected topological space is [[id:2853D3BA-42CD-4A57-A958-9BC537946A64][connected]]. But the converse is not true, e.g. the orderer square \(I^2_o\) is connected but not path connected; the closure of the topologist's sine curve also is connected but not path-conneted.

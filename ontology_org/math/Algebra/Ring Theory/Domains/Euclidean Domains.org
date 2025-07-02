@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID: EFDE2168-D683-47A6-AAD9-06ED125121C8
+:END:
+#+title: Euclidean Domains
+
+--------------
+
+aliases: - Euclidean domain - ED
+---
+
+* Definition
+Given a [[id:3CC31C84-CF5C-4C2C-90A6-623847BFF49F][ring]] \(A\) it is said to be a Euclidean domain if there is a map
+\[
+\Vert \cdot\Vert : A \to \mathbb{N}
+\]
+such that 1. \(\Vert x\Vert = 0\) iff \(x = 0\) 2. \(\Vert xy\Vert  = \Vert x\Vert \cdot\Vert y\Vert\) 3. If \(x, y\in A^*\), there exist \(r\in A\) s.t. \(y | (x-r)\) and \(\Vert r\Vert  < \Vert y\Vert\).
+
+** Properties
+1. If \(A\) is a Euclidean domain, we have
+   \[
+    U(A) = \left\{x\in A: \Vert x\Vert = 1\right\}
+    \]
+2. In a Euclidean domain all [[id:C2E40A22-5964-4868-B316-89D5D28D92DD][ideals]] are principal.
+
+* Examples
+All [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][fields]] are trivially Euclidean domain, let \(\Vert x \Vert = 1\) for every not-null elements and \(0\) otherwise, this inmediately satisfies the axioms.

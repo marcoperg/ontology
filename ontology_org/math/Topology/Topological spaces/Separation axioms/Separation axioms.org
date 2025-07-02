@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID: 8624B3D0-AC73-43E2-9297-D88AF609B50D
+:END:
+#+title: Separation axioms
+
+1. [[id:6B3DF1E4-E443-4231-A062-491506342881][T1 space]]
+2. T2 space or [[id:14F2DB4F-672A-42CD-B683-BE90B7E3F5C9][Hausdorff space]]
+3. [[id:C5EBDB18-8574-431C-A794-07E2BAADF831][T3 and regular spaces]]

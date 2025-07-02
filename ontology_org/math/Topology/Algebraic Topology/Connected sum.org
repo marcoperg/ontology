@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: B94CF73F-4481-40E4-A8CC-91E117E36F8A
+:END:
+#+title: Connected sum
+
+

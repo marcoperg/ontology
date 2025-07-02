@@ -1,0 +1,121 @@
+:PROPERTIES:
+:ID: 06F8A232-B4F7-424C-9F0B-098AC6CBEE6D
+:END:
+#+title: Graphs
+
+--------------
+
+aliases: - graph
+---
+
+** Definition
+A *graph* is a pair \(G=(V, E)\) where - \(V\) is a non-empty finite set of elements called vertices. - \(E\) is a finite set of not-ordered pairs of vertices \(V\), called edges. - If \(e = {u, v}\) is an edge of \(G\) - \(e\) joins the vertices \(u, v\). - \(u, v\) are de ends of the edge \(e\).
+
+** Useful concepts
+- Two vertices are *adjacent* if they are the endpoints of an edge.
+- Two edges are *adjacent* if they have a common edge.
+- A vertex is *isolated* if it has no edge.
+- A *loop* is an edge \(e = {u,u}\).
+- A *multiple edge* is an edge that appears more than once in \(E\).
+
+Graphs that can have loops and multiple edge are called /multigraphs/. And graphs that can have loops are called /psudographs/.
+
+** Degree of an vertex
+The /degree/ a vertex \(v\), \(\delta(v)\), is the number of edges that have said vertex as an endpoint, counting twice loops.
+
+We denote by \(\delta(u, v)\) the number of edges joining \(u\) and \(v\).
+
+*** Sequence of degrees or graphic succession
+Let \(G\) be a graph of vertices \(V = \{v_1, v_2, ..., v_n\}\). Then \(d = [\delta(v_1), \delta(v_2), ..., \delta(v_n)]\) in non-increasing order is called a graphic succession of \(G\).
+
+**** Characterization of a graphic succession: Havel-Hakimi Theorem.
+An integer succession \(d_1, d_2, ..., d_n\) with \(d_1 \ge d_2 \ge ... \ge d_n \ge 0\) is a graphic succession iff a reordering of \(d_2-1, d_3 -1, ..., d_{d_1+1} -1, d_{d_1+2}, d_{d_1+3}, ..., d_n\) is also graphic.
+
+*** Properties
+- Let \(G = (V, E)\) a graph, then we have
+  \[
+  \sum_{v\in V}\delta(v) = 2|E|
+  \]
+- The number of vertices of odd degree is an even quantity.
+
+\(Pf:\)
+Let
+$$
+\begin{equation}
+\begin{aligned}
+    \delta_e = \sum_{v\in V_e}\delta(v) \quad V_e=\{v\in V\space\vert\space \delta(v)\space\text{even}\} \\\\
+    
+    \delta_o = \sum_{v\in V_o}\delta(v) \quad V_o=\{v\in V\space\vert\space \delta(v)\space\text{odd}\}
+\end{aligned}
+\end{equation}
+\[
+Notice
+\]
+\delta_e + \delta/o = \sum/{v\in V}\delta(v) = 2|E|
+$$
+which is an even number. Since \(\delta_e\) is even, hence \(\delta_o\) is even. Since \(\delta_o\) is a sum of odd numbers we have that it must have an even number of addends. \(\quad\square\)
+
+** Digraph
+A *digraph* is a pair \(D = (V, E)\) where - \(V\) is a non-empty finite set of element we call *vertices*. - \(E\) is a finite set of ordered pairs of vertices of \(V\), which are called *directed edges*. - If \(e = (u, v)\) is a directed edge of \(D\) - \(e\) goes from vertex \(u\) to vertex \(v\) - \(u\) is the origin and \(v\) is the endpoint of \(e\).
+​### Degrees of a digraph - The *in-degree* of a vertex \(v\), denoted \(\delta^+(v)\), is the number of edges that have \(v\) as endpoint. - Similarly, the *out-degree* of a vertex \(v\), denoted \(\delta^-(v)\), is the number of edges that have \(v\) as origin.
+
+** Adjacency matrix
+Given graph \(G=(V, E)\) with \(V = \{v_1, ..., v_n\}\) and \(E=\{e_1, ..., e_k\}\) its *adjacency matrix* is defined by
+\[M_a(G) = (a_{ij}) \in \mathbf{M}_{n\times n}(\mathbb{Z}^+)\]
+with
+\[a_{ij} = \delta(v_i, v_j).\]
+Notice that in order to create the adjacency matrix one must order the set of pairs in an indexed manner.
+
+** Types of graphs
+*** Regular graph
+A graph \(G=(V, E)\) is regular of degree \(k\) iff \(\forall v\in V: \delta(v)=k\).
+
+*** Complete graph
+The complete graph \(K_n\) is the simple graph of \(n\) vertices such every vertex is joined by an edge.
+Notice \(|V|=n\) and so \(\delta(v) = n-1\), for all \(v \in V\).
+
+*** Cycle \(C_n\)
+The cycle graph of \(n\) vertices \(C_n\) with vertices \(V = \{v_1, v_2, ..., v_n\}\) is the graph with edges \(E = \{\{v_1, v_2\}, \{v_2, v_3\}, ..., \{\{v_{n-1}, v_n\}, \{\{v_n, v_1\}\}\)
+
+Notice \(\delta(v)=2\) for all \(v \in V\).
+
+*** Path graph
+A graph \(G\) of vertices \(V = \{v_1, v_2, ..., v_n\}\) is a path graph if it has edges \(E = \{ v_1v_2, v_2v_3, ..., v_{n-1}v_n\}\).
+Hence \(\delta(v_1) = \delta(v_n) =1\) and \(\delta(v_i) = 2\) for all \(v\in V-\{v_1, v_n\}\).
+
+*** Bipartite graph
+A graph \(G = (V, E)\) is said to be *bipartite* if is a simple graph such that
+\[ V = V_1 \dot{\cap}V_2\]
+and each vertex of \(V_1\) is only adjacent to vertices of \(V_2\). That is, \(\forall v_1, v_2\in V_1 | \delta(v_1, v_2) = 0\)
+
+**** Detection of a bipartite graph
+- *Strategy*: classify vertices from \(G\) in two parts, checking a label.
+- *Step 1:* Chose one vertex \(v\) and label it \(1\). \(\quad S = \{v\}\).
+- *Step 2:* Let \(T\) be a set of vertices not yet labeled adjacent to a vertex of \(S\).
+  - If two vertex of \(T\) are adjacent end the algorithm, the graph IS NOT bipartite.
+  - Otherwise label each vertex from \(T\) with the contrary label as its neighbour.
+- *Step 3:* If every vertex if labeled, the graph is bipartite. Otherwise \(S = T\) and go to 2.
+
+** Subgraphs
+Let \(H = (V', E')\) be a graph. H is a *subgraph* of the graph \(G = (V, E)\) if \(V' \subseteq V\) and \(E' \subseteq E\).
+\(H = (V', E')\) is a generator subgraph of the graph \(G = (V, E)\) if \(H\) is a graph, \(V' = V\) and \(E' \subseteq E\).
+
+** Isomorphic graphs
+Let \(G=(V, E)\) and \(G'=(V', E')\) be graphs. There are said to be *isomorphic* if \(\exists f:V\to V'\) such that \(f\) bijective and \(f\) conserves adjacency:
+\[u, v\space \text{adjacent} \iff f(u), f(v) \space\text{adjacent}\]
+
+** Connectedness, walks and paths
+*** Walks
+A *walk* of length \(k\) is a graph is a succession of vertex and edges of the form \(v_0, e_1, v_1, ...v_{k-1}, e_k v_k\) where \(e_i\) is the edge joining the vertices \(v_{i-1}\) and \(v_i\).
+
+*** Circuits
+A *circuit* a a close walk. That is a walk where the last vertex is the same as the first.
+
+** Paths
+A *path* is walk in which no edge and vertex is repeated.
+
+*** Cycle
+A cycle is a close path.
+
+*** Connectiveness
+A graph \(G = (V, E)\) is *connected* is for each pair of vertices \(u, v \in V\) there exists a path starting on \(u\) and ending at \(v\).

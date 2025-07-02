@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID: E17584F3-6B4A-4D32-882C-80D6924A6933
+:END:
+#+title: Inner product space
+
+** Definition
+Denote by \(F\) a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]] that is either the real numbers \(\mathbb{R}\) or the complex numbers \(\mathbb{C}\). A scalar is thus an element of \(F\). If \(a \in F\) then the bar expression \(\bar{a}\) denoted the complex conjugate of this scalar. A zero vector is denoted \(\mathbf{0}\) to distinguishing it from the scalar \(0\).
+
+An /inner product space/ is a [[id:C31DD475-75D9-4BB9-9DD5-536453386F9D][vector space]] \(V\) over the field \(F\) together with an /inner product/, that is, a map
+\[
+\langle \cdot,\cdot\rangle: V \times V \to F
+\]
+that satisfies the following three properties for all vectors \(x, y, z \in V\) and all scalars \(a, b \in F\) - /Conjugate symmetry/:
+\[
+\langle x, y\rangle = \overline{\langle y, x\rangle}.
+\] - /Linearity/ in the first argument:
+\[
+\langle ax +by, z\rangle= a\langle x, y\rangle + b\langle y, z\rangle
+\] - /Positive-definiteness/: if \(x\) is not zero, then
+\[
+\langle x, x\rangle >0
+\]
+(conjugate symmetry implies \(\langle x, x\rangle\) is real).
+
+From here we can define the /norm/ as the real-valued function
+\[||x|| = \sqrt{\langle x, x \rangle},\]
+and a /distance function/ \(d\) between two vectors \(x, y\) of the vector space by
+\[d(x, y) = ||x - y|| = \sqrt{\langle x-y, x-y \rangle}.\]
+Notice this distance function makes the inner product space into an [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric space]].

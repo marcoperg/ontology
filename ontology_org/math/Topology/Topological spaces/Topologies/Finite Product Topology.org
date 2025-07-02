@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID: B9061035-7120-47E0-94B8-A5678CF5B087
+:END:
+#+title: Finite Product Topology
+
+--------------
+
+aliases: - product topology
+---
+
+Let \(X, Y\) be [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological spaces]]. Then
+\[\mathscr{B} = \left\{ U\times V : U \text{ open in } X, \text{ open in } Y\right\}\]
+is a [[id:CDB04BD2-C2D2-400F-8C70-F3CFF4097980][basis]] topology on \(X\times Y\).
+
+** Lemma
+If \(B_x\) is a basis for \(X\) and \(B_y\) is a basis for \(Y\), then \(\mathscr{B'} = \left\{U'\times V' : U' \in B_x, V'\in B_y\right\}\) is a basis for \(X\times Y\).

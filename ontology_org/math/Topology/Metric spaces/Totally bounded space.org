@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: E6BC4157-C9DF-49DE-9AEF-E201E12342B5
+:END:
+#+title: Totally bounded space
+
+Total-boundedness is a generalisation of [[id:8E24A191-E911-4243-8DDA-3404B256A715][compactness]] for circumstances where the set is not necessarily closed.
+​## Defintion
+
+A [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric space]] \((M,d)\) is *totally bounded* if and only if for every number \(\epsilon >0\) there exist a finite collection of open balls of radius \(\epsilon > 0\) whose centers line in \(M\) an whose union contains \(M\).

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 005B73FA-6914-4975-BCCD-4709FFFCE714
+:END:
+#+title: Lebesgue Number Lemma
+
+Let \(\mathscr{A}\) be an open covering of the [[id:8E24A191-E911-4243-8DDA-3404B256A715][sequentially compact]], [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric space]] \(X\). Then, there exists a \(\delta > 0\), called the Lebesgue number associated to the covering \(\mathscr{A}\) such that every subset of \(X\) whose diameter is less than \(\delta\) is contained in at least one \(A \in \mathscr{A}\).

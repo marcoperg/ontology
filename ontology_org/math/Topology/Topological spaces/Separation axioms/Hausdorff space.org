@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID: 14F2DB4F-672A-42CD-B683-BE90B7E3F5C9
+:END:
+#+title: Hausdorff space
+
+** Definition
+Let \((X, \tau)\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]]. \((X, \tau)\) is said to be an /Hausdorff space/ or \(T_2\) if for all points \(x, y\) there exist a neighborhood \(V\) of \(x\) and a neighborhood \(U\) of \(y\) such that \(U \cap V = \emptyset\). That is, if any two points of the space are separated by neighborhoods.
+
+The condition for being a Hausdorff space are important to ensure the uniqueness of limits on the space.

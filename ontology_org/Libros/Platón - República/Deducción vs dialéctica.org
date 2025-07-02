@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 1394A994-2F6D-447E-ABB3-EFAE00573719
+:END:
+#+title: Deducción vs dialéctica
+
+Platón, al final del Libro Sexto de la República establece la superioridad de la dialéctica, que permite hallar los verdaderos primeros principios, sobre la deducción, propia de la geometría, que siempre depende de ciertas premisas. Este conocimiento deducitvo, pues, se situará entre la opinión y la intelección.

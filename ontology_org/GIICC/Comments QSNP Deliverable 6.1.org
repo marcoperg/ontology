@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID: D0D70398-C56A-4FDD-9FF0-379B3705BCF1
+:END:
+#+title: Comments QSNP Deliverable 6.1
+
+** UPM Section
+**** What evolutions, updates do you think are needed on these section(s) in order to move towards a review paper? Other comments ?
+Section 5.5.4 SDN and Secure Storage could be further complemented by adding explanations on the reasons behind mixing QKD and the SDN paradigms and how does this affect the security of the Secure Storage, specially when mixing it with PQC.
+
+** Whole Document
+*** 1) What should be the focus / core goal of the document. How should we position it with respect to existing review papers ?
+Since the main focus of the document is in the advantages that quantum cryptography presents in addition to just PQC we could add clarity by explaining more the specific attack that this technology prevents.
+
+*** 2) Suggestions on the evolutions that are needed and on how to organize the work
+1. Section 5.
+   1. The title of the section is a bit overwhelming, too many acronyms and term dropping.
+   2. Section 5 is the largest section and the structure seems a bit unorganized. Sections 5.1, 5.2, 5.4 are all about Key Exchange specific protocols, but all about the same security application.
+   3. I think it would be useful to explicitly state the advantages and disadvantages of each of the three AKE protocols (i.e. Muckle+, KEM-based and Mosca et al.) explained and the motivations for choosing between them.
+   4. In p.36 I don't think the differences between quantum-resistant, quantum-hard and hard-quantum one-way functions is correctly explained.
+   5. In p.37 OT is not really clearly explained, this could be improved a bit.
+   6. In p.40 a think the notion of one-time payment should be better explained, the interesting quantum advantages come from that exact type of payment (otherwise is more or less solved). And the type of attacks described lack source or explanation.
+   7. In the section 5.8.3 (p. 45) the advantages of Quantum Distance Bounding vs classical DB

@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID: 735B23D3-AE21-47C0-BD34-40E2787DD59A
+:END:
+#+title: 2. Parménides
+
+--------------
+
+aliases: - Parménides
+---
+
+* Parméndies
+Fue discípulo del pitagórico Aminias. Probablemente perteneció a la escuela ya que aparenta concocer su doctrina. Debió también escuchar a [[id:1EC57BE5-BB2E-475C-94BF-0D3EFDF9DB15][Jenófanes]], pues reocgoe y desarrolla sus enseñanzas. Escribió un poema en hexámetros del que extraemos su pensamiento.
+
+Convierte en antítesis irreductible la contraposición presocrática entre "Naturaleza" y "particulares." Establece la base de su pensamiento en el dilema entre /ser/ y /no-ser/, pretendiendo que hay que elegir forzosamente entre ambos. A esta antítesis ontológica le suma una gnoseológica, entre la opinión y el conocimiento racional; descalificando por completo el testimonio de los sentidos.
+
+* El poema sobre la Naturaleza
+** El camino de la verdad
+*** Ontología
+El poema comienza con una pomposa introducción en la que Parménides es guiado por una diosa por caminos divinos en los que le enumera tres caminos: el de la /verdad/, que el ser existe, y es imposible que no exista; el del /error/, que el ser no existe, y es necesario que no exista; y el de la /opinión/, que el ser existe y no existe a la vez.
+
+**** El ser
+Parménides guiado por la razón y abandonando el testimonio de los sentidos encuentra tres posibles actitudes ante el ser: 1. el /no-ser/ existe, propia de los pitagóricos, los cuales para explicar la pluralidad y el movimiento, admitían el vacío, el cual al penetrar en el cosmos a través de la respiración cósmica lo disgregaba y multiplicaba. Contra ellos Parménides opone que el /no-ser/ no es. 2. El ser existe y no existe a la vez, aludiendo a [[id:FB1DDF16-B590-4CD4-AC75-45DB4514B19F][Heráclito]], que admitía la unidad del ser, pero en movimiento perpetuo, en continua transformación. Contra esto Parménides apunta que es absurdo que el ser exista y no exista a la vez. 3. El /ser/ existe y es imposible que no exista. Esta frase sintetiza todo el realismo de Parménides. El ser es compacto y único, los particulares ilusiones de los sentidos. Así como el movimiento, ya que no existe distancia entre seres ni espacio vacío en el que realizarse.
+
+**** Cualidades del ser
+El ser es - Uno - Eterno - Imperecedero - Entero e Inmóvil - Continuo, homogéneo e indivisible - Lleno, compacto, finito, limitado y esférico - Ser y pensar es lo mismo
+
+"Con esto -concluye la diosa- termino el discurso y el pensamiento acerca de la verdad".
+​## El mundo de la Opinión
+
+La segunda parte del poema describe una Física compuesta por elementos jónicos y pitagóricos. Parménides hará esto con un sentido burlesco y caricaturesco, ya que como bien afirma Aristóteles, hablar de Física después de establecer que el movimiento no existe es más bien contradictorio. "Aprende ahora opiniones falaces de mortales escuchando el orden engañoso de mis palabras".
+
+* El realismo en Parménides
+Parménides, aplicando de manera apriorista e implacable el principio de identidad, llega a la negación de toda pluralidad, de toda diversidad cualitativa y cuantitativa. Sigue este proceso los tres pasos clásicos de todo movimiento idealista: 1. Prescinde de los particulares fijándose solo en la propiedad común del /ser/ (abstraccionismo). 2. Prescinde de los sentidos y se recluye en su inteligencia (subjetivismo). 3. Atribuye existencia y realidad ontológica al concepto abstracto del ser, identificándolo con el mundo real.
+Aunque comienza con intención realista, al desligarse por completo de los sentidos y centraste en la idea abstracta del ser, Parménides se desconecta de la realidad. El ser al que llega ya no es ontológico, sino lógico y puramente abstracto.
+
+Parménides confunde el ser ontológico con el lógico y abstracto, identificando ese "ser" abstracto con el mundo físico.
+
+Un procedimiento similar seguiría Platón hasta llegar a su teoría de las Ideas y Plotino deseando llegar al Uno.
+
+Todos los intérpretes de Parménides admiten que la segunda parte del poema, aquella que habla de la Física, está escrita en tono irónico. Resulta interesante plantearse si lo mismo podría ser cierto sobre la primera. Podría ser que, al igual que Zenón con sus epiqueremas, Parménides lanzase a sus contemporáneos un concepto que todavía se sigue discutiendo.
+
+Es exagero postular a Parménides como el padre de la metafísica, ya que su /Ser/ no tiene nada que ver con el concepto universalísimo del "ser en cuanto de ser" de Aristóteles. Su /Ser/ es físico, particular y concreto.
+
+* Influencia
+Parménides cierra el primer período de la especulación presocrática poniendo de manifiesto la insuficiencia de un primer principio para explicar la pluralidad, la diversidad y el movimiento.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID: 6B3DF1E4-E443-4231-A062-491506342881
+:END:
+#+title: T1 space
+
+Let \((X, \tau)\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]]. \((X, \tau)\) is said to be a \(T_1\) if for all points \(x, y \in X\), \(y\) has a neighborhood not containing \(X\).
+
+** Proposition
+X is \(T_1\) iff singletons of points are closed.
+
+** Exempli gratia
+The finite complement topology over any set \(X\) is \(T_1\). Moreover,s not [[id:14F2DB4F-672A-42CD-B683-BE90B7E3F5C9][Hausdorff space]] if \(X\) is infinite.

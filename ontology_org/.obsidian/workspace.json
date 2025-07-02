@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "a6f1cf1ae55d2a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4087f9ec3e1be0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db2bd2b9d7974c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/Category Theory/Natural transformation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Natural transformation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e785d756a3b6313b",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a36e17d0094eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8ca9d445c5d212",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "688942f1a07e37c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4684c059b986c9a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "e7f67dcc7c18d618",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7421b028ff47d42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a1c92c996b07b65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "math/Geometry/Differential Geometry/Manifolds.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Manifolds"
+            }
+          },
+          {
+            "id": "4a7463c8fa410cd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/Geometry/Differential Geometry/Manifolds.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Manifolds"
+            }
+          },
+          {
+            "id": "4405b365eca2d5b0",
+            "type": "leaf",
+            "state": {
+              "type": "ReferenceListView",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "References"
+            }
+          },
+          {
+            "id": "609ba482b975fcb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Urysohn's metrization lemma"
+            }
+          },
+          {
+            "id": "1efff5ed0217b64b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0ab2c1800e9178bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be467e24dfdc3cdd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "db2bd2b9d7974c1f",
+  "lastOpenFiles": [
+    "math/Logic/Arithmetic theories/Löbs's derivability conditions.md",
+    "math/Logic/Arithmetic theories/Robinson arithmetic.md",
+    "math/Logic/Arithmetic theories/Arithmetical hierarchy.md",
+    "math/Logic/First Order Logic/Resolution.md",
+    "math/Topology/Topological spaces/Topologies/Fiber bundle.md",
+    "math/Logic/Arithmetic theories",
+    "math/Logic/Model theory/Categorical theory.md",
+    "math/Category Theory/Products and Coproducts.md",
+    "math/Category Theory/Terminal and Initial Objects.md",
+    "math/Category Theory/Pullback.md",
+    "math/Category Theory/Natural transformation.md",
+    "math/Category Theory/Monoids.md",
+    "math/Category Theory/Categories.md",
+    "math/Category Theory/Functor.md",
+    "math/Category Theory/Universal property.md",
+    "math/Logic/Combinatory Logic/Combinatory calculi.md",
+    "math/Topology/Metric spaces/Urysohn's metrization lemma.md",
+    "math/Logic/Metalogic/Deduction theorem.md",
+    "math/Logic/Metalogic/Formal Theory.md",
+    "math/Logic/Metalogic/Logical Consequence.md",
+    "math/Topology/Topological spaces/top_notes.pdf",
+    "math/Topology/Topological spaces/Separation axioms/Urysohn's Lemma.md",
+    "math/Topology/Topological spaces/Separation axioms/Hausdorff space.md",
+    "math/Topology/Topological spaces/Separation axioms/T3 and regular spaces.md",
+    "math/Topology/Metric spaces/Metric spaces.md",
+    "math/Topology/Topological spaces/Separation axioms/T4 and normal spaces.md",
+    "math/Topology/Topological spaces/Separation axioms/T1 space.md",
+    "math/Algebra/algebra_notes.pdf",
+    "math/Topology/Topological spaces/Basis (topology).md",
+    "math/Logic/Model theory",
+    "attachments/Pasted image 20250507141737.png",
+    "math/Topology/Algebraic Topology/Complexes",
+    "math/Algebra/Order Theory",
+    "math/Algebra/Linear algebra",
+    "physics/Einstein's Theory of Relativity/Special Relativity",
+    "physics/Einstein's Theory of Relativity",
+    "math/Algebra/Lie groups",
+    "attachments/Pasted image 20250101190551.png",
+    "attachments/Pasted image 20250101190540.png",
+    "attachments/Mi bloc.png",
+    "10 attachments/Pasted image 20240625210804.png",
+    "10 attachments/Pasted image 20240625203146.png",
+    "10 attachments/Pasted image 20240625195724.png",
+    "10 attachments/rl_algorithms_9_15.svg",
+    "Pasted image 20240625181210.png",
+    "Pasted image 20240625181205.png",
+    "Untitled.canvas",
+    "math/Geometry/Projective Geometry/Projective Geometry.canvas",
+    "math/Algebra/Group Theory/Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}

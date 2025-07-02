@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID: C31DD475-75D9-4BB9-9DD5-536453386F9D
+:END:
+#+title: Vector spaces
+
+--------------
+
+aliases: - vector space - vector - linear subspace
+---
+
+** Definition
+A *vector space* over a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]] \(F\) is a non-empty set \(V\) together with two binary operations that satisfy the next list of eight axioms.
+
+The elements of \(V\) are called /vectors/ and the elements of \(F\) are called /scalars/.
+
+- The first binary operations is called *addition* and maps any vectors \(v, w \in V\) to a third vector usually denoted \(v + w\), which is called the /sum/ of \(v, w\).
+- The second if called *scalar multiplication* and maps any scalar \(a \in F\) and any vector \(v \in V\) another vector denoted \(av\).
+
+In order to have a vector space we must have the following axioms satisfied for every vectors \(v, u, w \in V\) and every scalars \(a, b \in F\):
+
+| *Axiom*                                                                 | *Meaning*                                                                        |
+|-------------------------------------------------------------------------+----------------------------------------------------------------------------------|
+| Associativity of vector addition                                        | \(u + (v + w) = (u + v) + w\)                                                    |
+| Commutativity of vector addition                                        | \(u + v = v + u\)                                                                |
+| Identity element of vector addition                                     | There exist an element \(0 \in V\) such that \(v + 0 = v\) for all \(v\in V\).   |
+| inverse element of vector addition                                      | For every \(v\in V\), there exist an element \(-v \in V\) such that \(v+(-v)=0\) |
+| Compatibility of scalar multiplication with multiplication in the field | \(a(bv) = (ab)v\)                                                                |
+| Identity element of scalar multiplication                               | \(1v = v\), where \(1\) is the multiplicative identity element in \(F\)          |
+| Distributivity of scalar multiplication with respect to vector addition | \(a(v + u) = av + au\)                                                           |
+| Distributivity of scalar multiplication with respect to field addition  | \((a+b)v = av+bv\)                                                               |
+
+This definition can be given equivalently stated as: \(V\) forms an [[id:48FAF6F8-DD4A-49F5-89B1-DCE13AE4A2F7][abelian group]] under addition and we have a [[id:0A0A0964-760B-436D-B664-BD9B0C34CC42][ring homomorphism]] from the field \(F\) to the [[id:32DD9FBC-97BE-4089-BA38-6C425F5D0AAF][endomorphisms ring]] of said group.
+
+** Linear Subspaces
+If \(V\) is a vector space over a field \(K\) and if \(W\) is a subset of \(V\), then \(W\) is a *linear subspace* of \(V\) if under the operations of \(V\), \(W\) is a vector space over \(K\).

@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID: 6B901F9A-1391-4774-B291-8C2E9114485F
+:END:
+#+title: Space of Distributions
+
+The space of distributions is the space of continuous linear [[id:14907899-E46A-4820-AC6E-61F144CD22AE][functionals]] \(T: \mathcal{D}(\mathbb{R}^n)\to \mathbb{R\text{ (or } \mathbb{C}\text{)}}\) of the [[id:41EF0CA7-2ACA-494F-AF1E-242AF2579860][space of Test Functions]].
+
+** Notable Examples
+*** Continuous functions:
+For any \(f\in C(\mathbb{R}^n)\) we can define:
+$$
+\begin{align}
+T_f:  & \mathcal{D}(\mathbb{R}^n) \to \mathbb{R} \\
+ & T_f(\phi) = \int_{\mathbb{R}^n} f(x)\phi(x)\,dx
+
+\end{align}
+$$
+which is a distribution. Hence, we can identify all continuous functions as a distribution. This works for all locally integrable functions as well. All distributions that can be defined in such a way are called *regular*.
+
+*** Dirac delta-function
+Which is defined as:
+\[
+\begin{align}
+\delta :  & \mathcal{D}(\mathbb{R}^n) \to \mathbb{R} \\
+ & \delta(\phi) = \phi(0)
+\end{align}
+\]

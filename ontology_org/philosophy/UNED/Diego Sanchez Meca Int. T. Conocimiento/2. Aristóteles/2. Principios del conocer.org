@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID: EAAAA880-D58F-4890-81F5-0FCA6496054A
+:END:
+#+title: 2. Principios del conocer
+
+En Aristóteles el concepto principio tiene el significado del /arjé/ griego, ya usado por los presocráticos. Y no sólo designa el comienzo a partir del que algo empieza a ser, sino, más precisamente aún, aquello de donde procede algo en su ser.
+
+1. En el plano lógico, estos principios serán los axiomas, juicios intuitivos, indemostrables y que se dan por verdaderos a partir de los cuales se derivan las conclusiones. Actúan como premisas.
+2. En el plano ontológico, principio es aquella realidad de la que procede otra realidad. Los principios lógicos presuponen estos principios metafísicos dada la estrecha vinculación entre lógica y metafísica del pensamiento aristotélico.
+
+Junto a los axiomas lógicos, que actúan de principios formales y últimos, entonces existen los principios materiales o próximos que son propios de cada ciencia.
+
+** Los tres primeros principios
+Los primeros principios tienen el significado de leyes del ser que señalan las condiciones necesarias para que una cosa puede ser y actuar. Estas leyes lógico-ontológicas son el principio de no contradicción, de identidad y de razón suficiente, que encierran las siguientes propiedades trascendentales correspondientes y relativas al ámbito del ser:
+
+1. El ente como /uno/ y el principio de identidad: Decir ente que es "uno" significa afirmar su identidad respecto de sí mismo, al mismo tiempo que su diversidad de otros seres, a los que también les corresponde ser en identidad consigo mismos. Esto hace de la unidad una propiedad trascendental, en la que se basa el principio de identidad. Por tanto, el principio primero del ser es que no es posible que aparezca y no aparezca como sujeto de un mismo predicado: "todo ser es idéntico a sí mismo".
+2. El ente como /algo/ y el principio de no contradicción: las cosas se nos muestran como entes, en contraposición a la nada. Esta es la segunda propiedad trascendental, todas las cosas son algo. Y, además, ese algo se nos muestra como distinción o determinación atribuible a todo ente y que se puede predicar de él. De este modo se supera la antinomia entre ser y no ser y se fundamente el principio de no contradicción. Que es a la vez el primero de los axiomas, porque en torno a él no cabe error y no se halla fundamentado en otro conocimiento, sino que todo conocimiento lo presupone
+3. El ente como "verdadero" y el principio de la razón suficiente: Hablar del ente como verdadero es ponerlo en relación con el entendimiento. Y esta adecuación puede ser, o bien, del entendimiento con la cosa (verdad lógica); o bien de la cosa con el entendimiento (verdad ontológica). La verdad como propiedad trascendental del ente es la verdad ontológica, ya que es la única que cumple los requisitos necesarios para ser trascendental.
+
+* Las categorías
+Los elementos últimos del pensamiento, tal y como se expresan en el lenguaje, no son sólo, para Aristóteles, las proposiciones y las deducciones, sino también, y más originalmente, los términos, es decir, las palabras. Y estas tienen que ir siempre vinculadas con el objeto o la realidad que designan. Es decir, no son meramente lingüísticas o lógicas, sino también metafísicas y ontológicas.
+
+Aristóteles establece la tabla de categorías a partir de los modelos de predicación lingüística, donde el sujeto es el elemento sustancial del que se predican atributos distintos. Están categorías también son denominadas "modos de ser". Esto se puede entender de dos formas. Por un lado, estas formas de ser serían las múltiples maneras de significar propias del ser en general, las significaciones del "ser" que expresan en qué sentidos el ente se dice que es y en que sentidos el no ente se dice que no es. O también se puede entender como clasificaciones empíricas para dividir seres. Su aplicación en esta segunda interpretación daría lugar a una visión jerárquica del universo en la que se descendería de la universalidad del ser a la pluralidad de los entes. Las realidades inferiores lo son en virtud de la primera categoría, que es la de sustancia, entendida como esencia existente.
+
+* La abstracción
+Aristóteles introduce la distinción entre sustancia primera y causa segunda. La sustancia primera no puede ser predicado de ninguna otra cosa. Sin embargo, en cuanto categoría, la sustancia segunda no es un ejemplo particular de sustancia, sino el universal, la clase de todas las sustancias o el término con el que se nombra esa clase. Pues bien, a esa sustancia segunda se llega, en el proceso del conocimiento, mediante la abstracción.
+
+A diferencia de las ideas platónicas estas substancias segundas, que formarían los conceptos, no viven en un mundo trascendental aparte del sensible, si no existen en potencia en los fenómenos que percibimos por los sentidos. La ciencia, por tanto, se adquiriría mediante la captación de los elementos lógicos subyacentes en las sustancias primeras. Para Aristóteles todo objeto individual se comprende, en la medida de lo humanamente posible, abstrayendo la forma específica que comparte con otros de su clase o especie.
+
+Lo esencial del proceso de conocimiento puede explicarse así mediante la distinción entre conocimiento sensible y conocimiento intelectual. El conocimiento sensible consiste en captar las formas sensibles de las cosas sin la materia, mientras el conocimiento intelectual recibe las formas inteligibles abstrayéndolas de las formas sensibles en las que están presentes. Así, Aristóteles, llega al mecanismo del proceso de conocimiento: 1. Las imágenes son como percepciones sensoriales sin presencia material de la csa; 2. El concepto, o sea, la unidad del conocimiento intelectivo, que se deja acompañar de imágenes pero que no coincide con ninguna de ellas ni es un icono representativo; 3. El juicio, que procede de la unión de dos o más conceptos en un enunciado que puede ser verdadero o falso; 4. El razonamiento, que compone varios juicios de los cuales uno es el antecedente de la conclusión.

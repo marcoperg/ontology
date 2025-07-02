@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: F043629B-409C-4A97-BE7A-F9355D6A0E6D
+:END:
+#+title: Universal cover
+
+* Universal cover
+Let \(B\) be a [[id:EBF663AC-9E40-4D8F-82AB-F55F1A69682D][path-connected]] space, a simply-connected [[id:B612585B-35F9-41FE-A564-94419D915475][covering space]] of \(B\) is also a covering space of every other path-connected covering space of \(B\). Such a covering is unique up to isomorphism and is referred to as *universal cover*.
+
+* Theorem
+A connected, locally path-connected space \(X\) has a universal cover if and only if it is [[id:FE33A5CF-3453-46E1-BF80-383A5EE4F296][semilocally simply-connected]].

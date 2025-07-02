@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID: 81EB115C-7068-494D-BB90-23601BD2AA05
+:END:
+#+title: Central Limit Theorem
+
+The central limit theorem explains the huge number of normal distribution that we find in the natural and mathematical worlds.
+
+The classical version of the theorem is the following
+
+Let \(\{X_1, ... , X_n\}\) be a sequence of independent and identically distributed (i.i.d.) random variables with expected value \(\mu\) and finite variance \(\sigma^2\). Spps. we are interesting in the sample average
+\[
+\bar{X_n} \equiv \frac{X_1 + ... + X_n}{n}.
+\]
+
+The formal version of this version of the theorem can be stated as follows:
+
+*Lindeberg-Levy CLT -* Spps. \(\{X_1, ..., X_n\}\) is a sequence of i.i.d. random variables with \(E[X_i]\) and \(Var[X_i] = \sigma^2 < \infty\). Then, as \(n\) approaches infinity, the random variables \(\sqrt(n)(\bar{X_n}-\mu)\) converge in distribution to a normal \(\mathcal{N}(0, \sigma^2)\):
+
+\[
+\sqrt(n)(\bar{X_n} - \mu) \to \mathcal{N}(0, \sigma^2)
+\]

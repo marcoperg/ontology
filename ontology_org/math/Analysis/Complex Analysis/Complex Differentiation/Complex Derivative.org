@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID: D43DD7EB-867E-4B2F-BD1B-02A18250DF03
+:END:
+#+title: Complex Derivative
+
+If \(f(z)\) is a single-valued complex function in some region \(\mathcal{R}\) of the \(z\) plane, the /derivative \(f'(z)\)/ of \(f(z)\) is defined as
+\[
+f'(z) = \lim_{\Delta z \to 0}\frac{f(z+\Delta z) -f(z)}{\Delta z}
+\]
+provided that the limit exists independent of the manner in which \(\Delta z \to 0\). In such case, we say that \(f(z)\) is /differentiable/ at \(z\). Differentiability implies continuity, although the reverse is not true.
+
+** Formula using real derivatives
+Let \(z = x + i y\) and \(f(z) = u(x,y)+i v(x,y)\), with \(x, y\in \mathbb{R}\) and \(u, v: \mathbb{R}\times\mathbb{R}\to\mathbb{R}\). By using the [[id:61218F47-D2BA-4886-A42E-2119D8BE38C4][Cauchy-Riemann Equations]] be can show that
+\[
+f'(z) = \frac{\partial u}{\partial x} + i\frac{\partial v}{\partial x}
+\]

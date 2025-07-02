@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID: 34F270EF-8996-40DB-BC8C-98B8292D35F5
+:END:
+#+title: 4. Hume
+
+En Hume la tesis empirista de que todo nuestro conocimiento se origina en la experiencia adquiere una terminología nueva, distinta a la de Locke. Hume utiliza el término impresión para describir esta experiencia de la que derivamos el conocimiento, a diferencia de las ideas de Locke. Hume utiliza el término percepción como todo aquel contenido de la conciencia, de las cuales distingue dos tipos: 1. Impresiones: son las sensaciones o aprehensiones primeras, más vivas e inmediatas, provenientes de la percepción interna o externa. 2. Ideas: son los contenidos mediatos, reproducidos, y constituyen el mundo de lo pensado.
+
+Una aportación fundamental de la teoría de la percepción de Hume es su formulación de las leyes de asociación, en la que reconoce tres formas: semejanza, contigüidad espacio-temporal y causalidad.
+
+* Conocimiento intuitivo y demostrativo
+Para Hume, la distinción entre conocimiento intuitivo y conocimiento demostrativo se deriva directamente de su distinción entre tipos de percepciones.
+
+Conocimiento intuitivo: es aquel que reside simplemente en la seguridad de las impresiones facticias. Qué impresiones tengo puedo decirlo con absoluta seguridad; no puedo equivocarme, en cuanto me limito a fijar escuetamente que poseo una representación perceptiva de este o aquel contenido simple o compuesto, sin añadir conceptos interpretativos. Dentro de esta certeza intuitiva Hume da preferencia a la relación espacial y temporal de los contenidos de la sensación.
+
+Es importante señalar que estas certezas intuitivas son siempre con respecto a los estados internos de la mente en los que se hallan estas representaciones, sin llegar a la certeza intuitiva del estado de ninguna sustancia externa.
+
+* Crítica a la metafísica
+Hume supone la estacada final al concepto tradicional de filosofía como metafísica. Hace una crítica voraz a varias ramas de esta.
+
+** Crítica al principal de causalidad
+La relación de causa y efecto, argumenta Hume, no es percibida directamente, tan sólo es una conclusión extraída de una contigüidad temporal. Se convierte un /post hoc/ en un /propter hoc/. No puede, por tanto, comprenderse la relación de causalidad analíticamente, no puede derivarse lógicamente.

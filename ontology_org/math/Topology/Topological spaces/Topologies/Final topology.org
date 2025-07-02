@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID: 96D71126-FCC6-4570-85D5-3EFB52F3CB5F
+:END:
+#+title: Final topology
+
+--------------
+
+aliases: - final topology
+---
+
+* Definition
+Given a set \(X\) and an \(I\)-indexed family of [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] \((Y_i, v_i)\) with associated functions
+\[f_i: Y_i\to X\]
+the *final topology* on \(X\) /induced by the family of functions/ \(\mathcal{F} := \{f_i : i \in I\}\) is the finest topology \(\tau_\mathcal{F}\) on \(X\) such that
+\[f_i: (Y_i, v_i) \to (X, \tau_\mathcal{F})\]
+is continuous for each \(i\in I\). The final topology always exists and is unique.
+
+Another explicit description of final topology is as follows
+a subset \(U\) of \(X\) is open in the final topology if and only if \(f^{-1}(U)\) is open in \(Y_i, v_i\) for each \(i\in I\).
+
+** Example
+The important special case where the family of maps \(\mathcal{F}\) consists of a single surjective map can be completely characterized using the notion of the [[id:FE594882-26D7-43A6-86D8-AB44E105CDFA][quotient map]]. The quotient topology is the final topology on the quotient map.

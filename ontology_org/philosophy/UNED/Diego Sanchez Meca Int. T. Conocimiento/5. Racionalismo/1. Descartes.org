@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID: 4245FF7F-0CFD-4B0A-8499-180CBEB16455
+:END:
+#+title: 1. Descartes
+
+El proyecto de Descartes consiste en fundamental todo el conocimiento humano para conseguir un saber cierto y seguro, de validez general para cualquier tipo de teoría, y en fundamentar ese saber en aquello que ha producido la historia del saber y sus realizaciones, esto es, la razón. "Nada puede conocerse antes que el entendimiento, del que depende todo conocimiento".
+
+* Caracterización del método
+** Caracterización externa: las cuatro reglas
+"Por método entiendo una serie de reglas ciertas y fáciles, tales que todo aquel que las observa exactamente no tome nunca lago falso por verdadero, y, sin gasto alguno de esfuerzo mental, sino por incrementar su conocimiento paso a paso, llegue a una verdadera comprensión de todas aquellas cosas que no sobre pasas su capacidad". Entonces, es su aspecto externo, el método consistiría en una serie de reglas, que lejos de formar juicios de manera autónoma, servirían de ayuda para que aquel que las use adquiera conocimiento iluminando con la luz natural de la razón.
+
+En la segunda parte del /Discurso del método/, Descartes expone estas cuatro reglas o preceptos en los siguientes términos: 1. La evidencia: consiste en no aceptar por precipitación ningún conocimiento que no nos resulta absolutamente claro y distinto. Este precepto es una invitación a la prudencia. 2. El análisis: significa reducir toda cuestión o conjunto de cuestiones a sus elementos componentes más sencillos. Responde a la necesidad de proceder analíticamente mediante la división de lo complejo. 3. La síntesis: requiere recomponer de nuevo ordenadamente lo antes analizado y dividido para su mejor compresión. Apela al imperativo del orden. 4. La enumeración: se refiere a la necesaria revisión final o comprobación del análisis y la síntesis para asegurarse de que nada se ha omitido.
+
+** Caracterización interna: las operaciones de la mente
+Desde una perspectiva interna Descartes caracteriza el método así: "El método consiste totalmente en el orden y disposición de aquellos objetos a los que ha de dirigirse la atención de la mente para descubrir cualquier verdad. Observaremos exactamente ese orden si reducimos, paso a paso, las proposiciones implicadas u obscuras a aquellas que son más simples, y si comenzamos entonces por la aprehensión intuitiva de las más simples, y tratamos, volviendo a seguir nuestra senda a través de las mismas etapas, de remontarnos de nuevos al conocimiento de todas las demás proposiciones."
+
+Como se desprende del texto anterior Descartes hace consistir todo su método, en última instancia, en la disposición ordenada de cuestiones que, reducidas a sus elementos más simples, permita conocerlos por intuición. Así caracterizado, se ve claro que éste es el proceder propio de las matemáticas, que tanto gustaban a Descartes que quiso aplicarlas a todo el saber humano.
+
+* Intuición y deducción
+Así pues, el método tiene dos vertientes: 1. La inducción o resolución: que cosiste en reducir paso a paso proposiciones implicadas y obscuras aquellas que son más simples. Para generalizar el modelo matemático al conjunto del conocimiento, Descartes tenía que justificar, ante todo, cómo se alcanza los primeros principios de cualquier ciencia. El momento inductivo o de resolución tiene como finalidad justificar estos primeros principios. 2. La síntesis o composición: que continúa desde esos primeros principios deduciendo ordenadamente y sin emitir ninguna justificación.
+
+En consonancia con estas dos variantes metodológicas, Descartes define las dos operaciones implicadas en su ejecución 1. La intuición: "Es aquello que aparece tan clara y distintamente a una mente atenta y no nublada, que quedamos completamente libres de duda en cuanto al objeto de nuestra compresión". Es decir, conocimiento evidente que brota de la luz de la sola razón. 2. La deducción: "Es toda inferencia necesaria a partir de otros hechos que son conocidos con certeza". Pero en la deducción está implicada la intuición, puesto que hemos de ver clara y distintamente la verdad de cada proposición antes de proceder al paso siguiente. Por lo que la deducción no es sino una intuición sucesiva.
+
+#+begin_example
+Nota mía: creo que usando un razonamiento análogo al que aparece en el "Lo que le dijo la tortuga a Aquiles" de Lewis Carroll se puede demostrar que es preciso una infinitud de premisas verdaderas autoevidentes antes de comenzar a aplicar la deducción. Nos bastaría con el *cognito ergo sum* cartesiano.
+#+end_example

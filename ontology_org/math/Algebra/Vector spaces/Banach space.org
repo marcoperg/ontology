@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 29768ACE-BD6A-47E1-9E63-EAFAEDB474AA
+:END:
+#+title: Banach space
+
+A Banach space is a normed vector space that is also a [[id:C2C27C7B-D64E-424D-B062-37E2FE5C3CB8][complete metric space]] under the metric defined by the norm.

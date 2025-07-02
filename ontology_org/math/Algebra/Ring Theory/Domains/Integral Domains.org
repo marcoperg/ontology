@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID: 75C09067-1CB9-48D8-A1BF-C93A2960BE50
+:END:
+#+title: Integral Domains
+
+--------------
+
+aliases: - integral domain - zero-divisor
+---
+
+** Zero-Divisors
+*** Definition
+A /zero-divisor/ is a nonzero element \(a\) of a [[id:3CC31C84-CF5C-4C2C-90A6-623847BFF49F][commutative ring]] \(R\) such that
+
+\[\exists b\in R: b\neq 0 \land ab = 0\]
+
+** Integral Domain
+*** Definition
+An /integral domain/ is a commutative ring with unity and no zero-divisors.
+
+** Cancellation Theorem
+Let \(a, b\) and \(c\) belong to an integral domain. If \(a \neq 0\) and \(ab = ac\), then \(b = c\).
+
+** Fields
+*** Finite Equivalence Theorem
+A finite integral domain is a [[id:0A6751A9-127F-40CA-BD65-2F69B68F0DD8][field]].
+
+*** Corollary
+For every prime \(p\), \(\mathbb{Z}_p\), the ring of integers modulo p, is a field.
+
+** Characteristic of a Ring
+*** Definition
+The /characteristic/ of a ring \(R\) is the least positive integer \(n\) such that \(nx = 0\) for all \(x \in R\). If no such integer exists, we say that \(R\) has characteristic \(0\). The characteristic is denoted \(char R\).
+
+*** Characteristic of a Ring with Unity
+Let \(R\) be a ring with unity \(1\). If \(1\) has infinite order under addition, then the characteristic of \(R\) is \(0\). If \(1\) has order \(n\) under addition, then the characteristic of \(R\) is \(n\).
+
+*** Characteristic of an Integral Domain
+The characteristic of an integral domain is \(0\) or prime.
+
+** Examples
+All [[id:66B953C1-5B75-4CA7-A128-350A81DC11A5][unique factorization domains]] are, by definition, integral domains.

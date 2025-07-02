@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID: 3C67CDAF-C6A1-459F-8733-49487370C514
+:END:
+#+title: Analytic function
+
+--------------
+
+aliases: - holomorphic functions - analytic - analytic function
+---
+
+** Definition
+A function \(f\) is /complex analytic/ on an [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][open set]] \(D\) in the complex plane if for any \(z_0 \in D\) one can write
+\[
+f(z) = \sum_{n=0}^{\infty}a_n(z-z_0)^n = a_0 + a_1(z-z_0) + a_2(z-z_0)^2+...
+\]
+in which the coefficients \(a_0, a_1, ...\) are complex numbers and the series if convergent to \(f(z)\) for \(z\) in a neighborhood of \(x_0\).
+
+Alternatively, a complex analytic function is an infinitely differentiable function such that the Taylor Series at any point \(z_0\) in its domain
+\[
+T(z) = \sum^\infty_{n=0}\frac{f^{(n)}(z_0)}{n!}(z-z_0)^n
+\]
+converges to \(f(z)\) for \(z\) in a neighborhood of \(z_0\) pointwise.
+
+For the definition of /real analytic/ we can just replace /complex/ for /real/ and complex plane for the real line.
+
+** Relation with holomorphic functions
+*** Definition
+Given a complex-valued \(f\) of a single complex variable, it is said to be /holomorphic/ on an open set \(U\) if it is [[id:D43DD7EB-867E-4B2F-BD1B-02A18250DF03][complex differentiable]] at every point of \(U\). A function \(f\) is holomorphic at a point \(z_0\) if it is holomorphic on some neighborhood of \(z_0\).
+
+A function is analytic iff it is holomorphic.
