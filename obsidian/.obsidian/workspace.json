@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/Category Theory/Natural transformation.md",
+                "file": "math/Fixed Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Natural transformation"
+              "title": "Fixed Points"
             }
           }
         ]
@@ -200,8 +200,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "63067d9e83099756",
+  "active": "db2bd2b9d7974c1f",
   "lastOpenFiles": [
+    "math/Category Theory/Natural transformation.md",
     "math/Logic/Arithmetic theories/Löbs's derivability conditions.md",
     "math/Logic/Arithmetic theories/Robinson arithmetic.md",
     "math/Logic/Arithmetic theories/Arithmetical hierarchy.md",
@@ -212,7 +213,6 @@
     "math/Category Theory/Products and Coproducts.md",
     "math/Category Theory/Terminal and Initial Objects.md",
     "math/Category Theory/Pullback.md",
-    "math/Category Theory/Natural transformation.md",
     "math/Category Theory/Monoids.md",
     "math/Category Theory/Categories.md",
     "math/Category Theory/Functor.md",
