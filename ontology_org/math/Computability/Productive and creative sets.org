@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:       93FF8093-FDA3-440B-B9BA-33AB1EDF97AD
+:END:
+#+title: Productive and creative sets
+#+SETUPFILE: ../../setup.org
+
+* Productive sets
+
+We define the notions of *productive* and *creative* sets, both are varieties of non-computable subsets of the natural numbers.
+
+We first notice that the following are equivalent for a subset $A\subset \mathbb{N}$.
+- $A$ is not computably enumerable.
+- For all comutable enumerable subsets $W_e \subset A$ there exists an $n\in A \backslash W_e$
+
+Here the subindex $(W_e)_{e\in \mathbb{N}}$ stands for an enumeration of the c.e. subsets of $A$.
+
+\begin{definition}
+A set $A\subset \mathbb{N}$ is \textbf{productive} if there exists a computable function $g:\mathbb{N} \to \mathbb{N}$ such that, for all $e\in \mathbb{N}$, $W_e \subset A$ we have $g(e)\in A\backslash W_e$.
+\end{definition}
+
+The function $g$ is call *outsider finder* for $A$.
+
+Crearly, every productive set is not c.e. Moreover, In the effective topos a set $A$
+- is not c.e. iff $\forall f: A^\mathbb{N}. \lnot (f \text{ is surjective})$.
+- is productive iff $\forall f: A^\mathbb{N}. \exists a: A (a \not\in \text{image} f)$
+
+Being the second one stronger in the intuitionistic logic that is model by this topos.
+
+
+* Creative sets
+
+\begin{definition}
+A set $A\subset \mathbb{N}$ is \textbf{creative} if it is c.e. and its complements if productive.
+\end{definition}
+
+\begin{proposition}
+The halting set $K$ is creative.
+\end{proposition}
