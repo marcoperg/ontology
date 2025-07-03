@@ -36,3 +36,8 @@ A set $A\subset \mathbb{N}$ is \textbf{creative} if it is c.e. and its complemen
 \begin{proposition}
 The halting set $K$ is creative.
 \end{proposition}
+
+
+* Example from the language of arithmetic
+
+Let $T$ be a theory with a effective axiomatization, then the set w$\{ S \,|\, T \vdash S\}$ of provable sentences is c.e.. it can be proven that the set $\{ s \,|\, t \vDash S\}$ of true senteces is productive. This can be used to prove Gödel first incompleteness theorem.
