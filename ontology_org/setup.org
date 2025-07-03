@@ -1,11 +1,14 @@
-#+LATEX_HEADER: \usepackage{lmodern} % Ensures we have the right font
+#+STARTUP: latexpreview
 #+LATEX_HEADER: \setlength{\parindent}{0pt}
 
+#+LATEX_HEADER: \usepackage{tikz-cd}
 #+LATEX_HEADER: \usepackage[AUTO]{inputenc}
 #+LATEX_HEADER: \usepackage{graphicx}
 #+LATEX_HEADER: \usepackage{amsmath, amsthm, amssymb}
 #+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
 #+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
+#+LATEX_HEADER: \usepackage{bbm}
+
 
 #+LATEX_HEADER: \newtheorem{theorem}{Theorem}[section]
 #+LATEX_HEADER: \newtheorem{corollary}{Corollary}[theorem]
@@ -16,4 +19,3 @@
 
 #+LATEX_HEADER:\theoremstyle{remark}
 #+LATEX_HEADER:\newtheorem*{remark}{Remark}
-
