@@ -2,6 +2,7 @@
 :ID: 8E8C8054-8FA7-45B7-8407-C8C1C3ECBBFF
 :END:
 #+title: Zermelo–Fraenkel Set Theory Axioms
+#+SETUPFILE: ../../setup.org
 
 This eight axioms (nine including choice) make up the foundations of modern set theory and therefore modern mathematics. There are multiple equivalent formulations. In this case we use the standard formulation based on first order logic.
 

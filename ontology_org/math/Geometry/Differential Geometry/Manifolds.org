@@ -2,6 +2,7 @@
 :ID: 58660F1E-EB64-4506-81E9-63FF79BD2E76
 :END:
 #+title: Manifolds
+#+SETUPFILE: ../../../setup.org
 
 --------------
 

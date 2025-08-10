@@ -2,6 +2,7 @@
 :ID: E521E6E7-78C3-49EB-B7AF-BA3D25925312
 :END:
 #+title: Tangent Bundle
+#+SETUPFILE: ../../../setup.org
 
 Given a [[id:58660F1E-EB64-4506-81E9-63FF79BD2E76][smooth manifold]] \(M\) we define the *tangent bundle*, denoted \(TM\), to be the disjoint union of the [[id:5FA0079D-EFB7-4222-B9DD-F216C918E7B6][tangent space]] at all points of \(M\):
 \[TM = \coprod_{p\in M} T_pM\]

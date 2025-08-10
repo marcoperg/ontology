@@ -2,6 +2,7 @@
 :ID: 5FA0079D-EFB7-4222-B9DD-F216C918E7B6
 :END:
 #+title: Tangent Space
+#+SETUPFILE: ../../../setup.org
 
 --------------
 
