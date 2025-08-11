@@ -1,12 +1,8 @@
 :PROPERTIES:
 :ID: B7312592-1E02-4BAE-A723-ABA434AE5891
+:ROAM_ALIASES: "Tales" "Aniximandro" "Anaxímenes"
 :END:
 #+title: 1. La Filosofía en Mileto
-
---------------
-
-aliases: - Tales - Aniximandro - Anaxímenes
----
 
 * Tales
 Nace en Mileto y ejerce influencia política en su patria. Se le atribuyen viajes a Egipto, donde estudia Geometría, mide la altura de las Pirámides por su sombra y explica las crecidas del Nilo. Alcanza la fama por varios inventos de carácter práctico. Predijo un eclipse de Sol que ocurre en el medio de una batalla entre medos y lidios. Se le atribuye el teorema que lleva su nombre, el haber sido estudioso de los cielos y de medir la distancia entre navíos gracias a la suma de triángulos semejantes.

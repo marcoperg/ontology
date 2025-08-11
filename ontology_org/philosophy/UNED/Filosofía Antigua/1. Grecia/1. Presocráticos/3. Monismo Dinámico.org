@@ -1,12 +1,8 @@
 :PROPERTIES:
 :ID: FB1DDF16-B590-4CD4-AC75-45DB4514B19F
+:ROAM_ALIASES: Heráclito
 :END:
 #+title: 3. Monismo Dinámico
-
---------------
-
-aliases: - Heráclito
----
 
 * Heráclito
 Se le conoce como el oscuro por su forma críptica de escribir. Natural de Efeso y de ascendencia noble destaca por su carácter misántropo y melancólico. Se le representaba llorando y se alejó de la vida política, pese a ser descendiente de los fundadores de su ciudad.

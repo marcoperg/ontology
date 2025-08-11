@@ -1,12 +1,8 @@
 :PROPERTIES:
 :ID: 735B23D3-AE21-47C0-BD34-40E2787DD59A
+:ROAM_ALIASES: Parménides
 :END:
 #+title: 2. Parménides
-
---------------
-
-aliases: - Parménides
----
 
 * Parméndies
 Fue discípulo del pitagórico Aminias. Probablemente perteneció a la escuela ya que aparenta concocer su doctrina. Debió también escuchar a [[id:1EC57BE5-BB2E-475C-94BF-0D3EFDF9DB15][Jenófanes]], pues reocgoe y desarrolla sus enseñanzas. Escribió un poema en hexámetros del que extraemos su pensamiento.
