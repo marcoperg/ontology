@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       50FD0976-1F6E-4BDE-A14D-8B9AD2B4E573
+:END:
+#+title: Preliminares del Helenismo
+
+* Individualismo y crissi
+
+Tras las conquistas de Alejandro vemos un fin de la organización clásica del mundo greigo en ciudades estado que vendrá acompañada en un fin de la ética comunitaria en pro de un nuevo individualismo.
+
+
+* Respuestas a la crisis
+** Academia
+
+La academia platónica ve sus interes enfocados en la lógica de los inteligibles mezclandose con la [[id:81632E3A-35C8-4F15-919E-A6DCE52A5B38][escuela de Megara]]. Los contingentes dejan de ser interantes y se focalizan en lo necesario.
+
+
+** Liceo
+
+La escuela peripatética destaca por presentar, a diferencia de la academia, un sucesor claro del maestro, Teofrasto. Una aportación importante de Teofrastro a la ética del liceo radica en la modificación de la teoría aristotélica de la virtud. Resumidamente, los modos de ser de cada individuo que forman sus rasgos temperamentales están llamados a actuar de una cierta forma siendo la función de la ética temperamental estos impulsos propios. Como podemos ver que estas modificaciones permiten ver el mundo conformado por individuos adecuado a la época histórica.
+
+
+** Pirrón
+
+Pirrón funda un escepticismo que es mejor explicado desde la perspectiva de la crisis de la ciudad que estamos viendo en esta época. Una clave del tipo de escepticismo que aquí encontramos está en el hecho de que Pirrón llego a ser un gran activo político de su ciudad, es decir, aceptaba y defendida las costumbres de la comunidad. Lo que experiencia Pirrón es una caída de la filosofía y de los principios del conocimiento como legisladores absolutos y guías de la virtud. Pirrón niega la verdad de la ciencia y anima a moverse de la manera pragmática con los cambios de tiempo que ocurren. Es decir, se niega la posibilidad de conocimiento teoríco que funde la paideia como la entendieron sus predecesores pero afirma la necesidad de entender las costumbres como conocimiento prático. Se defiende la suspensión de juicio.
+
+
+** Cinismo
