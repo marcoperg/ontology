@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       28101747-4722-4D5A-8941-B655E4005AC6
+:END:
+#+title: Gnoseología
+
+Estas notas están basadas en la clases de historia de la filosofía de Quintín Racionero que se pueden hayar gratuitamente disponibles en [[https://www.youtube.com/playlist?list=PLEaDnHnhCt9bw8Xi48DwIuNWG74s3OoZ3][YouTube]].
+
+* Gnoseología aristotélica
+
+** Critica a la teoría platónica
+
+Aristóteles considera que para salvar la pretensión platónica del conocimiento es necesario criticar, y así superar, el cientificismo platónico. Debemos para esto, formular un criterio de demarcación entre aquello susceptible de conocimiento cierto y fijo. Ese criterio de demarcación viene dado, uniendo así el pensamiento socrático y el aristotélico, por la teoría de la definición.
+
+En la teoría de la definición aristotélica existe un tipo, poco habitual, de definición que es la saturada o completa, es decir, aquella que encapsula por completo a esencia del sujeto de la definición. ¿Cuándo ocurre esto? Pocas veces. Quizás más interesante, ¿cómo ocurre eso? Si te actuamos de una manera que en la realidad que no se produce jamás.
+
+Para que haya ciencia, el ideal de la filosofía, lo primero que tenemos que hacer es un expolio. Quedarnos con un lenguaje deficitario excluyendo de él todas las presunciones sociológicas, identitarias que son fuente de opinión. Nos queda un lenguaje apofantico, abstracto y, por tanto, fantasmagórico, que no enlace directamente con la realidad. En este lenguaje decimos que una definición es posible cuando a un sujeto se le identifica con predicados cualesquiera en número finito tal que pueda ejercer la identidad.
+
+Según Aristóteles la *intuición intelectual es siempre provisional*, es aquello que tras observar montones de ejemplos singulares de un género podemos, inductivamente, generar un elemento abstracto siempre irreal y fantasmagórico que se corresponda al sujeto común o esencial de todos esos singulares. Pero, de nuevo, esto es siempre provisional, no podemos llegar, como algunos románticos sostienen, a una categoría intelectual real o existente con este método. Esta intuición es una argucia de la razón.
+
+Aristóteles indica que en un ejercicio onto-praxiológico (en palabras de Quintín Racionero) podemos establecer un sujeto mediante la construcción y el uso de la inducción. Tal sujeto no será real solo en cuánto a lo pensamos, como objeto abstracto que existe mientras lo usemos y pensemos. Para los predicados actuamos de forma similar usando axiomas convencionales. Todo esto encuentra fáciles ejemplos en las matemáticas.
+
+Posteriormente, nos preguntamos si existen elementos transcendentales comunes a todas las ciencias. Aristóteles afirmará la existente de tales transcendentes hayándolos en sus principios. Estos principios serán incognoscibles de por sí  pero sin los cuales cualquier intento de construcción científico serían imposible. De estos principios nos han llegado el principio de identidad, el principio de no contradicción y el principio del tercio excluido.
+
+** El método Aristotélico como hermenéutica
+
+Aristóteles se defiende de los escépticos con un argumento pragmático. Si no aceptamos unos axiomas para la inteligencia, unos principios para el nous, tendremos que prescindir de la comunidad humana organizada. Sin embargo, nos comunicamos. Como podemos reconocer significado y sentido en nuestros enunciados podemos aceptar un conocimiento positivo.
+
+De está forma el mundo platónico sería rescatable si aceptamos que la realidad del mundo es la que se nos da en el lenguaje, es decir, la que se nos da en una comunidad comunicacional. Esto es lo que nos lleva a decir que el méotodo aristotélico es, en realidad, un método hermenéutico. De esta forma existe ciencia por el hecho transcendente de que la realidad se da en la medida en que hablamos ella. Así se postula una intervención humana necesaria en la realidad para la existencia de ciencia.
+
+La justificación aristotélica de la verdad de las proyecciones que los humanos hacemos desde nuestro lenguaje a la realidad -proyecciones que, recordemos, son condición no solo necesaria pero también habilitadora para la ciencia- son una sería de instancias refutatorias. Estas instancias se justifican a su vez al ser tales que su negación implique su propio uso, esto es, cualquiera que las niegue debe de hacer uso de ellas mismas en está negación. Podemos ver está idea en la refutación clásica en contra del escepticismo: si aceptamos la premisa de no existe conocimiento cierto estaríamos, de facto, aceptando la existencia de algún tipo de conocimiento.
+
+** El arte de la definición
+
+Como hemos explicado, la definición es la base sobre la que construimos el conocimiento científico. Aristotéles usa la plantilla de género y diferencia específica para crear las definiciones. Por ejemplo, un hombre es un animal bípedo, racional, sin plumas, etc. Para alcanzar este concepto abastracto usamos la inducción y la intuición intelectual siempre como salto confiado.
+
+** Silogismo
+
+Los juicios en Aristóteles tienen dos formas, la unión de dos enunciados en uno solo y la separación de un enunciado en varios. Esta segunda forma tiene el uso principal de deshacer confusiones.
+
+Se suele discutir el valor del silogismo en la medida que no puede nunca llegar a nuevo conocimiento, critica fundada desde luego en el su carácter claramente analítico. El mismo Aristóteles hace poco uso de estas ténicas en sus tradados de biología o física. Así podemos entender que el razonamiento silogistico sirve para encontrar los lugares de la verdad, los lugares donde se cumple el equipamiento lógico de la intervención racional. Obteniendo así una topolgía de lugares donde cada enunciado, con sus premisas y conclusiones, ha de ser necesariamente cierto. 
+
+
+** Ciencia
+
+Las ciencias en Aristóteles se pueden ver como aquellas áreas en las que podemos organizar nuestra experiencia para las cuales estás atribuciones a la verdad de carácter onto-praxiológico resultan eficaces. De esta forma, un razonamiento científico es aquel que haya una correspondencia entre un lugar formal de la verdad, obtenido racionalmente, con nuestra experiencia. Por lo tanto, una razonamiento científico no es un silogismo. Un razonamiento científico es aquel que parte de un razonamiento inductivo, necesariamente incompleto, que hace uso de la arquitectura conceptual y, a través de la topología de la verdad que nos aporta el razonamiento formal (por ejemplo es silogístico) produce unas afirmacione empiricamente comprobables. 
+
+Tras tener este concepto bien definido y delimitado de ciencia nos queda determinar cuales son las ciencias. Aristóteles defiende tres clases de ciencias:
+
+*** Las ciencias teóricas
+**** La Filosofía primera o Metafísica
+Interesante ver como se considera una ciencia. Que es la ciencia del ser en cuanto a ser.
+**** La Matemática
+Que se subordina a la metafísica, rectificando a Platón.
+**** La Física
+
+*** Las ciencias prácticas
+Que son aquellas en las que se tienen que hacer uso de estos instrumentos de razonamiento en los ámbito prácticos y técnicos.
+
+
+** Resumen
+
+Para hayar el conocimiento primero nos basamos en la inducción que nos permite extraer, al sumarle el salto a golpe de intuición intelectual, del particular la idea general. Este golpe intutivo y todo uso de la razón están justificados por los principios refutarios que hemos explicado anteriormente, y siempre presuponen una comunidad comunicativa. Posteriormente, guiados por la razón de esta forma justificada, juntaremos los enunciados obtenidos inductivamente formando los llamados silogismos para obtener juicios y enunciados nuevos. Estos silogismos utilizan el programa intelectual aristotélico para encadenar enuncadios relacionados de forma que si A y B están realionados de cierta forma se siga necesariamente C sin que la razón pueda negarlo.
