@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       E63CD8AC-ADF3-43D4-BB60-DE755CCF6B87
+:END:
+#+title: Retórica y poética aristotélicas
+
+
+* Utilidad de la dialéctica
+
+Como hemos visto en su [[id:28101747-4722-4D5A-8941-B655E4005AC6][epistemología]] el uso principal de dialéctica en Aristóteles es alcanzar un conocimiento probable, que no demostrado, en aquellos casos donde no tenemos definiciones saturadas.
+
+
+* Tipos de enunciados en la Poética
+
+** Enunciados históricos o singulares
+
+Lo propio de este tipo de enunciados es su tendencia a organizarse en narraciones tradicionales, usando la palabra mitos. Aristóteles explica que en los mitos incorporan elementos para los que no hay ninguna posibilidad de ejercer la racionalidad. El mito, de esta forma, es una secuncia de eventos encadenados, una parataxis, un y paso y paso y paso, de forma que no existe un posible salto ontopraxiológico que explique estos sucesos de manera racional. Por esto el mito es siempre algo a evitar.
+
+De esta forma, la historia es lo irracional, sería azaroso que la historia coincidiese con lo racional.
+
+** Enunciados universales
+
+Los propios de la ciencia.
+
+
+* Retórica
+** Retórica como contraestrofa de la dialéctica
+
+En el primer libro de la retórica se entiende esta como una contraestrofa, en el sentido de los poemos clásicos griegos, de la dialéctica, esto es, una serie de herramientas que complementan la primera.
+
+** Retórica para llegar a un conocimiento incompleto en cuestiones de pasión
+
+Volviendo a los enunciados históricos y singulares, existen disciplinas como es el caso de la política en la que nos resulta imposible eliminares los elementos pasionales. Para alcanzar cierto grado de conocimiento y trabajar en conjunto con estas pasiones inevitables Aristóteles desarrollo un concepto algo diferente de retórica en su segundo libro. Así se intenta alcanzar una cierta universalidad que nos separe de la contingencia histórica que, claro está, es siempre diferente de la universalidad científica.
+
+
+** Los tres tipos de premisas de los argumentos
+
+Para entender mejor estos dos tipos de retórica es útil ver las tres instancias en las que se dividen según Aristóteles las premisas para el equipamiento argumentativo:
+
+1. El pragma
+2. El ethos
+3. El pathos
+
+El pathos sería el contenido del argumento. El limitarnos al pragma es aquello que nos permite entender la retórica como una contraestrofa a la dialéctica. De acuerdo con el primer capítulo del primer libro de la retórica, si prescindimos de acciones y pasiones y tratamos unicamente la retórica centrandonos en el pragma obtendremos una herramienta que completa la dialéctica. Así la retórica sería el conjunto de herramientas que nos permiten persuadir al contrario de la bondad de la posición que defendemos. 
+
+Si añadimos los afectos y las pasiones como premisas a los silogismos podremos añadir estos componentes a nuestras argumentaciones. Si los elementos pasionales se incorporan a nuestros enunciados podremos contraponerlos, explotarlos y utilizarlos en conjunto con las herramientas racionales para potenciar nuestros argumentos o debilitar los contrarios.
+
+
+** Universales singulares en la retórica
+
+Entonces, y a modo de resumen, lo que Aristóteles propone, especialmente en el segundo libro de la retórica, es la universalización metodológica de los singulares pasionales y de acción que rodean ámbitos como la política para ser usados en enunciados formales. Es decir, construimos universales que, a diferencia de los universales abstractos del logos apofanticos, son concretos. Estos universales son tratados de forma análoga a los ciéntificos.
+
+
+* Poética
+
+Para recapilar, tras la construcción de un entramado ontopraxiológico que nos permite llegar a un conocimiento certero utilizando la inducción y un salto intelectivo motivado por la existencia de una comunidad comunicativa. A esto le añadimos una metodología formal, analítica, apra extraer una topología de la verdad. Posteriormente, añadimos los conceptos abstractos, universales, pero concretos, provenientes de la contingencia de la historia, para tener en cuenta las pasiones en nuestras argumentaciones. En todo momento estos universales concretos son tenidos análogos a los universales totalmente abstractos del logos apofanticos.
+
+Sin embargo, Aristóteles entiende que todo esto no es suficiente para convencer a la población del deber a la obediencia social. Es necesario establecer dispositivos de ejemplaridad para llegar a conseguir está obediencia.
+
+Así, en la Poética, se intenta llegar a a una nueva paidea, que incluya la paidea religiosa clásica utilizando estos universales singulares que van a ser cruciales en esta obra.
+
+En los analíticos vemos como se ha de eliminar del lenguaje los elementos que evitan el conocimiento exacto. En la poética, sin embargo, vemos una vía dinstinta la teoría de la ciencia -no complementaría commo era la retórica-, basada en una nueva clase de operaciones, al margen de las abstractivas, que serán las simbólicas. Si las operaciones abstractivas consisten en generar a partir de singulares abstractos, las operaciones simbólicas consisten en mantener la singularidad mostrando la unidad de su representación en un punto, en el signo. 
+
+Entonces está es la validez de las artes, mediante símbolos se establecen, por analogía, formas educativas que si servirán para generar y mantener el orden social. Todo esto es una obra de ejemplaridad que rescatará, tras las críticas de otros filósofos contemporáneos, la tragedia y la epopeya.

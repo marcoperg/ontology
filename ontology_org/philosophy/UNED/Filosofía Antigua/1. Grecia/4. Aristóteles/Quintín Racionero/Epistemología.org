@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       28101747-4722-4D5A-8941-B655E4005AC6
 :END:
-#+title: Gnoseología
+#+title: Epistemología Aristotélica
 
 Estas notas están basadas en la clases de historia de la filosofía de Quintín Racionero que se pueden hayar gratuitamente disponibles en [[https://www.youtube.com/playlist?list=PLEaDnHnhCt9bw8Xi48DwIuNWG74s3OoZ3][YouTube]].
 
@@ -44,7 +44,7 @@ Se suele discutir el valor del silogismo en la medida que no puede nunca llegar 
 
 Las ciencias en Aristóteles se pueden ver como aquellas áreas en las que podemos organizar nuestra experiencia para las cuales estás atribuciones a la verdad de carácter onto-praxiológico resultan eficaces. De esta forma, un razonamiento científico es aquel que haya una correspondencia entre un lugar formal de la verdad, obtenido racionalmente, con nuestra experiencia. Por lo tanto, una razonamiento científico no es un silogismo. Un razonamiento científico es aquel que parte de un razonamiento inductivo, necesariamente incompleto, que hace uso de la arquitectura conceptual y, a través de la topología de la verdad que nos aporta el razonamiento formal (por ejemplo es silogístico) produce unas afirmacione empiricamente comprobables. 
 
-Tras tener este concepto bien definido y delimitado de ciencia nos queda determinar cuales son las ciencias. Aristóteles defiende tres clases de ciencias:
+Tras tener este concepto bien definido y delimitado de ciencia nos queda determinar cuales son las ciencias. Aristóteles defiende tres (?) clases de ciencias:
 
 *** Las ciencias teóricas
 **** La Filosofía primera o Metafísica
@@ -56,15 +56,17 @@ Que se subordina a la metafísica, rectificando a Platón.
 *** Las ciencias prácticas
 Que son aquellas en las que se tienen que hacer uso de estos instrumentos de razonamiento en los ámbito prácticos y técnicos.
 
+
 ** Silogismo dialéctico o cuando no podemos alcanzar ciencia
 
 En determinadas circunstancias en las cuales el silogismo científico no es suficiente para determinar verdades, podremos hacer uso de un silogismo dialéctico de forma similar al científico pero que solo es capaz de demostrar la probabilidad (en sentido griego, prematemático) de los enunciados de los que razona. De esta forma, sin una axiomática fuerte que nos proporcione ciencia y nos permita conocer los lugares de la verdad, podremos partir de una serie de opiniones para llegar a los lugares de la probabilidad.
 
 Es importante ver que el argumento dialéctico utiliza las mismas formas silogísticas que el científico, solamente que la imposibilidad de hayar un conocimiento claro del que parter axiomaticamente provoca que en lugar de alcanzar verdaderas demostraciones tengamos que conformarmos con establecer la probabilidad de los enunciados. Así la dialéctica es el arte del diálogo. Esto es lo que encontramos en los Tópicos. En estos casos encontramos la verdad cuando hayamos el consenso. Así Aristótles, en contra de Platón, rebaja el alcance de la dialéctica sin descartarla.
 
+
 ** Panorama final
 
-Todas las ciencias tienen un núcleo sujeto a demostración y un cinturon exterior que ha de ser víctima de la opinión. De esta forma se atisba un mundo donde la sofística persiste pero regida por la filosofía que recae en ciertos saberes que pueden ser absolutos.
+Todas las ciencias tienen un núcleo sujeto a demostración y un cinturón exterior que ha de ser víctima de la opinión. De esta forma se atisba un mundo donde la sofística persiste pero regida por la filosofía que recae en ciertos saberes que pueden ser absolutos.
 
 ** Resumen
 
