@@ -4,8 +4,37 @@
 #+title: Metafísica aristotélica
 
 * ¿Cuál es la Filosofía Primera?
+
 ** Primer proyecto de la metafísica: causas y principios
+
+Este primer proyecto se basa en entender la ciencia primera como una fundamentalización de aquellas operaciones sin las cuales no tenemos conocimiento. Como se ha dicho en el apartado de epistemología, Aristóteles establece que se puede obtener un conocimiento unviersal cuando se señala que un fenómeno cualquiera se atiene a una causa que regularmente es siempre la misma o bien cuando se construye mediante la aplicación de un principio que también  sea siempre el mismo. Además y de nuevo, está es la única forma de saltarse la crítica escéptica, ya que el escéptico usará inevitablemente estas causas y principios en sus objeciones.
+
+De está forma Aristóteles señala cuatro posibles causas y unas indicaciones a los posibles principios.
+
+*** Causas
+Como es conocido podemos declarar porque un fenómeno es materialmente así, porque es formalmente así, porque ha sido hecho o para que fin se ha hecho. Es importante ver estás causas no tienen necesariamente una correspondencia en la naturaleza, sino que pueden verse como un ejercicio ontopraxiológico, es la razón humana, el Nous el que preguntándose la pregunta concreta organiza ciertas características del objeto natural para responderse.
+
+De está forma las cuatro causas conforman una trama, una red que cuando el Nous, el intelecto, la hecha sobre el mundo natural obtiene cierta imagen sobre como se conforma un objeto natural.
+
+*** Principios
+No existe una teoría exhaustiva de los principios como en el caso de las causas porque puedes usarse de forma independientes unos con respecto a otros. Sin embargo, *como en el caso de las causas han de ser entendidos desde como mecanismos de la inteligencia humana que operan sobre la naturaleza para desvelar sus estructuras más íntimas*. En este caso la estructura que se entablan no es causal, sino se usan para fundamentar el conocimiento.
+
+
+*** Conclusiones de este primer proyecto
+
+De está forma una axiomática es siempre una metafísica aristotélica. El matemático aristotélico por excelencia es Euclides.
+
+Podemos ver que estos primeros principios y cuasas no son demostrados ni demostrables, sino que se presuponen motivados por las consecuencias ausentes de fecundidad y casi contradictorias de sus negaciones.
+
+
 ** Segundo proyecto de la metafísica: ¿Qué es el ser? Ontología o ciencia del ser en cuanto a ser
+
+Tras establecer la retícula operativa y metodológica obtenemos una pregunta de continuación que es si estos primeros principios y estructuras causales que proyectamos sobre la naturaleza nos permites justificar el uso de los conceptos abstractos que obtenemos usando estos métodos.
+
+Aristóteles señala tras intentar validar los conceptos abstractos en una teoría del ser que existen ciertos conceptos que no pueden predicarse. Esto es un corolario de la agrupación del sujeto en categorías. De esta forma, Aristóteles concluye que el ser se dice de varias maneras. Así ni el ser es unívoco ni multiple pero basado en lo que no es cada ser, como explicaba Platón. El ser Aristotélico será multiple, lo que permite una ontología o ciencia del ser.
+
+Entonces, ¿de cuántos modos se puede decir el ser? Pues fundamentalmente dos, el ser puede decirse como sujeto o como predicado.
+
 ** Tercer proyecto de la metafísica: ousología
-** Cuarto proyecto de la metafísica: teología
+** Cuarto proyecto de la metafísica: teología 
 
