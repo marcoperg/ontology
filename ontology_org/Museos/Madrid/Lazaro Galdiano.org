@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       758BF1F3-E189-40AA-97B8-06390DFDD879
+:END:
+#+title: Lázaro Galdiano
+
+
+* Goya
+- [ ] [[http://catalogomuseo.flg.es/en/community/museoflg/resource/el-aquelarre/8e853830-949a-456d-baca-b2fd93c0a81c][El Aquelarre]]
