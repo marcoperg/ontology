@@ -3,10 +3,10 @@
 :END:
 #+title: Preliminares del Helenismo
 
-* Individualismo y crissi
+* Individualismo y crisis
 
 Tras las conquistas de Alejandro vemos un fin de la organización clásica del mundo greigo en ciudades estado que vendrá acompañada en un fin de la ética comunitaria en pro de un nuevo individualismo.
-
+				   
 
 * Respuestas a la crisis
 ** Academia
@@ -25,3 +25,5 @@ Pirrón funda un escepticismo que es mejor explicado desde la perspectiva de la 
 
 
 ** Cinismo
+
+Diógenes fue discípulo de Arístoteles y Antístenes. Antístenes ve a la sociedad y normas convencionales como un empedimento a verdadera felicidad humana.
