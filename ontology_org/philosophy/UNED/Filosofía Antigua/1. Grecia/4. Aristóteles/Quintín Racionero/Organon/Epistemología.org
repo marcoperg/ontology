@@ -5,9 +5,9 @@
 
 Estas notas están basadas en la clases de historia de la filosofía de Quintín Racionero que se pueden hayar gratuitamente disponibles en [[https://www.youtube.com/playlist?list=PLEaDnHnhCt9bw8Xi48DwIuNWG74s3OoZ3][YouTube]].
 
-* Gnoseología aristotélica
+* Epistemología aristotélica
 
-** Critica a la teoría platónica
+** Crítica a la teoría platónica
 
 Aristóteles considera que para salvar la pretensión platónica del conocimiento es necesario criticar, y así superar, el cientificismo platónico. Debemos para esto, formular un criterio de demarcación entre aquello susceptible de conocimiento cierto y fijo. Ese criterio de demarcación viene dado, uniendo así el pensamiento socrático y el aristotélico, por la teoría de la definición.
 
@@ -44,7 +44,7 @@ Se suele discutir el valor del silogismo en la medida que no puede nunca llegar 
 
 Las ciencias en Aristóteles se pueden ver como aquellas áreas en las que podemos organizar nuestra experiencia para las cuales estás atribuciones a la verdad de carácter onto-praxiológico resultan eficaces. De esta forma, un razonamiento científico es aquel que haya una correspondencia entre un lugar formal de la verdad, obtenido racionalmente, con nuestra experiencia. Por lo tanto, una razonamiento científico no es un silogismo. Un razonamiento científico es aquel que parte de un razonamiento inductivo, necesariamente incompleto, que hace uso de la arquitectura conceptual y, a través de la topología de la verdad que nos aporta el razonamiento formal (por ejemplo es silogístico) produce unas afirmacione empiricamente comprobables. 
 
-Tras tener este concepto bien definido y delimitado de ciencia nos queda determinar cuales son las ciencias. Aristóteles defiende tres (?) clases de ciencias:
+Tras tener este concepto bien definido y delimitado de ciencia nos queda determinar cuales son las ciencias. Aristóteles defiende tres clases de ciencias:
 
 *** Las ciencias teóricas
 **** La Filosofía primera o Metafísica
@@ -54,7 +54,11 @@ Que se subordina a la metafísica, rectificando a Platón.
 **** La Física
 
 *** Las ciencias prácticas
-Que son aquellas en las que se tienen que hacer uso de estos instrumentos de razonamiento en los ámbito prácticos y técnicos.
+Que son aquellas en las que se tienen que hacer uso de estos instrumentos de razonamiento en los ámbitos prácticos. Se incorporán, así, las costumbres humanas, ethos. La ética, la política son claros ejemplos.
+
+
+*** Las ciencias productivas
+Que son, finalmente, aquellas ciencias enfocadas al ámbitos técnico.
 
 
 ** Silogismo dialéctico o cuando no podemos alcanzar ciencia
