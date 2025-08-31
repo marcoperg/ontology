@@ -3,4 +3,9 @@
 :END:
 #+title: Metafísica aristotélica
 
+* ¿Cuál es la Filosofía Primera?
+** Primer proyecto de la metafísica: causas y principios
+** Segundo proyecto de la metafísica: ¿Qué es el ser? Ontología o ciencia del ser en cuanto a ser
+** Tercer proyecto de la metafísica: ousología
+** Cuarto proyecto de la metafísica: teología
 
