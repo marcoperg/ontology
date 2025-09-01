@@ -72,7 +72,8 @@ Es importante ver que el argumento dialéctico utiliza las mismas formas silogí
 
 Todas las ciencias tienen un núcleo sujeto a demostración y un cinturón exterior que ha de ser víctima de la opinión. De esta forma se atisba un mundo donde la sofística persiste pero regida por la filosofía que recae en ciertos saberes que pueden ser absolutos.
 
-** Resumen
+
+** Resumen del proyecto Epistemológico
 
 Para hayar el conocimiento primero nos basamos en la inducción que nos permite extraer, al sumarle el salto a golpe de intuición intelectual, del particular la idea general. Este golpe intutivo y todo uso de la razón están justificados por los principios refutarios que hemos explicado anteriormente, y siempre presuponen una comunidad comunicativa. Posteriormente, guiados por la razón de esta forma justificada, juntaremos los enunciados obtenidos inductivamente formando los llamados silogismos para obtener juicios y enunciados nuevos. Estos silogismos utilizan el programa intelectual aristotélico para encadenar enuncadios relacionados de forma que si A y B están realionados de cierta forma se siga necesariamente C sin que la razón pueda negarlo.
 
@@ -81,3 +82,8 @@ Existen dos formas principales de obtener un conocimiento estable de los univers
 
 - La *inducción*, que no deja de ser la muestra repetitiva de ejemplos particulares, que tras un golpe de inutición intelectiva nos otorga un general.
 - La *abstración*, que no deja de ser una operación de resta sobre el lenguaje que habla sobre la naturaleza hasta la optención de un lenguaje apofántico que aporte un conocimiento estable.
+
+
+** Necesidad hipotética
+
+Aristóteles señalará que la necesidad absoluta en la que los filósofos intentan basar sus ciencias es unicamente posible en seres eternos. Es por esto que en en la ciencia aristotélica nos limitados a postular una necesidad hipotética.
