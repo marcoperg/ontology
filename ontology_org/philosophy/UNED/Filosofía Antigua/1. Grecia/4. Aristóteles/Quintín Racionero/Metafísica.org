@@ -35,6 +35,57 @@ Aristóteles señala tras intentar validar los conceptos abstractos en una teor�
 
 Entonces, ¿de cuántos modos se puede decir el ser? Pues fundamentalmente dos, el ser puede decirse como sujeto o como predicado.
 
+*** Acto y pontencia :important:
+
+Uno de los problemos básicos que se encuntra la ontología que es aquel de constuituir un lenguaje enunciativo ontológico que o bien fija el ser para siempre una vez se dice o bien solo capta un instante fugaz del ser.
+
+Para solventar este problema decimos que además de los dos modos básicos del ser, sujeto y predicado existen dos básicos estados del ser, el acto y la potencia.
+
+- Acto: el acto es la realización del ser.
+- Potencia: la potencia es la posibilidad del ser.
+
+*Así, el esquema del acto y potencia sirve para solventar las críticas Eléatas al movimiento y suponen una continuación del ecosistema ontopraxiológico que Aristóteles plantea para poder decir la realidad.*
+
+
+*** Jerarquía ontológica
+
+Aristóteles establece que, aunque el ser se diga de varias maneras, es más importante el ser cuando se dice en la función del sujeto que cuando se dice en la función del predicado. Esta elección dará lugar a la _lógica predicativa_, aquella en la que lo que importa es el sujeto y que atributos le podemos asignar. Por otra parte, está elección no es necesaria, contraste, por ejemplo, con las filosofías budistas que priman las relacionas a los objetos. Está elcción es muestra de la deuda a Parménides.
+  
 ** Tercer proyecto de la metafísica: ousología
+
+Tras establecer los modos dinstintos de ser, que son varios, pero concluir que existe uno prominente más importante del resto llegamos a nuestro tercer proyecto para la metafíscia aristotélica, la ousología. Está teoría responderá a la pregunta que podemos sabre por esta forma eminente del ser.
+
+*** Sobre la traducción latina de ousia
+
+La traducción latina de ousia por substancia tiene sentido en el contexto de la física aristotélica, donde esta ousia es, efectivamente, el substrato subyacente que permite el movimiento sin romper la idea del ser. Es decir, la substancia en la física, es decir, en el contexto del movimiento, es aquello que permanece igual en un ente tras ser movido.
+
+Sin embargo, para el contexto de la Filosofía Primera es mejor ir a la forma léxica del concepto y traducirlo simplemente por ente, auquello que es.
+
+*** Materia y forma :important:
+
+El esquema de materia y forma es el esquema propio de la ousología.
+
+Existe en la metafísica aristotélica una primera materia sin forma, indeterminada que no puede tener predicados concretos. Posteriormente, existe materia con forma que ya permite caractéres atrbutivos. Así el ente será una mezcla entre materia y forma.
+
+*Aristóteles establece la prioridad de la figura, de la forma sobre la materia. Así en la forma estará el inteligible, lo que cabe entenderse y explicarse de la realidad.* Así queda claro que la teoría aristotélica no es un materialismo.
+
+La materia solo permite los predicados de cantidad y el resto recaen en la forma.
+
+*La esencia es lo que era el ser*, la esencia es aquello que subsiste sobre cualquier diferenciación accidental. Así se trae el mundo platónico al físico.
+
+
 ** Cuarto proyecto de la metafísica: teología 
 
+Al establecer la primacía de la forma nos queda una pregunta, ¿puede existir un ser puramente formal? La respuesta, al menos práctica, a esta pregunta es que debemos de tener en cuenta tales seres al experimentar en nuestro viaje científico la verdad de ciertos enunciados necesarios que, precisamente al ser necesarios, están desprovistos de cualquier componente contingente que trae consigo la materia.
+
+
+*** Libro λ
+
+De este racionamiento sumado a la jerarquización en función de motores en el mundo físico nos lleva al primer motor inmóvil, primera causa incausada. Esta conclusión, en conjunto con la descripción de este primer motor inmóvil como forma sin materia o acto puro sin potencia, se nos presenta en el libro lambda de la Metafísica que es bastante cuestionado. El libro lambda es útil porque propone una solución a muchos de los problemas metafísicos al permitir justificar una primacía de la necesidad sobre la contingencia.
+
+Muchas de las críticas señalan que esta idea es una vuelta al mundo platónico.
+
+
+*** Solución práctica
+
+Si nos vamos a la forma opuesta de solucionar los problemas de la metafísica hayamos una solución propuesta en los libros anteriores, la de la acción. De alguna manera podemos resumir esta vía con el ejemplo de la visión. Una buena teoría de la visión consisten en una serie de enunciados que sean capades de describir y, quizás, de predecir los comportamiento de la visión, pero nunca podría permitirnos, por si sola, ver. De la misma forma, una buena teoría de una paideia musical que nos enseñe a tocar la lira deberá expresas en sus enunciados verdades sobre el instrumento y su arte pero no podrá hacer sonar el instrumento. Esto supone una vuelta a la visión ontopraxiológica.
