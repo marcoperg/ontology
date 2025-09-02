@@ -1,8 +1,15 @@
 #+TITLE: Notas a Aristóteles con Quintín Racionero
 
 * Organon
+** Epistemología
 #+INCLUDE: "./Organon/Epistemología.org"
+** Retórica y poética
 #+INCLUDE: "./Organon/Retórica y poética.org"
 
 * Metafísica
 #+INCLUDE: "./Metafísica.org"
+
+
+* Ciencias particulares
+** Matemáticas
+#+INCLUDE: "./Ciencias/Matemáticas.org"

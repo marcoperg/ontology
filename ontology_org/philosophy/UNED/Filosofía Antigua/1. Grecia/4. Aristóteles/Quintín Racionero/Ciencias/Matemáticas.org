@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       E939EB23-1202-4AEC-A903-3DCEF8EE03DD
+:END:
+#+title: Matemáticas
+
+
+* Critica a las matemáticas platónicas
+
+El primer motivo es interno y muy claro, y el hecho de que las matemáticas permiten formar ciencia la rededor de la necesidad absoluta.
+
+El segundo motivo, externo es de vital importancia y viene a arrojar luz sobre el paralelismo del proyecto aristotélico con el platónico. Para Platón las matemáticas es el grupo de ser intermedio entre el nuestro y las ideas. En el mundo de las ideas todo es necesario, sin embargo, en el mundo de material nada es necesario.
+
+
+** Inexistencia de los números
+
+Tras la muerte de Platón las matemáticas académicas se ven divididas en dos grandes corrientes. Por un lado, el matemático Espeusipo que sigue sosteniendo la existencia de los entes matemáticos, intermedios entre las Formas y el mundo material; y Aristóteles que llegará a la conclusión de que los entes matemáticos no tienen realidad.
+
+Destaca el *argumento del tercer hombre* para la imposibilidad de la imitiación o participación platónica.
+
+
+* Naturaleza de los entes matemáticos :importante:
+
+Los entes matemáticos son universales, por tanto su naturaleza es la de género. Por esto, son entes producidos por una operación de la razón; por tanto son universales pero producidos por la ficción de la abstracción. Los entes matemáticos son una *ficción de la mente*, *universales lógicos*.
+
+Los números, así, se abstraen de lo sensible, de lo real. Aquí se ve clara la amalgaba que hace Aristóteles entre los dos mundos del dualismo platónico. Lo inteligible se haya encerrado en lo sensible y se puede extraer mediante la abstracción, usando la razón. 
+
+
+* Definición de la ciencia
+
+Obtenemos la siguiente definición de la matemática desde aquí:
+
+*La matemática es la ciencia de los géneros abstractos de la realidad sensible*.
+
+Así, las matemáticas son producto del aparato ontopraxiológico de la razón huamana. Las verdades matemáticas son verdades de la razón humana. Así, la matemática es una *lógica*.
+
+La dialéctica no tiene lugar en las matemáticas, ya que el contrario a las tesis matemáticas serán simplemente falsas y contradictorias.
+
+
+* Axiología
+
+Los axiomas son la pieza básica que nos permite construir definiciones, son leyes lógicas. Por otra parte, las definiciones son acotaciones de las propiedades conseguidas mediante los propios axiomas.
+
+Es interesante comparar tres átomos impotantísimos en las matemáticas aristotélicas que se podrán trasladar al resto de ciencias:
+
+- *Axiomas*: estos serán las imágenes directas de la razón, esos enuncaidos indemostrables pero autoevidentes y cuya negación supondría la sálida de la comunidad del lenguaje.
+- *Definiciones*: estas serán el conjunto operativo de descripcitores de los entes necesarios para el desarrollo de la ciencia.
+- *Postulados*: estos son definiciones aparentes pero para los que no está claro que provengan de la experiencia sensible. Son como la red que se lanza para intentar obtener teorías.
+
+Un ejemplo claro entre la diferencia de la diferencia entre las tres últimas lo hayamos en el famoso quinto postulado de Euclides. Este enuncaido no es una definición, ya que no es la característica básica de las paralelas, no es si quiera descriptivo. Tampoco es un áxioma, ya que no se considera autoevidente.
+
+Es interesante comparar está distinción con sus contrapartes en la matemática moderna, donde los conceptos se diluyen enormemente, pero no del todo.
+
+
+* Ramas de las matemáticas aristotélticas
+** Aritmética
+
+Este será el estudio de los números. Los números, con todo lo que hemos dicho, será un elemento artificial, propio de la razón, que nos permitirá reflejar la cantidad del mundo sensible. Aristóteles habla de la *numerabilidad* como característica básica de los números. ¿Y esta propiedad de dónde se sigue? Pues de la categoría del tiempo. La diferencia básica entre el 1 y el 5 es que el 5 viene después. Aquí intuimos un poco de teoría del orden como base de las matemáticas.
+
+** Geometría
+
+La geometría sería la extensión continua de los números, de la aritmética. Si el tiempo es lo que da lugar a la aritmética, a la numerabilidad, será el espacio el que da lugar a la geometría.

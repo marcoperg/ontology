@@ -5,9 +5,7 @@
 
 Estas notas están basadas en la clases de historia de la filosofía de Quintín Racionero que se pueden hayar gratuitamente disponibles en [[https://www.youtube.com/playlist?list=PLEaDnHnhCt9bw8Xi48DwIuNWG74s3OoZ3][YouTube]].
 
-* Epistemología aristotélica
-
-** Crítica a la teoría platónica
+* Crítica a la teoría platónica
 
 Aristóteles considera que para salvar la pretensión platónica del conocimiento es necesario criticar, y así superar, el cientificismo platónico. Debemos para esto, formular un criterio de demarcación entre aquello susceptible de conocimiento cierto y fijo. Ese criterio de demarcación viene dado, uniendo así el pensamiento socrático y el aristotélico, por la teoría de la definición.
 
@@ -21,7 +19,7 @@ Aristóteles indica que en un ejercicio onto-praxiológico (en palabras de Quint
 
 Posteriormente, nos preguntamos si existen elementos transcendentales comunes a todas las ciencias. Aristóteles afirmará la existente de tales transcendentes hayándolos en sus principios. Estos principios serán incognoscibles de por sí  pero sin los cuales cualquier intento de construcción científico serían imposible. De estos principios nos han llegado el principio de identidad, el principio de no contradicción y el principio del tercio excluido.
 
-** El método Aristotélico como hermenéutica
+* El método Aristotélico como hermenéutica
 
 Aristóteles se defiende de los escépticos con un argumento pragmático. Si no aceptamos unos axiomas para la inteligencia, unos principios para el nous, tendremos que prescindir de la comunidad humana organizada. Sin embargo, nos comunicamos. Como podemos reconocer significado y sentido en nuestros enunciados podemos aceptar un conocimiento positivo.
 
@@ -29,51 +27,51 @@ De está forma el mundo platónico sería rescatable si aceptamos que la realida
 
 La justificación aristotélica de la verdad de las proyecciones que los humanos hacemos desde nuestro lenguaje a la realidad -proyecciones que, recordemos, son condición no solo necesaria pero también habilitadora para la ciencia- son una sería de instancias refutatorias. Estas instancias se justifican a su vez al ser tales que su negación implique su propio uso, esto es, cualquiera que las niegue debe de hacer uso de ellas mismas en está negación. Podemos ver está idea en la refutación clásica en contra del escepticismo: si aceptamos la premisa de no existe conocimiento cierto estaríamos, de facto, aceptando la existencia de algún tipo de conocimiento.
 
-** El arte de la definición
+* El arte de la definición
 
 Como hemos explicado, la definición es la base sobre la que construimos el conocimiento científico. Aristotéles usa la plantilla de género y diferencia específica para crear las definiciones. Por ejemplo, un hombre es un animal bípedo, racional, sin plumas, etc. Para alcanzar este concepto abastracto usamos la inducción y la intuición intelectual siempre como salto confiado.
 
-** Silogismo
+* Silogismo
 
 Los juicios en Aristóteles tienen dos formas, la unión de dos enunciados en uno solo y la separación de un enunciado en varios. Esta segunda forma tiene el uso principal de deshacer confusiones.
 
 Se suele discutir el valor del silogismo en la medida que no puede nunca llegar a nuevo conocimiento, critica fundada desde luego en el su carácter claramente analítico. El mismo Aristóteles hace poco uso de estas ténicas en sus tradados de biología o física. Así podemos entender que el razonamiento silogistico sirve para encontrar los lugares de la verdad, los lugares donde se cumple el equipamiento lógico de la intervención racional. Obteniendo así una topolgía de lugares donde cada enunciado, con sus premisas y conclusiones, ha de ser necesariamente cierto. 
 
 
-** Ciencia
+* Ciencia
 
 Las ciencias en Aristóteles se pueden ver como aquellas áreas en las que podemos organizar nuestra experiencia para las cuales estás atribuciones a la verdad de carácter onto-praxiológico resultan eficaces. De esta forma, un razonamiento científico es aquel que haya una correspondencia entre un lugar formal de la verdad, obtenido racionalmente, con nuestra experiencia. Por lo tanto, una razonamiento científico no es un silogismo. Un razonamiento científico es aquel que parte de un razonamiento inductivo, necesariamente incompleto, que hace uso de la arquitectura conceptual y, a través de la topología de la verdad que nos aporta el razonamiento formal (por ejemplo es silogístico) produce unas afirmacione empiricamente comprobables. 
 
 Tras tener este concepto bien definido y delimitado de ciencia nos queda determinar cuales son las ciencias. Aristóteles defiende tres clases de ciencias:
 
-*** Las ciencias teóricas
+** Las ciencias teóricas
 **** La Filosofía primera o Metafísica
 Interesante ver como se considera una ciencia. Que es la ciencia del ser en cuanto a ser.
 **** La Matemática
 Que se subordina a la metafísica, rectificando a Platón.
 **** La Física
 
-*** Las ciencias prácticas
+** Las ciencias prácticas
 Que son aquellas en las que se tienen que hacer uso de estos instrumentos de razonamiento en los ámbitos prácticos. Se incorporán, así, las costumbres humanas, ethos. La ética, la política son claros ejemplos.
 
 
-*** Las ciencias productivas
+** Las ciencias productivas
 Que son, finalmente, aquellas ciencias enfocadas al ámbitos técnico.
 
 
-** Silogismo dialéctico o cuando no podemos alcanzar ciencia
+* Silogismo dialéctico o cuando no podemos alcanzar ciencia
 
 En determinadas circunstancias en las cuales el silogismo científico no es suficiente para determinar verdades, podremos hacer uso de un silogismo dialéctico de forma similar al científico pero que solo es capaz de demostrar la probabilidad (en sentido griego, prematemático) de los enunciados de los que razona. De esta forma, sin una axiomática fuerte que nos proporcione ciencia y nos permita conocer los lugares de la verdad, podremos partir de una serie de opiniones para llegar a los lugares de la probabilidad.
 
 Es importante ver que el argumento dialéctico utiliza las mismas formas silogísticas que el científico, solamente que la imposibilidad de hayar un conocimiento claro del que parter axiomaticamente provoca que en lugar de alcanzar verdaderas demostraciones tengamos que conformarmos con establecer la probabilidad de los enunciados. Así la dialéctica es el arte del diálogo. Esto es lo que encontramos en los Tópicos. En estos casos encontramos la verdad cuando hayamos el consenso. Así Aristótles, en contra de Platón, rebaja el alcance de la dialéctica sin descartarla.
 
 
-** Panorama final
+* Panorama final
 
 Todas las ciencias tienen un núcleo sujeto a demostración y un cinturón exterior que ha de ser víctima de la opinión. De esta forma se atisba un mundo donde la sofística persiste pero regida por la filosofía que recae en ciertos saberes que pueden ser absolutos.
 
 
-** Resumen del proyecto Epistemológico
+* Resumen del proyecto Epistemológico
 
 Para hayar el conocimiento primero nos basamos en la inducción que nos permite extraer, al sumarle el salto a golpe de intuición intelectual, del particular la idea general. Este golpe intutivo y todo uso de la razón están justificados por los principios refutarios que hemos explicado anteriormente, y siempre presuponen una comunidad comunicativa. Posteriormente, guiados por la razón de esta forma justificada, juntaremos los enunciados obtenidos inductivamente formando los llamados silogismos para obtener juicios y enunciados nuevos. Estos silogismos utilizan el programa intelectual aristotélico para encadenar enuncadios relacionados de forma que si A y B están realionados de cierta forma se siga necesariamente C sin que la razón pueda negarlo.
 
@@ -84,6 +82,6 @@ Existen dos formas principales de obtener un conocimiento estable de los univers
 - La *abstración*, que no deja de ser una operación de resta sobre el lenguaje que habla sobre la naturaleza hasta la optención de un lenguaje apofántico que aporte un conocimiento estable.
 
 
-** Necesidad hipotética
+* Necesidad hipotética
 
 Aristóteles señalará que la necesidad absoluta en la que los filósofos intentan basar sus ciencias es unicamente posible en seres eternos. Es por esto que en en la ciencia aristotélica nos limitados a postular una necesidad hipotética.
