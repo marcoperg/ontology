@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       D8B8F5BB-98FA-4098-9A11-367F5C1FAB31
+:END:
+#+title: Física
+
+* Concepto de naturaleza
+
+En Aristóteles vemos como la su nueva concepción de la matemática como instrumeto descriptivo del mundo da lugar a una apostásis con respecto del pitagorismo. A raiz de esto, Aristóteles vuelve a la física jonia. Así, se defenderá una naturaleza:
+- Única.
+- Organizada, armónica (respodne a su propia racionalidad).
+- La physis constuye una potencia de generación, contiene sus propios principios.
+
+
+Podemos decir, que hablar de la naturaleza como unidad implica pensar que contiene sus propias leyes y, sobre todo, que en ella encontraremos su propio principio constitutivo.
+
+La motivación de está física monista se puede hayar en el método aristotélico, si el entendimiento humano se encuentra inmerso en la propia naturaleza cabe estudiarlo y confirmar su función en nuestros argumentos usando el mismo sistema intelectivo.
+
+
+* Imagen biológica de la naturaleza
+
+A diferencia de la visión del mundo pitagórica de los platónicos -en la cual las matemáticas suponen la imagen de fondo que ordenda y dicta la naturaleza- Aristóteles escogerá visión basada en la ciencias biológicas. El mundo será como un organismo, único y móvil cuyas leyes, efectivamente matemáticas, existiran como leyes prácticas que el Nous humano alcanza al lanzar sus métodos formales sobre él.
+
+Tras la victoria de la perspectiva platónica que triunfará en las ciencias durante la Edad Moderna se empieza a ver un avance del aristotelismo en la ciencia moderna tras las teorías de Darwin. El intelecto humano, desde esta perspectiva evolucionista, no deja de ser una habilidad adaptativa que nos permite mejorar nuestras posibilidades de supervivencia.
+
+Otra forma de explicar está imagen sería la *perspectiva teológica*, más allá de las leyes físicas, estáticas y reales, de los platónicos, nos encontramos una física básada en fines. Todo se mueve por algo, aquí vuelve Darwin a tener sentido.
