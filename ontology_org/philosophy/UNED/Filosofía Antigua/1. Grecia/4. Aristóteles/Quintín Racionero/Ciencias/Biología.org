@@ -1,0 +1,53 @@
+:PROPERTIES:
+:ID:       CB2FA30B-D792-43B6-A538-1B7B008B0E64
+:END:
+#+title: Biología
+
+* Ordenes de vida
+
+Aristóteles distingue entre tres tipos de ordenes del alma, o potencias de esta: la vida vegetativa, la vida sensitiva y la vida intelectiva.
+
+
+** Vida vegetativa
+
+Esta potencia del alma es la más simple de todas y corresponde a las tres funciones básicas que aún se distinguen en la biología actual, nutrición, crecimiento y generación. Es el orden inferior.
+
+
+** Vida sensitiva
+
+Corresponde al alma compartido por los animales, los cuales, a diferencia de las plantas, pueden conocer otros seres además de ellos mismos.
+
+*** Sentidos
+
+Aristóteles hace una clasificación de los sentidos que este tipo de vida utiliza para alcanzar su tipo de conocimiento propio, el sensitivo.
+
+**** Sentidos externos
+
+Son cinco: vista, oído, olfato, tacto y gusto. Necesitan la presencia actual inmediata de sus objetos sensibles, sin la cual no pueden conocer.
+
+
+**** Sentidos internos
+
+Son aquellos sentidos que pueden adquirir conocimiento sin la presencia actual de sus objetos sensibles. Lintándolos son el sentido común, la imaginación, la estimativa, la memoria y el apetito.
+
+La imaginación es capaz de crear imágenes que permiten percibir y conservar las impresiones de los sensibles comunes. Además, la fantasía permite crear imagenes que no tienen porque ser verdaderas ni corresponder a ningún objeto propio percibio con anterioridad.
+
+
+*** Sensibles
+
+También se clasifican aquellos entes que se pueden conocer por los sentidos.
+
+**** Sensibles propios
+
+Corresponden a los objetos propios y particulares de cada uno de los sentidos exetnos: a la vista el color, al oído el sonido, al olfato el olor, al gusto el sabor, y al tacto el calor y el frío, lo udro y lo blando, lo pesado y lo ligero, etc.
+
+**** Sensibles comunes
+
+Son aquellos cuya percepción no es única de ningún sentido determinado, sino que son aprendidos indistintamente por todos o varios.
+
+
+** Vida intelectiva
+
+Es la forma de vida superior, reservada únicamente a los seres con consciencia y autoconocimiento. El principio de la intelección es el principio de la *autocomprensión*, esta potencia nos permite separarnos de aquello que nos da la sensibilidad. Este es el nivel del entendimiento /pasivo/. Tambiñen encontramos un entendimiento /activo/, que nos permite separarnos del mundo y producir conceptos. Con este segundo entendimiento puedo, incluso, crear costumbres, modificar mis necesidades biológicas, contralar mis impulsos, crear hábitos.
+
+Estas costumbres, sociales o personales, que crea el entendimiento activo son, para Aristóteles, tan naturales como el resto de costumbres. De aquí se sigue la concepción de la ley natural de la polis.
