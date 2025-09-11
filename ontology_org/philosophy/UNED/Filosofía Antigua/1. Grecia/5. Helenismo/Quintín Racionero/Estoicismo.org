@@ -1,0 +1,56 @@
+:PROPERTIES:
+:ID:       90986F25-439F-4AAC-9E59-D5E1CD641DEC
+:END:
+#+title: Estoicismo
+
+
+Los estocios atribuyen a Zenón la división del conocimiento en tres ramas: *la Lógica, la Física y la ética*. Se alude a un huerto amurallado cuyas murallas serán la Lógica, en el cual crecen árboles que son la Física que dan frutos que es la Ética.
+
+
+* El cinismo llevado al mundo público
+
+Zenón funda la escuela en el pórtico central de atenas. La pretensión principal de Zenón es, en contra de Epicuro, vehicular de una forma civilizada la concepción cínica del saber. Diógenes es el pensador que más impacto a Zenón. De esta forma, el estoicismo es concibido como una reforma civilizada de los ideales cínicos.
+
+Zenón acepta por completo la premisa de la física cínica según la cual no somos más que cuerpos y, por lo tanto, cualquier doctrina que inculpe la represión de los placeres meramente corporales no son acerca a la sabiduría sino que nos aleja de ella. El punto clave de la reforma de Zenón del cinismo para alejarlo de su individualismo y hacerlo compatible con la vida pública es la reflexión de que para que esa aceptación del mundo corporal sea posible es necesario la existencia de una comunidad cínica. Así se acaba señalando la importancia de establecer un proyecto de persuasión que permita el establecimiento de esta comunidad, este precisamente es el proyecto de la lógica estoica.
+
+
+* Lógica
+
+La lógica estoica no es un Organon, no es equipamiento discurviso que tiene el objetivo de eliminar del lenguaje natural sus excesos que impieden el correcto razonamiento de los universales. La lógica estoica pretende realizar un análisis del lenguaje natural para establecer como podemos usar este para alcanzar el conozimiento. Así, la lógica estoica se convierte en una especie de teoría del conocimiento.
+
+** Lógica de la sensación
+
+Como somos solo cuerpos el conocimiento es sensación, las sensaciones son verdad y la única verdad. De está forma la lógica no sería otra cosa que la mejora del lenguaje para la correcta transmisión de sensaciones. Si todos somos cuerpos y neustro objetivo es la creación de una comunidad de cuerpos el principio básico de la lógica es el del asensimiento de nuestros sentimientos. El objetivo final es entender los sentimientos y ser capaces de transmitirlos y comunicarlos.
+
+Una de las claves para entender esta función de la lógica es la imposibilidad de transmitir nuestros sentimientos. En palabras de Wittgenstein, si me duele una muela no puedo transferirte ese dolor a ti. Pero lo que si que podemos hacer es transferir el significado de esas sensaciones. Y este es el objeto de la lógica estoica, entender el significado detras de nuestras sensaciones y transmitirlo a los otros cuerpos de nuestra comunidad.
+
+** El concepto lógico de comunidad
+
+Con esto en mente llegamos a la idea de la /phantasia katalepsis/, cuya idea central es la búsqueda de un mundo en el que las afirmaciones a lo sentido puedan ser definidas de forma común a todos los hombres. A partir de aquí podremos empezar a crear la deseada comunidad, partiendo del asentimiento o concordancia de nuestras sensaciones.
+
+Una *comunidad*, bajo este contexto, no es otra cosa que la participación en los diferentes asentimientos. Una primera participación es clara que es universal, la participación en las sensaciones primarias. Y poco a poco creamos una jerarquía de comunidad según nos centramos en asentimientos más y más exclusivos. La moral estoica, entonces, se basa en señalar que una comunidad de exclusión es siempre una comunidad equivocada. Las verdaderas comunidades deben basarse en el asentimiento de aquello más básico e inherente a la naturaleza humana que son las sensaciones. De esto se sigue el cosmopolitanismo cínico, por lo tanto, el ser comopolitanismo no encuentra en el mundo estoico una justificación ética sino lógica.
+
+Otra consecuencia lógica del pensamiento estoico es la oposición a la esclavitud.
+
+
+* Física
+
+La física estoica es materialista, pero supone un cambio de perspectiva desde el reciente materialismo epicuro, donde Epicuro señala la divisón atomista del Ser los estoicos entienden el Ser corporal. Los seres individuales y primarios son los cuerpos, ya que son el ente mínimo que es capaz de soportar acciones y pasiones. Los cuerpos están formados por órganos, pero estos no sienten ni padecen.
+
+También se defiende la individualidad del cuerpo, no hay un cuerpo genérico. Existen clases de cuerpos concretos que comparten ciertas características, pero no un cuerpo genérico. Así se entienden también las diferentes ramas de la física estoica según los cuerpos que estudien. Si nos centramos en los cuerpos totalmente genéricos tendríamos las leyes del movimiento, si estudiamos los cuerpos humanos una ética o antropología. Podríamos decir que todas las ciencias estoicas son una etología.
+
+** El Logos
+
+El Logos en los estoicos no se entiende como extracorpóreo, es una característica más del cuerpo humano, pero una característica clave en el desarrollo de la naturaleza. Aquí el Logos apela a Heráclito, el Logos son penetra a todos por igual, nos hace partícipes de la naturaleza. Y este Logos tiene una proyección tal que es capaz de organizar la naturaleza. La naturaleza cobra sentido mediante la consciencia, una naturaleza sin seres conscientes pierde su sentido. Por este motivo Zenón defenderá el caracter divino del Logos, no por ser un ente extracorpóreo, pero por ser aquello que da sentido y que se convierte habilitador comunicativo de toda la naturaleza.
+
+
+* Ética
+
+Como somos cuerpos concretos, intransferibles, queremos cuidar de nosotros. Por lo tanto, no hay virtudes ni vicios, solo hay conductas que buscan mejorar ese cuidado de sí. El mundo humano no está basado en paideias ni constituciones, simplemente se organiza en función de esas conductas egoístas. Se busca la comunidad para cuidar de sí.
+
+La principal complicación de esta idea es que la forma concreta de entender el cuidado de uno mismo está intricadamente relacionada con el contexto social. Por este motivo podemos llegar a sociedades completamente alienádas que van en contra de estos princpios lógicos corpóreos.
+
+
+** El deber
+
+Como los estoicos no podían modificar el mundo de su tiempo, de las naciones, de los conflictos, aportan una propuesta que será la de considerar a este mundo como un deber. Los deberes son normas de conducta que no reproducen por vía referencial lo que ocurre pero que establecen conductas reguladoras sobre lo que debería ser. En una segunda operación dividen al mundo entre los inteligentes y los idiotas. Los idiotas no son otros que los *vagos*, que no reconocen el deber. Así la sabiduría será reconocer el deber.
