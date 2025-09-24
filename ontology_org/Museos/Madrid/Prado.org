@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       A048960B-BBBB-43B3-99E6-A17C0CE29DDD
-:END:
 #+title: Prado
 
 

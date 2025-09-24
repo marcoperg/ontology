@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       758BF1F3-E189-40AA-97B8-06390DFDD879
-:END:
 #+title: Lázaro Galdiano
 
 
