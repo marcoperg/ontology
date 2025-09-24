@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       6CEB67F8-06F9-4092-A75C-FD0278C32E70
+:END:
+#+title: Aristóteles, Kant y el Finitismo
+
+* Preliminares doxográficos
+
+** Aristóteles y la aritmética
+
+En la teoría matemática de Aristóteles el concepto de número es considerado una ficción de la racionalidad humana. Esto implica que cabe construirse distintos tipos de número al no considerarse la preexistencia de ningún ente real que cuadre con este concepto. Está idea que se ve reflejada y justificada en toda la matemática moderna da lugar a una pregunta, ¿qué es un número? Aristóteles da respuesta con el concepto de numerabilidad. Los números son aquellos conceptos abstractos del entendimiento humano que posean la propiedad de numerabilidad. La numerabilidad aristotélica tiene su base en la categoría del tiempo. La numerabilidad del 1 viene dada por la existencia del 2, viene después del 1. Está idea vista desde el siglo XXI es sorprendetemente moderna, los naturales de Peano, incluso los reales de Dedekind
+
+
+** Kant
+
+* Finistismo y orden temporal
