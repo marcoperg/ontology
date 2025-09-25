@@ -1,7 +1,0 @@
----
-aliases:
-  - differentiability class
----
-**Differentiability class** is a classification of functions according to the properties of their derivatives. It is a measure of the highest order of derivative that exists and is continuous for a function.
-
-We say that a function $f$ belongs to the class $C^m$ on the interval $I$ if the $m$th order derivative of $f$ exists and is continuous on $I$. Further more, we denote $C^0$ as the class of continuous functions and $C^\infty$ as the class of functions which have derivatives of all order by $C^\infty$.

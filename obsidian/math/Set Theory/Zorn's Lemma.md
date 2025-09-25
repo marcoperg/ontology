@@ -1,1 +1,0 @@
-If $S$ is a nonempty [[partially ordered set]] in which every chain (a set of pairwise comparable elements) has an upper bound, then $S$ has a maximal element. This statement is equivalent to the [[Zermelo–Fraenkel Set Theory Axioms|axiom of choice]].

@@ -1,1 +1,0 @@
-En la República Libro V, sección XX en adelante, es decir, de 476 en adelante se hace una defensa de las lógicas trivaluadas. Se identifica la verdad con el ser, la ignorancia o falsedad con el no ser y la opinión con un punto medio entre ambas.

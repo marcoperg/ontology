@@ -1,9 +1,0 @@
----
-aliases:
-  - degenerate
-  - non-degenerate
----
-Let $V$ be a [[Vector spaces|vector space]] over a field $\mathbb{F}$. Then a bilinear form on $V$, i.e. a bilinear map $f:V\times V\to \mathbb{F}$, is said to be **degenerate** if the map from $V$ to $V^*$ given by $(v\mapsto (x\mapsto f(x,v)))$ is not an isomorphism. Otherwise, is said to be **non-degenerate**.
-
-An equivalent definition for the finite dimensional case is that it has a non-trivial kernel: there exist some non-zero $x\in V$ such that
-	$f(x, y) = 0$ for all $y\in V$.

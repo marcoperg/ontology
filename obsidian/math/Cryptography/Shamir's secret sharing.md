@@ -1,5 +1,0 @@
----
-aliases:
-  - Shamir's
----
-# ToDo

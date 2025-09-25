@@ -1,1 +1,0 @@
-A Banach space is a normed vector space that is also a [[Complete Metric Spaces|complete metric space]] under the metric defined by the norm.
