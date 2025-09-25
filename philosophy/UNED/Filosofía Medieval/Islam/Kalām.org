@@ -1,0 +1,34 @@
+#+title: Pensamineto en el Islam
+
+* Kalām
+
+El término Kalām se puede traducir como palabra. Al principio integró acepciones como discusion o debate y poco a poco se fue usando para designar el diálogo sobre los preceptos de las fe musulmana y los hechos divinos. Acabo recurriendo a componentes del pensamiento griego, en especial la lógica, para explicar la Revelación, así que pasó a designar el pensar racionalmente la fe. Usualmente se traduce por "teología musulmana".
+
+#+BEGIN_QUOTE
+El arte del kalām es una propiedad por la cual el hombre puede defender los dogmas y actos arriba menciondos, exigidos por el fundador de la religión, y condenar todo lo que se opongo a ellos por medio de razonamientos. -- Fārābī
+#+END_QUOTE
+
+
+** /Mu'tazila/
+
+Los primermos teólogos recibieron el nombre de mu´tazilíes, y fueron un grupo no homogéneo de pensadores que apareció en Baṣra en el siglo VIII.
+
+Su característica básica es una triple actitud: el valor reconocido a la razón en defensa de la Ley religiosa, conviertiéndose la razón en el criterio (mizān) de la Ley; la preocupación por liberar la idea de Dios de todo antropomorfismo; y la voluntad de justificar (por vía de la razón) los valores de la fe contra el "libre pensamiento" de la /Zandaqa/.
+
+La doctrina de la /Mu'tazila/ está centrada en dos puntos: Dios como principio de trascendencia y de unidad absolutas, y el hombre como principio de libertar, lo que entrañaba la responsabilidad inmediata de los actos.
+
+Una de sus tesis más notables es la del Corán creado, palabra creada por Dios y comunicada a los hombres en contra de la idea de los antiguos piadosos del Corán como atributo mismo de la Plabra, increada y subsistente en Dios.
+
+
+** Los /ašʾaríes/
+
+Movimiento que asenta las bases de la ortodoxia sunní y que surge en contra de la /Mu'tazila/. Defienden la tesis del Corán increado y sus partes antropomorfas como reales, también que Dios será visto en el más allá.
+
+Por otra parte, sostuvieron que ninguna realidad creada, comprendidos los actos "libres" de los honmbres, escapa la Omnipotencia de divina. Dios crea en el hombre sus actos, bueons o malos, pero crea también la "adquisición" de estos actos por quien los realiza, convertido así en jurídicamente responsable, en apto para recibir recompensa o castigo. Está teoría de la *adquisición* pretendía oponerse a los partidarios de la "coacción" divina y a los seguidores de la absoluta libertad humana. Para justificar estas ideas hacen uso de la teoría atómica griega: Dios crea los átomos y ha de actuar interrumpidamente sobre ellos para evitar la desaparición de los seres.
+
+Averroes criticará a estos teólogos el haber aceptado las tesis atomistas solo por como recurso apologético y no como resultado de una reflexión intelectual.
+
+
+* La historia. Ibn Jaldun y la filosofía de la historia.
+
+
