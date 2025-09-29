@@ -1,0 +1,15 @@
+#+title: Breves notas a la historia de la filosofía medieval
+
+* San Agustín
+** Creer para comprender
+
+* Juan Escoto Erígea
+
+* San Anselmo
+** Con San Agustín, cree para comprender
+** Teoría de la Verdad: los juicios enunciativos, de opinión y de voluntad
+- Un juicio enunciativo es cierto si su significado lo es.
+- Un juicio de opinión es cierto si lo que se piensa es cierto o como debería de ser.
+- UN juicio de voluntad es cierto si es justo.
+** Argumento anselmiano
+-> interesa la critica de Ruseel, es un error de categoría ya que existir es una propiedad de segundo orden i.e. un cuantificador, no de primero.
