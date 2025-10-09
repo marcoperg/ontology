@@ -1,0 +1,20 @@
+#+title: Frege
+
+* Función y objeto
+
+Frege parte de una observación de las teorías matemáticas elementales y su diferenciación entre elementos funcionales y objetos por sí mismos. Existen en matemáticas objetos funcionales, que Frege llamará no saturados, que no suponen un objeto en sí mismos sino que precisan de otro elemento ya saturado, como el número, para llegar a una condición ontológica completa.
+
+Frege lleva esta divisón al ámbito lógico-semántico con el objetivo de solucionar un problema presente en las proposiciones de estilo aristotélicas, esto es, copulativas, que radica en la dificultad de razonar con cuantificadores. Así, en lugar de la proposición "todo hombre es mortal" donde todo hombre es un sujeto atómico consideramos el predicado ser mortal, que no está saturado a falta de un sujeto.
+
+
+* Sentido y referencia
+
+La segunda gran inovación de Frege en el ámbito lingüístico la encontramos en su intento por explicar como puede "a = b" ser cierto si a y b son signos distintos. Bien, cada signo tiene su sentido, puramente sintáctico y su referencia, que es el objeto real al que se refiere. De esta forma podríamos usar un objeto en una oración, como "el actual presidente del Gobierno", sin conocer el objeto al que hace referencia y gracias a conocer su sentido.
+
+Así, "a = b" es siempre falso si apreciamos su sentido pero puede ser verdadero si se refieren al mismo objeto. 
+
+En el caso de los nombres propios está teoría encuentra posibles dificultades. Si entendemos el nombre Aristóteles como el discípulo de Platón y maestro de Alejandro Magno entonces, el enunciado Aristóteles era nativo de Estagira es claramente sintético y que Alejandro Magno fue su discípulo sería analítico. Pero si entendemos Aristóteles es aquel filósofo discípulo de Platón y nativo de Estagira nos encontramos con la situación inversa. La solución fregeiana a este problema es simple, atribuirlo a las inexactitudes del lenguaje natural y argumentarlo que en un lenguaje lógico perfecto no encontraríamos tales problemas.
+
+Está teoría se extiende a los objetos no saturados, esto es, a los predicados. Un concepto no sería otra cosa que la referencia de un predicado. Sin confundir la extensión de dicho concepto, que es la misma que la del predicado que lo refiere, con el propio concepto. Dos conceptos no son iguales si tienen la misma extensión, pero si existe esa equvialencia de conceptos, distinta de la propia identidad pero relacionada.
+
+
