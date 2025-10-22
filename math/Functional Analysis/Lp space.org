@@ -4,11 +4,6 @@
 #+title: Lp space
 #+SETUPFILE: ../../setup.org
 
---------------
-
-aliases: - L2
----
-
 * Abstract definition
 \(L^p\) can be defined as the space of measurable functions for which the \(p\)-th power is Lebesgue integrable, where functions that agree almost everywhere are identified.
 

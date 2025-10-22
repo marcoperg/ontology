@@ -2,6 +2,7 @@
 :ID: 23867FE4-6C8D-4906-A06C-5A849D40B5AD
 :END:
 #+title: Homotopy Equivalence
+#+SETUPFILE: ../../../../setup.org
 
 * Definition
 Let \(X, Y\) be [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological spaces]]. Let \(f:X\to Y\) be continuous, \(f\) is a *homotopy equivalency* if there is a continuous map \(g:X \to Y\) such that
