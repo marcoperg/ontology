@@ -1,4 +1,4 @@
 #+title: Academia de Bellas Artes de San Fernando
 
 * Eduardo Chicharro Agüero
-- [ ] [[https://www.academiacolecciones.com/pinturas/inventario.php?id=1429][Las tentaciones de Buda]] 
+- [X] [[https://www.academiacolecciones.com/pinturas/inventario.php?id=1429][Las tentaciones de Buda]] 
