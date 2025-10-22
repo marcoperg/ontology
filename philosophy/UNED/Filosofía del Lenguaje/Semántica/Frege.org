@@ -13,7 +13,7 @@ La segunda gran inovación de Frege en el ámbito lingüístico la encontramos e
 
 Así, "a = b" es siempre falso si apreciamos su sentido pero puede ser verdadero si se refieren al mismo objeto. 
 
-En el caso de los nombres propios está teoría encuentra posibles dificultades. Si entendemos el nombre Aristóteles como el discípulo de Platón y maestro de Alejandro Magno entonces, el enunciado Aristóteles era nativo de Estagira es claramente sintético y que Alejandro Magno fue su discípulo sería analítico. Pero si entendemos Aristóteles es aquel filósofo discípulo de Platón y nativo de Estagira nos encontramos con la situación inversa. La solución fregeiana a este problema es simple, atribuirlo a las inexactitudes del lenguaje natural y argumentarlo que en un lenguaje lógico perfecto no encontraríamos tales problemas.
+En el caso de los nombres propios está teoría encuentra posibles dificultades. Si entendemos el nombre Aristóteles como el discípulo de Platón y maestro de Alejandro Magno entonces, el enunciado Aristóteles era nativo de Estagira es claramente sintético y que Alejandro Magno fue su discípulo sería analítico. Pero si entendemos Aristóteles es aquel filósofo discípulo de Platón y nativo de Estagira nos encontramos con la situación inversa.
 
 Está teoría se extiende a los objetos no saturados, esto es, a los predicados. Un concepto no sería otra cosa que la referencia de un predicado. Sin confundir la extensión de dicho concepto, que es la misma que la del predicado que lo refiere, con el propio concepto. Dos conceptos no son iguales si tienen la misma extensión, pero si existe esa equvialencia de conceptos, distinta de la propia identidad pero relacionada.
 
