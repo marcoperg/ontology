@@ -1,0 +1,33 @@
+#+title: Predicative & Impredicative definitions
+
+* Denfeses of impredicative definitions
+
+There are a couple of good defenses for impredicative definitions.
+
+
+** Ramsey
+
+In Frank Ramsey’s “Foundations of Mathematics” ([Ramsey 1931]) the following example is used.
+
+- Let Julius be tallest person in the room.
+- Let $f(p,q)$ be the truth-function which is the conjunction of $p$, $q$, $p \lor q$, and $p \land q$.
+
+Ramsey goes on arguing that both of these definitions are impredicative ---since Julius is a person in the room and $f(p,q)$ is, precisely, $p \land q$--- but both are intuitively fine. His core idea appears to be that an impredicative definition is permissible provided the entity defined can at least in principle be specified or characterized independently of the totality in terms of which it is defined.
+
+This theme of independent specifiability is developed further in an influential article by Paul Bernays, [Bernays 1935].
+
+
+** Gödel
+
+Gödel, on the other hand, justified impredicative definitions on a philosophical basis. Basically, if you believed in a platonic view of mathematical objects, then you could define them indirectly without any impediment about circularity as long as those objects indeed existed.
+
+Solomon Feferman's views are the exact opposite of Gödel's. He maintains that impredicative definitions correspond to the platonic conception but argues his own anti-platonic predicativism is more founded.
+
+
+* Bibliography
+
+- Bernays, P. (1935). “On Platonism in Mathematics.” Reprinted in (Benacerraf and Putnam, 1983).
+
+- Feferman, S. (2005). “Predicativity.” In Shapiro, S., editor, Oxford Handbook of the Philosophy of Mathematics and Logic, pages 590-624. Oxford University Press, Oxford.
+
+- Ramsey, F. (1931). “The Foundations of Mathematics.” In Braithwaite, R., editor, The Foundations of Mathematics and Other Essays. Routledge & Kegan Paul, London.
