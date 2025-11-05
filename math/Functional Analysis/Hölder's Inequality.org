@@ -6,10 +6,12 @@
 
 * Statement of the theorem
 
-Let $f,g$ be functions in $L^p$ [[id:6685FCEC-5551-44BF-9E23-50CD4F65DEFC][(Lp space)]], for a given integer $p \in \mathbb{R} \backslash \{0\}$. Moreover, we denote by $p'$ the number such that $\frac{1}{p} + \frac{1}{p'} = 1$. Then we have
+\begin{theorem}
+Let $f,g$ be functions in $L^p(\mathbb{K})$, where $\mathbb{K} = \mathbb{R}\text{ or } \mathbb{C}$, for a given integer $p \in \mathbb{R} \backslash \{0\}$. Moreover, we denote by $p'$ the number such that $\frac{1}{p} + \frac{1}{p'} = 1$. Then we have
 
 $$
 \Vert fg\Vert_1 \le \Vert f\Vert_p \Vert g \Vert_{p'}
 $$
+\end{theorem}
 
-
+The space $L^p(\mathbb{K})$ is an [[id:6685FCEC-5551-44BF-9E23-50CD4F65DEFC][Lp space]].

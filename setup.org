@@ -22,3 +22,9 @@
 
 #+LATEX_HEADER:\theoremstyle{proposition}
 #+LATEX_HEADER:\newtheorem{proposition}{Proposition}
+
+\newtheorem{theorem}{Theorem}
+\newenvironment{manualtheorem}[1]{%
+  \renewcommand\thetheorem{#1}%
+  \begin{theorem}
+}{\end{theorem}}

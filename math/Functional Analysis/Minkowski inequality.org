@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       2C6B1268-0560-4ACA-A19B-B13F3613A841
+:END:
+#+title: Minkowski inequality
+
+Le $S$ be a [[id:75B6E188-5E38-40F9-85F1-EC44C3A12D0F][Measure space]], and $L^p(S)$ be the [[id:6685FCEC-5551-44BF-9E23-50CD4F65DEFC][Lp space]] from $S$.
+
+\begin{theorem}
+Let $1\lep\le\infty$ and let $f,g \in L^P(S)$. Then $f+g$ in $L^p(S)$, and we have the triangle inequality
+$$\Vert f+g\Vert_p \le \Vert f\Vert_p + \Vert g\Vert_p$$
+
+with equality for $1<p<\infty$ if and only if $f$ and $g$ are positively linearly depdent, i.e. $f=\lambda g$ for some $\lambda \ge 0$ or $g=0$.
+\end{theorem}
+
+
+Like [[id:66C006AF-BA8C-400C-A2D3-AC19A0FAE3EE][Hölder's Inequality]], the Minkowski inequality can be specialized to sequences or vectors using the counting measure.
