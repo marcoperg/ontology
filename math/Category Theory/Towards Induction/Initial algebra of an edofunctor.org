@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       2D0BB075-2A72-4BD2-B116-7ABEBE2AE647
+:END:
+#+title: Initial algebra of an endofunctor
+

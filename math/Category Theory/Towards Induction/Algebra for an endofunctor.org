@@ -1,0 +1,16 @@
+
+:PROPERTIES:
+:ID:       F5B69F90-6182-4E71-9585-FFE49AA48942
+:END:
+#+title: Algebra for an endofunctor
+#+SETUPFILE: ../../../setup.org
+
+For a [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]] $\mathcal{C}$ and and endofunctor $F$, and *algebra* of $F$ is an object $X$ in $\mathcal{C}$ together with a morphism $\alpha: F(X) \to X$.
+
+A morphism between two algebras $(X, \alpha)$ and $(Y, \beta)$ of $F$ is a morphism $m: X\to Y$ in $\mathcal{C}$ such that the following square commutes:
+
+
+\begin{tikzcd}
+F(X) \arrow[d, "\alpha"'] \arrow[r, "F(m)"] & F(Y) \arrow[d, "\beta"] \\
+X \arrow[r, "m"]                            & Y                      
+\end{tikzcd}

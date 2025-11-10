@@ -2,7 +2,7 @@
 :ID: 2C067D6C-322D-4044-96F2-B3A97407F90E
 :END:
 #+title: Pullback
-#+SETUPFILE: ../../setup.org
+#+SETUPFILE: ../../../setup.org
 
 In a [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]] \(C\) a *pullback* of a *cospan* \(X \xrightarrow{f} Z \xleftarrow{g} Y\) is given by a *span* \(X\xleftarrow{p} P \xrightarrow{q} Y\) for which \(f\circ p = g\circ q: P\to Z\) and such that, for any other span \(X \xleftarrow{x} W \xrightarrow{y} Y\), there exists a unique \(W\xrightarrow{\omega} P\) such that \(p\circ \omega = \alpha\) and \(q\circ \omega = \gamma\).
 
