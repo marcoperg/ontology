@@ -1,0 +1,91 @@
+#+title: Russell
+
+* Crítica a la noción de sentido
+
+La teoría del referente de Frege defiende una noción de referente (o denotación en Russell) que cobra significado a través del sentido (o significado en Russell). Russell señalará que está interpretación presenta complicaciones cuando la denotación parece estar ausente. Para Russell la oración "El rey de Francia es calvo" es claramente falsa, y contruirá su teoría a partir de esta intuición. Así, intenta prescindir de la noción de sentido o significado para crear una teoría que solo apela a las denotaciones para dar contenido semántico.
+
+
+* Teoría de las descripciones definidas
+
+En esta teoría vemos claramente ejemplarizado el uso que Russell hará del análisis lógico ---especialmente aquel habilitado por la moderna lógica de primer orden--- para solucionar problemas filosóficos.
+
+
+** Problemas de las teorías denotativas
+
+Tres problemas que Russell aborda son:
+
+*** Enuncidados existenciales negativos
+
+Cómo puede ser que para negar la existencia de algo tengamos que nombrar ese algo, es decir usar un término cuya denotación no parece existir aunque nos estemos efectivamente refiriéndonos a ella.
+
+*** Tertium non datur
+
+¿Cómo justificamos la ley del tercio exclusido para enunciados como "El rey de Francia es calvo"? ¿Cómo podríamos definir su negación de forma que uno de los dos enunciados resulte verdadero?
+
+*** Identidad
+
+Consideremos los dos enunciados:
+
+- La joven estudiante sabe que Neftalí Reyes es el autor de /Los versos del capitán/.
+- La joven estudiante sabe que Neftalí Reyes es Neftalí Reyes.
+
+
+En una teoría de la signifcación puramente denotativa como diferenciamos estos dos oraciones subordinadas, teniendo en cuenta que una tiene un contenido empírico y la otra es analítica.
+
+** Solución
+
+La solución que Russell aporta es la basada en la expansión de las descripciones en sus componentes lógicos. Por ejemplo, un enunciado como "El rey de Francia es calvo" es en realidad un enunciado con quanticadores y predicados, y correspondería a "Existe alguien tal que es el rey de Francia, el único objeto con está propiedad y, además, es calvo". Este enunciado presenta un análisis denotacional mucho más claro y es facilmente formalizado en lógica de primer orden:
+
+$$ \exists x. RF(x) \land (\forall y. RF(y) \rightarrow y = x) \land C(x)$$
+
+donde $RF(x)$ es cierto cuando $x$ es el rey de Francia y $C(x)$ cuando $x$ es calvo.
+
+Así, las expresiones de descripción definida no son nombres, no son expresiones denotativas; son expresiones cuantificacionales incompletas, un tipo de formas lógicas a las que Russell llama funciones proposicionales. El uso de estas expresiones introduciría, generalmente de forma tácita, un supuesto de existencia y otro de unicidad.
+
+
+* Atomismo lógico
+
+Russell estableció su filosofía del lenguaje bajo un premisa que suele denominarse atomismo lógico. Esta teoría se fundamenta en el presupuesto metafísico de que el mundo está constituido por unos hechos básicos, lógicamente independientes entre sí, a los que Russell dará el nombre de _hechos atómicos_.
+
+
+** Tipos de conocimiento
+
+A esta tesis metafísica unimos una tesis epistemológica. Russell definede que hay dos tipos de conocimientos acerca de los hechos del mundo: el _conocimiento directo_ (/by acquantance/) y el _conocimiento por descripción_.
+
+
+*** Conocimiento directgo
+
+El primero es el que optenemos por nuestras sensaciones. De este obtenemos los llamados _enunciados atómicos_, e.g. "Esto blanco", "Esto al lado de eso". Las entidades de las que constan estos enuncaidos son aquellas a las que Russell denomina _particulares_. Para Russell estos _nombres propios en sentido lógico_, esto es, los que aparencen en los enunciados atómicos, solo pueden ser los pronombres demostrativos. Aquí nos separamos de Frege al no permitir usar los nombres propios gramáticales como tales nombres. Para estos Russell utiliza una teoría descriptiva similar a la de Frege.
+
+*** Conocimiento por descripción.
+
+Es el conocimiento que construimos a partir de las entidades sensoriales. Podemos obtener los _hechos compuestos_, como "Esta mesa es sólida", o "Fuerza es igual a masa por acelaración".
+
+
+* Proposiciones
+
+En Russell encontramos una concepción realista de las proposicones. Una *proposición* es uan entidad compleja independiente de la mente. Los constituyentes  de una proposición pueden figurar en ella como /término/ o como /concepto/. Por ejemplo, en "Sócrates es humano", Sócrates aparece como término y humano como concepto.
+
+-----
+Russell pasaría en su madurez filosófica a aparte del realismo proposicional para adoptar una teoría de la verdad como referencia. Así entendería una proposición como una entidad lingüística que puede ser verdadera o falsa según su conformidad con la realidad.
+-----
+
+A partir de los hechos atómicos introducimos las _proposiciones atómicas_, que son aquellas que constan de un predicado n-ario y /n/ nombres propios en sentido lógico, que nombran particulares.
+
+** Proposiciones singulares, particulares y generales
+
+Russell distingue entre los siguientes tipos de proposiciones.
+
+*** Proposiones singulares
+
+Son aquellas que tratan de un objeto teniéndole como constituyente de la proposición. Un ejemplo es "Sócrates es humano".
+
+En la filosofía del lenguaje actual estas proposiciones se denominan también russelianas, diferenciándolas de las propuestas por Frege y conocidas como fregeanas. Estas últimas serían las proposiciones como el pensamiento expresado por un enunciado.
+
+*** Proposiciones particulares
+
+Son aquellas relativas a un único objeto particualr pero que no lo contienen como constituyente. Son, generalmente, las que presentan un cuantificador existencial o una descripción definida.
+
+*** Proposiciones generales
+
+Estas últimas serán las que no tratan de objetos particulaes. Típicamente presentan un cuantificador universal o una generacilización (como "Algunos X son Y).
