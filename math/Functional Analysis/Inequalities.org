@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0FAFF5E0-D55C-42CD-8E1F-5DD43034A774
+:END:
+#+title: Inequalities
+
+* [[id:66C006AF-BA8C-400C-A2D3-AC19A0FAE3EE][Hölder's Inequality]]
+
+* [[id:2C6B1268-0560-4ACA-A19B-B13F3613A841][Minkowski inequality]]
+
+
+* Young's convolution inequality
+
+Take $f$ in $L^p(\mathbb{R}^d)$ and $g$ in $L^{p'}(\mathbb{R}^d)$ and
+$$\frac{1}{p} + \frac{1}{p'} = \frac{1}{r} + 1$$
+
+with $1\le p, q,r \le \infty$. Then
+
+$$\Vert f * g \Vert_r \le \Vert f\Vert_g \Vert g \Vert_q.$$
