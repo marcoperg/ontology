@@ -4,4 +4,4 @@
 #+title: Categorical theory
 
 * Definition
-A [[id:6A524683-ABBC-4776-81DC-C61786CE4B4A][theory]] is called \(\kappa\)-categorical if it has exactly one [[id:F07AE388-8FEF-487B-99AD-302C15E7DDDD][model]] of cardinality \(\kappa\) up to isomorphim
+A [[id:6A524683-ABBC-4776-81DC-C61786CE4B4A][theory]] is called \(\kappa\)-categorical if it has exactly one [[id:F07AE388-8FEF-487B-99AD-302C15E7DDDD][model]] of cardinality \(\kappa\) up to isomorphim.
