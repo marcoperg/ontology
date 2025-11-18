@@ -5,6 +5,9 @@
 
 * [[id:66C006AF-BA8C-400C-A2D3-AC19A0FAE3EE][Hölder's Inequality]]
 
+
+#+INCLUDE: "id:66C006AF-BA8C-400C-A2D3-AC19A0FAE3EE"
+
 * [[id:2C6B1268-0560-4ACA-A19B-B13F3613A841][Minkowski inequality]]
 
 

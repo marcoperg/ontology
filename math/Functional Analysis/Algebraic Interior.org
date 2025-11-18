@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       6006B53B-A2EA-458F-A7F8-63ABCDFCE9C0
+:END:
+#+title: Algebraic interior
+#+SETUPFILE: ../../setup.org
+
+Given a normed vector space $(X, \Vert, \cdot, \Vert)$. Let $S \subset X$ be a subset. Then, $x\in S$ is set to be an *algebraic interior point of $S$* if $\forall y\in X, \exists \epsilon_y >0: x+ty \in S$ for all $|t|<\epsilon_y$.

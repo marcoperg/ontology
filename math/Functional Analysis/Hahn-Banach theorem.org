@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       204450B3-CC42-4F76-ADCB-112EFE3EAB96
+:END:
+#+title: Hahn-Banach theorem
+#+SETUPFILE: ../../setup.org
+
+In this note $(X, \Vert \cdot \Vert)$ is a normed vector space over $\mathbb{R}$.
+
+* Theorem statement
+
+Let $Y \subset X$ be a subspace and $l: Y \to \mathbb{R}$ a linear functional. Then, if $p: X\to R$ is
+
+1. Positive homogenious: $\forall x\in X, \alpha > 0\, p(\alpha x) = \alpha p(x)$.
+2. Sub-additive: $p(x+y) \le p(x) + p(y)$ for all $x,y \in X$.
+   
+such that $l(x) \le p(x)$, $\forall x\in Y$, then there exists $L: X\to R$ such that
+1. $L$ is linear.
+2. $L(y) = l(y)$ for all $y\in Y$.
+3. $L(x) \le p(x)$  for all $x\in X$.
+
