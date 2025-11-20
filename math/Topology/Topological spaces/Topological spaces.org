@@ -2,6 +2,7 @@
 :ID: C0ADBA68-2416-4041-A4E8-E3F3778D9938
 :END:
 #+title: Topological spaces
+#+SETUPFILE: ../../../setup.org
 
 --------------
 
@@ -42,11 +43,4 @@ Given a subset \(A\) of a topological space, a point \(x\) is said to be /in the
 Given a subset A of a topological space, a point \(x\) is said to be /a limit point of \(A\)/ if every neighborhood of \(x\) contains at least one point of \(A\) other than \(x\) itself.
 
 ** Morphisms
-In the [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]] of topological spaces the arrows are the continuous mappings which we define below.
-
-A /function/ from a topological space \((X, \tau)\) to a topological space \((Y, \tau')\) is a function \(f: X \to Y\).
-We shall write \(f: (X,\tau)\to(Y, \tau')\) to express such function or usually just \(f: X \to Y\).
-
-A function \(f: (X,\tau)\to(Y, \tau')\) is said to be /continuous/ at a point \(x \in X\) if for each neighborhood \(N\) of \(f(a)\), \(f^{-1}(N)\) is a neighborhood of \(a\). \(f\) is to be continuous if \(f\) is continuous at each point of \(X\).
-
-If the function \(f: X \to Y\) is bijective then we called \(f\) an homeomorphism.
+In the [[id:6B755D9E-EB8E-4673-ADD0-B4411D410D52][category]] of topological spaces the arrows are the [[id:C9250EE3-0576-419B-923C-765C512516B2][continous maps]] between spaces.

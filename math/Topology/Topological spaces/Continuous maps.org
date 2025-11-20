@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       C9250EE3-0576-419B-923C-765C512516B2
+:END:
+#+title: Continuous maps
+#+SETUPFILE: ../../../setup.org
+
+A /function/ from a topological space \((X, \tau)\) to a topological space \((Y, \tau')\) is a function \(f: X \to Y\).
+We shall write \(f: (X,\tau)\to(Y, \tau')\) to express such function or usually just \(f: X \to Y\).
+
+A function \(f: (X,\tau)\to(Y, \tau')\) is said to be /continuous/ at a point \(x \in X\) if for each neighborhood \(N\) of \(f(a)\), \(f^{-1}(N)\) is a neighborhood of \(a\). \(f\) is to be continuous if \(f\) is continuous at each point of \(X\).
+
+If the function \(f: X \to Y\) is bijective then we called \(f\) an homeomorphism.
+
+
+** Alternative definitions
+
+*** Sequentially continuity
+
+A function $f: X\to Y$ is /sequentially continuous/ if whenever a [[id:8179B91F-F6D3-4370-A7FA-309D11C56E24][sequence]] $(x_n$ in $XR$ converges to a limit $x$, then the sequence $(f(x_n))$ converges to $f(x)$ in $Y$.
+
+Every continuous functiuon is sequentially continuous. Moreover, if $X$ is [[id:531B263E-9E41-40E5-BB82-26ED0CB0C377][first-countable]] and you assume countable choice, then the converse also holds.

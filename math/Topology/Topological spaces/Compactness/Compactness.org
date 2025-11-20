@@ -2,6 +2,7 @@
 :ID: 8E24A191-E911-4243-8DDA-3404B256A715
 :END:
 #+title: Compactness
+#+SETUPFILE: ../../../../setup.org
 
 --------------
 
@@ -9,12 +10,13 @@ aliases: - compact
 ---
 
 ** Definition
-Let \((X, \tau)\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] and \(A \subseteq X\), A is said to be *compact* if for all covers \(\{U_i\}_{i\in I}\) of \(A\) there exist a finite subcover \(\{U_i\}_{i \in I_0 \subseteq I}\). In symbols,
+Let \((X, \tau)\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] and \(A \subseteq X\), $A$ is said to be *compact* if for all covers \(\{U_i\}_{i\in I}\) of \(A\) there exist a finite subcover \(\{U_i\}_{i \in I_0 \subseteq I}\). In symbols,
 \[
 \bigcup_{i\in I} U_i \supseteq A\text{ with } U_i\in \tau \implies \exists \text{ finite } I_0 \subseteq I: \bigcup_{i\in I_0} U_i \supseteq A
 \]
-​## Properties
 
+
+** Properties
 - Let \((X, \tau)\) be a [[id:14F2DB4F-672A-42CD-B683-BE90B7E3F5C9][Hausdorff space]], then all compact sets \(A\) are closed.
 - *Tychonoff Theorem*: the [[id:22783D02-0670-4A34-B1FA-EDD8C5139B77][product]] of compact spaces is compact.
 
