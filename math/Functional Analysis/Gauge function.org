@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       455B7439-C56B-4A29-9516-728BBA7D7989
+:END:
+#+title: Gauge functions
+#+SETUPFILE: ../../setup.org
+
+Given a normed vector space $(X, \Vert, \cdot, \Vert)$.
+Let $K$ be convex subset of $X$. Take $x$ in the a [[id:6006B53B-A2EA-458F-A7F8-63ABCDFCE9C0][algebraic interior]] of K. Define
+\begin{align*}
+p_{K, x}: X &\longrightarrow \mathbb{R}^+ \\
+y &\longmapsto \inf\left\{ a>0 \,:\, x + \frac{1}{a} y \in K\right\}
+\end{align*}
+
+Note that $p_{K, x}(y) < \infty$. Such a function is called a Gauge function.
