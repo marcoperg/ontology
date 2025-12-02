@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9292AF92-69AE-468B-B959-2C6CE3B7DAB8
+:END:
+#+title: Baire spaces
+#+SETUPFILE: ../../setup.org
+
+* Definition
+
+A [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological space]] is said to be a *Baire space* if for all sequence $(E_n)_{n\in \mathbb{N}}$ of dense open subsets we have
+
+$$\cup_{n\in \mathbb{N}} E_n$$
+
+is also dense.
+
+* Baire category theorem
+
+** All complete pseudo-metric spaces are Baire spaces.
+** All [[id:8E24A191-E911-4243-8DDA-3404B256A715][locally-compact]] [[id:C5EBDB18-8574-431C-A794-07E2BAADF831][regular]] space are Baire spaces.
+

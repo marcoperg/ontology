@@ -21,15 +21,21 @@ Let \((X, \tau)\) be a [[id:C0ADBA68-2416-4041-A4E8-E3F3778D9938][topological sp
 - *Tychonoff Theorem*: the [[id:22783D02-0670-4A34-B1FA-EDD8C5139B77][product]] of compact spaces is compact.
 
 ** Other types of compactness
-*** Limit point compact
+*** Limit point compactness
 A space \(X\) is said to be *limit point compact* if every infinite subset has a limit point.
 
 \(X\) compact implies \(X\) limit point compact.
 
-*** Sequentially compact
+
+*** Sequentially compactness
 A space \(X\) is said to be *sequentially compact* if every sequence in \(X\) has a convergent subsequence.
 
 In a metric space compactness, limit point compactness and sequential compactness are equivalent.
+
+
+*** Locally compactness
+A space $X$ is said to be *locally compact* if every point $x$ of $X$ has a compact neighbourhood.
+
 
 ** Heine--Borel theorem
 The theorem states that for a subset \(S\) of the Euclidean space \(\mathbb{R}^n\), the following statements are equivalent: - \(S\) is closed and [[file:Bounded set .org][bounded]]. - \(S\) is compact.
