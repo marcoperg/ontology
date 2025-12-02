@@ -2,6 +2,7 @@
 :ID: 65188A00-460A-4C7E-A3B6-0866BD098D02
 :END:
 #+title: Isometries
+#+SETUPFILE: ../../../setup.org
 
 Given two [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][metric spaces]] \(X\) and \(Y\) with metrics \(d_X\) and \(d_Y\). A map \(f: X\to Y\) is called an *isometry* or *distance preserving map* if for all \(a, b \in X\) we have:
 \[
