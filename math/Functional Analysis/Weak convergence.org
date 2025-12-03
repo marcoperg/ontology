@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       DDA11B2B-893E-4AC3-AF11-E5135CBD766B
+:END:
+#+title: Weak convergence
+#+SETUPFILE: ../../setup.org
+
+Let $X$ be a normed vector space. A sequence $(x_n)_{n\in\mathbb{N}}$ is said to weakly convergence to $x$, denoted $x_n\rightharpoonup x$ if
+
+$$\forall l\in X^*: l(x_n) \rightarrow l(x)$$
+
+Where $X^*$ denoted the continuous dual space.
+
+* Relation with strong convergence
+
+Strong convergence implies weak convergence. The converse is not true in general.

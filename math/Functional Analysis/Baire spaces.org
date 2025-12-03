@@ -14,6 +14,6 @@ is also dense.
 
 * Baire category theorem
 
-** All complete pseudo-metric spaces are Baire spaces.
+** All complete [[id:09723E35-01DA-4F26-B3BD-B3CF4C94EBDC][psudo-metric]] spaces are Baire spaces.
 ** All [[id:8E24A191-E911-4243-8DDA-3404B256A715][locally-compact]] [[id:C5EBDB18-8574-431C-A794-07E2BAADF831][regular]] space are Baire spaces.
 

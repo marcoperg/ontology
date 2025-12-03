@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID: DA461FDB-FF40-4287-AFAD-D029CE9FE02A
-:END:
-#+title: Riesz representation theorem
-
-* ToDo
