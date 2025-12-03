@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: DA461FDB-FF40-4287-AFAD-D029CE9FE02A
+:END:
+#+title: Representations theorem
+#+SETUPFILE: ../../setup.org
+* Riesz representation theorem
+
+Let $l$ be a linear bounded functional on a normed vector space $X$, then there exists an $a\in X$ such that
+
+$$l(y) = \langle y, a \rangle$$
