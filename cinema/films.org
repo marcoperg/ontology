@@ -1,6 +1,0 @@
-#+TITLE: Film Watchlist
-#+STARTUP: content
-
-* Federico Fellini 
-** Le notti di Cabiria (1957)
-
