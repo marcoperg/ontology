@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       A82301F4-8A5D-4595-915D-EF93459A9840
+:END:
+#+title: Weak^* convergence
+#+SETUPFILE: ../../../setup.org
+
+Let $M$ be a [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach space]], let $X = M^*$ the continuous dual space to $M$. We can embed $M$ in
+\[M^{**} = X^*\]. For each $m\in M$ define $L_m\in M^{**}$ as $L_m: M^*\to \mathbb{K}: x\mapsto x(m)$.
+
+
+* Definition
+
+Let $M, X=M^*$ be Banach spaces. We say that a sequence $(x_n)_{n\in\mathbb{N}}$ in $X$ weak^*ly converges to $x\in X$ if for all $m\in M$ $L_m(x_n) \rightarrow L_m(x)$. We denote weak^* convergence by $x_n \xrightharpoonup[]{w^*} x$.
+
+Weak^* is weaker than [[id:DDA11B2B-893E-4AC3-AF11-E5135CBD766B][weak convergence]]. If $M$ is reflexive, then both notions are equivalent.
