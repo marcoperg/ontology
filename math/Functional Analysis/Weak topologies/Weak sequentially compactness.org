@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       695667A5-D2CD-40CD-A92B-B27A5F1A2B80
+:END:
+#+title: Weak sequentially compactness
+#+SETUPFILE: ../../../setup.org
+
+* Definition
+
+Let $X$ be a [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach space]]. Then, a set $C\subseteq X$is said toe be *weak sequentially compact* if every sequence $(x_n)_{n\in\mathbb{N}}$ in $C$ has a [[id:DDA11B2B-893E-4AC3-AF11-E5135CBD766B][weakly convergence]] subsequence.
+
+
+* Important theorem motivating the usefulness of the weak topology
+
+Let $X$ be a Banach space. If $X$ is reflesive, i.e. $X^{**} \cong X$ where $X^{**}$ stands for the double continuous dual, then the unit closed ball is weak sequentially compact.
+
