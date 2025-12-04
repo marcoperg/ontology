@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID: 673807C0-53AF-4AAE-ABD2-4D870BE3F3EB
+:END:
+#+title: Spectral theorem
+
+* ToDo
