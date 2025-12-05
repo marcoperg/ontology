@@ -2,10 +2,27 @@
 #+STARTUP: content
 #+TODO: TO-WATCH IN-PROGRESS | WATCHED
 
-| Film                        | Director            | Year | Status   |
-|-----------------------------+---------------------+------+----------|
-| Bienvenido, Mister Marshall | Berlanga            | 1933 | TO-WATCH |
-| Le notti di Cabiria         | Federico Fellini    | 1957 | TO-WATCH |
-| En el nombre de la rosa     | Jean-Jacques Annaud | 1986 | TO-WATCH |
-| As bestas                   | Rodrigo Sorogoyen   | 2022 | TO-WATCH |
-|-----------------------------+---------------------+------+----------|
+| Film                         | Director                    | Year | Status   |
+|------------------------------+-----------------------------+------+----------|
+| El gabinete del Dr. Caligari | Robert Wiene                | 1920 | TO-WATCH |
+| Sin novedad en el frente     | Lewis Milestone             | 1930 | TO-WATCH |
+| Lo que el viento se llevó    | Victor Fleming              | 1939 | TO-WATCH |
+| El gran dictador             | Charles Chaplin             | 1940 | TO-WATCH |
+| Casablanca                   | Michael Curtiz              | 1942 | TO-WATCH |
+| Los olvidados                | Luis Buñuel                 | 1950 | TO-WATCH |
+| Cantando bajo la lluvia      | Gene Kelly, Stanley Donen   | 1952 | TO-WATCH |
+| Bienvenido, Mister Marshall  | Berlanga                    | 1953 | TO-WATCH |
+| Le notti di Cabiria          | Federico Fellini            | 1957 | TO-WATCH |
+| Historia de la humanidad     | Irwin Allen                 | 1957 | TO-WATCH |
+| Vertigo                      | Alfred Hitchcock            | 1958 | TO-WATCH |
+| Con faldas y a lo loco       | Billy Wilder                | 1959 | TO-WATCH |
+| West Side Story              | Robert Wise, Jerome Robbins | 1961 | TO-WATCH |
+| El ángel exterminador        | Luis Buñuel                 | 1962 | TO-WATCH |
+| 8 1/2                        | Federico Fellini            | 1963 | TO-WATCH |
+| Sonrisas y lágrimas          | Robert Wise                 | 1965 | TO-WATCH |
+| The Magical Mystery Tour     | Unknown                     | 1967 | TO-WATCH |
+| La semilla del diablo        | Roman Polanski              | 1968 | TO-WATCH |
+| Putney Swope                 | Robert Downey Sr.           | 1969 | TO-WATCH |
+| En el nombre de la rosa      | Jean-Jacques Annaud         | 1986 | TO-WATCH |
+| As bestas                    | Rodrigo Sorogoyen           | 2022 | TO-WATCH |
+|------------------------------+-----------------------------+------+----------|
