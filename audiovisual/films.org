@@ -2,9 +2,10 @@
 #+STARTUP: content
 #+TODO: TO-WATCH IN-PROGRESS | WATCHED
 
-
-* Federico Fellini 
-** TO-WATCH Le notti di Cabiria (1957)
-
-* Rodrigo Sorogoyen
-** TO-WATCH As bestas (2022)
+| Film                        | Director            | Year | Status   |
+|-----------------------------+---------------------+------+----------|
+| Bienvenido, Mister Marshall | Berlanga            | 1933 | TO-WATCH |
+| Le notti di Cabiria         | Federico Fellini    | 1957 | TO-WATCH |
+| En el nombre de la rosa     | Jean-Jacques Annaud | 1986 | TO-WATCH |
+| As bestas                   | Rodrigo Sorogoyen   | 2022 | TO-WATCH |
+|-----------------------------+---------------------+------+----------|
