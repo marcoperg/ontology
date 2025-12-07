@@ -1,0 +1,19 @@
+#+title: Phonetics and Phonology
+
+* Phonetics and Phonology
+Phonetics and phonology are two disciples that study speech sounds from different perspectvies.
+
+** Phonetics
+Studies sounds as phisical events, how they are produced, transmitted and perceived.
+
+
+** Phonology
+Studies how sounds function in a language. This discipline tries to decide between:
+
+*** Phonemes (contrastive)
+Which are linguistically relevant sounds and constitute the smallest unit in a language that can cause a difference in meaning between two words.
+
+*** Allophones (not constrastive)
+Cannot change the meaning of a word.
+
+For example, /ɾ/ and /t/ are phonemes in spanish (pata vs para, i.e. ['pata] vs ['paɾa]) but allophones in english (city).

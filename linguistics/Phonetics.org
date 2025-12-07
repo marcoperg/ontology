@@ -1,19 +1,134 @@
 #+title: Phonetics
+#+STARTUP: content
 
-* Phonetics and Phonology
+* Describing consontants
 
-Phonetics and phonology are two disciples that study speech sounds from different perspectvies.
+** Voicing
+*** Voice sounds
+A *voice* sound is one that is produced with vibrating vocal folds.
+*** Voiceless sounds
+A *voiceless* sound is one that is produced with the vocal folds still.
 
-** Phonetics
-Studies sounds as phisical events, how they are produced, transmitted and perceived.
 
-** Phonology
-Studies how sounds function in a language. This discipline tries to decide between:
+** Place of articulation
+Correspond to where the constriction of ariflow is taking place in the vocal track.
 
-*** Phonemes (contrastive)
-Which are linguistically relevant sounds and constitute the smallest unit in a language that can cause a difference in meaning between two words.
+*** Bilabial
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /p/     | p         | pato﻿ |
+| English  | /p/     | p         | pat﻿  |
+| Arabic   | /b/     | ب        | باب﻿    |
 
-*** Allophones (not constrastive)
-Cannot change the meaning of a word.
+*** Labiodental
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /f/     | f         | foca﻿ |
+| English  | /f/     | f         | fat﻿  |
+| Arabic   | /f/     | ف        | فوق﻿    |
 
-For example, /ɾ/ and /t/ are phonemes in spanish (pata vs para, i.e. ['pata] vs ['paɾa]) but allophones in english (city).
+*** Dental
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /t/     | t         | taza﻿ |
+| English  | /θ/     | th        | thin﻿ |
+| Arabic   | /θ/     | ث        | ثوب﻿   |
+
+*** Alveolar
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /s/     | s         | sapo﻿ |
+| English  | /s/     | s         | sit﻿  |
+| Arabic   | /s/     | س        | ساد﻿    |
+
+*** Palatal
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /ɲ/     | ñ         | niño﻿ |
+| English  | /j/     | y         | yes﻿  |
+| Arabic   | /j/     | ي         | يوم﻿    |
+
+*** Velar
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /k/     | c         | casa﻿ |
+| English  | /k/     | c         | cat﻿  |
+| Arabic   | /k/     | ك         | كتاب﻿   |
+
+*** Glotal
+| Language | Phoneme | Letter(s)  | Word |
+|----------+---------+------------+------|
+| Español  | —       | —          | -    |
+| English  | /h/     | h          | hat﻿ |
+| Arabic   | /ʔ/     | ء (sobre ا) | سؤال﻿  |
+
+
+
+** Manner of articulation
+Correspond to how is the airflow being constricted.
+
+*** Stops
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /p/     | p         | pato﻿ |
+| English  | /t/     | t         | top﻿  |
+| Arabic   | /ب/    | ب        | باب﻿    |
+
+*** Fricatives
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /f/     | f         | foca﻿ |
+| English  | /s/     | s         | sit﻿  |
+| Arabic   | /س/    | س        | ساد﻿    |
+
+*** Affricatives
+| Language | Phoneme | Letter(s) | Word   |
+|----------+---------+-----------+--------|
+| Español  | /tʃ/    | ch        | chico﻿ |
+| English  | /tʃ/    | ch        | chair﻿ |
+| Arabic   | /d͡ʒ/    | ج         | جمل﻿    |
+
+*** Nasals
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /m/     | m         | mano﻿ |
+| English  | /n/     | n         | no﻿   |
+| Arabic   | /ن/     | ن         | نور﻿    |
+
+*** Liquids
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /l/     | l         | lago﻿ |
+| English  | /l/     | l         | lip﻿  |
+| Arabic   | /ل/     | ل         | ليل﻿    |
+
+*** Glides
+| Language | Phoneme | Letter(s) | Word   |
+|----------+---------+-----------+--------|
+| Español  | /w/     | u / w     | hueso﻿ |
+| English  | /j/     | y         | yes﻿   |
+| Arabic   | /ي/     | ي         | يوم﻿     |
+
+
+
+
+
+* Describing vowels
+This section is focus on describing monopthongs.
+
+** Height
+Height of the tongue.
+*** Close
+*** Mid
+*** Open
+
+** Backness
+Position of the tongue.
+*** Front
+*** Central
+*** Back
+
+** Roundedness
+Lips.
+*** Rounded
+*** Unrounded
