@@ -9,8 +9,7 @@
 #+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
 #+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
 #+LATEX_HEADER: \usepackage{bbm}
-
-
+#+LATEX_HEADER: \usepackage{mathrsfs}
 
 #+LATEX_HEADER: \newtheorem{theorem}{Theorem}[section]
 #+LATEX_HEADER: \newtheorem{corollary}{Corollary}[theorem]

@@ -18,3 +18,11 @@ A linear map is bounded if and only if it is continuous.
 * Completion of the linear map
 
 Given a bounded linear map $M:X\to Y$ there always exists a bounded linear map $M_0: \overline{X}\to\overline{Y}$ such taht $M_0$ agrees with $M$ in $X$. Note that $\overline{X}, \overline{Y}$ denote the [[id:EBED4911-BBD8-4506-8694-BB02733EF22E][completion]] of $X, Y$ respectively.
+
+
+* Space of bounded linear operators
+
+The set of bounded linear operators from $X$ to $Y$, denoted $\mathscr{L}(X,Y)$, is a normed vector space under the operator norm, defined:
+$$\Vert M\Vert = \sup_{x\in X} \left| \frac{M(x)}{\Vert x\Vert}\right|.$$
+
+Moreover, if $X$ and $Y$ are [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach spaces]], then $\mathscr{L}(X,Y)$ is also a Banach space.
