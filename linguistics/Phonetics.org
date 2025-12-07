@@ -117,18 +117,66 @@ Correspond to how is the airflow being constricted.
 This section is focus on describing monopthongs.
 
 ** Height
-Height of the tongue.
+This specify the height of the tongue during pronunciation.
+
 *** Close
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /i/     | i         | vino﻿ |
+| English  | /iː/    | ee        | see﻿  |
+| Arabic   | /i/     | ي / ـي     | بيت﻿   |
+
 *** Mid
+| Language | Phoneme                  | Letter(s) | Word  |
+|----------+--------------------------+-----------+-------|
+| Español  | /e/                      | e         | mesa﻿ |
+| English  | /e/ (as in many accents) | e         | men﻿  |
+| Arabic   | /e/ (dialectal)          | various   | بيت﻿   |
+
 *** Open
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /a/     | a         | casa﻿ |
+| English  | /æ/     | a         | cat﻿  |
+| Arabic   | /a/     | ا / ـا      | باب﻿    |
 
 ** Backness
-Position of the tongue.
+This specify the position of the tongue during pronunciation.
+
 *** Front
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /i/     | i         | vino﻿ |
+| English  | /iː/    | ee        | see﻿  |
+| Arabic   | /i/     | ي / ـي     | بيت﻿   |
+
 *** Central
+| Language | Phoneme | Letter(s)                 | Word  |
+|----------+---------+---------------------------+-------|
+| Español  | -       | -                         | -﻿    |
+| English  | /ə/     | a / e / o (según palabra) | sofa﻿ |
+| Arabic   | -       | —                         | —     |
+
 *** Back
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /u/     | u         | luna﻿ |
+| English  | /uː/    | oo        | food﻿ |
+| Arabic   | /u/     | و / ـو     | نور﻿    |
 
 ** Roundedness
-Lips.
+This specify the form of the lips during pronunciation.
+
 *** Rounded
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /u/     | u         | luna﻿ |
+| English  | /uː/    | oo        | food﻿ |
+| Arabic   | /u/     | و / ـو     | نور﻿    |
+
 *** Unrounded
+| Language | Phoneme | Letter(s) | Word  |
+|----------+---------+-----------+-------|
+| Español  | /i/     | i         | vino﻿ |
+| English  | /iː/    | ee        | see﻿  |
+| Arabic   | /i/     | ي / ـي     | بيت﻿   |
