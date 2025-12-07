@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       D954F73B-E6C1-4000-8520-165EFB07B39C
+:END:
+#+title: Bounded linear operators
+#+SETUPFILE: ../../setup.org
+
+Let $X,Y$ be normed vector spaces over a field $\mathbb{K}$.
+
+* Definition
+A linear map $M: X\to Y$ is bounded if there exists a constant $c_0\in \mathbb{R}$ such that
+$$ \Vert M(x)\Vert_Y \le c_0\Vert x\Vert_X \quad\text{for all }x\inX.$$
+
+
+** Continuity lemma
+A linear map is bounded if and only if it is continuous.
+
+
+* Completion of the linear map
+
+Given a bounded linear map $M:X\to Y$ there always exists a bounded linear map $M_0: \overline{X}\to\overline{Y}$ such taht $M_0$ agrees with $M$ in $X$. Note that $\overline{X}, \overline{Y}$ denote the [[id:EBED4911-BBD8-4506-8694-BB02733EF22E][completion]] of $X, Y$ respectively.
