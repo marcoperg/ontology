@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       EBED4911-BBD8-4506-8694-BB02733EF22E
+:END:
+#+title: Completion of a normed vector space
+#+SETUPFILE: ../../setup.org
+
+Given a normed vector space $X$ we wish to construct a [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach space]] $\overline{X}$ for wich a linear embedding $i: X\hookrightarrow \overline{X}$ exists.
+
+* Cauchy sequence completion
+Take $Z = \left\{ (x_j)_{j\in\mathbb{N}} \subset X \,\vert\,(x_j)_{j\in\mathbb{N}} \text{ Cauchy} \right\}$ the set of Cauchy sequences on $X$. $Z$ can be shown to be a vector space under element by element addition and multiplication. We also define the set $Y = \left\{ (x_j)_{j\in\mathbb{N}}  \,|\, x_j \rightarrow 0\right\}$ of sequences converging to $0$.
+
+We then define the completion $\overline{X} = Z/Y$, under the norm $\Vert [(x_j)_{j\mathbb{N}}]\Vert = \lim_j \Vert x_j\Vert$.
+
+
+* Double dual completion
+Another way to get a completion is to consider the double dual $X^{**}$. A continuous dual of a normed space is always Banach space, and there exists a embedding from $X\hookrightarrow X^{**}$.
+
+
+* Completion Theorem
+This theorems ensures existence and uniqueness of the completion. It says that all normed vectors spaces have a completion such that a linear isometry exists $\phi: X\to \overline{X}$. Moreover, $\phi(X)$ is dense in $\overline{X}$.
+
+Finally, such a completion is unique up to isometric isomorphism.
