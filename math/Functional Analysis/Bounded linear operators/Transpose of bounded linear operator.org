@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       729DA579-B4D3-467F-84F6-62CD96B09CAC
+:END:
+#+title: Transpose of bounded linear operator
+#+SETUPFILE: ../../../setup.org
+
+* Dual of a bounded linear operator
+
+Let $X, Y$ be [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach spaces]] and $M:X\to Y$ be a [[id:D954F73B-E6C1-4000-8520-165EFB07B39C][bounded linear operator]]. Take $m\in X^*$ and $l\in Y^*$ elements in the continuous duals of $X, Y$. Notice $l \circ M: Y \to \mathbb{K}: x\mapsto l(M(x))$.
+
+Using this, we define a map $M^*: Y^* \to X^*: l \mapsto l\circ M$.
+
+We can show that $\Vert M^* \Vert = \Vert M\Vert$, this plus linearity implies that $M^*$ is also a bounded linear operator.
+
+
+* Adjoint of a bounded linear operator
+
+For the case in which $M: X\to X$ is a bounded linear operator form a [[id:E5B1D38D-297B-4867-91DA-75156F747A92][Hilbert space]] to iteself, we can define the adjoint $M^\dag$ of $M$ as in the following way.
+
+For $y\in X$, consider the element $l_y(x) = \langle y,x\rangle$ of $X^*$. Applying the dual of $M$ we get a map $M^* (l_y)$ in $X^*$. By the [[id:DA461FDB-FF40-4287-AFAD-D029CE9FE02A][Riesz representations theorem]] there exists a unique $z\in X$ such that $M^*(l_y) = \langle z, x \rangle$. We define $M^\dag(y) = z$.
+
+The adjoint is caracterize by the property $\langle Mx, y\rangle = \langle x, M^\dag y\rangle$ for all $x,y\in X$. From the uniqueness of this property it can be shown that the operator of the adjoint is an involution.

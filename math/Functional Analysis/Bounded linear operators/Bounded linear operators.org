@@ -2,7 +2,7 @@
 :ID:       D954F73B-E6C1-4000-8520-165EFB07B39C
 :END:
 #+title: Bounded linear operators
-#+SETUPFILE: ../../setup.org
+#+SETUPFILE: ../../../setup.org
 
 Let $X,Y$ be normed vector spaces over a field $\mathbb{K}$.
 
