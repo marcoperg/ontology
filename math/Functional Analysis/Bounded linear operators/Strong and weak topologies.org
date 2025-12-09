@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       ECCF3A44-6B1E-4C08-860F-4BCF32965891
+:END:
+#+title: Strong and weak topologies
+#+SETUPFILE: ../../../setup.org
+
+Let $X, Y$ be [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach spaces]], we consider the space $\mathscr{L}(X,Y)$ of [[id:D954F73B-E6C1-4000-8520-165EFB07B39C][bounded linear operators]] from $X$ to $Y$. We define three different topologies on this space.
+
+* Uniform topology
+
+For $M\in\mathscr{L}(X,Y)$ we define
+$$\Vert M\vert= \sup_{\substack{x \in x\\ \|x\| = 1}} \Vert Mx\Vert.$$
+
+* Strong topology
+For $x\in X$ define
+\begin{aligned}
+\Gamma_x: \mathscr{L}(X,Y) &\to Y$$\\
+M&\mapsto Mx
+\end{aligned}
+The strong topology is the coarsest topology for whichc $\Gamma_x$ is continuous for all $x\in X$.
+
+* Weak topology
+For $x\in X$, $l\in Y^*$ define
+
+\begin{aligned}
+\Gamma_{x, l}: \mathscr{L}(X,Y) &\to \mathbb{K}$$\\
+M&\mapsto l(Mx)
+\end{aligned}
+The strong topology is the coarsest topology for whichc $\Gamma_{x,l}$ is continuous for all $x\in X, l\in Y^&$.
