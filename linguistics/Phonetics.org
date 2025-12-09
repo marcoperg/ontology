@@ -95,14 +95,15 @@ Correspond to how is the airflow being constricted.
 | English  | /n/     | n         | no﻿   |
 | Arabic   | /ن/     | ن         | نور﻿    |
 
-*** Liquids
+*** Approximants
+**** Liquids
 | Language | Phoneme | Letter(s) | Word  |
 |----------+---------+-----------+-------|
 | Español  | /l/     | l         | lago﻿ |
 | English  | /l/     | l         | lip﻿  |
 | Arabic   | /ل/     | ل         | ليل﻿    |
 
-*** Glides
+**** Glides
 | Language | Phoneme | Letter(s) | Word   |
 |----------+---------+-----------+--------|
 | Español  | /w/     | u / w     | hueso﻿ |
