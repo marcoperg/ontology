@@ -2,7 +2,7 @@
 :ID:       204450B3-CC42-4F76-ADCB-112EFE3EAB96
 :END:
 #+title: Hahn-Banach theorem
-#+SETUPFILE: ../../setup.org
+#+SETUPFILE: ../../../setup.org
 
 In this note $(X, \Vert \cdot \Vert)$ is a normed vector space over $\mathbb{R}$.
 

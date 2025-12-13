@@ -2,7 +2,7 @@
 :ID:       55E3D845-C6BC-44FD-BF9D-7CDEC4E808DF
 :END:
 #+title: Uniform boundedness principle
-#+SETUPFILE: ../../setup.org
+#+SETUPFILE: ../../../setup.org
 
 * General theorem for Banach spaces
 

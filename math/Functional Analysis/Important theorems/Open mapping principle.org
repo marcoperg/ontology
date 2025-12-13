@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       C7266F4C-043A-47E5-9F52-45A5721A9B1F
+:END:
+#+title: Open mapping principle
+#+SETUPFILE: ../../../setup.org
+
+Let $T: E\to F$ be a surjective continuous linear map between [[id:29768ACE-BD6A-47E1-9E63-EAFAEDB474AA][Banach spaces]]. Then $T$ is an open mapping, i.e. $T(U)$ open for all open $U\subset E$.
