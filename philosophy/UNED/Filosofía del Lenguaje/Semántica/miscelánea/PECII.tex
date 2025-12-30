@@ -4,6 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{setspace}
 \usepackage{geometry}
+\usepackage{mathrsfs}
 \geometry{margin=2.5cm}
 
 \begin{document}
@@ -21,11 +22,6 @@
 \textbf{Instrucciones:} Conteste a dos de las siguientes preguntas. Extensión máxima por pregunta: 300 palabras.
 
 \vspace{1cm}
-
-\noindent\textbf{1.} Kripke ofrece varios argumentos en contra de las teorías descriptivistas. Explique uno de ellos.
-
-\vspace{2cm}
-
 \noindent\textbf{2.} ¿Cuál es, según Kripke en \textit{El nombrar y la necesidad}, el estatus epistemológico y metafísico de ``La barra $B$ tiene un metro de longitud en $t_0$''?
 
 \vspace{1cm}
@@ -34,13 +30,18 @@ En la primera conferencia de \textit{El nombrar y la necesidad}, Kripke distingu
 
 Si definimos el metro como la longitud de una determinada barra $B$ en un momento concreto $t_0$, la afirmación ``La barra $B$ tiene un metro de longitud en $t_0$'' es, según Kripke, una verdad \textit{a priori} pero no necesaria. Epistemológicamente es \textit{a priori} ya que un hablante $A$ que define el metro de la forma anterior no necesitará interacción alguna con el mundo para determianr que $B$ mide, efectivamente, un metro. Sin embargo, esta misma barra podría haber medido algo distinto si se le hubiese sometido, en algún momento anterior, a una temperatura o a un esfuerzo distinto. Kripke explica que el metro es un designador rígido que refiere a una longitud determinada, que nuestro hablante ha definidio en función de la barra $B$ pero que se podría haber definido usando, como se hace hoy en día, la longitud que recorre la luz en un determinado tiempo. Por lo tanto, el hecho de que la barra mide lo que mide ---esto es, un metro, lo que mide en este mundo esta barra $B$ en $t_0$ o la distancia que recorre la luz en un tiempo concreto-- en este momento es un hecho contingente, podría no haber sido así. Esto no contradice la aprioridad del enunciado, dada la definición que hace $A$ del metro, se tiene inmediatamente y de forma independiente de toda experiencia que $B$ mide un metro en $t_0$.
 
-\vspace{2cm}
-
-\noindent\textbf{3.} Putnam sostiene que, si los significados ``están en la cabeza'', o son equivalentes a estados psicológicos, entonces no determinan la referencia. ¿Qué experimento mental usa para argumentar en favor de esta tesis? ¿Cómo se denomina su posición?
-
-\vspace{2cm}
+\vspace{1.5cm}
+\newpage
 
 \noindent\textbf{4.} ¿Qué tipo de teoría es adecuada como teoría del significado según Davidson?
+
+\vspace{1cm}
+
+Davidson defiende una teoría de la verdad como teoría del significado. Una teoría de la verdad para un lenguaje objeto de estudio $\mathscr{conL}$ corresponde a una descripción consistente de las condiciones de verdad, necesarias y suficientes, de cada enunciado de $\mathscr{L}$. Para justificar esta elección Davidson sostiene que para entender un enunciado basta con cononcer cuando es este enunciado cierto, lo que nos permite identificar su signifcado con sus condiciones de verdad.
+
+Para lograr establecer formalmente estas teorías del significado, Davidson acude a las teorías semánticas de Tarski, que asignan condiciones extensionales de verdad a los predicados de lenguajes lógicos. Estas teorías semánticas cumplen el principio de composionalidad, y son suficientes para los lenguajes lógicos de primer orden, que Davidson consideraba suficientes para formalizar el lenguaje natural.
+
+Explícitamente, una teoría semántica de Tarski para un lenguaje $\mathscr{L}$ consiste en un dominio de discurso $\mathcal{D}$ que contiene las entidades a las que pueden referir los nombres de $\mathscr{L}$ y una función que asigna a cada símbolo de relación $n$-aria del lenguaje un subconjunto de $n$ elementos de $\mathcal{D}$. A patir de estos primitivos, se puede asociar un valor de verdad a cada enunciado del lenguaje de forma consistente con los operadores y cuantificadores del lenguaje. Por último, Tarski utiliza un esquema de axioma para hacer explícitas en el metalenguaje de discurso estas condiciones de verdad para cada enunciado de $\mathscr{L}$: sea $\phi$ un enunciado de $\mathsr{L}$ se añade el axioma ``$\phi$ es verdad si y solo si $p$'', donde $p$ son las condiciones de verdad dadas por nuestra teoría semántica.
 
 \vspace{2cm}
 
