@@ -68,17 +68,21 @@ Para Hú, el mero hecho de convertir los nombres en objeto de discusión muestra
 
 * La lógica confuciana
 
-:AGENT_TODO:
-This is a note for the agent that will organize this info. This note standard that I'm using for the fisrt time in this repo can be useful for quickly note taking that after can be reorganize by the bibliotecary agent that handles this notes (you in this case). Think about how this can be implemented to the system, probably just a note in the proper README will suffy, then the agent can grep or somethinkg. Think about the name of the tag also.
+** El problema de Confucio
+Hú Shì reconstruye la filosofía de Confucio a partir de un problema político: cómo reformar una sociedad caracterizada por la desintegración del poder, el conflicto moral y la ausencia de una autoridad intelectual común. En esta lectura, Confucio atribuye delitos como el regicidio y el parricidio a un proceso anterior y gradual de desorganización de las creencias, los deberes y las relaciones sociales. La filosofía adquiere así una finalidad práctica: encontrar el /dào/ capaz de restablecer el orden social y político. [cite:@hushihDevelopmentLogicalMethod1922 pp. 22-23]
 
-In this case I want you to take a look at the notes I'm writting, some with page number (p. X), and check them against the informed pdf, in order to improve a bit the explanations and thouroughness. Similar to the first section of the org.
-:END:
+** La rectificación de los nombres
+La respuesta confuciana es la «rectificación de los nombres». Cuando se le pregunta qué haría primero si gobernase un Estado, Confucio responde que corregiría los nombres y enlaza esa tarea con una secuencia de consecuencias: si los nombres no son correctos, el discurso pierde su orden; si el discurso no es coherente, nada puede establecerse; sin ello no prevalecen los ritos ni la música, las leyes y los castigos dejan de ser justos y el pueblo ya no sabe cómo actuar. Hú interpreta esta cadena como una concepción de la reforma política cuyo punto de partida es la reorganización intelectual. [cite:@hushihDevelopmentLogicalMethod1922 pp. 23-24]
 
-** La reitifiación de los nombres: el problema de Confucio
-Este es uno de los temas centrales del problema que plantea Confucio según HūShì. La idea central detrás de esta reitificación está en el pedir de que los nombres sigifiquen lo que deberían de significar y no lo que significan en la acutalidad. (p. 26)
+Los ejemplos aclaran que no se trata solo de corregir el vocabulario. Confucio protesta contra la denominación de =gū=, un vaso ritual caracterizado por sus ángulos, aplicada a un vaso que ya no los tiene. De modo análogo, relaciona el gobierno con la acción de «enderezar»: llamar «gobierno» a una institución corrupta que no cumple esa función produce la misma discordancia entre nombre y realidad. Si se acepta esa discordancia, sostiene Hú, se pierde el criterio con el que distinguir lo verdadero de lo falso y lo recto de lo incorrecto. [cite:@hushihDevelopmentLogicalMethod1922 pp. 24-25]
 
+** De los nombres al orden social
+La fórmula «que el príncipe sea príncipe, el ministro ministro, el padre padre y el hijo hijo» expresa la dimensión normativa de la doctrina. Cada nombre social contiene, según la reconstrucción de Hú, un significado ideal que determina deberes y relaciones: el título de príncipe exige una conducta principesca, el de ministro fidelidad y el de padre responsabilidad moral. Cuando las personas y las instituciones dejan de realizar esos significados, las reglas que organizan la jerarquía social pierden su autoridad efectiva. [cite:@hushihDevelopmentLogicalMethod1922 pp. 25-26]
 
-*Nota*: Hú Shì señala una gran similitud entre el positivismo de Comte y la visión de los nombres que de Confucio.
+Por ello, rectificar los nombres no es una tarea meramente gramatical o lexicográfica. Consiste primero en recuperar aquello que los nombres deberían significar y después en transformar las relaciones, los deberes y las instituciones para que se ajusten a esos significados. Su resultado ideal sería una sociedad en la que cada integrante cumpliese las obligaciones propias de su posición y en la que las leyes, prohibiciones, recompensas y castigos correspondiesen realmente a sus nombres. [cite:@hushihDevelopmentLogicalMethod1922 pp. 26-27]
+
+** El marco positivista de Hú Shì
+Hú reconoce que esta formulación debe mucho a la exposición del positivismo de Auguste Comte hecha por Lucien Lévy-Bruhl. La analogía reside en que ambos diagnósticos hacen depender el desorden político del moral y este, a su vez, de un desorden intelectual que debe superarse mediante principios compartidos. Esta comparación permite entender el sentido sistemático que Hú atribuye a la rectificación de los nombres, pero pertenece a su propia reconstrucción comparativa y no demuestra por sí sola una identidad histórica entre Confucio y Comte. [cite:@hushihDevelopmentLogicalMethod1922 p. 27]
 
 * Lógica de Mòzǐ y la escuela mohista
 

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID: A81B0C1C-B3C8-43F5-BC1E-89BF1FF33F70
+:END:
+#+title: Sobre los temas de Gilgamesh
+
+:RELATIONS:
+- informed-by :: [cite:@georgeEpicGilgameshLecture2017]
+:END:
+
+Esta nota toma como fuente principal la conferencia ilustrada de Andrew George sobre la /Epopeya de Gilgamesh/, que estudia la recuperación arqueológica del poema, la reconstrucción de su texto, el relato y sus reflexiones sobre la vida y la muerte. [cite:@georgeEpicGilgameshLecture2017]
